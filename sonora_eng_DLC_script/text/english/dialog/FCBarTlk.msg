@@ -5,7 +5,7 @@
 {201}{}{Catch you later.}
 {202}{}{Hey, buddy. Feeling generous today? Care to buy me a drink, or are you just here to people-watch?}
 {1202}{}{Hey, sister, feeling generous today? Care to buy me a drink, or are you just here to people-watch?}
-{203}{}{Hey, that was quite a brawl earlier. Feel like buying me a drink to celebrate, or do you come to the bar just for the fights?}
+{203}{}{Hey, that was quite a fight earlier. Feel like buying me a drink to celebrate, or do you come to the bar just for the fights?}
 
 {204}{}{I'm a bit short on caps, sorry.}
 {205}{}{Ha! Penny-pincher...}

@@ -13,7 +13,7 @@
 {221}{}{Vault Number: 25. Construction started: March 2064. Completed: January 2068. Contractor: Vault-Tec. Purpose: Protection of civilians during a nuclear strike. Capacity: 450 inhabitants. Sealing Duration: 15 years.}
 {222}{}{Vault 25 History}
 {223}{}{During the Great War in 2077, the vault opened to the citizens of Phoenix. However, the proximity and suddenness of the nuclear strikes forced the workers to seal the armored door early, allowing only 12% of the planned residents inside.}
-{224}{}{[More]}
+{224}{}{Next}
 {225}{}{Abundant resources and space allowed the survivors to live comfortably without venturing to the surface. The vault was opened and colonized by Ulysses Grant's expedition in 2162.}
 {226}{}{Resident Characteristics}
 {227}{}{Vault residents had excellent physical health but poor stamina, making them unsuitable for hard labor. Mental health remained generally good, though many had phobias about the outside world.}

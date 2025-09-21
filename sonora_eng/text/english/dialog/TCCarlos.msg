@@ -12,10 +12,8 @@
 {202}{}{Rescue... Rescue me back to what? To scratching around in the dirt with dying crops? To diseases that peasants will never find a cure for? To enemies we can't even fight with primitive weapons? That's no rescue. In Villa I only see the narrow, limited horizons of a handful of farmers.}
 {203}{}{What are you talking about?}
 {204}{}{We're primitives, amigo, understand that. Primitives who first saw electric light only after being enslaved. It was like living in a tin can until someone opened it and showed us the vast world outside. Villa was just a tiny part of it, not the center like we thought.}
-{1204}{}{We're primitives, amiga, understand that. Primitives who first saw electric light only after being enslaved. It was like living in a tin can until someone opened it and showed us the vast world outside. Villa was just a tiny part of it, not the center like we thought.}
 {205}{}{Hold on a minute...}
 {206}{}{Only here have I been able to realize my potential and follow my passion for technology, which was forbidden at home. I hid my interests to avoid causing trouble for myself and others. Now I'm free to follow my heart's call, not the herd's. Go away, amigo. Leave me here.}
-{1206}{}{Only here have I been able to realize my potential and follow my passion for technology, which was forbidden at home. I hid my interests to avoid causing trouble for myself and others. Now I'm free to follow my heart's call, not the herd's. Go away, amiga. Leave me here.}
 {207}{}{I'll leave for now. But don't think you've seen the last of me.}
 {208}{}{I won't try to change your mind. Adios, amigo.}
 

@@ -100,12 +100,12 @@
 {1189}{}{Can't believe all the good that stranger's done.}
 
 {190}{}{Bustos was a tyrant, but without him, the city's weak.}
-{191}{}{Everyone feared Count Bustos.}
+{191}{}{Everyone feared Don Bustos.}
 {192}{}{Bustos is dead. Throne war's coming.}
 {193}{}{Sullivan and Bustos at it again?}
 {194}{}{Bustos lives high while we scrape by.}
-{195}{}{Better not badmouth Count Bustos.}
-{196}{}{Anyone who crossed the Count stays quiet.}
+{195}{}{Better not badmouth Don Bustos.}
+{196}{}{Anyone who crossed the Don stays quiet.}
 {197}{}{Only John Sullivan knew how to fix the water pump.}
 {198}{}{Who's running the water pump now?}
 {199}{}{Water pump manager was one tough cookie.}

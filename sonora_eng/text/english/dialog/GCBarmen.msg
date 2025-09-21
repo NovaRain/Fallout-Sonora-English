@@ -64,9 +64,9 @@
 {261}{}{Why are you paying with caps here? We usually trade for something *useful*.}
 {262}{}{Oh, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't even know anything about money? Well... In general, it's for, uhh... for exchange.}
 {263}{}{[More]}
-{264}{}{However, caps have caught on in large cities only. They're rarely used in the wastelands.}
+{264}{}{However, caps have caught on in large cities only. They're rarely used in wastelands.}
 {265}{}{Interesting idea.}
-{266}{}{What a stupid idea.}
+{266}{}{What idiot came up with this?}
 
 {270}{}{Hey, where did you get this flour?}
 {271}{}{A couple of strangers sold it cheap. Want to trade?}
@@ -154,9 +154,9 @@
 
 {360}{}{What's the problem with getting alcohol?}
 {361}{}{Tequila and beer used to be brought from the south. But now that route's closed. I'm not against buying booze from Flagstaff, even at a premium, but we don't even have a regular caravan with them. I'll need a courier for negotiations.}
-{362}{}{I might be heading there. Maybe I can talk to someone about getting alcohol?}
+{362}{}{I'm just heading there. Maybe I can talk to someone about getting alcohol?}
 {363}{}{Things are really bad for you. I hope you figure it out somehow.}
-{364}{}{Go for it. Otherwise, I can't even send a letter there. Find a local bartender there and convince him to supply us with booze.}
+{364}{}{Go for it. Otherwise, I can't even send a letter there. Find a local bartender there and convince him to send drinks here.}
 {365}{}{Agreed. I'll find one and come back with an answer.}
 {366}{}{Bye.}
 {367}{}{The bartender in Flagstaff said he's willing to supply you with alcohol.}

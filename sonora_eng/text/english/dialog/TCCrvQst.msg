@@ -50,7 +50,6 @@
 
 {300}{}{Here's a fusion cell for the generator.}
 {301}{}{Incredible! How did you get it? Never mind, I don't want to know. I need to get out of here while the gettin's good. Thank you, amigo, without you our community would have collapsed.}
-{1301}{}{Incredible! How did you get it? Never mind, I don't want to know. I need to get out of here while the gettin's good. Thank you, amiga, without you our community would have collapsed.}
 {302}{}{Hey, aren't you forgetting something?}
 {303}{}{I'm sorry, I... I lied -- I don't have any caravan contacts. But I'll spread word of your heroics. If you want, let's head to Casa Grande together, it's safer. Decide now, I won't wait.}
 {304}{}{Let's go.}

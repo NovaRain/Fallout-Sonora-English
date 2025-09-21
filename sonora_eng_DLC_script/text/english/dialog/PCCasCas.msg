@@ -40,7 +40,7 @@
 {225}{}{Thanks. I'll keep that in mind.}
 {226}{}{Yes, but I have not been informed to make an exception for *you*.}
 {227}{}{No problem.}
-{228}{}{I'm a merchant, you can be certain about my future business.}
+{228}{}{I'm a trader, you can be certain about my future business.}
 {229}{}{I see. I think we can make an exception for you. But the cap limit for such purposes is restricted.}
 {230}{}{Thanks. I'll remember that you have some caps for exchange.}
 {231}{}{I believe you. But here at the casino, we prefer caps. You can exchange your items at the local market.}

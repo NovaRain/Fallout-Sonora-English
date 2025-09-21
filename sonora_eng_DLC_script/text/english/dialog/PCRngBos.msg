@@ -64,6 +64,7 @@
 {254}{}{Call the manager.}
 
 {260}{}{How are you, champ? The audience misses you. But it's time to make way for the young blood.}
+{1260}{}{How are you, champ? The audience misses you. But it's time to make way for the young blood.}
 {261}{}{Everything's fine. Bye, Angelo.}
 {262}{}{I'll leave so I don't have to listen to these excuses.}
 {263}{}{How's life, }

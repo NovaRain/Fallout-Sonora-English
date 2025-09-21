@@ -10,6 +10,7 @@
 {206}{}{So many words, and they still won't give me my own personal rifle. Well, until next time.}
 
 {210}{}{I'm glad you stopped by.}
+{1210}{}{I'm glad you stopped by.}
 {211}{}{Catch you later.}
 {212}{}{What's your take on the alliance between the Rangers and the Jackals?}
 {213}{}{After what I went through, it feels like a bad dream. What were they thinking at the command center?! But my job is to follow orders, not question them.}

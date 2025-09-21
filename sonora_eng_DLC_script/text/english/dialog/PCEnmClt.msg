@@ -3,13 +3,14 @@
 {102}{}{Move along.}
 
 {200}{}{Where you headed, cultist? Trying to run out of the city? Smart move. We'll help you along.}
+{1200}{}{Where you headed, cultist? Trying to run out of the city? Smart move. We'll help you along.}
 {201}{}{Really? That's...so kind of you.}
 {202}{}{You've got the wrong person.}
 {203}{}{Nah, we know you're one of those fire worshippers. And guess what? We're done putting up with your 'nuclear magic'. Get lost, scum.}
 {204}{}{No, no, I'm not part of the cult anymore!}
 {205}{}{Shut it! After that cathedral blew up, half the city got wiped out. We're not stopping till every last cultist is gone, got it?}
 {206}{}{Yeah, I get it.}
-{207}{}{Good. Now get out. Cause any trouble, and you're dead.}
+{207}{}{Good. Now get outta town. Show your face again, and you're dead.}
 {208}{}{Alright...}
 {209}{}{No, I don't get it. Run it by me again, dumbass.}
 {210}{}{You want me to spell it out, scum...?}

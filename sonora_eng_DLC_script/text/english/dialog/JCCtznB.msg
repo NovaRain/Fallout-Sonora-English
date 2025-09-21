@@ -3,7 +3,7 @@
 {102}{}{Stay away from me.}
 
 #Response
-{200}{}{Keep your distance, stranger.}
+{200}{}{Keep your distance.}
 {201}{}{Alright.}
 {202}{}{Tell me about Black Fang.}
 {203}{}{The best warrior of them all. Fear him, stranger. Show him respect. He brings back more food with his traps than any other. It's worth forgiving his bad temper.}

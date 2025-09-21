@@ -20,6 +20,7 @@
 {215}{}{So you're going to try to kill me?}
 {216}{}{Uh, you're not going to eat me, are you?}
 {217}{}{(face changes sharply) We're hungry! W-we kill to survive. We are starving, and you, outsider, will become food for us. (turns to the others) We will feed our pups with his body! (the approving howl of a dozen mouths echoes through the dens)}
+{1217}{}{(face changes sharply) We're hungry! W-we kill to survive. We are starving, and you, outsider, will become food for us. (turns to the others) We will feed our pups with her body! (the approving howl of a dozen mouths echoes through the dens)}
 {218}{}{Actually, I had other plans...}
 {219}{}{You're not serious, are you?}
 

@@ -1,9 +1,7 @@
 {100}{}{You see a bar patron.}
 {101}{}{You see a relaxed local.}
 {102}{}{Hey amigo, would you like to set us up with some drinks as a sign of our friendship?}
-{1102}{}{Hey amiga, would you like to set us up with some drinks as a sign of our friendship?}
 {103}{}{Thanks for the drink, amigo.}
-{1103}{}{Thanks for the drink, amiga.}
 {104}{}{I've got nothing left to bet with. Next time.}
 
 {200}{}{Hey, look what I got. It's a stimpak. A real cure for all medical problems - once you inject yourself, it's as if the wounds vanish. Want it?}

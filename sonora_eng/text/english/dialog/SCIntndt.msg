@@ -112,7 +112,7 @@
 {303}{}{Your gear depends on your role and rank. Anything outside the standard issue, you'll need to buy or maybe sweet-talk someone into lending it for certain missions. But hey, my warehouse is open to you now, and you'll get way better prices than the average civilian. So, what are you looking for?}
 {304}{}{Can we delay the release for a moment? I need to clarify something. Goodbye.}
 {305}{}{Scribe's kit.}
-{306}{}{Great. Here's your things: a laser pistol with extra micro fusion cells for it, a decoder, a Geiger counter. Receive and sign.}
+{306}{}{Great. Here are your things: a laser pistol with extra micro fusion cells for it, a decoder, a Geiger counter. Receive and sign.}
 {307}{}{Paladin Set.}
 {308}{}{You like big guns, don't you? Young people often strive to become paladins. Here are your weapons: a light machine gun, a box of ammunition for it and combat armor. Receive and sign.}
 {309}{}{Knight Set.}

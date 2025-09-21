@@ -5,6 +5,7 @@
 #First dialogue
 {200}{}{(gives you a cursory glance before returning to his reports) You're addressing Field Commander Helford. If you're here to waste my time, you're better off elsewhere. I've got work to do.}
 {201}{}{Could you spare a moment for a humble peasant?}
+{1201}{}{Could you spare a moment for a humble peasant?}
 {202}{}{Commander, I'm not here for chitchat.}
 
 #Repeated dialogue
@@ -125,6 +126,8 @@
 {322}{}{Frankly, not thrilled with this deal. You lot at Villa always saw us as raiders. And now you come running when things get tough. But promise is a promise - Villa's under our wing. Hope this leads to something useful.}
 {323}{}{I hear you, commander. Let's hope for the best.}
 {324}{}{With that attitude, it's no wonder the Rangers have few friends. Goodbye... "friend."}
+{1324}{}{With that attitude, it's no wonder the Rangers have few friends. Goodbye... "friend."}
+
 
 #Story quests
 {330}{}{Maybe I can help somehow?}

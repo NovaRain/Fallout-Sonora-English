@@ -33,11 +33,11 @@
 {149}{}{This really pisses me off.}
 
 {200}{}{Congratulations on your victory! You are our first winner! Take the prize coupon.}
-{201}{}{I'll take the Super Strength coupon.}
+{201}{}{I'll take the Superpower coupon.}
 {202}{}{I'll take the Ultra Perception coupon.}
-{203}{}{I'll take the Extreme Endurance coupon.}
-{204}{}{I'll take the Enhanced Charisma coupon.}
-{205}{}{I'll take the Mega Intelligence coupon.}
+{203}{}{I'll take the Super Stamina coupon.}
+{204}{}{I'll take the Extra Attractiveness coupon.}
+{205}{}{I'll take the Megaintelligence coupon.}
 {206}{}{I'll take the Hyper Agility coupon.}
 {207}{}{I'll take the Multi-Luck coupon.}
 {208}{}{I don't need this.}

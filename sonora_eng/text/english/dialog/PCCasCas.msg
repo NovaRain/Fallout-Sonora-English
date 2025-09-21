@@ -25,7 +25,7 @@
 {212}{}{Uh... yeah?}
 {213}{}{Is the casino still open?}
 {214}{}{Oh, yes. We're still repairing the interior after the cathedral explosion, but you can use all the standard entertainment... if you don't mind the mess.}
-{215}{}{A mess? You do realize we live in a post-apocalyptic wasteland, right? I'm no stranger to a little mess.}
+{215}{}{A mess? You do realize we live in a post-apocalyptic wasteland, right?? I'm no stranger to a little mess.}
 {216}{}{So the casino is in disrepair? That's it, I'm outta here.}
 {217}{}{Sorry, but I'm not allowed to provide you service. I can only exchange your chips if you have any left. Please contact the manager if you have any concerns.}
 {218}{}{What?! The service here is terrible.}

@@ -21,6 +21,7 @@
 {213}{}{Well, yeah, this jumpsuit is not for combat purposes, you know.}
 {214}{}{You want too much.}
 {215}{}{Don't come near me, scary face.}
+{1215}{}{Don't come near me, scary face.}
 {216}{}{Road warrior! There's a road warrior here!}
 {217}{}{Oh no...}
 {218}{}{Hey, you...}
@@ -61,6 +62,8 @@
 {256}{}{The shrapnel will also rupture your eyes, causing them to burst out of the sockets. You'll go blind and lose consciousness. And when you wake up, you'll face several hours of unimaginable pain in a pool of your own blood, until...}
 {257}{}{(the boy throws the grenade like a hot potato and runs to the side)}
 {258}{}{Hey, I haven't told you about the final details yet...}
+{1258}{}{Hey, I haven't told you about the final details yet...}
+
 
 {260}{}{Give me the grenade, now.}
 {261}{}{(seeing through your bluff, makes a mocking sound)}

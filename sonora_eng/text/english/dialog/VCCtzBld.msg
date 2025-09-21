@@ -8,11 +8,6 @@
 {107}{}{Uh, thanks, amigo. I feel better, but I don't trust this Old World stuff.}
 {108}{}{The stranger's medicine works better than our poultices. Hard to find fault with that!}
 
-{1105}{}{Thanks, amiga. I feel much better now.}
-{1106}{}{Thanks, amiga. I feel much better now.}
-{1107}{}{Uh, thanks, amiga. I feel better, but I don't trust this Old World stuff.}
-{1108}{}{The stranger's medicine works better than our poultices. Hard to find fault with that!}
-
 {110}{}{The raiders... I think they broke my ribs...}
 
 {200}{}{Hail to our savior!}

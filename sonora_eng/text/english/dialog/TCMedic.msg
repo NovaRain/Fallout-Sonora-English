@@ -59,7 +59,7 @@
 {259}{}{Then let's postpone the operation for a while.}
 {260}{}{[Strength +1]}
 {261}{}{[Perception +1]}
-{262}{}{[Endurance +1]}
+{262}{}{[Stamina +1]}
 {263}{}{[Charisma +1]}
 {264}{}{[Intelligence +1]}
 {265}{}{[Agility +1]}

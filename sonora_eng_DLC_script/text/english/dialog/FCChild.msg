@@ -11,6 +11,12 @@
 {113}{}{I have nothing better to do.}
 {114}{}{I'm not allowed to go into the ruins.}
 
+{1110}{}{Hi!}
+{1111}{}{Wanna play with me?}
+{1112}{}{You're not so scary.}
+{1113}{}{I have nothing to do.}
+{1114}{}{I'm not allowed in the ruins.}
+
 {115}{}{Don't come near me!}
 {116}{}{They told me I can't talk to you.}
 {117}{}{You're bad!}

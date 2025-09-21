@@ -24,9 +24,9 @@
 {210}{}{Do me a favor and don't bother me.}
 {211}{}{Why so much distrust of neighbors?}
 {212}{}{Okay. As you say.}
-{213}{}{You can't trust anyone in this town. Even neighbors will eye your goods. Step outside, and someone will be picking your lock to get into your place.}
+{213}{}{You can't trust anyone in this town. Even neighbors will eye your goods. Step outside, and someone will use a lockpick to get into your lock.}
 {214}{}{Did something get stolen from you?}
-{215}{}{Yes, things are going missing all the time. It started getting worse when the mine, you know, the ruins, ran dry leaving lots of people with no income.}
+{215}{}{Yes, things are going missing all the time. It started getting worse when the mine ran dry leaving lots of people with no income.}
 {216}{}{What exactly was stolen from you?}
 {217}{}{My welding machine. It's valuable. There are only a few working ones left in the whole city. It provided good income. Now what am I supposed to do?}
 {218}{}{I see. Maybe I can look for it.}
@@ -47,7 +47,7 @@
 {241}{}{I make statues. They sell well throughout the Wasteland.}
 {242}{}{Must be a lucrative business?}
 {243}{}{Seriously?}
-{244}{}{No, not really. The ruins are running out of stuff to scavenge, and there's little work. I used to work for the cartel, mining and repairing old things. Now, I can barely make ends meet.}
+{244}{}{No, not really. The mine is running out of stuff to scavenge, and there's little work. I used to work for a cartel, mining and repairing old things. Now, I can barely make ends meet.}
 {245}{}{Sorry to hear that. Can I ask another question?}
 {246}{}{Sad story. Bye.}
 
@@ -60,10 +60,10 @@
 {256}{}{Here's your welding machine.}
 {257}{}{You really found it! I thought it was hopeless. Who stole it?}
 {258}{}{It was, uh, in the ruins. Not sure who put it there.}
-{259}{}{Hmm, either you have an incredible intuition, or you're just covering for the thief. Either way, thanks. Here's your }
+{259}{}{Hmm, either you have an incredible intuition, or you're just covering for the thief. Either way, thanks. Here are your }
 {260}{}{ caps.}
 {261}{}{You're welcome.}
 {262}{}{It was Todd from the trailer.}
-{263}{}{Ha! Todd thinks he's the smartest one around here. But sooner or later, justice finds everyone, no matter where they are. Okay, pass it over. Here's your }
+{263}{}{Ha! Todd thinks he's the smartest one around here. But sooner or later, justice finds everyone, no matter where they are. Okay, pass it over. Here are your }
 {264}{}{ caps. But don't say a word to anyone.}
 {265}{}{No problem.}

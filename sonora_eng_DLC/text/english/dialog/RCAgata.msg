@@ -42,7 +42,8 @@
 {237}{}{Where did you get that combat armor?}
 {238}{}{Trophy from a combat op. Had to repaint it, so I wouldn't be mistaken for an enemy.}
 {239}{}{What do those stripes mean?}
-{240}{}{Veteran service, kid. When a Ranger has been dispensing justice in the Wasteland long enough, they get this mark of distinction. I've earned mine over many years.}
+{240}{}{Veteran service, son. When a Ranger has been dispensing justice in the Wasteland long enough, they get this mark of distinction. I've earned mine over many years.}
+{1240}{}{Veteran service, lady. When a Ranger has been dispensing justice in the Wasteland long enough, they get this mark of distinction. I've earned mine over many years.}
 {241}{}{What do you do here?}
 {242}{}{Lately, I've been running basic training for the cadets.}
 {243}{}{A veteran dealing with rookies?}
@@ -58,7 +59,9 @@
 {251}{}{Thinking I should hand you a minigun right off the bat? We train our own cadets. Don't see you on the list.}
 {252}{}{Let's change that.}
 {253}{}{Not only can you, but you must. Though I've been informed about your special status. We'll have to conduct an expedited basic training course.}
+{1253}{}{Not only can you, but you must. Though I've been informed about your special status. We'll have to conduct an expedited basic training course.}
 {254}{}{I'm ready for the course.}
+{1254}{}{I'm ready for the course.}
 {255}{}{Got it, but training's on hold for now. Other duties call.}
 {256}{}{Alright, let's start with the basics of survival. Every ranger needs 'em.}
 {257}{}{Got it.}

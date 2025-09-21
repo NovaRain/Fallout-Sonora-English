@@ -1,11 +1,12 @@
 {100}{}{You see Christina.}
-{101}{}{You see the daughter of Count Bustos.}
+{101}{}{You see the daughter of Don Bustos.}
 {102}{}{If the highwaymen see us, they'll probably shoot us.}
 {103}{}{I'm so glad it's over.}
 {104}{}{*Crying*}
 
 #First dialogue
-{200}{}{Stay away from me, you filthy raider!}
+{200}{}{Stay away from me, you filthy highwayman!}
+{1200}{}{Stay away from me, you filthy raider!}
 {201}{}{Calm down. Your father sent me.}
 {202}{}{My... dad? Daddy... Let's get out of here, quickly.}
 {203}{}{I'll untie you... Let's go, but quietly.}

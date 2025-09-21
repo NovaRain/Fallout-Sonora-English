@@ -22,7 +22,6 @@
 {2200}{}{(stares at you wide-eyed, as if seeing a ghost, then steps back) I am Juan. I no speak English. NO! NO SPEAK!}
 {201}{}{«Is this the welcome all new people get?»}
 {202}{}{«What are you saying, amigo! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words were rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
-{1202}{}{«What are you saying, amiga! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words were rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
 {203}{}{«Alright. Sorry.»}
 {204}{}{«I'm not sure if I believe you. But either way, you've completely discouraged me from staying here.»}
 {205}{}{Nice to meet you, Juan. I'm }
@@ -36,8 +35,8 @@
 {210}{}{Hola. Buenas noches.}
 {211}{}{Hola. Buenos dias.}
 {212}{}{Adios, amigo.}
-{213}{}{I need some fire agave syrup.}
-{2213}{}{«I need some fire agave syrup.»}
+{213}{}{I need some fire agave juice.}
+{2213}{}{«I need some fire agave juice.»}
 {214}{}{Hmph! Dirty Mexican!}
 {215}{}{«Goodbye, Juan.»}
 {216}{}{Hello. Good evening.}
@@ -53,8 +52,8 @@
 {225}{}{«What do you do here, Himador Juan?»}
 {226}{}{«I work with the fire agave and other crops. While they're growing, I handle shipments for caravans and other tasks.»}
 {227}{}{«Juan, tell me... are you here by choice?»}
-{228}{}{«Yes, sir. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
-{1228}{}{«Yes, ma'am. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
+{228}{}{«Si, senor. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
+{1228}{}{«Si, senora. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
 {229}{}{«I see. Thanks for the answer.»}
 
 {230}{}{«I want to ask you about the plantations.»}
@@ -64,19 +63,17 @@
 {234}{}{«The Followers say it's a mutated agave that was grown before the Great War. Since then, it's become bigger, more toxic, and spikier. But it still has useful pulp inside. That's what we mainly harvest.»}
 {235}{}{«But what's the use of this plant?»}
 {236}{}{«Oh, amigo, everything from the plant is used. The pulp and juice for food. The stalks for fertilizer and straw. The Followers even make medicine from agave extract!»}
-{1236}{}{«Oh, amiga, everything from the plant is used. The pulp and juice for food. The stalks for fertilizer and straw. The Followers even make medicine from agave extract!»}
 {237}{}{«Where are the plantations located?»}
 {238}{}{«To the west... But I don't recommend going there. Many people won't like it.»}
 {239}{}{«How interesting. Can I buy some of the harvest?»}
 {240}{}{«Actually, there's not enough harvest for everyone. So I'm forbidden from selling to just anyone.»}
 {241}{}{«I see. Thanks for the answer.»}
-{242}{}{«I really need some agave syrup. Please sell me some.»}
+{242}{}{«I really need some agave juice. Please sell me some.»}
 {243}{}{«Sorry, amigo. I can't. If the Mayor finds out who the buyer is, he's gonna go loco on me.»}
-{1243}{}{«Sorry, amiga. I can't. If the Mayor finds out who the buyer is, he's gonna go loco on me.»}
 {244}{}{«Alright, forget it.»}
 {245}{}{«Who's in charge here?»}
 {246}{}{«You must have some extra that no one will miss. And I have some spare caps...»}
-{247}{}{«I see you know how to bargain. Alright, if you need agave syrup, come to me. Though I don't understand why you need it. Are you planning to make tequila?»}
+{247}{}{«I see you know how to bargain. Alright, if you need agave juice, come to me. Though I don't understand why you need it. Are you planning to make tequila?»}
 {248}{}{«Not a bad idea. I'm considering it.»}
 {249}{}{«Come on, Juan, it's me. Is that how you treat friends?»}
 
@@ -99,7 +96,7 @@
 {265}{}{«Do you have any more questions?»}
 
 {269}{}{«Uh... I'm sorry, sir.» I no speak English well. }
-{1269}{}{«Uh... I'm sorry, ma'am.» I no speak English well. }
+{1269}{}{«Uh... I'm sorry, ma'ma.» I no speak English well. }
 
 {270}{}{Uh... Lo siento, senor. I no speak English well. }
 {1270}{}{Uh... Lo siento, senora. I no speak English well. }
@@ -107,8 +104,8 @@
 {272}{}{«I can speak Spanish too, friend.»}
 {273}{}{«I'm very relieved to hear that!»}
 {274}{}{Can I take a look at what you have in the cart?}
-{275}{}{No, no, no, senor! Agave syrup is only for the caravans. Not for sale.}
-{1275}{}{No, no, no, senora! Agave syrup is only for the caravans. Not for sale.}
+{275}{}{No, no, no, senor! Agave juice is only for the caravans. Not for sale.}
+{1275}{}{No, no, no, senora! Agave juice is only for the caravans. Not for sale.}
 {276}{}{Lo siento, senor.}
 {1276}{}{Lo siento, senora.}
 {277}{}{Si, por supuesto, senor.}

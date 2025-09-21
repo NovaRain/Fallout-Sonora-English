@@ -25,6 +25,17 @@
 {158}{}{}
 {159}{}{}
 
+{1150}{}{Hey there, champ.}
+{1151}{}{How's it going, champ?}
+{1152}{}{Is that really you?}
+{1153}{}{Oh my god, the champ's talking to me!}
+{1154}{}{Why'd you stop fighting?}
+{1155}{}{Punch me! I'll tell everyone I know.}
+{1156}{}{Hey, can I feel your biceps?}
+{1157}{}{Thanks to you, I'm sittin' pretty.}
+{1158}{}{}
+{1159}{}{}
+
 {160}{}{Hey.}
 {161}{}{Enjoying that victory high?}
 {162}{}{Whoa, easy there!}

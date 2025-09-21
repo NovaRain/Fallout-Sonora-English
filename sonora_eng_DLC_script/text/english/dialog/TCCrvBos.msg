@@ -47,6 +47,7 @@
 {302}{}{Come on... You can trust me.}
 {303}{}{Don't worry, I'm part of the Brotherhood of Steel.}
 {304}{}{Don't worry, I'm one of the Followers of Fire.}
+{1304}{}{Don't worry, I'm one of the Followers of Fire.}
 {305}{}{Too bad. But maybe you know about other places.}
 {306}{}{Believe me, no caravan goes there anymore. Something went bad for the Brotherhood of Steel, and their ship blew up like a damn atomic bomb. Now there's just a radioactive crater and not a single living soul.}
 {307}{}{Wow... that's too bad.}

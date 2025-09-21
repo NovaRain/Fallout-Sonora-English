@@ -170,3 +170,5 @@
 {350}{}{I'm so sorry all this happened. Take this key. It detonates nuclear torpedoes in the lower hold of the ship. Set the timer before the explosion and run as fast as you can into the desert. The Brotherhood has no place in the lands of Sonora.}
 {351}{}{Thank you, Scribe Maura.}
 {352}{}{Go ahead, my friend.}
+{1352}{}{Go ahead, my dear.}
+

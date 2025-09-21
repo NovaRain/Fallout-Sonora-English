@@ -10,7 +10,7 @@
 {199}{}{«Ah, my dear friend», I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
 # First Dialogue
 {200}{}{Ah, mi querido amigo, I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
-{1200}{}{Ah, mi querido amiga, I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
+{1200}{}{Ah, mi querida amiga, I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
 {201}{}{Uncle Jose... tell me what happened.}
 {202}{}{E-eh, those devils swarmed us when we least expected. Some were grabbed right away, while others managed to hide in their homes. Your padre and the men took cover in the town hall. They had to be dragged out by force. The gunfight was no joke. The bodies are still lying around; no one to bury them.}
 {203}{}{Tell me more.}
@@ -31,6 +31,7 @@
 {217}{}{Bastards!}
 
 {220}{}{Now that's the spirit of a true valiente guerrero! What will you do now? Start tracking the raiders? They're long gone.}
+{1220}{}{Now that's the spirit of a true valiente guerrero! What will you do now? Start tracking the raiders? They're long gone.}
 {221}{}{What do you think?}
 {222}{}{First, tell me again about the raid.}
 {223}{}{Well, first head to Garage City. It's a nasty place, but the raiders will definitely pass through there. Ask the locals, their tongues loosen up when you grease them a little.}

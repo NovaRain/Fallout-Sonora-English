@@ -75,7 +75,8 @@
 {1259}{}{The Brotherhood informed me of your promotion. Good to see you, sister.}
 
 #After the destruction of Puerto
-{260}{}{Ah, I knew you would come... Savage. Even after laying waste to our base in Puerto, your thirst for revenge still burns. Such is the curse of your kind - forever shackled to grudges and bygone traditions, while the path to a brighter future lies open before you. But no... Embracing progress demands the courage to relinquish old ways and grudges. A courage you clearly lack.}  
+{260}{}{Ah, I knew you would come... Savage.}  
+{1260}{}{Ah, I knew you would come... Savage.}  
 {261}{}{In other words, the Brotherhood's mission in Sonora is a failure. Thanks to me. Deal with it, idiot.}
 {262}{}{Ah, but what you call 'failure' is merely a delay. The Brotherhood is nothing if not patient. In time, the elders in California will establish a new foothold, and by then, Phoenix will be ready. This defeat is but a momentary detour. The wheels of progress continue to turn, whether you understand that or not.}  
 {263}{}{Hey, why do you need those machine guns... wait, you're not going to...}
@@ -88,9 +89,11 @@
 {270}{}{But who decided that your ideas about the world are correct? Just because they come from the pre-war era? You know how that ended. In war.}
 {271}{}{War... war never changes. We sought to restore these lands - and its people - to the heights of their former splendor. But we inherited a world too fractured to recognize salvation when it stands before it.}  
 {272}{}{You didn't inherit these lands. You invaded them.}
-{273}{}{Enough! You understand nothing. Return to your hovels and cling to your ignorance. These lands are not worthy of our stewardship. Let them rot, if they will.}  
+{273}{}{Enough! You understand nothing. Return to your hovel and cling to your ignorance. These lands are not worthy of our stewardship. Let them rot, if they will.}  
+{1273}{}{Enough! You understand nothing. Return to your hovel and cling to your ignorance. These lands are not worthy of our stewardship. Let them rot, if they will.}  
 {274}{}{Hmm...}
 {275}{}{Seems I can't convince you.}
+{276}{}{Even after laying waste to our base in Puerto, your thirst for revenge still burns. Such is the curse of your kind - forever shackled to grudges and bygone traditions, while the path to a brighter future lies open before you. But no... Embracing progress demands the courage to relinquish old ways and grudges. A courage you clearly lack.}
 
 #Re-dialogue
 {300}{}{Report.}

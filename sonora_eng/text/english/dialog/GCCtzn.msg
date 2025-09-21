@@ -17,14 +17,6 @@
 {125}{}{We didn't know the villagers of Villa were so friendly.}
 {126}{}{Do you need help?}
 
-{1120}{}{Hello! How are you?}
-{1121}{}{Holy shit, look who it is. How long are you here for?}
-{1122}{}{How's the crop doing, amiga?}
-{1123}{}{Hello, amiga.}
-{1124}{}{Sorry we didn't give you a proper welcome.}
-{1125}{}{We didn't know the villagers of Villa were so friendly.}
-{1126}{}{Do you need help?}
-
 {130}{}{Stay away from me.}
 {131}{}{Stick to your farm, peasant, and don't bother me.}
 {132}{}{Tell your elder he's a greedy, arrogant bastard.}

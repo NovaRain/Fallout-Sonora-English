@@ -42,7 +42,7 @@
 {247}{}{As you wish.}
 
 {250}{}{Tell me about Garage City.}
-{251}{}{This is a scavenger camp. We pull useful things from the old city ruins, the 'mine' we call it, repair them, and sell them to the south.}
+{251}{}{This is a scavenger camp. We pull useful things from the old city ruins, repair them, and sell them to the south.}
 {252}{}{Sounds good.}
 {253}{}{But the mine is almost depleted. We'll have to move on soon unless the city finds a new source of income.}
 {254}{}{What do you get in exchange for your work? Corn cobs?}

@@ -54,7 +54,7 @@
 
 {150}{}{Strength}
 {151}{}{Perception}
-{152}{}{Endurance}
+{152}{}{Stamina}
 {153}{}{Charisma}
 {154}{}{Intelligence}
 {155}{}{Agility}
@@ -217,8 +217,8 @@
 {480}{}{Typically keys are used on locks.}
 {481}{}{Amazing. And as soon as it occurred to you...}
 {482}{}{The weapon must be used in combat mode while holding it in the hands.}
-{483}{}{Using the doctor's bag, you have healed all your injuries.}
-{484}{}{Use a doctor's bag to heal a patient's injuries.}
+{483}{}{Using the surgical kit, you have healed all your injuries.}
+{484}{}{Use a surgical kit to heal a patient's injuries.}
 {485}{}{This item must be used from hand.}
 {486}{}{This is unlikely to help in fixing the robot.}
 {487}{}{ refuses your treatment.}
@@ -227,7 +227,7 @@
 {490}{}{This won't help here.}
 {491}{}{You have found a use for an ancient relic.}
 {492}{}{Your shovel has become unusable.}
-{493}{}{The doctor's bag won't help here.}
+{493}{}{The surgical kit won't help here.}
 
 #----------------------------------------------
 # Dialogue options

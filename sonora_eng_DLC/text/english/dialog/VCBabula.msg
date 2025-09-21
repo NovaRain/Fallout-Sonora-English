@@ -16,6 +16,7 @@
 {218}{}{While you were off gallivanting, strangers came. Nasty folks, like a bad wind. About ten of 'em, all armed to the teeth. Our men couldn't hold them off.}
 {219}{}{Go on.}
 {220}{}{Those devils took everyone fit for work. Left only the old bones and the young sprouts. Now Villa's fate rests in your hands. You've got to do something, and fast.}
+{1220}{}{Those devils took everyone fit for work. Left only the old bones and the young sprouts. Now Villa's fate rests in your hands. You've got to do something, and fast.}
 {221}{}{What can I possibly do alone?}
 {222}{}{What do you think? Get our folks back. At least your parents. They're caught in the clutches of those devils.}
 {223}{}{It won't be easy...}

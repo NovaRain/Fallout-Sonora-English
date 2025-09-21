@@ -6,7 +6,7 @@
 {112}{}{First time in a big city?}
 {113}{}{Garage City is a great place, you'll love it here.}
 {114}{}{Are you planning to stay here?}
-{115}{}{We have our own rules here, peasant.}
+{115}{}{We have our own rules here.}
 {116}{}{I don't get why people still come to this forgotten city.}
 
 {120}{}{Hello! How are you?}
@@ -26,7 +26,7 @@
 {1126}{}{Do you need help?}
 
 {130}{}{Stay away from me.}
-{131}{}{Stick to your farm, peasant, and don't bother me.}
+{131}{}{Go tend your farm, you're bothering me.}
 {132}{}{Tell your elder he's a greedy, arrogant bastard.}
 {133}{}{Your Villa has never been known for its good people.}
 {134}{}{Are all the inhabitants of your Villa as cunning and greedy as you?}

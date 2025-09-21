@@ -95,7 +95,7 @@
 {305}{}{Here's 250 caps for practising with throw weapons.}
 {306}{}{I might as well buy my own gun then.}
 {307}{}{This is a rip-off. I'm outta here.}
-{308}{}{Cough up the caps if you want to improve your skills.}
+{308}{}{Save up some caps if you wanna improve your skills.}
 {309}{}{Okay.}
 
 #Equipment of bullets

@@ -25,7 +25,7 @@
 {207}{}{Ugh... Look, I hate to cut this chat short, but I need help getting up. You gonna help or what?}
 {208}{}{Really?}
 {209}{}{Are you sure? Maybe you should lay still...}
-{210}{}{Don't worry. Eventually, everything heals. Have fun out there, dude.}
+{210}{}{Don't worry. Eventually, everything heals. Have fun out there.}
 {211}{}{Bye.}
 {212}{}{Oops...}
 {213}{}{Gonna just stand there? How about some first aid? Or mouth-to-mouth? No? Fine, I'll manage.}

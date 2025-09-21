@@ -222,7 +222,18 @@
 # Precision shooting
 #
 ################################################## ##############
-
+#
+# Man in Power Armor
+#
+{1010}{}{helmet}
+{1011}{}{left arm guard}
+{1012}{}{right arm guard}
+{1013}{}{chest guard}
+{1014}{}{right leg}
+{1015}{}{left leg}
+{1016}{}{visor}
+{1017}{}{groin}
+{1018}{}{unknown}
 #
 # regular humans
 #

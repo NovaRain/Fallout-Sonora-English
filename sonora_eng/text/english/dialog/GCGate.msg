@@ -57,7 +57,7 @@
 {244}{}{Nice piece you've got on your arm. Is that a computer? I've never seen anything like it.}
 {245}{}{Hold up, who's that? Oh, it's you...}
 
-{246}{}{Oh, you're still here. Odd, I figured you wouldn't like it here.}
+{246}{}{Oh, you're still here. Odd, I thought you didn't like it here.}
 {247}{}{Listen, folks around here are stubborn. You'd best watch yourself on the streets.}
 {248}{}{Are you here for business? You'd better be, or the locals might get antsy.}
 {249}{}{Listen, bother someone else. I might get in trouble for talking with you.}
@@ -129,7 +129,7 @@
 {308}{}{Alright, enough chit-chat, I've got to go.}
 
 {310}{}{How does this city survive? It doesn't seem like any crops are grown here.}
-{311}{}{Survive? It's all about the ruins, the 'mine' as it's called. Scavengers pick through them for old stuff, which the cartel then sells to caravans.}
+{311}{}{Survive? It's all about the ruins. Scavengers pick through them for old stuff, which the cartel then sells to caravans.}
 {312}{}{Who's in charge here?}
 {313}{}{No mayor or sheriff. Scavengers are organized into clans, each with its own leader. But they all answer to Mr. Kogan. He's only interested in the mine's operations, though.}
 {314}{}{Tell me about Kogan.}

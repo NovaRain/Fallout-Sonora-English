@@ -42,6 +42,7 @@
 {227}{}{«Isn't it better now that you're free?»}
 {228}{}{(grabs your sleeve) «This was my destiny! I had to go to El Diablo to save the rest of the townspeople!»}
 {229}{}{«Then I understand why you're so disheartened. But in all my travels, I have never seen such devilry. No one sacrifices their loved ones to monsters.»}
+{1229}{}{«Then I understand why you're so disheartened. But in all my travels, I have never seen such devilry. No one sacrifices their loved ones to monsters.»}
 {230}{}{(exhausted) «Okay... okay... I'll be okay. Come what may.»}
 {231}{}{«That's good. I'll make sure you get home.»}
 {232}{}{«Stay here, I'll check outside.»}

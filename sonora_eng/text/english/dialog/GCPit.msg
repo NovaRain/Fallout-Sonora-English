@@ -9,7 +9,6 @@
 {107}{}{«Yes sir?»}
 {1107}{}{«Yes, ma'am?»}
 
-{199}{}{Oh! «Greetings, friend!» New to the city?}
 
 {200}{}{Oh! Salute, companeros! New to the city?}
 {201}{}{Is this a city?}
@@ -22,7 +21,6 @@
 {1206}{}{Whatever's more convenient, senora.}
 {207}{}{Nice to meet you, Pedro.}
 {208}{}{(smiles) Likewise, amigo. The garage doors are always open to good folks. How can I help?}
-{1208}{}{(smiles) Likewise, amiga. The garage doors are always open to good folks. How can I help?}
 {209}{}{I guess I'll come by later.}
 
 {210}{}{Salute!}
@@ -42,7 +40,7 @@
 {1224}{}{I'm a mechanic, senora. I recycle what the scavengers bring in. Fix it if needed and get it ready for shipping.}
 {225}{}{What does the boss think about you?}
 {226}{}{He appreciates my work! I'm his main assistant when dealing with scavengers.}
-{227}{}{Sounds more like he's just using you.}
+{227}{}{Seems more like he's just pushing you around.}
 {228}{}{Oh, no... Although I do think I should get paid a few more caps.}
 {229}{}{He's just using you for next to nothing... Anyway, let's move on.}
 {230}{}{No, no, Mr. Kogan - he's the boss. We couldn't survive without him.}
@@ -50,7 +48,7 @@
 {232}{}{Where does all the stuff go?}
 {233}{}{Wherever the caravans comes from, that's where it goes. Everyone needs the stuff we dig up these days.}
 {234}{}{Who are the scavengers?}
-{235}{}{Well... they're scavengers... They dig up useful stuff from local ruins - a 'mine' of remnants from the Old World. Then they bring these things here for processing and get paid in caps. The scavengers are divided into clans, all working under contract with the cartel.}
+{235}{}{Well... they're scavengers... They dig up useful stuff from local ruins - remnants of the Old World. Then they bring these things here for processing and get paid in caps. The scavengers are divided into clans, all working under contract with the cartel.}
 {236}{}{Can someone trade on the side?}
 {237}{}{Oh, Mr. Kogan doesn't like that. And if not him, then the other scavengers won't take kindly to that. Folk like that don't last here long.}
 {238}{}{Scavengers don't forgive that kind of thing. Within the clan, everything is handed over to the leader, who then divides the income among everyone. If someone breaks the rules, they don't last here long.}
@@ -59,28 +57,26 @@
 {241}{}{This is bad, senor. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
 {1241}{}{This is bad, senora. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
 {242}{}{Are you sure?}
-{243}{}{Only he knew how to run a business. And now a war for the 'mine', or what's left of it, will start among the scavengers. I don't know what to do... Maybe it's time to leave this place. But where will I go?}
+{243}{}{Only he knew how to run a business. And now a war for the mine will start among the scavengers. I don't know what to do... Maybe it's time to leave this place. But where will I go?}
 {244}{}{Looks like you have a tough choice. Let's talk about something more pleasant.}
 
 #About the product
-{249}{}{So what'll it be?}#added for more natural interaction -cambragol
-
 {250}{}{What are you trading?}
-{251}{}{I sell what the scavengers bring in and what I fix up.}
-{252}{}{I sell the stuff scavengers bring in and the stuff I fix. But Mr. Kogan keeps the best goods for the top traders. So I can't trade everything.}
+{251}{}{What the scavengers bring in and what I fix up.}
+{252}{}{The stuff scavengers bring in and the stuff I fix. But Mr. Kogan keeps the best goods for the top traders. So I can't offer everything.}
 {253}{}{Uh, no, the boss knows best.}
-{254}{}{You know, you don't always have to be so obedient.}
+{254}{}{You know, you don't always have to be so efficient.}
 {255}{}{Great. So what do you say you're trading?}
-{256}{}{Just look at this junk. You'll never sell it! You should let me see the good stuff.}
-{257}{}{You're right, sir. (reveals all his goods)}
-{1257}{}{You're right, senora. (reveals all his goods)}
+{256}{}{Just look at this junk. You'll be selling it forever! I can buy it right now.}
+{257}{}{You're right, sir. (reveals some of the product)}
+{1257}{}{You're right, senora. (reveals some of the product)}
 {258}{}{If you deny me good products, you'll miss out on a valuable client.}
 {259}{}{You're right, sir. (reveals all his goods)}
 {1259}{}{You're right, senora. (reveals all his goods)}
 {260}{}{Mr. Kogan is long dead. Can I get full service now?}
 {261}{}{Si, senor. (reveals all his goods)}
 {1261}{}{Si, senora. (reveals all his goods)}
-{262}{}{Mr. Kogan recognized my right to full service. Let's see everything you have.}
+{262}{}{Mr. Kogan recognized my right to a full service. Let's see everything you have.}
 {263}{}{Si, senor. (reveals all his goods)}
 {1263}{}{Si, senora. (reveals all his goods)}
 {264}{}{What is this gadget?}
@@ -91,12 +87,10 @@
 {268}{}{Radio? Seriously? You must have big plans. Not many people use radios these days. Rangers do though. Did they send you?}
 {269}{}{I don't know what you're talking about. Do you have an amplifier or not?}
 {270}{}{Hey, take it easy, amigo! Yes, I have a couple of different amplifier modules. They might fit, they might not.}
-{1270}{}{Hey, take it easy, amiga! Yes, I have a couple of different amplifier modules. They might fit, they might not.}
 {271}{}{Then let's take a look at them.}
 
 {276}{}{In Todd's trailer, there was a cap-making machine. It's destroyed now.}  
 {277}{}{Good job, amigo. Here are the caps, as I promised. Just keep this quiet, okay? I don't want anyone getting lynched over this.}  
-{1277}{}{Good job, amiga. Here are the caps, as I promised. Just keep this quiet, okay? I don't want anyone getting lynched over this.}  
 {278}{}{Okay. Bye, Pete.}  
 {279}{}{I'll pay with REAL caps.}  
 
@@ -104,7 +98,6 @@
 {281}{}{Well, yes, we've used them as money since the Great War. You didn't know?}  
 {282}{}{That's very... strange.}  
 {283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting their own caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, comprende amigo?}  
-{1283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting their own caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, comprende amiga?}  
 {284}{}{Yeah, I understand.}  
 {285}{}{We've been trying to track down this pendejo for a long time. If you find out who's minting fake caps, let me know.}  
 {286}{}{Will do.}  
@@ -116,7 +109,6 @@
 {292}{}{He might have been a victim of this too. Let's not lay the blame yet. But it wouldn't hurt to check him out.}  
 {293}{}{What are you suggesting?}  
 {294}{}{What do you think, amigo? Trailer... tools... boom! Someone's gotta do it, you know? I'd ask other residents, but I'm afraid Todd will get lynched. I don't anyone getting hurt.}  
-{1294}{}{What do you think, amiga? Trailer... tools... boom! Someone's gotta do it, you know? I'd ask other residents, but I'm afraid Todd will get lynched. I don't anyone getting hurt.}  
 {295}{}{Okay, I understand. Get into his trailer, look for tools for making caps. If they're there, destroy them.}  
 {296}{}{So, will you do it?}  
 {297}{}{Okay. But breaking into someone's home is serious. What's it worth to you if I take this risk?}  
@@ -136,7 +128,7 @@
 {309}{}{This bike needs new tires.}  
 {310}{}{Oh, finding good tires these days is near impossible. But I've got a couple of mint ones in the back that should boost your speed. That's why this place is called a garage!}  
 {311}{}{I need more or larger storage for my bike.}  
-{312}{}{Let me see. Hmm, I can make a new luggage container. There's plenty of iron around, and I've got welding gear.}  
+{312}{}{Let me see. Hmm, I can make a new box. There's plenty of iron around, and I've got welding gear.}  
 {313}{}{Can you check the engine?}  
 {314}{}{Yeah, there's work to be done here! This bike hasn't been cleaned in a hundred years. Plus, I think I can find replacements for some of the worn-out engine parts. This'll likely reduce energy consumption by about 50%.}  
 {315}{}{How much will you charge for the job?}  

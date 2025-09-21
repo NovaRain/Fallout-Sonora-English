@@ -1,6 +1,6 @@
 {100}{}{You see Ruiz.}
 {101}{}{You see a local resident. He is wearing a bandana and a light cape.}
-{102}{}{Meet me near the treasure.}
+{102}{}{Meet me near the treasure by the lighthouse.}
 {103}{}{You better not test my patience.}
 {104}{}{If I come across any more treasure maps, I'll be sure to call you.}
 {105}{}{Looking for treasure? It's not here.}

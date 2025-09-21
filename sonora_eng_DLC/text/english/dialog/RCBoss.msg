@@ -128,6 +128,7 @@
 {320}{}{Talk to the patrols. They'll take you with them.}
 {321}{}{Sad to hear. Well, as usual, we'll handle it ourselves. Thanks for the information, you can go.}
 {322}{}{I've changed my mind! Let me join the assault.}
+{1322}{}{I've changed my mind! Let me join the assault.}
 {323}{}{Goodbye.}
 {324}{}{You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them. So, will you help?}
 {1324}{}{You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them. So, will you help?}
@@ -188,7 +189,8 @@
 {377}{}{I've got my issues with some rangers too. But I don't come running to the General.}
 {378}{}{There are rumors of your ties with highwaymen. Sometimes it's best to steer clear of troublemakers.}
 {379}{}{They're not troublemakers, believe me, General.}
-{380}{}{Who's the bad guy here? Me? I'm not spreading rumors. Let them say it to my face.}
+{380}{}{They're saying I'm bad? I'm not the one spreading bullshit rumors. Let them say it to my face.}
+{1380}{}{They're saying I'm bad? I'm not the one spreading bullshit rumors. Let them say it to my face.}
 {381}{}{They say you're part of the Followers of Fire. Not exactly a glowing endorsement.}
 {382}{}{The Rangers could use someone on the inside of that 'church'.}
 {383}{}{It's unfortunate you disagree with our faith. You should repent before the Holy Fire.}

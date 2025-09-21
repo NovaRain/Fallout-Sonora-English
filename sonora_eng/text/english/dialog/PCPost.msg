@@ -87,7 +87,7 @@
 {320}{}{Are these the letters you mentioned? A member of the Red Cardinal gang had them.}
 {321}{}{Ah, finally! You've done us a great service. Let me see... Yes, these are the ones.}
 {322}{}{And my caps?}
-{323}{}{Of course, here's your 50 caps. You know what, I'll pay you another 25 caps for delivering one of these letters. It's addressed to someone named Steve, who lives in those dangerous slums. You seem to manage there without trouble, and we need *guaranteed* delivery.}
+{323}{}{Of course, here are your 50 caps. You know what, I'll pay you another 25 caps for delivering one of these letters. It's addressed to someone named Steve, who lives in those dangerous slums. You seem to manage there without trouble, and we need *guaranteed* delivery.}
 {324}{}{Sure, more caps won't hurt.}
 {325}{}{It's always like this. Help once, and everyone flocks to you. Alright, hand it over.}
 {326}{}{Let's sign a short contract. There... Excellent. Now head to the slums and deliver the letter with a receipt. Good luck.}
@@ -98,7 +98,7 @@
 {333}{}{Thanks for your help. It's been a pleasure working with you. Unfortunately, we won't have any new deliveries for a while.}
 {334}{}{Goodbye.}
 {335}{}{About that letter. There's no one left to receive it. The recipient's dead.}
-{336}{}{What a shame. Well, that happens. The contract accounted for such a mishap. You'll get only half the fee. Here's your 12 caps.}
+{336}{}{What a shame. Well, that happens. The contract accounted for such a mishap. You'll get only half the fee. Here are your 12 caps.}
 {337}{}{This is outrageous! I demand full payment!}
 {338}{}{Read the contract. You signed it. And don't you start yelling here.}
 {339}{}{Wha... How... Hmph.}

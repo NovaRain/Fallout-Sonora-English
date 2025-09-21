@@ -38,7 +38,7 @@
 {132}{}{Señor Andres raised a real hero.}
 {133}{}{Andres' deputy is showing a lot of promise.}
 
-{134}{}{Shh! That degenerate, Señor Andres, is up to something.}
+{134}{}{Shh! Señor Andres' bastard is up to something.}
 {135}{}{Señor Andres raised a real devil.}
 {136}{}{When things get tough, we need a strong leader.}
 
@@ -46,7 +46,7 @@
 {1132}{}{Señor Andres raised a real heroine.}
 {1133}{}{Andres' deputy is showing a lot of promise.}
 
-{1134}{}{Shh! That degenerate, Señor Andres, is scheming something.}
+{1134}{}{Shh! Señor Andres' slut is up to something.}
 {1135}{}{Señor Andres raised a she-devil.}
 {1136}{}{When times get tough, we need a strong leader.}
 

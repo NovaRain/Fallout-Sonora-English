@@ -4,14 +4,14 @@
 {112}{}{You unlock the door.}
 {113}{}{It's too difficult to do this in the middle of a fight.}
 {114}{}{The door is locked.}
-{115}{}{You haven't even left a mark on the door.}
+{115}{}{There's no trace left of the door.}
 {116}{}{The explosion didn't even leave a scratch on the door.}
 {117}{}{Before you can lock the door, you should close it.}
 
 #Attempt to open
-{120}{}{You discover that the }
+{120}{}{You discover that }
 {121}{}{ is rigged with a dangerous trap.}
-{122}{}{You discover that the }
+{122}{}{You discover that }
 {123}{}{ has a trap!}
 {124}{}{ turned out to be trapped!}
 
@@ -33,16 +33,16 @@
 {142}{}{No point in picking an open lock.}
 {143}{}{This lock cannot be broken by brute force.}
 {144}{}{It will take *massive* strength to break this lock.}
-{145}{}{Using brute force, you break the lock. It won't be locking anything again.}
+{145}{}{Using brute force, you break the lock. No one will ever be able to close it again.}
 {148}{}{ turned out to be trapped!}
 {149}{}{Weapons should be used in combat mode.}
 
 #Traps
-{150}{}{You are unable to detect a trap.}
+{150}{}{You are unable to detect the trap.}
 {151}{}{}
 {152}{}{}
 {153}{}{You have discovered a trap, but cannot disarm it.}
-{154}{}{That was a mistake! Perhaps you'll remember that for next time.}
+{154}{}{That was a mistake! Perhaps next time you won't make it.}
 {155}{}{You have successfully disarmed a primitive trap.}
 {156}{}{You have successfully disarmed a trap using an old 12-gauge shell.}
 {157}{}{You have successfully disarmed a frag grenade trap.}

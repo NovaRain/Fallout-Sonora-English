@@ -40,6 +40,7 @@
 {207}{}{Seems like you're trying to shoo me off.}
 {208}{}{Shoo you? Listen, this is a peaceful farm. And if you're thinking of causing trouble, remember, this is Ranger territory. And the Rangers don't take kindly to troublemakers...}
 {209}{}{Alright, alright, got it.}
+{1209}{}{Alright, alright, got it.}
 {210}{}{Good.}
 {211}{}{But why live apart from the Rangers?}
 {212}{}{Can't grow crops on rocks. And we prefer our own space.}

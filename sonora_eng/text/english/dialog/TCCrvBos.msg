@@ -57,8 +57,8 @@
 {312}{}{Be ready at 6 AM, don't be late. Carry no more than 150 pounds of cargo. We'll make a stop in Casa Nueva. It's the only settlement on the way to the Brotherhood.}
 {313}{}{I'm good to go.}
 {314}{}{I'll be there on time.}
-{315}{}{No one's gonna carry your stuff for you! Get rid of any extra crap, or we'll leave without you.}
-{316}{}{Extra crap's my problem.}
+{315}{}{No one will take your things! Remove any extra cargo, or we'll leave without you.}
+{316}{}{Extra weights's my problem.}
 {317}{}{Whatever you say.}
 {318}{}{Right, then get ready for a tough trek through the wasteland.}
 {319}{}{[Go on a trip]}

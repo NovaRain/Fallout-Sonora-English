@@ -20,8 +20,8 @@
 {204}{}{Damn...}
 {205}{}{This won't save you...}
 
-{208}{}{Smart call, «my dear friend». But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  #added for espanol trait - cambraagol
-{209}{}{What in the blazes is this? Which idiot let a MUTANT on board?! Someone's getting a proper dressing-down for this! Alright, you green freak, you better have a damn good reason for being here. Well?}
+{209}{}{Smart call, «my dear friend». But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
+
 {210}{}{What in the blazes is this? Someone's getting a proper dressing-down for letting a civilian waltz in here like they own the place. Fine. You're here now - so talk. Who are you, and what exactly do you want from me?}  
 {211}{}{I'm here to wipe out your army of invading scum from the face of the earth. Death to the invaders!}
 {212}{}{Permission to go, General.}
@@ -70,7 +70,6 @@
 {253}{}{The hell with you. You won't enslave free people.}
 {254}{}{Sounds... amazing. I'm sure I could convince my kin of the advantages of joining with you.}
 {255}{}{Smart call, mi querido amigo. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
-{1255}{}{Smart call, mi querido amiga. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
 {256}{}{Then they need to be eliminated. Their lands nearly surround Villa.}
 {257}{}{Ah, a man after my own heart. Yes, the Rangers have holed up in an old dam - thinking it's an impenetrable fortress. But they've overlooked one simple truth: it only takes one crack to bring down an entire dam. Go scout the area. When the time's right, we'll take it out.}  
 {258}{}{It will be done, General!}
@@ -126,9 +125,6 @@
 #Re-dialogue
 {300}{}{Report.}
 {301}{}{Permission to leave, General.}
-{302}{}{What the hell do you want, mutant?}
-{303}{}{You've got nerve, showing your face around here, damn mutant!}
-{304}{}{You're the only mutant I can tolerate on my ship. So, what do you want from me?}
 
 {310}{}{I have a message for you from Ulysses Grant.}
 {311}{}{I've been waiting for this report. Step forward.}
@@ -234,7 +230,3 @@
 {436}{}{Alright. You'll hear more later, General.}
 {437}{}{Your service to the Brotherhood has been invaluable. I'm prepared to welcome you into our order.}
 {438}{}{[More]}
-{439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
-{1439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
-{440}{}{Alright. No problem, General. Take care.}
-{441}{}{I don’t want to join your little group anyway. Adios.}

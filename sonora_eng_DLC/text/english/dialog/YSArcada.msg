@@ -86,7 +86,7 @@
 {277}{}{Cool!}
 {278}{}{Finally.}
 {279}{}{"Take your prize coupon."}
-{280}{}{"Now you can play this machine for free. And that's not all. If the game seemed too easy, you can try survival mode. Good luck out there, in space!"}
+{280}{}{"Now you can play this game for free. And that's not all. If the game seemed too easy for you, you can try the 'survival' mode. However, there will be no reward for this. Good luck out there, in space!"}
 {281}{}{Alright.}
 {282}{}{Really?}
 {283}{}{In survival mode, transitions between lines (up and down) count as flight steps. Therefore, you need to remember the state of the lines and plan your moves ahead.}

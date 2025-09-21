@@ -8,10 +8,8 @@
 
 #First dialogue
 {200}{}{A huevo amigo! What wind brought you to these lands?}
-{1200}{}{A huevo, amiga! What wind brought you to these lands?}
 {201}{}{Well, I...}
 {202}{}{Al tiro, amigo! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
-{1202}{}{Al tiro, amiga! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
 {203}{}{Why? Did something happen between you two?}
 {204}{}{(looks around) Monstruos!}
 {205}{}{You mean monsters?}
@@ -19,14 +17,12 @@
 {207}{}{They are making a big mistake by ignoring your words.}
 {208}{}{Seems like you're really out of your mind, old man.}
 {209}{}{Don't leave me alone, amigo. I need help!}
-{1209}{}{Don't leave me alone, amigo. I need help!}
 {210}{}{Okay. Where do you say they made their lair?}
 {211}{}{It's near the wrecked schooner, further along the shore. But be careful.}
 {212}{}{I see. Bye.}
 
 #Re-dialogue
 {220}{}{Ola, amigo.}
-{1220}{}{Ola, amiga.}
 {221}{}{Adios, Jan.}
 
 {230}{}{Who's in charge here?}

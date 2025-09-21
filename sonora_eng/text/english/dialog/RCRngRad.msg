@@ -79,7 +79,7 @@
 {300}{}{Head south or east toward the signal's source and find out what's causing the echo. You'll have to head way out into the desert. Take this walkie-talkie to track it down.}
 {301}{}{I guess this job isn't over yet...}
 
-{302}{}{Well, this is unexpected! Thought we were the only ones with tech for broadcasts this powerful. Report to Commander Helford ASAP.}
+{302}{}{Well, this is unexpected! Thought we were the only ones with tech for broadcasts this powerful. Report to Captain Helford ASAP.}
 {303}{}{[Continue]}
 {304}{}{You got somethin' there... Tell Commander Helford how the operation went down.}
 {305}{}{Aye-aye!}

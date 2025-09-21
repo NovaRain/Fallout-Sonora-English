@@ -20,6 +20,7 @@
 {200}{}{I swear, I'll bash this fat guy's head in if he doesn't give me water!}
 {201}{}{You wouldn't really do that, would you?}
 {202}{}{Stay out of it, stranger. You have no idea how much blood was spilled for this water pump. They stole it from us! Now they demand payment for our own water! (yells past you) Give me water, you bastard!}
+{1202}{}{Stay out of it, lady. You have no idea how much blood was spilled for this water pump. They stole it from us! Now they demand payment for our own water! (yells past you) Give me water, you bastard!}
 {203}{}{Okay, not my problem. Do whatever you want.}
 {204}{}{I'm not letting you swing that sledgehammer around like a maniac. Walk away.}
 {205}{}{Calm down. It's not worth losing your life over.}

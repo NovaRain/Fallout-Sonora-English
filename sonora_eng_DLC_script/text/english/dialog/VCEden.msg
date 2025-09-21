@@ -2,6 +2,7 @@
 {101}{}{You see a boy named Eden. He looks wild and scared.}
 {102}{}{*Silently nods head*}
 {103}{}{Eden has returned to Villa.}
+{104}{}{*Scared of your armor*}
 
 {200}{}{(looks at you in fear, without saying a word)}
 {201}{}{Hey, don't you know it's dangerous to walk around here alone?}

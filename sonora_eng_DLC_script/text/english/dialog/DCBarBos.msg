@@ -3,7 +3,7 @@
 {102}{}{We're leaving now. Give the mayor our 'deepest apologies'.}
 
 {200}{}{You got guts, walking into our turf like this. Either yer' brave or a damn fool. Who the hell are you?}
-{1200}{}{The Count is so pathetic he sends a woman to do his dirty work. Fine. But who the hell are you?}
+{1200}{}{The Don is so pathetic he sends a woman to do his dirty work. Fine. But who the hell are you?}
 {201}{}{I'm the last thing you'll see.}
 {202}{}{Doesn't matter who I am. The mayor sent me to negotiate.}
 {203}{}{Figures. Bustos is a coward. Always ready to sacrifice someone else. Let's see if he values his daughter.}
@@ -17,6 +17,7 @@
 {211}{}{I'll tell him your demands.}
 {212}{}{What's your problem?}
 {213}{}{Your not from around here, are ya'? I'd know you otherwise.}
+{1213}{}{Your not from around here, are ya'? I'd know you otherwise.}
 {214}{}{What does it matter?}
 {215}{}{Caps don't matter to me. There's an old cemetery east of the city. Mass grave. That's where the folks of Casa Grande rest, 'cluding my parents.}
 {216}{}{[Listen]}
@@ -43,9 +44,9 @@
 {236}{}{Amazing. Thought Bustos wouldn't give even ten caps...}
 {237}{}{[More]}
 {238}{}{(One of the goons interrupts the leader, they have a heated discussion) Ah... fine... your right... (returns to you) We accept. Give me the caps, and you can take the girl.}
-{239}{}{Why would the Count be so nice to raiders? I think I'll just kill you and keep the caps for myself...}
+{239}{}{Why would the Don be so nice to raiders? I think I'll just kill you and keep the caps for myself...}
 {240}{}{Hold on. I'll get the caps.}
 {241}{}{Here's the caps.}
-{242}{}{Tell the Count we're leaving, and he'd better not send anyone after us.}
+{242}{}{Tell the Don we're leaving, and he'd better not send anyone after us.}
 {243}{}{It'd be stupid to let that many caps go. I think I'll kill you and take them back.}
-{244}{}{The Count keeps his word.}
+{244}{}{The Don keeps his word.}

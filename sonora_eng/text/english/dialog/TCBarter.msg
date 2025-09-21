@@ -117,7 +117,7 @@
 {333}{}{Indeed. Here is a list of available rewards. Select and mark your choice.}
 {334}{}{[Metal Armor]}
 {335}{}{[Plasma Pistol]}
-{336}{}{[First Aid Supplies: 3 stimpaks, 3 antidotes, 1 Rad-X]}
+{336}{}{[Medical Kit: 3 stimpaks, 3 antidotes, 1 Rad-X]}
 {337}{}{[Stealth Boy and Night Vision Goggles]}
 {338}{}{[Fuel Cell Battery]}
 {339}{}{[350 caps]}

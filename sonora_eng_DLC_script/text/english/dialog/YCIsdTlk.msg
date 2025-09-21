@@ -31,7 +31,7 @@
 {222}{}{[Next]}
 {223}{}{The nukes mostly hit the naval base and the industrial zone, but downtown San Diego took a heavy blow too. Now it's just ruins, high radiation, skeletons everywhere - and military robots patrolling all over. They've been roaming since the alarms went off at the base.}
 {224}{}{Tell me how to get to Chula Vista.}
-{225}{}{You need to cross the Otay River valley. There's only one surviving bridge, but it's patrolled by robots and booby-trapped. So we either go around or straight through the valley. But there are a lot of horrible creatures in that valley.}
+{225}{}{You need to cross the Otay River Valley. There are two shortcuts... One is across the surviving bridge, but it's occupied by robots and mined. The other is through the Otay Valley, but you can't get down there without equipment. And besides, it's full of terrible monsters. So... we always take the 'long' way round.}
 {226}{}{Tell me how to get to Bonita Dam.}
 {227}{}{Follow Federal Highway 805 to the sign. Then turn right.}
 {228}{}{Tell me how to get to Old Town.}

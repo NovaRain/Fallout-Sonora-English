@@ -43,6 +43,7 @@
 {233}{}{Thanks for your support, Bob.}
 {234}{}{You know, it was just another fight. Nothing special.}
 {235}{}{Whatever you say, champ. Whatever you say.}
+{1235}{}{Whatever you say, champ. Whatever you say.}
 {236}{}{Hmm.}
 
 #Questions about Scavengers

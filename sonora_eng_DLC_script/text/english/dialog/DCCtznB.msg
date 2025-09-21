@@ -6,6 +6,7 @@
 {202}{}{Life's crap, like everywhere else. But we got clean water. That's something, I guess.}
 {203}{}{So why are the streets so empty?}
 {204}{}{Listen, stranger. Casa Grande's got a messy past. Best not to dig into it. Got it? Good.}
+{1204}{}{Listen, lady. Casa Grande's got a messy past. Best not to dig into it. Got it? Good.}
 {205}{}{Sounds like you've got regrets.}
 {206}{}{Everyone here's lost something. We lost our home and our son. Don't expect folks to open up to a stranger.}
 {207}{}{I understand. Sorry for prying. Goodbye.}

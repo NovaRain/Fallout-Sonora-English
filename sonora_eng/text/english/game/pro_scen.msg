@@ -1524,12 +1524,12 @@
 {79901}{}{This spiral staircase leads to the floor above.}
 {80000}{}{Stairs}
 {80001}{}{This spiral staircase leads to the floor below.}
-{80100}{}{Ladder}
-{80101}{}{This ladder leads down into the darkness.}
-{80200}{}{Ladder}
-{80201}{}{This ladder leads down into the darkness.}
-{80300}{}{Ladder} #is this mislabelled, or is an object mislabelled?
-{80301}{}{This ladder leads down into the darkness.}
+{80100}{}{Stairs}
+{80101}{}{This staircase leads down into the darkness.}
+{80200}{}{Stairs}
+{80201}{}{This staircase leads down into the darkness.}
+{80300}{}{Stairs}
+{80301}{}{This staircase leads down into the darkness.}
 {80400}{}{Manhole}
 {80401}{}{For some reason, this manhole does not have a ladder. It will not be possible to go down without a rope.}
 {80500}{}{Manhole}

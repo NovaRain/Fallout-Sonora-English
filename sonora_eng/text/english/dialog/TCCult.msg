@@ -9,7 +9,7 @@
 {204}{}{What do you do?}
 {205}{}{I see you're persistent. The church needs the services of Tinsmiths, just like any modern community. I oversee the fulfillment of the church's orders.}
 {206}{}{Tinsmiths are that good?}
-{207}{}{They're the best at what they do. You might have seen their work: pneumatic weapons, computing devices, even prosthetics and simple implants. Thankfully, they're smart enough not to deal with just anyone. They don't share knowledge and technology lightly. Our church is fortunate to have their cooperation.}
+{207}{}{They're the best at what they do. You might have seen their work: air guns, computing devices, even prosthetics and simple implants. Thankfully, they're smart enough not to deal with just anyone. They don't share knowledge and technology lightly. Our church is fortunate to have their cooperation.}
 {208}{}{Got it. I'll check it out. Goodbye.}
 {209}{}{Cooperation in striving for power in this region. Take care.}
 

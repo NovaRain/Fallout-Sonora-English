@@ -1,9 +1,8 @@
 {100}{}{You see a cartographer.}
 {101}{}{You see a Ranger in baggy attire with a bulky eyepiece strapped to his forehead. It looks like constant work in dim light has taken its toll on his vision.}
 
-{200}{}{(You see a thin Ranger; his uniform hangs loosely on his frame, and he wears an eyepiece with interchangeable lenses perched atop his brow. When he notices you, he adjusts the lenses and squints, studying your face intently) Huh? Only Rangers are allowed here. Who let you in?}
+{200}{}{(You see a thin Ranger; his uniform hangs loosely on his frame, and he wears an eyepiece with interchangeable lenses perched atop his brow. When he notices you, he adjusts the lenses and squints, studying your face intently) Huh? Who let you in? Only Rangers are allowed here.}
 {201}{}{No worries, I've got clearance.}
-{202}{}{Me.}
 
 {210}{}{Hey there.}
 {211}{}{Catch you later.}
@@ -70,12 +69,3 @@
 {273}{}{I wouldn't say no to some extra ammo, but building goodwill isn't a bad deal either.}
 {274}{}{Why bother mapping that wasteland?}
 {275}{}{We may not need them now, but it pays to be prepared for anything. There could be mutant nests or raider hideouts lurking in those ruins. Besides, Quartz is the gateway to California. It may still be sealed off by the desert, but it's only a matter of time.}
-
-{276}{}{Me go Quartz.}
-{277}{}{Ah-huh.}
-{278}{}{Doodle-doodle need?}
-{279}{}{I got Pipa-Boy here.}
-{280}{}{Okey-dokey.}
-{281}{}{Bye-bye!}
-{282}{}{Me finished. [Show measurements from Quartz]}
-{283}{}{Thanks.}

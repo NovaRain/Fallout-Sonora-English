@@ -5,6 +5,7 @@
 
 #First dialogue
 {200}{}{Here comes my savior. I'm glad to see you.}
+{1200}{}{Here she comes, my savior. I'm glad to see you.}
 {201}{}{What are you doing here? I thought after the vault you'd head to the Cathedral of Fire and immerse yourself in science.}
 {202}{}{So I did. But the Cathedral of Fire was destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
 {203}{}{No one? Are you sure?}

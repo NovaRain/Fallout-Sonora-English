@@ -85,8 +85,6 @@
 {301}{}{Nothing to report yet.}
 {302}{}{Good to see you, Ranger.}
 {303}{}{Good to see you, amigo.}
-{1303}{}{Good to see you, amiga.}
-
 
 {310}{}{I want to ask about the Arizona Rangers.}
 {311}{}{We bring Law and Order to these lands.}

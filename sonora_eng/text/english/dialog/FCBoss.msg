@@ -45,7 +45,7 @@
 {231}{}{What kind of labor are we talking about?}
 {232}{}{Mining for uranium ore here, working caravans to the south, rebuilding Flagstaff, sometimes we get orders from Phoenix... Can't remember them all.}
 {233}{}{So this isn't a slave town, but rather, a prison?}
-{234}{}{Until recently, it was. Half the scum in our colony got caught by lawmen in the southern lands. Then they were brought here. Raiders, rapists, card debtors - we'll find uses for everyone.}
+{234}{}{Until recently, it was. Half the scum in our colony got caught by lawmen in the southern lands. Then they were brought here. Raiders, rapists, card debtors - well find uses for everyone.}
 {235}{}{Call it what you want, but you're holding people against their will.}
 {236}{}{Look around - Flagstaff thrives thanks to our prison. We're the only force that can bring order around here. Besides, just the mention of this colony scares people away from crime. Still don't like us? Then get the hell out.}
 {237}{}{But the villagers from Villa aren't criminals.}

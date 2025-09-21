@@ -31,7 +31,8 @@
 {219}{}{This never happened. Got it? Later.}
 
 #Rude Reply and Fight
-{220}{}{Listen up, estupida. I've got people who *run* this area. And who are you to lay down the law here? Think they'll let that slide? Don't make a scene, or there'll be trouble.}
+{220}{}{Listen up, estupido. I've got people who *run* this area. And who are you to lay down the law here? Think they'll let that slide? Don't make a scene, or there'll be trouble.}
+{1220}{}{Listen up, estupida. I've got people who *run* this area. And who are you to lay down the law here? Think they'll let that slide? Don't make a scene, or there'll be trouble.}
 {221}{}{Scene? Is your bloody corpse lying in the street a scene?}
 {222}{}{Sorry, that was stupid. Take it easy, pal.}
 {223}{}{Hey, man, you're getting on my nerves. Calm down, or I'll call my boys.}

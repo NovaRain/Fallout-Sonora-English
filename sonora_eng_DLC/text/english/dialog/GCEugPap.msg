@@ -32,7 +32,8 @@
 
 #Quest
 {250}{}{I'm here to take your son to the Rangers.}
-{251}{}{Get out, Ranger bootlicker! You won't get shit here except a piece of crowbar between your eyes.}
+{251}{}{Get out, Ranger bootlicker! You won't get shit here except a length of crowbar between your eyes.}
+{1251}{}{Get out, Ranger bitch! You won't get shit here except a length of crowbar between your eyes.}
 {252}{}{So this is what you're teaching him - using a crowbar for harm rather than for good?}
 {253}{}{I said get out!}
 {254}{}{...He can do more with the Rangers. He can work on complex machinery rather than picking up dirty trash.}

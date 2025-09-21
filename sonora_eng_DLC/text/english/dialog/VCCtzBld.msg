@@ -14,6 +14,7 @@
 {1108}{}{The stranger's medicine works better than our poultices. Hard to find fault with that!}
 
 {110}{}{The raiders... I think they broke my ribs...}
+{111}{}{You're a big guy. You're not going to break the rest of my ribs, are you?}
 
 {200}{}{Hail to our savior!}
 {201}{}{Take care.}

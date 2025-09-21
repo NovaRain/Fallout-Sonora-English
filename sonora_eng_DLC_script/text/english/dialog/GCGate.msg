@@ -6,6 +6,7 @@
 
 #First dialogue
 {200}{}{So, stranger, what's your business in town?}
+{1200}{}{So, lady, what's your business in town?}
 {201}{}{I'm looking for my people. They were captured and taken in this direction.}
 {202}{}{I need a place to stay for the night.}
 {203}{}{Nothing. Just happened to be passing by.}

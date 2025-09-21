@@ -132,7 +132,7 @@
 {334}{}{Petro-Chico Refinery Station. Pre-War, they stored fuel here. Must've been valuable since they built such a strong fence around it. Now it gives us fire.}
 {335}{}{I see.}
 {336}{}{What's your problem with the mayor of Casa Grande?}
-{337}{}{Count Bustos is a tyrant. He seized power by trickery, killed or exiled anyone who opposed him. Now he lives in luxury while we scrape by in this wasteland because of him.}
+{337}{}{Don Bustos is a tyrant. He seized power by trickery, killed or exiled anyone who opposed him. Now he lives in luxury while we scrape by in this wasteland because of him.}
 {338}{}{Sounds like you have a bit of a grudge against him. Let's talk about something else.}
 
 {350}{}{It's done. Your friend is dead.}
@@ -168,14 +168,14 @@
 {380}{}{Good news -- Hard agreed to the trade contract.}
 {381}{}{(rasping) Hmm, things are looking up. Didn't think the Tinsmiths would go for it. This is good. Real good. But just getting a deal with them isn't enough.}
 {382}{}{Who else is bothering you?}
-{383}{}{Count Bustos, the mayor of Casa Grande. If he doesn't recognize us as a legitimate settlement, the caravanners won't do business with us. We need to either convince him to sign the contract or get rid of him.}
+{383}{}{Don Bustos, the mayor of Casa Grande. If he doesn't recognize us as a legitimate settlement, the caravanners won't do business with us. We need to either convince him to sign the contract or get rid of him.}
 {384}{}{Kill Bustos so he doesn't interfere? This seems more realistic than negotiation.}
 {385}{}{I'll still try to negotiate with him. It's hard to say what will happen to the city without him.}
 {386}{}{Do it for the gang. For our long-awaited freedom.}
 {387}{}{You can count on me, Ben.}
 
-{390}{}{Count Bustos didn't want to make an alliance. He had to be "persuaded."}
-{391}{}{Count Bustos has agreed to an alliance. It took a long time to persuade him.}
+{390}{}{Don Bustos didn't want to make an alliance. He had to be "persuaded."}
+{391}{}{Don Bustos has agreed to an alliance. It took a long time to persuade him.}
 {392}{}{Thanks to you, the Blue Shields have a future. A new era is coming, where the Tinsmiths will open their tech to the world. We'll be among the chosen. No more need to rob travelers.}
 {393}{}{[More]}
 {394}{}{I didn't realize how crucial your help would be. You've earned your place in the gang. Wear that Blue Shield title with pride. Here's a jacket and a flamethrower as a reward.}

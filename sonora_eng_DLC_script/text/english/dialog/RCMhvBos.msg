@@ -23,6 +23,7 @@
 {220}{}{Not buying your tricks. Last warning or things will get ugly.}
 {221}{}{Fine. Just be careful with those things. They're awfully radioactive.}
 {222}{}{What?! Put that shit away, you idiot! Why would you even carry that stuff with you?}
+{1222}{}{What?! Put that shit away, you dumb bitch! Why would you even carry that stuff with you?}
 {223}{}{For situations like this.}
 {224}{}{I need it for a job.}
 {225}{}{No. First, I want to know who you REALLY are. A Ranger wouldn't upend Law and Order like this.}

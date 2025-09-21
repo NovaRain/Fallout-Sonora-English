@@ -281,7 +281,7 @@
 {448}{}{Got it. Later.}
 {449}{}{No worries - I took care of the savages.}
 {450}{}{Really? How'd you manage that?}
-{451}{}{What can a bunch of savages do against someone like me? Not much.}
+{451}{}{What can a bunch of savages do against modern firepower? Nothing.}
 {452}{}{Turned their superstitions against 'em. A little trickery.}
 {453}{}{Yikes, glad I'm not on your bad side. Camp's a major meat source for me and the city. Now we owe you big time. Thanks.}
 {454}{}{People shouldn't suffer for leaders' failures.}

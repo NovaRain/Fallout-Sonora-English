@@ -70,7 +70,7 @@
 {253}{}{The hell with you. You won't enslave free people.}
 {254}{}{Sounds... amazing. I'm sure I could convince my kin of the advantages of joining with you.}
 {255}{}{Smart call, mi querido amigo. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
-{1255}{}{Smart call, mi querido amiga. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
+{1255}{}{Smart call, mi querida amiga. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  
 {256}{}{Then they need to be eliminated. Their lands nearly surround Villa.}
 {257}{}{Ah, a man after my own heart. Yes, the Rangers have holed up in an old dam - thinking it's an impenetrable fortress. But they've overlooked one simple truth: it only takes one crack to bring down an entire dam. Go scout the area. When the time's right, we'll take it out.}  
 {258}{}{It will be done, General!}
@@ -238,3 +238,4 @@
 {1439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
 {440}{}{Alright. No problem, General. Take care.}
 {441}{}{I don’t want to join your little group anyway. Adios.}
+{1441}{}{I don’t want to join your little group anyway. Adios.}

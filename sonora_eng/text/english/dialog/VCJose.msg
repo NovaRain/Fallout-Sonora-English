@@ -10,7 +10,6 @@
 {199}{}{«Ah, my dear friend», I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
 # First Dialogue
 {200}{}{Ah, mi querido amigo, I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
-{1200}{}{Ah, mi querido amiga, I'm so glad fate left you with us! Ay, ay, ay, those cursed raiders. You're lucky you weren't here.}
 {201}{}{Uncle Jose... tell me what happened.}
 {202}{}{E-eh, those devils swarmed us when we least expected. Some were grabbed right away, while others managed to hide in their homes. Your padre and the men took cover in the town hall. They had to be dragged out by force. The gunfight was no joke. The bodies are still lying around; no one to bury them.}
 {203}{}{Tell me more.}
@@ -54,9 +53,7 @@
 
 # Repeated Dialogue
 {250}{}{Good to see you, amigo.}
-{1250}{}{Good to see you, amiga.}
 {251}{}{Amigo, don't just stand around. Find something to do, okay?}
-{251}{}{Amiga, don't just stand around. Find something to do, okay?}
 {252}{}{I gotta go.}
 
 {253}{}{I have a few questions... No, many questions.}
@@ -89,14 +86,13 @@
 {278}{}{He mentioned wanting to visit that big city from the legends. But I'm afraid he found nothing but death in the sands.}
 {279}{}{How do you know about Garage City?}
 {280}{}{Hey, I'm the main trader with outsiders here in the Villa. Who else would know? Caravans sometimes come from there, we exchange a few words and part peacefully.}
-{281}{}{What's the Villa's relationship with Garage City?}
+{281}{}{What's the Villa's relationship with the Garage?}
 {282}{}{Your padre hasn't told you, has he? Bad people live there. But we have to trade with them. We give them food, and they give us tools and repair services. That's the extent of our "relationship."}
 {283}{}{It sounds like you don't like that city.}
 {284}{}{You know old Jose - treat me kindly, and I'll treat you the same. But those folks, they cheat, try to rob, or say something rude. And they think poorly of us too. They're jealous that we live better than they do.}
 {285}{}{}
 {286}{}{}
 {287}{}{(shakes his head sadly) Ay, amigo, the wasteland's really done a number on you, hasn't it? Does it hurt? Well, you made it here, that's what matters. Don't worry - we're family, we stick together.}
-{1287}{}{(shakes his head sadly) Ay, amiga, the wasteland's really done a number on you, hasn't it? Does it hurt? Well, you made it here, that's what matters. Don't worry - we're family, we stick together.}
 {288}{}{Thanks, Jose. I'll manage with this skin somehow.}
 {289}{}{Problem, smoothskin? I don't need your pity, so better shut up.}
 
@@ -106,14 +102,12 @@
 {1292}{}{Hmm? Found them under the town hall, did you? Well, then talk to your padre. Jose knows nothing.}
 {293}{}{Come on Uncle Jose, you know something.}
 {294}{}{Hey, amigo, drop it! I'm just a trader with a bad leg, they don't share secrets with me. Yes, I know that your padre had a secret stash in the cellar. And that it held family heirlooms, but it's none of my business, you understand?}
-{1294}{}{Hey, amiga, drop it! I'm just a trader with a bad leg, they don't share secrets with me. Yes, I know that your padre had a secret stash in the cellar. And that it held family heirlooms, but it's none of my business, you understand?}
 {295}{}{I'd follow you anywhere, but with this bad leg and my age, I won't make it far. Don't be upset, you'll manage on your own. I believe in you. After all, we're family, right?}
 {296}{}{Jose, you don't look too happy.}
 {297}{}{Huh?}
 {298}{}{Well, it's just... so much has happened... Ah, never mind, forget it.}
 {299}{}{You're not happy, Jose. You can't be. People died, others were taken into slavery, the Villa is ruined... Stop pretending you're cheerful.}
 {300}{}{(lip trembling) Amigo... Why do you say such things...}
-{1300}{}{(lip trembling) Amiga... Why do you say such things...}
 {301}{}{Now go have a good cry...}
 {302}{}{It's okay, uncle, just let your feelings out, don't hold them in...}
 {303}{}{What do you mean?}

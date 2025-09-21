@@ -12,7 +12,6 @@
 {206}{}{No, uh... sir.}
 {207}{}{Oh, I have plenty of questions, but you probably won't answer them.}
 {208}{}{Alright then, amigo, what brings you to us?}
-{1208}{}{Alright then, amiga, what brings you to us?}
 {209}{}{I'm from a village up north. Slave traders attacked us, and I'm trying to save my kin who were captured...}
 {210}{}{You're exactly what I've been looking for. Most of my village has been captured by slavers, and I'm trying to free them...}
 {211}{}{I'm sorry, but I can't bother the general about some village. We don't have time for that.}

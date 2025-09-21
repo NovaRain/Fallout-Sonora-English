@@ -129,7 +129,7 @@
 {325}{}{El agua no solo atrae a los comerciantes. Tenemos miedo a los bandidos y a los ladrones.}
 {326}{}{«Hmph. The streets are so empty I thought this was a ghost town.»}
 {327}{}{«Tell me about your mayor.»}
-{328}{}{«Count Bustos. He runs the city from that huge mansion.»}
+{328}{}{«Don Bustos. He runs the city from that huge mansion.»}
 {329}{}{El conde Bustos gobierna la ciudad desde esa gran mansion.}
 {330}{}{«Thanks, this helped me.»}
 {331}{}{«In that mansion, right? Perhaps I should check on him right now.»}
@@ -142,7 +142,7 @@
 {338}{}{«Terrible man. Cruel, greedy, keeps everyone subservient. No one will speak against him here.»}
 {339}{}{Es una persona terrible, es un tirano. Aqui nadie dira nada malo de el.}
 {340}{}{«So he's ruling the city with a tight grip. Thanks for your honesty.»}
-{341}{}{«Count Bustos is dead. Do you think the city will be better off without him?»}
+{341}{}{«Don Bustos is dead. Do you think the city will be better off without him?»}
 {342}{}{«He was a terrible person. Greedy and cruel, he ruled everything with an iron fist. Everyone was afraid to say anything bad about him. But without him, we are an easy target for raiders.»}
 {343}{}{Era un tirano. Pero sin el, nos convertimos en un blanco facil para los ladrones.}
 {344}{}{«I guess even his tyranny had some use.»}

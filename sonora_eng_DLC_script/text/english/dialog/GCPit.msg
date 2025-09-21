@@ -148,7 +148,7 @@
 {320}{}{(shakes head) That's not enough.}
 {321}{}{Oh, too bad...}
 {322}{}{Changing the tires will boost your bike's speed by 15%.}
-{323}{}{Your motorcycle now has a storage rack with a capacity of 100 units.}
+{323}{}{Your motorcycle storage rack capacity has increased by 100 units.}
 {324}{}{Pete did a great job - your motorcycle will now consume 50% less energy.}
 {325}{}{Done!}
 {326}{}{Great. Let's see what else you can do.}

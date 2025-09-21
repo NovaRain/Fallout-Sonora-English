@@ -5,8 +5,8 @@
 # First Dialogue
 {200}{}{Hey, traveler, hold up! Not often you see folks around these parts. Mind telling me what you're doing here?}
 {1200}{}{Hey, traveler, hold up! Not often you see folks around these parts. Mind telling me what you're doing here?}
-{201}{}{I'm on a mission for Commander Helford.}
-{202}{}{That figures. The commander's been saying he's short on people. Well, be careful, this place isn't safe.}
+{201}{}{I'm on a mission for Captain Helford.}
+{202}{}{That figures. The captain's been saying he's short on people. Well, be careful, this place isn't safe.}
 {203}{}{The ranger cartographer asked me to take some measurements.}
 {204}{}{About time someone did that. But now it's too dangerous for mapping.}
 {205}{}{I'm just scavenging for pre-war tech.}
@@ -26,7 +26,7 @@
 {223}{}{Looks like that was the last of them. May they rest in peace.}
 
 {230}{}{Are there any residents left here?}
-{231}{}{I'm here on Commander Helford's request. Where is the refugee camp?}
+{231}{}{I'm here on Captain Helford's request. Where is the refugee camp?}
 {232}{}{The locals can no longer be called human. They've gone mad, don't understand speech, and attack anyone they see. They still mostly haunt the trailer park across from the gas station. Go down the street and then turn left.}
 {233}{}{Who are they?}
 {234}{}{Just ordinary refugees from the east. Came here hoping for a new life, but found only suffering. If you see them, it's better to put them out of their misery.}

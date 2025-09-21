@@ -25,13 +25,3 @@
 {218}{}{Keep your guard up, amigo.}
 {219}{}{Let's stir up some chaos! Who's up for a fight?}
 
-{1210}{}{Hey, look who it is! Grab yourself a drink.}
-{1211}{}{Remember how we took those savages down? Good times!}
-{1212}{}{And when we showed their leader who's boss? That was sweet.}
-{1213}{}{Now everyone in the neighborhood is scared of you and me, my friend.}
-{1214}{}{Has Aaron hooked you up with your reward yet?}
-{1215}{}{How about we get hammered and teach this bartender a lesson?}
-{1216}{}{Hey, can someone get me that girl from the stage?}
-{1217}{}{Man, after a whole bottle of tequila, I can only pee boiling water.}
-{1218}{}{Keep your guard up, amiga.}
-{1219}{}{Let's stir up some chaos! Who's up for a fight?}

@@ -37,12 +37,14 @@
 {230}{}{Why?}
 
 {240}{}{Hey, champ! It was a great fight. What can I do for you?}
+{1240}{}{Hey, champ! It was a great fight. What can I do for you?}
 {241}{}{I'm not sure. What is this place?}
 {242}{}{This is a community house, and I'm the manager. However, I don't think people of your stature will be interested in here. Our neighborhood is inhabited by... less successful townspeople.}
 {243}{}{Then could you answer a couple of questions?}
 {244}{}{You're right, I'm not interested in a hole like this. I'm outta here.}
 {245}{}{Do you mind if I look around? Great, see you.}
 {246}{}{Hey, champ! It was a great fight. What can I do for you?}
+{1246}{}{Hey, champ! It was a great fight. What can I do for you?}
 {247}{}{I want to talk to you.}
 
 # Death of a pusher
@@ -79,6 +81,8 @@
 {303}{}{Goodbye.}
 {304}{}{What do you want?}
 {305}{}{Listen, buddy, you're scaring the residents a bit. You'd better head to the power plant with the other freaks.}
+{1305}{}{Listen, uh... lady, you're scaring the residents a bit. You'd better head to the power plant with the other freaks.}
+
 
 {310}{}{I'm investigating an attack on the Followers. What do you know about it?}
 {311}{}{The situation is becoming clearer.}
@@ -103,6 +107,7 @@
 {329}{}{Interesting information. Maybe you've earned a pass for today.}
 {330}{}{Enough lies. Time to break some fingers.}
 {331}{}{You're pretty eager to fight. But you'll find we can fight too when necessary.}
+{1331}{}{You're pretty eager to fight. But you'll find we can fight too when necessary.}
 {332}{}{Bah!}
 {333}{}{Tell me again about the attack on the monks.}
 

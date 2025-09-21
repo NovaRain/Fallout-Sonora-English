@@ -16,7 +16,6 @@
 {205}{}{(He spits and wipes his mouth with a bony hand.) I'm saying... the community wants you at the gathering. We figured it's time for you to throw in your two cents.}
 {206}{}{What gathering?}
 {207}{}{We got decisions to make. Savin' our people ain't the end of our struggles, amigo.}
-{1207}{}{We got decisions to make. Savin' our people ain't the end of our struggles, amiga.}
 {208}{}{When's the gathering?}
 {209}{}{Tonight, when the sun's down and the day's work is done. We old-timers like to take our time, so don't expect it to wrap up quick.}
 {210}{}{I'll be there on time. See you then.}

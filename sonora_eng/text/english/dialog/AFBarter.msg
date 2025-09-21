@@ -10,7 +10,6 @@
 {204}{}{Bye.}
 {205}{}{Thanks again for the Geiger counter.}
 {206}{}{After the fire on the platform, fishing here is gradually picking up. Appreciate it, amigo.}
-{1206}{}{After the fire on the platform, fishing here is gradually picking up. Appreciate it, amiga.}
 
 {210}{}{Where can I buy fuel cell batteries for a boat?}
 {211}{}{None of the fishermen are gonna sell their reserves - they don't have enough themselves. The closest place we get batteries for the boats and generator is Puerto Penasco. Try your luck there.}
@@ -32,7 +31,6 @@
 {227}{}{ pieces.}
 {228}{}{Great.}
 {229}{}{Oh, thank you, amigo!}
-{1229}{}{Oh, thank you, amiga!}
 {230}{}{You're welcome.}
 
 {240}{}{Gilberto says you've been to Inferno?}

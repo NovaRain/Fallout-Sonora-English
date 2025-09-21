@@ -15,7 +15,7 @@
 {214}{}{I'll find a way to get you chatting.}
 {215}{}{Okay, fine. Have it your way.}
 
-{220}{}{Well, Garage City is a city of scavengers. Everyone here lives off the ruins, the 'mine' as most call it, which is controlled by Mr. Kogan's cartel.}
+{220}{}{Well, Garage City is a city of scavengers. Everyone here lives off the mine, which is controlled by Mr. Kogan's cartel.}
 {221}{}{Thanks, that was a comprehensive answer.}
 {222}{}{Scavengers?}
 {223}{}{Just people who find old things and take them to the garage to be repaired.}

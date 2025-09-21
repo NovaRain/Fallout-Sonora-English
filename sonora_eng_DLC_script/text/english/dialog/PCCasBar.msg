@@ -106,6 +106,6 @@
 {291}{}{Sorry. Minor issues in production. We are working to solve the problem, but it'll take some time.}
 {292}{}{Too bad. Hope you find a solution.}
 {293}{}{What kind of casino is this if you can't even drink here? This place is a joke.}
-{294}{}{We have many sources. The beer is produced by a couple of local brewers. Sometimes something special, like pre-war whiskey, can be found in old ruins. We produced tequila ourselves, but the still broke down. We're still trying to get it running again.}
+{294}{}{We have many sources. The beer is produced by a couple of local brewers. Sometimes something special, like pre-war whiskey, can be found in old ruins. We used to make tequila ourselves, but the still broke down. We're still trying to get it running again.}
 {295}{}{Used to make your own tequila? Well, well, keep filling.}
 {296}{}{In-house production? It's a shame your not doing it anymore.}

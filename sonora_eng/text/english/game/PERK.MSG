@@ -184,15 +184,15 @@
 {1156}{}{You're "hooked" on Mentats. You need to consume this drug to avoid withdrawal.}
 {1157}{}{You're "hooked" on Psycho. You need to consume this drug to avoid withdrawal.}
 {1158}{}{You're "hooked" on RadAway. You need to consume this drug to avoid withdrawal.}
-{1159}{}{Sniper Shot.}
-{1160}{}{Precision Aim (+20% hit chance).}
-{1161}{}{Increased Armor Penetration (+80% armor penetration ).}
-{1162}{}{Knockback of enemy ( more chances than without the ability - 1 hex for 5 points of damage ).}
-{1163}{}{Power Armor (+3 Strength, +30 Radiation Resistance ).}
+{1159}{}{Sniper shot.}
+{1160}{}{Precise aim (+20% hit chance).}
+{1161}{}{Increased armor penetration (+80% armor penetration ).}
+{1162}{}{Knocks back an enemy ( more chances than without the ability - 1 hex for 5 points of damage ).}
+{1163}{}{Power armor (+3 Strength, +30 Radiation Resistance ).}
 {1164}{}{Combat Armor (+20 Radiation Resistance ).}
-{1165}{}{Scope ( changes the hit probability calculation formula ).}
-{1166}{}{High-speed Reload ( only 1 AP is spent on reloading).}
-{1167}{}{Night Vision Scope ( removes darkness penalty ).}
+{1165}{}{Optical sight ( changes the hit probability calculation formula ).}
+{1166}{}{High-speed reload ( only 1 AP is spent on reloading).}
+{1167}{}{Night vision scope ( removes darkness penalty ).}
 {1168}{}{Hot Shot ( lowers the threshold for the victim's combustion animation ).}
 {1169}{}{Improved Power Armor I (+4 Strength, +60 Radiation Resistance ).}
 {1170}{}{Improved Power Armor II (+4 Strength, +75 Radiation Resistance ).}
@@ -233,7 +233,7 @@
 {1205}{}{You are much less likely to be knocked down in combat.}  # Stonewall
 {1206}{}{The blood of a thief runs through your veins. With the Thief Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills.  A well rounded thief is a live thief.}  # Thief
 {1207}{}{You can wield weapons much larger than normally allowed. You gain a +3 to your strength for the purposes of Strength checks when trying to wield weaponry.}  # Weapon Handling
-{1208}{}{You have mastered various pre-war medical techniques preserved and passed down by the Followers of the Apocalypse. This boosts your Doctor skill by 10%.}
+{1208}{}{You have mastered various pre-war medical techniques preserved and passed down by the Followers of the Apocalypse. This boosts your Medicine skill by 10%.}
 {1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}  # Alcohol Enhanced hit points
 {1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}  # Alcohol Enhanced hit points II
 {1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}  # Alcohol Lowered hit points

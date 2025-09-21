@@ -1,4 +1,4 @@
-{100}{}{You see a doctor.}
+{100}{}{You see a biomechanic.}
 {101}{}{You see Doc Jones. He looks more like a mechanic than a doctor.}
 {102}{}{The operation was successful.}
 

@@ -1,5 +1,5 @@
 {100}{}{You see the bartender.}
-{101}{}{You see a regular bartender.}
+{101}{}{You see an ordinary bartender. A very ordinary one. You've never met nor seen a more ordinary bartender.}
 {102}{}{Sorry, but THIS is not allowed here.}
 
 {110}{}{Hey there, traveler! Come wet your throat and wash away the dust of the road.}

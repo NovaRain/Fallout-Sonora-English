@@ -51,7 +51,7 @@
 {245}{}{What are you doing here?}
 {246}{}{I catch lizards and sell them to the other folks. It's not so easy catching 'em.}
 {247}{}{You worked as a scavenger too?}
-{248}{}{Yeah. I had a good nose for useful things. After all, even a handful of junk can be useful. (sigh) But the 'mine'... you know, the ruins, they've run dry, so now I hunt lizards instead of salvaging old scraps.}
+{248}{}{Yeah. I had a good nose for useful things. After all, even a handful of junk can be useful. (sigh) But the mine's run dry, so now I hunt lizards instead of salvaging old scraps.}
 {249}{}{I see. Actually, I want to ask something else.}
 {250}{}{I gotta go, old man. See you.}
 {251}{}{You worked as a scavenger?}

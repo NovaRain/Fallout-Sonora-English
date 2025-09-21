@@ -31,7 +31,7 @@
 
 {230}{}{Any results? Report to our leader personally.}
 {231}{}{Okay.}
-{232}{}{What? A mercenary volunteer for the Forbidden Zone?}
+{232}{}{Are you a volunteer? Do you want to go to the Forbidden Zone?}
 {233}{}{Yes, I'm ready to go in too.}
 {234}{}{No, just passing by.}
 {235}{}{State your queries, volunteer.}

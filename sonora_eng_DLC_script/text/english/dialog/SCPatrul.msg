@@ -83,7 +83,9 @@
 {281}{}{Corwin? Why doesn't he pull his weight?}
 {282}{}{He's been begging for shore leave for ages.}
 {283}{}{Ah, here's the thing. First, we don't need dead weight on the patrol. And second, I'm not swayed by the words of a drifter like you.}
+{1283}{}{Ah, here's the thing. First, we don't need dead weight on the patrol. And second, I'm not swayed by the words of a drifter like you.}
 {284}{}{A drifter, huh? Fine...}
+{1284}{}{A drifter, huh? Fine...}
 {285}{}{Here's the thing. First, we don't need extra baggage on the patrol. And second, your authority here means nothing. I don't know you well enough to grant your request.}
 {286}{}{I get it...}
 {287}{}{Here's the thing. I only listen to requests from those who've proven their worth. Tell Corwin I'll take him on patrol to Casa Nueva and back. It's not exactly shore leave, but it'll give him some fresh air.}

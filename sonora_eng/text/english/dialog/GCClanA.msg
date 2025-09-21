@@ -14,7 +14,7 @@
 {119}{}{That was your last mistake.}
 
 # Dialogue during a skirmish
-{200}{}{(a tense scene unfolds before you - a group of scavengers has surrounded a couple of other scavengers and is about to beat them up; but your appearance disrupts their plans) Who are you?}
+{200}{}{(a tense scene unfolds before you - a crowd of scavengers has surrounded a couple of other scavengers and is about to beat them up; but your appearance disrupts their plans) Who are you?}
 {201}{}{Mr. Kogan sent me. What the hell's going on here?}
 {202}{}{We're about to teach Lucas' boys a lesson. These fuckin' runts think a little too highly of themselves, stealing our shit and workin' our turf.}
 {203}{}{Aren't you all in the same group?}

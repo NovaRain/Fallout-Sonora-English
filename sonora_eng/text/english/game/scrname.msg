@@ -42,7 +42,7 @@
 {142}{}{Carnivorous Plant}
 {143}{}{Deathclaw}
 {144}{}{Robot}
-{145}{}{Ghoul}#Crazed Local and Reavers use this, so... ghoul
+{145}{}{Crazed Local}
 {146}{}{Mysterious Stranger}
 {147}{}{Lab}
 {148}{}{Granny Adonisia}
@@ -436,7 +436,7 @@
 {536}{}{Collapse}
 {537}{}{Fugitive}
 {538}{}{Henry Bemis}
-{539}{}{Bemis' Glasses}
+{539}{}{Bemis Glasses}
 {540}{}{Book}
 {541}{}{Cafe Resident}
 {542}{}{Cafe Resident}
@@ -588,7 +588,7 @@
 {688}{}{Worker}
 {689}{}{Pottery Wheel}
 {690}{}{Mayor Alvaro}
-{691}{}{Agave Farmer}
+{691}{}{Himador}
 {692}{}{Nestor}
 {693}{}{Scarecrow}
 {694}{}{Sporebearer}
@@ -889,11 +889,11 @@
 {989}{}{Ghoul Guard}
 {990}{}{Rogue Scavenger}
 {991}{}{Wounded Ghoul}
-{992}{}{Zerah}
+{992}{}{Zerach}
 {993}{}{Mr. Nurse}
 {994}{}{Autodoc}
 {995}{}{Mailbox}
-{996}{}{Zerah}
+{996}{}{Zerach}
 {997}{}{Mr. Nurse}
 {998}{}{Trucker}
 {999}{}{Rutger}

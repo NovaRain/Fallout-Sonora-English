@@ -1,4 +1,4 @@
-{100}{}{You see Count Bustos.}
+{100}{}{You see Don Bustos.}
 {101}{}{You see a man in a respectable but shabby suit. His gray temples seem to hint at a difficult past.}
 {102}{}{I heard about such armor, but thought it was fiction.}
 {103}{}{I won't tolerate this highway scum in my city.}
@@ -53,7 +53,8 @@
 {240}{}{What is it this time?}
 {241}{}{You again? What is it this time?}
 {242}{}{You again? I told you to get out of my town.}
-{243}{}{Goodbye, Count Bustos.}
+{1242}{}{You again? I told you to get out of my town.}
+{243}{}{Goodbye, Don Bustos.}
 {244}{}{(As you enter the office, you find the local mayor leaning tiredly on the table. In his other hand he holds a bottle of alcohol. "Oh..." he says, seeing your colorful robe.) What a surprise. I'm usually warned about any visits of ambassadors from your church.}
 {245}{}{I'm just passing through here.}
 {246}{}{Of course. Make yourself comfortable. Heading to Two-Sun? Is there anything I can do to help?}
@@ -124,7 +125,7 @@
 {316}{}{I see.}
 {317}{}{I have nothing to do with this, Mr. Mayor.}
 {318}{}{Okay. For now we'll consider it this way. Don't disappoint me.}
-{319}{}{Of course, Count Bustos. No problem.}
+{319}{}{Of course, Don Bustos. No problem.}
 
 {320}{}{Security says you fixed the street light?}
 {1320}{}{Security says you fixed the street light?}
@@ -275,7 +276,7 @@
 {463}{}{Get the reward ready. Those raider bastards will regret testing you.}
 
 {470}{}{Here you are. Come in, have a seat. After that mess at the bar, I wanted to relax a little and have a drink. Pour yourself something too. After all, it's thanks to you that my daughter and I still enjoy our freedom.}
-{471}{}{Strange business. Count, why did the highwaymen target the city?}
+{471}{}{Strange business. Don, why did the highwaymen target the city?}
 {472}{}{Highwaymen like them usually stick to robbing travelers on the highways and avoid cities and towns in general. But these knew what to do, because their leader once lived in Casa Grande... However, this is a long story, and I still haven't paid you for your help.}
 {473}{}{[More]}
 {474}{}{Here are 250 caps. And you can earn more.}
@@ -333,16 +334,16 @@
 {536}{}{According to the caravan leaders, it's somewhere to the northeast of us.}
 {537}{}{Why were some Casa Grande residents among the highwaymen?}
 {538}{}{It's an old and long story. When I became mayor, the first thing I did was evict all the scum from the city. As it turned out, some of them survived and began to terrorize the highways.}
-{539}{}{I've learned enough. See you again, Count.}
-{1539}{}{I've learned enough. See you later, Count.}
+{539}{}{I've learned enough. See you again, Don.}
+{1539}{}{I've learned enough. See you later, Don.}
 {540}{}{Here's the head of your enemy. You recognize him, right?}
 {541}{}{(looks silently at the head for a while with contempt and hatred, then waves it away with his hand) Throw this rubbish out in the wasteland. Let the radscorpions eat the last leader of the Blue Shields.}
-{542}{}{As you say, Count.}
+{542}{}{As you say, Don.}
 {543}{}{No, don't touch it. I'll hang his head above the railway at the entrance to the city. Let people know what awaits them if they go against authorities.}
 {544}{}{Good idea.}
 {545}{}{Sure, but don't forget to mention who killed him.}
 {546}{}{I appreciate people who do their jobs well. You deserve a reward... (takes caps out of the safe) Here are 500 caps, as we agreed. Now leave me. I want to rest.}
-{547}{}{Goodbye, Count.}
+{547}{}{Goodbye, Don.}
 {548}{}{Hey, where's my reward? I didn't just trek across half the wasteland with a bag of rotting flesh for nothing.}
 {549}{}{Of course. This is your honestly earned right... (takes out caps from the safe) There are 500 caps here, as we agreed. Now leave me.}
 
@@ -351,13 +352,13 @@
 {551}{}{So the rumors are true. The caravanners saw smoke along the trade route. If the fuel depot is destroyed, it will be a difficult time for the Blue Shields.}
 {552}{}{Ahem. The services are not free, wasn't that the deal?}
 {553}{}{Of course, here's the reward - 500 caps. And thanks. Your service is invaluable to the city.}
-{554}{}{You're welcome, Count. As long as your city pays caps, it has a future.}
+{554}{}{You're welcome, Don. As long as your city pays caps, it has a future.}
 {555}{}{I've learned the hard way what happens when you allow violence against yourself, or your people. So, I consider it my duty to stop the Blue Shields.}
 {556}{}{Is that so? Now it's clear why you have so much strength to fight. I really hope you'll save your people from captivity. Take your reward, there are 500 caps here. And thanks. Your service is invaluable to the city.}
-{557}{}{Goodbye, Count Bustos.}
+{557}{}{Goodbye, Don Bustos.}
 {558}{}{It will be. The raiders are definitely weakened and will hopefully turn on each other, or scatter.}
 {559}{}{Great job. I don't mind paying all 500 caps for this. And thanks. Your service is invaluable to the city.}
-{560}{}{You're welcome, Count Bustos.}
+{560}{}{You're welcome, Don Bustos.}
 
 {569}{}{Your city is already suffering from highwaymen. This way there will be fewer of them.}
 {570}{}{I hear you caught one of the highwaymen?}

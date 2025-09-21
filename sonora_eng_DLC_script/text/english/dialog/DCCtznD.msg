@@ -39,6 +39,7 @@
 {210}{}{Of course.}
 {211}{}{Lead the way.}
 {212}{}{Think again. I'm a raider, not a savior. Hand over everything valuable.}
+{1212}{}{Think again. I'm a raider, not a savior. Hand over everything valuable.}
 {213}{}{Please, I have nothing!}
 {214}{}{That's what I thought.}
 {215}{}{Forget it. You're not worth the trouble.}
@@ -53,5 +54,5 @@
 {305}{}{We need to warn the mayor. Let's head to town.}
 {306}{}{The highwaymen might still be around. Stay put for now.}
 {307}{}{What's out there? Can I go out?}
-{308}{}{Let's go. We need to tell Count Bustos what happened.}
+{308}{}{Let's go. We need to tell Don Bustos what happened.}
 {309}{}{It's still dangerous out there. Better stay here a while longer.}

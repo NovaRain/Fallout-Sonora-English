@@ -3,6 +3,7 @@
 
 {102}{}{Oops, I hope no one in the Villa finds out about this...}
 {103}{}{Traitor! You've been possessed by Diablo!}
+{1103}{}{Traitor bitch! You've been possessed by Diablo!}
 {104}{}{Now Hugo will never return to the Villa.}
 {105}{}{Hugo returns to Villa.}
 {106}{}{Of course, friend, as you wish.}

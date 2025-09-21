@@ -1,4 +1,4 @@
-{100}{}{You see an elderly man.}
+{100}{}{You see an old man with a lantern.}
 {101}{}{You see a gaunt man with calloused hands. His skin is blackened from constant work under the sun.}
 
 #Responses after dialogue

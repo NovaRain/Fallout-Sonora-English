@@ -36,6 +36,7 @@
 {230}{}{Your list of "special clients" must include the Followers of Fire.}
 {231}{}{I think a generous tip might sway you. Here's 10 caps.}
 {232}{}{(Grinning with crooked teeth) Thanks, mister.}
+{1232}{}{(Grinning with crooked teeth) Thanks, lady.}
 {233}{}{So, what about those pre-war dinners?}
 {234}{}{Half the town knows me. Don't I deserve some respect?}
 {235}{}{Don't I deserve some respect?}
@@ -49,6 +50,7 @@
 {243}{}{I think I know about that.}
 {244}{}{Really? Then you know what I'm talkin' about. Pure freshness! Top-grade beef. Expensive, but worth it. Look, I've gotten fat off just one steak, like a pregnant rat. Ha-ha!}
 {245}{}{Well, good for you. I hope you're storing all that fat up nicely.}
+{1245}{}{Well, good for you. I hope you're storing all that fat up nicely.}
 
 {250}{}{What happened to Lloyd?}
 {251}{}{Some street thug knifed him like a dog. Shouldn't have been flaunting his new suit.}

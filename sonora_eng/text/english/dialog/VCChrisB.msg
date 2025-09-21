@@ -33,7 +33,6 @@
 {229}{}{I don't know. I can't hide forever, and there's nowhere to run. I've heard about the Rangers, and the scavengers in the next town. But to get there, I need supplies. (bitter laugh) I'm sure as hell not getting those from the Villa.}
 {230}{}{If I get you supplies, you can leave and never come back.}
 {231}{}{I know! Maybe this is what I've always wanted, but was too afraid to admit. Most of our people never tried to learn anything about the outside world. They've lived their way for decades and are ready to throw stones at any change... I want to be free, amigo. Give me a chance!}
-{1231}{}{I know! Maybe this is what I've always wanted, but was too afraid to admit. Most of our people never tried to learn anything about the outside world. They've lived their way for decades and are ready to throw stones at any change... I want to be free, amiga. Give me a chance!}
 {232}{}{Alright, I'll get you supplies for your journey. Wait here.}
 {233}{}{No. My reputation matters. And you deserve punishment. Get ready, we're heading back to the Villa.}
 {234}{}{I need to get the full story first.}

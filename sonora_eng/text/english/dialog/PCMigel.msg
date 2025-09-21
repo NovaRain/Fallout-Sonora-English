@@ -33,7 +33,7 @@
 {204}{}{Oh, how you've grown! I didn't recognize you at first. You still have your father's features... But, what a surprise! What brings you here?}
 {1204}{}{Oh, how you've grown! I didn't recognize you at first. You still have your mother's features... But, what a surprise! What brings you here?}
 {205}{}{I'm looking for my father. It's a long story. In short, he and the other Villa residents were taken by slavers.}
-{206}{}{What?! That's bad news. But honestly, I don't know anything about it... Either way, you'd be smart to skip town while you still can.}
+{206}{}{What?! That's bad news. But honestly, I don't know anything about it... Either way, you'd be smart to get out of town while you still can.}
 {207}{}{But we just reunited... Why would... Uncle Miguel, I walked half the wasteland just to get here!}
 {1207}{}{But we just reunited... Why would... Uncle Miguel, I walked half the wasteland just to get here!}
 {208}{}{You got any clue what's going on around you, kid? This ain't the Villa-Phoenix plays by different rules. I don't want you stirring up trouble. If the boss catches wind, it'll be bad news for both of us.}

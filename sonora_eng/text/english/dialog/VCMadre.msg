@@ -39,7 +39,7 @@
 
 #Quests
 {250}{}{What else can I do for Villa?}
-{251}{}{Your padre still hasn't escaped from wherever he's being held. I'm afraid someone will have to go looking for him. And there's no one else who can do it, except you.}
+{251}{}{Your padre still hasn't escaped from whereever he's being held. I'm afraid someone will have to go looking for him. And there's no one else who can do it, except you.}
 {252}{}{What happened to him after he was taken to Flagstaff?}
 {253}{}{He was interrogated for a long time and was then taken to a large city called Phoenix. I don't know anything other than that.}
 {254}{}{I'll find him.}

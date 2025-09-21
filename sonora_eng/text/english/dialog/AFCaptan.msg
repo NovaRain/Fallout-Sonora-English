@@ -64,7 +64,6 @@
 {275}{}{Well, that's another matter.}
 
 {280}{}{Viva! You did it! The whole village was watching you from the shore. Now the sea will become more merciful to us. Thank you, amigo. We are forever in your debt. Here are 1000 caps. We collected this reward for the person who solved our problem. It's yours now.}
-{1280}{}{Viva! You did it! The whole village was watching you from the shore. Now the sea will become more merciful to us. Thank you, amiga. We are forever in your debt. Here are 1000 caps. We collected this reward for the person who solved our problem. It's yours now.}
 {281}{}{Keep the caps for yourself. I did this not for the sake of caps, but for the sake of ordinary people who were in trouble. How my Villa once felt.}
 {282}{}{You truly are an amazing person.}
 {283}{}{Goodbye, Gilberto. It's time for me to go.}
@@ -108,7 +107,7 @@
 {328}{}{Inferno? What's that?}
 {329}{}{Burnt ruins to the northwest. Those who have been there talk about people...ghouls... disfigured beyond recognition by radiation. That place turns people into demons and takes away their sanity. We avoid Inferno. But the reavers never came here either. They probably don't like the fresh sea air.}
 {330}{}{However, this one somehow got here.}
-{331}{}{Something must have forced him to leave his native ruins. I hope the others don't follow him. Oh yes, here's your 50 caps. Thank you.}
+{331}{}{Something must have forced him to leave his native ruins. I hope the others don't follow him. Oh yes, here are your 50 caps. Thank you.}
 {332}{}{Good luck, Gilberto.}
 {333}{}{Inferno? Yah, he was probably from there.}
 {334}{}{Any small jobs to do?}
@@ -124,7 +123,6 @@
 {344}{}{Things are looking up! The oil rig no longer pollutes the water. I think that in a few weeks the sea waters will begin to bless us with fresh fish again.}
 {345}{}{But things have gotten much better at sea. }
 {346}{}{Ruiz is obsessed with finding a treasure. Which doesn't exist. Hehe. Don't fall for his bait, amigo.}
-{1346}{}{Ruiz is obsessed with finding a treasure. Which doesn't exist. Hehe. Don't fall for his bait, amiga.}
 {347}{}{Ruiz has disappeared somewhere. And I don't want to look for him.}
 {348}{}{It looks like Ruiz has finally found the treasure he's been looking for. Who would have thought that the treasure really existed?}
 {349}{}{Sometimes the sea shows us strange things. One moment a monster emerges from the water, the next the far shore is lit up. But we don't usually venture that far out. Nothing to do there.}

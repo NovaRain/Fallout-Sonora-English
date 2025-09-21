@@ -104,7 +104,7 @@
 {290}{}{The that guy won't bother you anymore.}
 {291}{}{Very good. I don't like getting my hands dirty.}
 {292}{}{[More]}
-{293}{}{All work should be paid decently. Here's your 100 caps. But remember, I had nothing to do with this little incident.}
+{293}{}{All work should be paid decently. Here are your 100 caps. But remember, I had nothing to do with this little incident.}
 {294}{}{No one will know anything, Mr. Mayor.}
 {295}{}{It's not in my best interest to ruin relationships with potential clients.}
 
@@ -195,7 +195,7 @@
 {387}{}{Wow, its own booze?}
 {388}{}{Yes, locally made. Perhaps you've never tried this wonderful drink? The moonshiner supplied us with beer and traded it with Phoenix. Eh, if it weren't for those damn radscorpions, he would still continue to bring good income to the treasury.}
 {389}{}{I've seen tequila production in Phoenix before.}
-{390}{}{Really? Sometimes caravans bring fire agave syrup from the south for Phoenix. For our brewer, this competition was a tough pill to swallow. And actually, now we ourselves are buying this Phoenix swill.}
+{390}{}{Really? Sometimes caravans bring fire agave juice from the south for Phoenix. For our brewer, this competition was a tough pill to swallow. And actually, now we ourselves are buying this Phoenix swill.}
 {391}{}{Enough about the sad stuff. Let's talk about something else.}
 {392}{}{Is there a store here?}
 {393}{}{If you need water, go to the water pump. We take the rest of the goods from the caravan workers at the parking lot nearby.}

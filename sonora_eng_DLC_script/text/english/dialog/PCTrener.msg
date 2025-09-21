@@ -48,12 +48,14 @@
 {244}{}{Movies?}
 {245}{}{Yeah. Some scavengers found a working projector and old films. It was the only real entertainment back then. But the theater didn't last long. The owner was killed by raiders, and the projector vanished.}
 
-{250}{}{Ah, the new champion. (He looks you over with a critical eye.) Honestly, I wouldn't put you in the ring, but Angelo doesn't have much choice. Enjoy your win, and get out of my room.}
+{250}{}{Ah, another victim of the ring. (looks you up and down with an expert air) I wouldn't have let you into the ring, of course, but Angelo has no choice really. Enjoy your victory. And - get out of my room.}
 {251}{}{Hmph. I'm outta here.}
 {252}{}{You're just jealous. Stay in your hole, you drunk.}
 {253}{}{Ah, the new champion. Looks like our training paid off. Use those skills for good.}
+{1253}{}{Ah, the new champion. Looks like our training paid off. Use those skills for good.}
 {254}{}{Don't worry, Mike. See you around.}
-{255}{}{Ah, the new champion. (He looks you over again, sizing you up.) I don't get why you're in the fights, but at least you seem like a decent guy. (raises his bottle) Cheers.}
+{255}{}{Ah, the new champion. (He looks you over again, sizing you up.) I don't get why you even bother fighting, but at least you seem like a decent guy. (raises his bottle) Cheers.}
+{1255}{}{Ah, the new champion. (He looks you over again, sizing you up.) I don't get why you even bother fighting, but at least you seem like a decent gal. (raises his bottle) Cheers.}
 {256}{}{Later.}
 
 {260}{}{Angelo told me about your tragedy. Can you tell me about it?}

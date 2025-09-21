@@ -23,7 +23,7 @@
 {208}{}{The steering wheel already has a skull decoration.}
 {209}{}{You've repaired the broken headlight. Now it will light your way.}
 {210}{}{All the lights on this motorcycle are working fine.}
-{211}{}{This is more about the luggage container.}
+{211}{}{This is more about the luggage compartment.}
 
 # Using skills
 {300}{}{Nothing to hack here.}

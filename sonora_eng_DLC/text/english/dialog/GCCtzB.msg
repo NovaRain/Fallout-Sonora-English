@@ -21,6 +21,7 @@
 {226}{}{Damn coyotes. I don't know what they smelled, but there was a whole pack of them. I'm afraid to get too close, but all my tools are in my trailer. Can you help get rid of them? I'll pay five caps per coyote, just so I can get to my home.}
 {227}{}{Okay, agreed.}
 {228}{}{I'm not a hunter, but I'll think about it.}
+{1228}{}{I'm not a hunter, but I'll think about it.}
 {229}{}{Actually, not really. The mine is running dry, and there's little work left. Besides, it's a dirty and tough job.}
 {230}{}{I see.}
 {231}{}{I'll get rid of the coyotes for you. But answer a few questions first.}

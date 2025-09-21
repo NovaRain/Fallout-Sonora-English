@@ -64,7 +64,6 @@
 
 # Racket after the final game
 {270}{}{Oh, thanks, amigo. If it weren't for you, those thugs would have wrecked this place, and probably hurt some of us.}
-{1270}{}{Oh, thanks, amiga. If it weren't for you, those thugs would have wrecked this place, and probably hurt some of us.}
 {271}{}{What did they want from you?}
 {272}{}{It's just a racket. After the Cardinals gang broke up, God knows what began in the slums. Now any thug who was afraid to even go outside before, can rob and beat people at will.}
 {273}{}{Weren't the Cardinals themselves just thugs?}

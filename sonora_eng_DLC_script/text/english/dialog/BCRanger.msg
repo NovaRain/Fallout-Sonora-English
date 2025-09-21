@@ -44,7 +44,7 @@
 {236}{}{[Listen]}
 {237}{}{Phoenix can't be trusted. They're just a bunch of adventurers and tyrants. The townsfolk don't know any better, and the tribe has its own culture and traditions. We can't let greedy city folks ruin their lives.}
 {238}{}{I see. You want to push the missionaries back to the city?}
-{239}{}{We can't match their numbers for an open fight. And the tribe's split, thanks to Phoenixian influence on the youth. Help me prep a team to drive out the missionaries. We need to heal the wounded and talk sense into Chief Chatto's son.}
+{239}{}{We can't match their numbers for an open fight. And the tribe's split, thanks to Phoenixian influence on the youth. Help me prep a team to drive out the missionaries. We need to heal the wounded and talk sense into Chatto, the Chief's son.}
 {240}{}{Alright. I'll see what I can do.}
 {241}{}{I doubt your team can handle it. I'll look for another way.}
 

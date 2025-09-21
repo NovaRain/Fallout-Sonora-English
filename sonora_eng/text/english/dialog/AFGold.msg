@@ -5,7 +5,6 @@
 {104}{}{If I come across any more treasure maps, I'll be sure to call you.}
 {105}{}{Looking for treasure? It's not here.}
 {106}{}{I wouldn't even think of hiding here if I were you. The Reavers will definitely smell you.}
-{107}{}{Okay.}
 
 {200}{}{Hey, new guy! My name is Jose Rene Ruiz. What do the winds of fate bring our little town?}
 {1200}{}{Hey, new girl! My name is Jose Rene Ruiz. What do the winds of fate bring our little town?}

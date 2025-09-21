@@ -11,6 +11,7 @@
 #Before the quest
 {200}{}{Hey, this is my house. What do you want?}
 {201}{}{I'm a thief.}
+{1201}{}{I'm a thief.}
 {202}{}{Great. Just what I needed. Get out of here, you idiot!}
 {1202}{}{Wonderful. Just magical... Get out of here, you impudent whore!}
 {203}{}{Bye.}
@@ -41,6 +42,7 @@
 {230}{}{You again? What do you want?}
 {231}{}{People are talking about you lately. What's brings you here?}
 {232}{}{Hello, neighbor. What's new?}
+{1232}{}{Hello, neighbor. What's new?}
 {233}{}{Just wanted to say hello before I leave.}
 
 {240}{}{What do you do, Frank?}

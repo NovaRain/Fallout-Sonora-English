@@ -16,6 +16,7 @@
 {213}{}{Sorry, we only trade with caravans we have contracts with.}
 {214}{}{Alright. Goodbye, Herbert.}
 {215}{}{What do you need, my mutated friend?}
+{1215}{}{What do you need, my mutated friend?}
 {216}{}{Mutants should help each other out. Don't you think?}
 {217}{}{Well... Alright. The boss talked about people, but he didn't mention mutants. If you need anything, let me know. I'll try to help. And tell you what, I'll give you the special 'ghoul' price, not the normie rate.}
 {218}{}{Sounds great friend.}

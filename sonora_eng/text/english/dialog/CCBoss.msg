@@ -29,7 +29,6 @@
 {208}{}{}
 {209}{}{}
 {210}{}{So, amigo, you probably have a lot of questions. I would also like to find out more about you, but unfortunately I have my hands full at the moment. Someone stole the crown for our ceremony. And we can't find it. You can't have a coronation without a crown, that would go against our traditions.}
-{1210}{}{So, amiga, you probably have a lot of questions. I would also like to find out more about you, but unfortunately I have my hands full at the moment. Someone stole the crown for our ceremony. And we can't find it. You can't have a coronation without a crown, that would go against our traditions.}
 {211}{}{I see you have no time to talk right now. I'll come back later.}
 {212}{}{Then I'll try to find this crown.}
 {213}{}{Is this the crown you're looking for?}

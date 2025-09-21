@@ -68,7 +68,7 @@
 {259}{}{Alright, let's go.}
 
 {260}{}{Wait here until I get back.}
-{261}{}{Sure, as you say. But if time runs out, I'll head back to the caravan site.}
+{261}{}{Sure, whatever you say. But if time runs out, I'll head back to the caravan site.}
 {262}{}{Don't go anywhere.}
 {263}{}{Follow me.}
 {264}{}{You got it, Chief.}

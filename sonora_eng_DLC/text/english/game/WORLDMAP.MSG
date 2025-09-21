@@ -421,6 +421,7 @@
 {3269}{}{Legend City.}
 {3270}{}{A farmer who is bankrupt.}
 {3271}{}{The terrible monster La Fantasma!}
+{3272}{}{Dehydration!}
 
 # Encounter Table 6-- DSRT_A
 {3300}{}{A dust storm!}

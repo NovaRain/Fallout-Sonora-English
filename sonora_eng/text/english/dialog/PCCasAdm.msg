@@ -70,7 +70,6 @@
 
 #GG is your own man
 {290}{}{Come in, amigo. Welcome to Don Diego's family. Now you're a made man, and the family values its people and doesn't abandon them when in trouble. But you also follow the rules. Don't upset your boss - that's the first one.}
-{1290}{}{Come in, amiga. Welcome to Don Diego's family. Now you're 'made', and the family values its people and doesn't abandon them when in trouble. But you also follow the rules. Don't upset your boss - that's the first one.}
 {291}{}{Of course, Bill, I get it.}
 {292}{}{Great, now I can tell you straight - you're a lousy manager. How's that taste?}
 {293}{}{You know, there is some truth in your words. But Don Diego didn't find anyone better for this position. At least he and I have complete trust when it comes to casino operations.}

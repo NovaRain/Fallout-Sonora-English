@@ -12,6 +12,7 @@
 {206}{}{Some units originated from that cult. But here, under the Two Suns, the protocols differ. You may remain in our city, but do not distract my units from their critical functions.}
 {207}{}{I'm a representative of the Brotherhood of Steel.}
 {208}{}{The Brotherhood of Steel. They provided us with energy and knowledge of lost technologies. How may we assist a fellow bearer of the metal?}
+{1208}{}{The Brotherhood of Steel. They provided us with energy and knowledge of lost technologies. How may we assist a fellow bearer of the metal?}
 {209}{}{Actually, I'm here to locate my relatives. Are they here?}
 {210}{}{(processing data) Peasants from Villa... Your request is too late. Your kin have already been assigned to the Forbidden Zone, excavating ancient tech.}
 {211}{}{I need to ask you some questions.}

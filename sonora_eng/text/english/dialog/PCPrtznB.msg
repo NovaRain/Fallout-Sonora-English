@@ -53,7 +53,7 @@
 {270}{}{Are you the local explosives expert? I could use some pointers.}
 {271}{}{Sorry, but I don't have time for lessons.}
 {272}{}{I can pay in caps. It'll cover your trouble.}
-{273}{}{Alright, seeing as caps can fund our Party's work, and save time, I'll do it. But first you get me 350 caps, then I'll teach you what I know.}
+{273}{}{Alright, seeing as caps can fund our Party's work, and save time, I'll do it. But first you get me 350 caps, Then I'll teach you what I know.}
 {274}{}{Agreed. I'll be back with the caps.}
 {275}{}{Nevermind then.}
 {276}{}{Considering I saved one of your pals, you might cut me some slack.}

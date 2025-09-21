@@ -4,6 +4,7 @@
 
 # First dialogue
 {200}{}{(you see a bald woman with an optical amplifier under her left eye) Another wasteland primitive with primitive notions of Progress. Our conversation is irrelevant. Move along.}
+{1200}{}{(you see a bald woman with an optical amplifier under her left eye) Another wasteland primitive with primitive notions of Progress. Our conversation is irrelevant. Move along.}
 {201}{}{Yeah, whatever.}
 {202}{}{I think you're missing out on a lot.}
 {203}{}{My views on Progress might surprise you.}

@@ -1,4 +1,6 @@
 {102}{}{Don't push!}
+{103}{}{Don't touch me!}
+{104}{}{Your armor seems to frighten the child.}
 
 #Response - reputation >5
 {110}{}{You'll protect us, right?}

@@ -1,4 +1,4 @@
-{100}{}{You see Count Bustos.}
+{100}{}{You see Don Bustos.}
 {101}{}{You see a man in a respectable but shabby suit. His gray temples seem to hint at a difficult past.}
 {102}{}{Thanks for your help. See you at my mansion.}
 {103}{}{Go back to my mansion. We'll talk there.}
@@ -61,8 +61,9 @@
 {273}{}{So there's no choice. They'll all have to be taken out. Can you get my daughter out of the bar without anyone noticing?}
 {274}{}{Give me time, I'll try to get her out without anyone noticing.}
 {275}{}{That's impossible. I propose a frontal attack right now!}
-{276}{}{Relax, Count. All the highwaymen in the bar are already dead.}
+{276}{}{Relax, Don. All the highwaymen in the bar are already dead.}
 {277}{}{Amazing! You are quite the problem solver.}
+{1277}{}{Amazing! You are quite the problem solver.}
 {278}{}{Then you're in luck.}
 
 {280}{}{}

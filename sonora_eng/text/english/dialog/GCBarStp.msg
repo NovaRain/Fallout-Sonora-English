@@ -67,6 +67,5 @@
 {309}{}{I really have to go.}
 {310}{}{How about you take 10 caps, and we forget about everything.}
 {311}{}{Good decision, amigo. Now get out of the bar.}
-{1311}{}{Good decision, amiga. Now get out of the bar.}
 {312}{}{I've changed my mind. Give me back my caps, bitch!}
 {313}{}{Uh, okay...}

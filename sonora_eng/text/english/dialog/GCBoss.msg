@@ -67,7 +67,7 @@
 {201}{}{Ahem. Are you in charge here?}
 {202}{}{(puts down the headphones and presses some buttons on the device, then points to it) This is an old tape player. Before the Great War, these were produced by the famous Wattz Electronics company. The model wasn't the most high-end, but was well made. Evidenced by its survival to this day.}
 {203}{}{[Listen]}
-{204}{}{This is why I love old things. Our ancestors made many mistakes, but they knew how to make tape players. Back then, many factories, producing many different devices, tools, and machines, operated throughout Arizona. Now they're all gone.}
+{204}{}{This is why I love old things. Our ancestors made many mistakes, but they knew how to make tape players. Back then, many factories, producing many different devices, tool, and machines, operated throughout Arizona. Now they're all gone.}
 {205}{}{Who needs old stuff like that?}
 {206}{}{I knew you couldn't grasp it. Now, what do you want, boy?}
 {1206}{}{I knew you couldn't grasp it. Now, what do you want, lady?}
@@ -108,8 +108,8 @@
 {1241}{}{What did you find out about the fight in the dorm?}
 {242}{}{Nothing. I'll get digging right now.}
 {243}{}{Can I ask you a couple of questions?}
-{244}{}{First prove that you're worthy of my attention. Or are you already planning to skip out of town?}
-{1244}{}{First prove that you're worthy of my attention. Or are you already planning to skip out of town?}
+{244}{}{First prove that you're worthy of my attention. Or are you already planning to get out of town?}
+{1244}{}{First prove that you're worthy of my attention. Or are you already planning to get out of town?}
 {245}{}{Okay, I'll do what you ask.}
 {246}{}{That's exactly what I'm going to do.}
 {247}{}{Lucas's men robbed Trayvon's men and left town. They were talking about some kind of decoder.}
@@ -133,11 +133,11 @@
 {262}{}{I've had enough of this local drama. Goodbye.}
 
 {270}{}{Are you the local elder?}
-{271}{}{Elder... Is that what the peasants call the mayor? No, the city doesn't need a mayor. At least for now. I'm the boss of the scavenger cartel. But since the whole city is tied to this business, not a single important decision can be made without me. In this sense, you can consider me an "elder".}
+{271}{}{Elder... Is that what the peasants call the mayor? No, the city doesn't need a mayor. At least for now. I'm the boss of the scavenger cartel. But since the whole city is tied to this business, not a single important decision can be made without me. In this sense, you can consider me "elder".}
 {272}{}{So you're the mayor of this city?}
 {273}{}{No. And the city doesn't need a mayor. At least for now. I'm the boss of the scavenger cartel. But since the whole city is tied to this business, not a single important decision can be made without me. In this sense, you can consider me the mayor.}
 {274}{}{How did you become the head of the cartel? You must have eliminated your rivals?}
-{275}{}{Nothing like that. I started out as an ordinary scavenger in the Big City. The cartel already existed; I just took a vacant position in the administration. And then we opened a branch in these ruins, and I decided to move here to supervise the work.}
+{275}{}{Nothing like that. I started out as an ordinary scavenger in the Big City. The cartel already existed; I just took a vacant position in the administration. And then we opened a branch on these ruins, and I decided to move here to supervise the work.}
 {276}{}{It doesn't seem like you want to go back.}
 {277}{}{I'm afraid the main office and I are having some... disagreements.}
 {278}{}{What does your cartel do?}

@@ -65,7 +65,8 @@
 
 {280}{}{Viva! You did it! The whole village was watching you from the shore. Now the sea will become more merciful to us. Thank you, amigo. We are forever in your debt. Here are 1000 caps. We collected this reward for the person who solved our problem. It's yours now.}
 {1280}{}{Viva! You did it! The whole village was watching you from the shore. Now the sea will become more merciful to us. Thank you, amiga. We are forever in your debt. Here are 1000 caps. We collected this reward for the person who solved our problem. It's yours now.}
-{281}{}{Keep the caps for yourself. I did this not for the sake of caps, but for the sake of ordinary people who were in trouble. How my Villa once felt.}
+{281}{}{Keep the caps... I didn't do this for them - I did it for ordinary people who were in trouble. Like my Villa was.}
+{1281}{}{Keep the caps... I didn't do this for them - I did it for ordinary people who were in trouble. Like my Villa was.}
 {282}{}{You truly are an amazing person.}
 {283}{}{Goodbye, Gilberto. It's time for me to go.}
 {284}{}{Well, if you insist, I'll have to take these caps.}

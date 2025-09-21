@@ -22,6 +22,7 @@
 {223}{}{Why?}
 {224}{}{Can you explain?}
 {225}{}{It's not hard to guess that if people win too much, it hurts the casino's profits. You've already earned enough for a comfortable old age. It's time to give way to new players. Don't you think?}
+{1225}{}{It's not hard to guess that if people win too much, it hurts the casino's profits. You've already earned enough for a comfortable old age. It's time to give way to new players. Don't you think?}
 {226}{}{So I broke the house, right? You can't fool me.}
 {227}{}{I can understand your logic, but it still sucks.}
 {228}{}{Please, don't be upset. We always value wealthy clients. Let me give you a small gift from our casino to keep things friendly. This bottle contains *real* pre-war whiskey. Not poisoned or irradiated. An expensive and rare pleasure these days.}

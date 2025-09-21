@@ -57,6 +57,7 @@
 {274}{}{Agreed. I'll be back with the caps.}
 {275}{}{Nevermind then.}
 {276}{}{Considering I saved one of your pals, you might cut me some slack.}
+{1276}{}{Considering I saved one of your pals, you might cut me some slack.}
 {277}{}{Fair point. Sorry, it's hectic right now. Still, a hundred caps donation would be fair.}
 {278}{}{Here's a hundred caps...}
 {279}{}{Here's 350 caps...}

@@ -63,6 +63,7 @@
 {274}{}{Naturally, everyone's out for a buck. Don't fret; I'll pay up once I'm rolling in it. We're in this together. Just gotta be patient a little while longer.}
 {275}{}{I'll see what I can do with the mayor.}
 {276}{}{Appreciate it, partner. What would I do without you?}
+{1276}{}{Appreciate it, partner. What would I do without you?}
 {277}{}{Catch you later.}
 {278}{}{Talking to that tyrant's a scary thought. Find someone else.}
 {279}{}{Got it. No worries, I'll figure something out. Thanks for the offer anyway.}

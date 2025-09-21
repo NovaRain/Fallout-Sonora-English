@@ -134,6 +134,7 @@
 {334}{}{Good people should share their experiences.}
 {335}{}{How about for 25 caps?}
 {336}{}{I doubt you have them. You probably robbed someone or took it from a corpse. But I don't need that.}
+{1336}{}{I doubt you have them. You probably robbed someone or took it from a corpse. But I don't need that.}
 {337}{}{Well, well.}
 {338}{}{Earn some trust first, then we'll talk.}
 {339}{}{So I guess I haven't earned your trust yet. Got it.}

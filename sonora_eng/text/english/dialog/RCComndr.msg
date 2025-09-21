@@ -17,7 +17,7 @@
 
 #Questions
 {220}{}{How did you become a Ranger?}
-{221}{}{Started young, honed my skills in the desert, put in the time. Serve as long as I have, and maybe you'll earn that field commander title too.}
+{221}{}{Started young, honed my skills in the desert, put in the time. Serve as long as I have, and maybe you'll earn that field captain title too.}
 {222}{}{What is this place?}
 {223}{}{This is the main Ranger base. Command center's in the dam's power plant; training happens here, along with "diplomatic" meetings.}
 {224}{}{What kind of "diplomatic" meetings?}

@@ -2,7 +2,7 @@
 {101}{}{You see one of the females of the Jackal tribe.}
 
 #Response
-{200}{}{(grinding teeth) Shh! Don't come near me, stranger!}
+{200}{}{(baring teeth) Grr! Don't come near me!}
 {201}{}{Goodbye.}
 {202}{}{I just want to talk about the tribe.}
 {203}{}{Your empty words only tease my hunger. Bring food or leave me.}

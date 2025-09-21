@@ -107,7 +107,7 @@
 {264}{}{Ho-ho-ho, time to flaunt this baby. You sure you don't want a little something as a token of appreciation? How about a cold one?}
 {265}{}{Thanks, I'll take one. Best of luck, Joe.}
 {266}{}{Please, I'm really hurting for some medicine. We're buddies, aren't we?}
-{267}{}{C'mon, you wouldn't want me to suffer, would you?}
+{267}{}{C'mon, you wouldn't want me to die, would you?}
 
 #About trading
 {270}{}{What's on the trading menu today?}
@@ -124,6 +124,7 @@
 {281}{}{I guess you've got a point. Both me and my regulars would be happy to see you around. How about a 20% discount?}
 {282}{}{Fantastic. What's on offer today?}
 {283}{}{Word on the street is there's trouble stirring thanks to some stranger in town. Let's hope he doesn't stick around too long.}
+{1283}{}{Word on the street is there's trouble stirring thanks to some stranger in town. Let's hope she doesn't stick around too long.}
 {284}{}{Prices seem higher than usual. What gives?}
 {285}{}{Ah, there was a bit of a trade "hiccup". If you're not a fan of the prices, well, good luck finding another watering hole in this city. Spoiler alert: there ain't one.}
 {286}{}{Got it.}

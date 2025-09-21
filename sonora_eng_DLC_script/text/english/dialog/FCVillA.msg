@@ -3,6 +3,7 @@
 
 {102}{}{Oops, I hope no one in the Villa finds out about this...}
 {103}{}{Traitor! You've been possessed by Diablo!}
+{1103}{}{Traitorous whore! You've been possessed by Diablo!}
 {104}{}{Now Sancho will never return to Villa.}
 {105}{}{Sancho returns to Villa.}
 {106}{}{Alright, if it must be done.}

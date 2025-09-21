@@ -79,5 +79,5 @@
 {279}{}{Interesting. Wish I was better at that. I stick to cuts and bruises -- delving into the mind is too scary.}
 {280}{}{Don't lose hope, Doc.}
 {281}{}{No doubt. Stick to what you know well.}
-{282}{}{Thanks. And thanks for your help with my patient. I want to share something with you. Here's a doctor's bag and a couple of stims. I'm sure you'll find a good use for them.}
+{282}{}{Thanks. And thanks for your help with my patient. I want to share something with you. Here's a surgical kit and a couple of stims. I'm sure you'll find a good use for them.}
 {283}{}{Thanks, Doc. Take care.}

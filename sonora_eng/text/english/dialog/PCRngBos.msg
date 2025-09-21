@@ -165,7 +165,6 @@
 {364}{}{So, you're saying I'm done fighting?}
 {365}{}{What the hell! You're kicking me out of the ring?}
 {366}{}{Exactly. Sorry, amigo, but every fighter's got their golden moment. It's been good doing business with you, but now it's time to part ways.}
-{1366}{}{Exactly. Sorry, amiga, but every fighter's got their golden moment. It's been good doing business with you, but now it's time to part ways.}
 {367}{}{Damn, Angelo, it's always about the caps with you, isn't it? Guess there's nothing left for me here.}
 {368}{}{Fuck you!}
 

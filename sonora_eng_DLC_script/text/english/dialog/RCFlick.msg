@@ -5,6 +5,7 @@
 
 #Start of Dialogue
 {200}{}{Hey there, wanderer! Need some gear for yer travels? I can get ya anythin'... Wait, sold all my stuff to them damn Rangers. Shit.}
+{1200}{}{Hey there, lady! Need some gear for yer travels? I can get ya anythin'... Wait, sold all my stuff to them damn Rangers. Shit.}
 {201}{}{So you're a trader?}
 {202}{}{Name's Flick. I peddle goods in Ranger territory. What'cha need? Maybe I knows where to find it?}
 {203}{}{I doubt you have what I need. So long, Flick.}
@@ -51,6 +52,7 @@
 {268}{}{Hmmm. Well, alright.}
 {269}{}{To the north. We call it "Villa".}
 {270}{}{Hey, I know you. You were here 'fore the dam got washed away by the Colorado.}
+{1270}{}{Hey, I know you. You were here 'fore the dam got washed away by the Colorado.}
 {271}{}{That was me. And what are *you* doing here?}
 {272}{}{Rangers are in big trouble now, smells like chaos. But ya know what - my goods still sell, even in this mess. Gotta... change my stock a bit.}
 {273}{}{Like sell weapons, drugs, and booze?}

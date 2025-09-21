@@ -82,7 +82,7 @@
 {283}{}{What do they grow here?}
 {284}{}{Mostly corn and fire agave. The whole town lives off these plantations.}
 {285}{}{So you trade with other cities?}
-{286}{}{The harvest is only enough for our needs and for nearby settlements. A caravan from Phoenix regularly comes for agave syrup.}
+{286}{}{The harvest is only enough for our needs and for nearby settlements. A caravan from Phoenix regularly comes for agave juice.}
 {287}{}{By the way, what settlements are around?}
 {288}{}{I see.}
 {289}{}{Puerto to the west and Two-Sun to the east. That's all, except a few small villages and outposts here and there. They come and go, hardly worth noticing.}

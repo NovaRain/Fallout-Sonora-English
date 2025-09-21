@@ -31,7 +31,7 @@
 {225}{}{Well, well, we've got a rat here...}
 {226}{}{I don't negotiate with civilians.}
 {227}{}{Does the guard know you're on the ship?}
-{228}{}{What, a stranger on board? You've got five seconds to explain, or else...}
+{228}{}{What the... a stranger on board? You've got five seconds to explain, or else...}
 {229}{}{Do you even realize you're on a warship?}
 
 {230}{}{Did something happen?}

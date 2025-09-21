@@ -158,8 +158,8 @@
 {7601}{}{Do not use (Electronics).}
 {7700}{}{Gas Mask}
 {7701}{}{An old, damaged civilian model gas mask. It may still serve you for a while.}
-{7800}{}{Tinsmith's Goggles}
-{7801}{}{Electronic goggles made by Two-Sun Tinsmiths. Equipped with a night vision device, interchangeable lenses and various sensors. The battery lasts for 10 minutes.}
+{7800}{}{Tinsmith's Glasses}
+{7801}{}{Electronic glasses made by Two-Sun Tinsmiths. Equipped with a night vision device, interchangeable lenses and various sensors. The battery lasts for 10 minutes.}
 {7900}{}{Flare}
 {7901}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. Turn the top to turn it on.}
 {8000}{}{!Reserve book}
@@ -181,7 +181,7 @@
 {8800}{}{Scrap Metal}
 {8801}{}{Valuable parts from mechanical equipment. May be useful for repairs or for profitable exchange.}
 {8900}{}{Electronics Parts}
-{8901}{}{Various parts from electronic equipment: capacitors, vacuum tubes, inductors and much more. All this can be useful for repairs or for a profitable exchange.}
+{8901}{}{Various parts from electronic equipment: capacitors, cathode tubes, inductors and much more. All this can be useful for repairs or for a profitable exchange.}
 {9000}{}{Flammable Mixture}
 {9001}{}{A bottle containing a blend of various flammable substances. A relatively valuable resource in post-nuclear conditions.}
 {9100}{}{!Do not use}
@@ -245,7 +245,7 @@
 ###------- ALCOHOL
 {12000}{}{-DLC}
 {12001}{}{-DLC}
-{12100}{}{Agave Syrup}
+{12100}{}{Syrup}
 {12101}{}{Syrup obtained from the juice of the "fire agave". Despite the terrible stench and burning taste, it contains large amounts of fructose and sugar.}
 {12200}{}{Swill}
 {12201}{}{A diluted low-quality alcoholic drink. Its composition and origin can no longer be determined. Effects: -1 PE, -1 IN.}
@@ -708,7 +708,7 @@
 ###------- HOLODISKS
 {35000}{}{Founder's Notes}
 {35001}{}{A battered and ancient holodisk with notes from the Founder of the Villa. Looks like it can be inserted into your Pip-Boy.}
-{35100}{}{Vault Diary}
+{35100}{}{Diary from the Vault}
 {35101}{}{A holotape containing the diary of an inhabitant of Vault 27.}
 {35200}{}{Expedition Report}
 {35201}{}{An dirt-stained holotape, inscribed with reports from a Vault 27 expedition.}
@@ -717,8 +717,8 @@
 {35400}{}{McBain's Entry}
 {35401}{}{A death audio recording of Sergeant McBain.}
 {35500}{}{Mayor's Holodisk}
-{35501}{}{A holodisk with instructions for the mayor of Casa Grande. The originator remains prudently unidentified.}
-{35600}{}{George Crook's Notes}
+{35501}{}{A holotape with instructions for the mayor of Casa Grande. The originator remains prudently unidentified.}
+{35600}{}{Posts by George Crook}
 {35601}{}{A holotape containing field notes compiled by the missionary commander to San Brahmin.}
 {35700}{}{Letter from Vault-Tec}
 {35701}{}{A holotape containing an official letter from Vault-Tec.}
@@ -775,7 +775,7 @@
 {38300}{}{!Do Not Use}
 {38301}{}{Original: Shiloh.}
 {38400}{}{Lost Pistol}
-{38401}{}{The missing pistol from the Ranger warehouse.}
+{38401}{}{The very pistol missing from the Ranger warehouse.}
 {38500}{}{Bemis Glasses}
 {38501}{}{These are Henry Bemis' reading glasses. They are enormous.}
 {38600}{}{Neurochip}
@@ -796,7 +796,7 @@
 {39301}{}{A letter of recommendation for you from Preacher Hiram in Flagstaff, directed to Aaron, Lord of Phoenix, and the Church of the Holy Fire.}
 {39400}{}{Advisor's Report}
 {39401}{}{This holodisk was handed to you by Ulysses Grant. It should be delivered to the military base in Puerto Penasco.}
-{39500}{}{Stolen Letters}
+{39500}{}{Lost Letters}
 {39501}{}{Various letters for recipients in Phoenix.}
 {39600}{}{Ben's Head}
 {39601}{}{The severed head of the leader of the Blue Shields.}
@@ -808,7 +808,7 @@
 {39901}{}{The head of yet another Los Panchos boss.}
 {40000}{}{Gil McCord's Head}
 {40001}{}{The severed head of a legendary marksman from the Mercenary Guild.}
-{40100}{}{Spear Fragment}
+{40100}{}{Spear Piece}
 {40101}{}{A fragment of a spear taken from the shell of a giant radscorpion.}
 {40200}{}{Glowing Mushroom}
 {40201}{}{An unusual fungus that forms in toxic puddles, inedible for humans.}
@@ -1039,7 +1039,7 @@
 {51500}{}{}
 {51501}{}{}
 {51600}{}{Pip-Boy Booster}
-{51601}{}{The booster is designed for quick analysis of the environment. Designed by Brotherhood of Steel scribes, standard model.}
+{51601}{}{The amplifier is designed for quick analysis of the environment. Designed by Brotherhood of Steel scribes, standard model.}
 {51700}{}{}
 {51701}{}{}
 {51800}{}{}

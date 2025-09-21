@@ -16,6 +16,7 @@
 {210}{}{Got it.}
 
 {211}{}{Hmm. (lowers the gun) You don't seem like a mercenary. Who are you, and what are you doing here?}
+{1211}{}{Hmm. (lowers the gun) You don't seem like a mercenary. Who are you, and what are you doing here?}
 {212}{}{Spit it out before I turn your head into a mess.}
 {213}{}{Someone's gonna get killed. But it won't be me.}
 

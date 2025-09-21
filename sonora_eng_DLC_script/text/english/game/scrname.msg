@@ -197,7 +197,7 @@
 {297}{}{Inspector}
 {298}{}{Instructor}
 {299}{}{Slave}
-{300}{}{Doctor}
+{300}{}{Biomechanic}
 {301}{}{Tinsmith}
 {302}{}{Tinsmith}
 {303}{}{Computer}
@@ -470,7 +470,7 @@
 {570}{}{Grave}
 {571}{}{Grave}
 {572}{}{Scrap Metal}
-{573}{}{Count Bustos}
+{573}{}{Don Bustos}
 {574}{}{Christina}
 {575}{}{Bodyguard}
 {576}{}{Water Trader}
@@ -491,7 +491,7 @@
 {591}{}{Bandit}
 {592}{}{Bandit}
 {593}{}{Christina}
-{594}{}{Count Bustos}
+{594}{}{Don Bustos}
 {595}{}{Bodyguard}
 {596}{}{Sullivan}
 {597}{}{Casa Grande Resident}

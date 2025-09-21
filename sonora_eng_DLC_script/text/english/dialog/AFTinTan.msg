@@ -35,7 +35,8 @@
 {238}{}{German Henaro Cipriano Gomez Valdes-y-Castillo is dead. Who are you?}
 {239}{}{I don't know what you're talking about!}
 {240}{}{The real German Valdes died on the stagecoach. You took his documents and impersonated him. Isn't that right?}
-{241}{}{(looks around) Listen, you, the jokes are over. Listen to me, motherfucker. Keep your mouth shut. Or you'll end up like that kid. Got it?}
-{242}{}{That sounds like a confession. It's time to take your punishment, you bitch!}
+{241}{}{(looks around) Listen up, asshole. We're done joking. Keep your mouth shut or you'll end up like that kid. Got it?}
+{1241}{}{(looks around) Listen up, bitch. We're done joking. Keep your mouth shut or you'll end up like that kid. Got it?}
+{242}{}{That sounds like a confession. Maybe *you* should've kept your mouth shut...}
 {243}{}{I won't say a word to anyone. I promise.}
 {244}{}{Really? Well, you probably know better. Sorry to trouble you.}

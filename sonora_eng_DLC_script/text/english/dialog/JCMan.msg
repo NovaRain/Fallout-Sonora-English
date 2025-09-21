@@ -19,14 +19,15 @@
 {201}{}{When you die, I'm gonna rip the meat off your bones first.}
 {202}{}{My fangs thirst for your blood.}
 {203}{}{Your brain will be mine when you die.}
-{204}{}{}
+
 {205}{}{By killing you, I'll gain fame and respect.}
 {206}{}{Do you want to die, outsider?}
 {207}{}{Mmm, what a juicy outsider.}
-{208}{}{}
-{209}{}{}
+
+{1205}{}{Killing you'll earn me fame and respect.}
+{1206}{}{Do you want to die, outsider?}
+{1207}{}{Mmm, what a juicy outsider.}
+
 {210}{}{My l-life is yours now, outsider.}
 {211}{}{*Piteous whine*}
-{212}{}{}
-{213}{}{}
-{214}{}{}
+

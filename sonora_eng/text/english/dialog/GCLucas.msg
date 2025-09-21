@@ -40,7 +40,7 @@
 {183}{}{You talk to yourself a lot, huh?}
 {184}{}{Kogan agreed with a neighboring city to supply parts from this factory. The caravan is already on its way. All we need is to get ahead of it and meet the caravan earlier.}
 {185}{}{Why do you need this?}
-{186}{}{This factory is a practical goldmine! You just need to get it working and find customers. There aren't many, but they exist.}
+{186}{}{This factory is an endless mine! You just need to get it working and find customers. There aren't many, but they exist.}
 {187}{}{Okay, but what about our agreement?}
 {188}{}{You better stick with us. We'll talk when this is all done.}
 {189}{}{But I don't want any part of this!}

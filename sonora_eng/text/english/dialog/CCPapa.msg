@@ -33,7 +33,6 @@
 {242}{}{I don't know what to say, Enrique. I'm shocked.}
 
 {250}{}{Hey amigo! You know our secret now, right? What do you think?}
-{1250}{}{Hey amiga! You know our secret now, right? What do you think?}
 {251}{}{I don't know what to say. I'm just shocked.}
 {252}{}{You're all crazy cultists here.}
 {253}{}{Not my place to judge. Guess you had no choice.}
@@ -51,7 +50,6 @@
 {264}{}{Hilario is dead. He won't bother you anymore.}
 {265}{}{Hilario is gone. He won't be back.}
 {266}{}{Yes! Good riddance at last. Without the old man and the monster, Santa Ana will finally flourish, I can already see it before me. No more sacrifices. No more lies. Gracias, amigo. Here, take my pistol as a sign of gratitude. From now on, *you* will be the patron saint of our community.}
-{1266}{}{Yes! Good riddance at last. Without the old man and the monster, Santa Ana will finally flourish, I can already see it before me. No more sacrifices. No more lies. Gracias, amiga. Here, take my pistol as a sign of gratitude. From now on, *you* will be the patron saint of our community.}
 {267}{}{It's always nice to help people. Goodbye, Enrique.}
 {268}{}{Maybe there's one last thing I can help with?}
 {269}{}{You know, I'm the village headman now. I want to establish trade with Casa Nueva. We don't have much to offer, but we must be able to reach some kind of an agreement. Can you pass on our interest? If you could, tell them to send a caravan for negotiations.}
@@ -73,7 +71,6 @@
 {1283}{}{Sad news. We'll have to survive without them. Gracias for the warning.}
 {284}{}{You're welcome.}
 {285}{}{Hola, amigo. A caravan came from Casa Nueva recently. Gracias for your help.}
-{1285}{}{Hola, amiga. A caravan came from Casa Nueva recently. Gracias for your help.}
 {286}{}{So, here's the thing... Hilario is ALSO dead. Don't ask how it happened.}
 {287}{}{Hilario fled when he realized his power was gone. Doubt he'll come back.}
 

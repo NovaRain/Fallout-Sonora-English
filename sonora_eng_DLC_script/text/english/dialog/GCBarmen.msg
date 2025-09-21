@@ -96,6 +96,7 @@
 {1292}{}{Are you saying that you had something to do with this?}
 {293}{}{I joined the attack with your people. The gatekeeper knows about this.}
 {294}{}{Damn it, is that true? Well then, I'll buy you a drink on the house. Thanks, buddy.}
+{1294}{}{Damn it, is that true? Well then, I'll buy you a drink on the house. Thanks, lady.}
 {295}{}{You're welcome.}
 {296}{}{I told the Rangers, and they exterminated the tribe.}
 {1296}{}{I told the Rangers, and they exterminated the tribe.}

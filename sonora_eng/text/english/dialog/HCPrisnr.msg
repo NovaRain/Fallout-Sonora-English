@@ -30,7 +30,6 @@
 {224}{}{Yeah, it's time to go.}
 {225}{}{No, it's not time yet.}
 {226}{}{Show the way, amigo.}
-{1226}{}{Show the way, amiga.}
 {227}{}{Let's go.}
 {228}{}{Okay. But don't forget about me.}
 {229}{}{Don't go anywhere.}

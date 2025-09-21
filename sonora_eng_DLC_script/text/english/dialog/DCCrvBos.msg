@@ -23,8 +23,8 @@
 {229}{}{}
 
 {230}{}{Who's in charge here?}
-{231}{}{Technically, Count Bustos is the mayor. Honestly, I'm not sure what he actually does, but no one makes a move without his say-so.}
-{232}{}{After Count Bustos died, John Sullivan took over. Maybe he appointed himself, who knows.}
+{231}{}{Technically, Don Bustos is the mayor. Honestly, I'm not sure what he actually does, but no one makes a move without his say-so.}
+{232}{}{After Don Bustos died, John Sullivan took over. Maybe he appointed himself, who knows.}
 {233}{}{Hard to say. Since the mayor and the pump owner bit it, no one wants to step up.}
 {234}{}{Got it. Another question.}
 {235}{}{Where can I find the mayor?}
@@ -40,7 +40,7 @@
 {244}{}{Any other news?}
 {245}{}{Saw a bunch of radscorpions south of town. If yer' heading out, take some antidote.}
 {246}{}{What else?}
-{247}{}{Word is Count Bustos was killed by highwaymen. No one wants to talk details.}
+{247}{}{Word is Don Bustos was killed by highwaymen. No one wants to talk details.}
 {248}{}{Anything else?}
 {249}{}{People say Bustos is drinking himself to death in his mansion. The old bastard's losing his edge. Tequila won't help him.}
 {250}{}{Anything more?}
