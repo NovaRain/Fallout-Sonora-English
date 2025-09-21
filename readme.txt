@@ -2,7 +2,7 @@
 
                    FALLOUT SONORA: A Post-Nuclear Role-Playing Game
 
-                             English Translation
+                             English Translation v1.04
 
 ########################################################################################
 
@@ -58,3 +58,4 @@ translator website: https://cambragol.github.io/Fallout-Sonora/
 translation discussion: https://www.nma-fallout.com/threads/fallout-sonora-1-14-and-sonora-dayglow-1-14-vanilla-translation.222396/
 
 Email for contacting the translator: cambragol@protonmail.com
+
