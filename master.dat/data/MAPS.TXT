@@ -5,225 +5,246 @@
 ;================================================================================
 ;
 ; [Map 146]
-;           -- Номер карты
+; -- Map number
 ; lookup_name=City Encounter 8
-;           -- Уникальное имя этой каpты.
+; -- Unique name of this map.
 ; map_name=city8
-;           -- Имя файла карты (без .map)
+; -- Map file name (without .map)
 ; music=10labone
-;           -- Имя .acm-файла с музыкой, которая будет звучать на карте фоном.
+; -- Name of the .acm file with background music that will play on the map.
 ; ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
-;           -- случайные звyки:
-;                    - Указывается имя .acm-файла со звуком
-;                    - и после двоеточия вероятность в процентах (в сумме должно быть 100)
+; -- random sounds:
+; - Specify the name of the .acm file with the sound
+; - and after the colon the probability in percent (the sum must be 100)
 ; saved=No
-;           -- сохpаняется ли состояние этой каpты после выхода из нее.
+; -- whether the state of this map is saved after exiting it.
 ; dead_bodies_age=No
-;           -- исчезают ли со вpеменем тpyпы.
+; -- whether corpses disappear over time.
 ; can_rest_here=No,No,No
-;           -- Можно ли на карте отдыхать. Указывается для каждого из трёх уровней карты.
-;              Реально работает только на тех уровнях карты, где есть хотя бы один противник.
-;              Опция бездействует, если противников нет, они мертвы, невидимы или стали дружелюбны к ГГ.
+; -- Whether resting is allowed on the map. Specified for each of the three map levels.
+; Only works on map levels where there is at least one enemy.
+; This option is inactive if there are no enemies, they are dead, invisible, or have become friendly to the main character.
 ;
 ; random_start_point_0=elev:0, tile_num:17692
 ; random_start_point_1=elev:0, tile_num:22105
 ; random_start_point_2=elev:0, tile_num:20510
-;           -- (НЕ РАБОТАЕТ!) Точки входа на карту. Актуально для случайных встреч.
-;           Если их нет - вход пpоисходит в точке yказанной в файле карты.
+; -- (DOES NOT WORK!) Entry points to the map. Relevant for random encounters.
+; If there are none, entry occurs at the point specified in the map file.
 ;
 ;================================================================================
 
 
 [Map 000]
-lookup_name=Desert Encounter 1 ; бесплодная пустошь
+lookup_name=Desert Encounter 1 ; barren wasteland
 map_name=desert1
 music=f1_dsrt
 ambient_sfx=gntlwin1:30, gntlwind:30, gustwin1:20, gustwind:20
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 001]
-lookup_name=Desert Encounter 2 ; замусоренная пустошь
+lookup_name=Desert Encounter 2 ; littered wasteland
 map_name=desert2
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, rattle1:10, rattle:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 002]
-lookup_name=Desert Encounter 3 ; кактусовое поле
+lookup_name=Desert Encounter 3 ; cactus field
 map_name=desert3
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, rattle1:20, rattle:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 003]
-lookup_name=Desert Encounter 4 ; брошенный лагерь в пустыне
+lookup_name=Desert Encounter 4 ; abandoned camp in the desert
 map_name=desert4
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, rattle1:20, rattle:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 004]
-lookup_name=Road Encounter 1 ; федеральная трасса Запад-Восток
+lookup_name=Road Encounter 1 ; federal highway West-East
 map_name=ROAD1
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 005]
-lookup_name=Road Encounter 2 ; федеральная трасса Север-Юг
+lookup_name=Road Encounter 2 ; federal highway North-South
 map_name=ROAD2
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 006]
-lookup_name=Road Encounter 3 ; сельская трасса Запад-Восток
+lookup_name=Road Encounter 3 ; rural route West-East
 map_name=ROAD3
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 007]
-lookup_name=Road Encounter 4 ; сельская трасса Север-Юг
+lookup_name=Road Encounter 4 ; rural route North-South
 map_name=ROAD4
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vulture:10
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 008]
-lookup_name=City Encounter 1 ; Руины города 1 (руины спального района)
+lookup_name=City Encounter 1 ; Ruins of city 1 (ruins of a residential area)
 map_name=CITY1
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 009]
-lookup_name=City Encounter 2 ; Руины города 2 (руины делового района)
+lookup_name=City Encounter 2 ; City Ruins 2 (Business District Ruins)
 map_name=CITY2
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 010]
-lookup_name=City Encounter 3 ; Руины города 3 (руины старого дома)
+lookup_name=City Encounter 3 ; City Ruins 3 (old house ruins)
 map_name=CITY3
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 011]
-lookup_name=City Encounter 4 ; Руины города 4 (лагерь среди руин)
+lookup_name=City Encounter 4 ; Ruins of the city 4 (camp among the ruins)
 map_name=CITY4
 music=f1_dsrt
 ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 012]
-lookup_name=Mountain Encounter 1 ; Горное ущелье (пустыня, пещеры нет)
+lookup_name=Mountain Encounter 1 ; Mountain Encounter (desert, no cave)
 map_name=MOUNT1
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 013]
-lookup_name=Mountain Encounter 2 ; Горное ущелье (растительность, пещеры нет)
+lookup_name=Mountain Encounter 2 ; Mountain Encounter (vegetation, no cave)
 map_name=MOUNT2
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 014]
-lookup_name=Mountain Encounter 3 ; Горное ущелье (брошенный лагерь в горах)
+lookup_name=Mountain Encounter 3 ; Mountain Gorge (Abandoned Mountain Camp)
 map_name=MOUNT3
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 015]
-lookup_name=Mountain Encounter 4 ; Горное ущелье (с малой пещерой)
+lookup_name=Mountain Encounter 4 ; Mountain gorge (with a small cave)
 map_name=MOUNT4
 music=f1_dsrt
 ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 016]
-lookup_name=Mountain Encounter 5 ; Горное ущелье (с пещерой кольцом)
+lookup_name=Mountain Encounter 5 ; Mountain Gorge (with a cave ring)
 map_name=MOUNT5
 music=f1_dsrt
 ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 017]
-lookup_name=Mountain Encounter 6 ; Горное ущелье (с пещерой зигзагом)
+lookup_name=Mountain Encounter 6 ; Mountain gorge (with a zigzag cave)
 map_name=MOUNT6
 music=f1_dsrt
 ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 018]
-lookup_name=Coast Encounter 1 ; Грязный пляж
+lookup_name=Coast Encounter 1 ; Dirty beach
 map_name=COAST1
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 019]
-lookup_name=Coast Encounter 2 ; Каменистый берег
+lookup_name=Coast Encounter 2 ; rocky shore
 map_name=COAST2
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 020]
-lookup_name=Coast Encounter 3 ; Хижина на берегу
+lookup_name=Coast Encounter 3 ; Hut on the shore
 map_name=COAST3
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
-;---------------- Вилла:
+;---------------- Villa:
 
 [Map 021]
 lookup_name=Villa1
@@ -232,6 +253,7 @@ music=fs_villa
 ambient_sfx=blank:100
 pipboy_active=No
 saved=Yes
+automap=yes
 
 [Map 022]
 lookup_name=Villa2
@@ -239,6 +261,7 @@ map_name=VLPlaza
 music=fs_villa
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 023]
 lookup_name=Villa3
@@ -247,6 +270,7 @@ music=fs_villa
 ambient_sfx=squeak1:50, squeak:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 024]
 lookup_name=Villa4
@@ -255,8 +279,9 @@ music=fs_villa
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Флагстафф:
+;---------------- Flagstaff:
 
 [Map 025]
 lookup_name=FlagstaffCity
@@ -264,6 +289,7 @@ map_name=FlagCity
 music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 026]
 lookup_name=FlagstaffSlave
@@ -272,6 +298,7 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 027]
 lookup_name=FlagstaffMine
@@ -280,6 +307,7 @@ music=f1_cave
 ambient_sfx=ore1:25, ore:25, pebble1:25, pebble:25
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 028]
 lookup_name=FlagstaffGard
@@ -288,8 +316,9 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Гараж-Сити:
+;---------------- Garage City:
 
 [Map 029]
 lookup_name=GarageSign
@@ -297,6 +326,7 @@ map_name=GCSign
 music=fs_garag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 030]
 lookup_name=GarageHome
@@ -304,6 +334,7 @@ map_name=GCHome
 music=fs_garag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 031]
 lookup_name=GarageDsrt
@@ -312,8 +343,9 @@ music=fs_garag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Брамин:
+;---------------- San Brahmin:
 
 [Map 032]
 lookup_name=SanBrahminSign
@@ -322,6 +354,7 @@ music=fs_brhmn
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 033]
 lookup_name=SanBrahminCity
@@ -329,6 +362,7 @@ map_name=SBChurch
 music=fs_brhmn
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 034]
 lookup_name=SanBrahminTabl
@@ -336,8 +370,9 @@ map_name=SBTabl
 music=fs_brhmn
 ambient_sfx=mabromaa:100
 saved=Yes
+automap=yes
 
-;---------------- Ту-Сан:
+;---------------- Tu-San:
 
 [Map 035]
 lookup_name=TwoSunCity
@@ -345,6 +380,7 @@ map_name=TSCity
 music=fs_tsun
 ambient_sfx=gntlwin1:25, gntlwind:25, potspan1:25, potspans:25
 saved=Yes
+automap=yes
 
 [Map 036]
 lookup_name=TwoSunAngar
@@ -352,6 +388,7 @@ map_name=TSWorksp
 music=fs_tsun
 ambient_sfx=clank1:25, clank:25, clang1:25, clang:25
 saved=Yes
+automap=yes
 
 [Map 037]
 lookup_name=TwoSunDstr
@@ -360,6 +397,7 @@ music=fs_tsun
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 038]
 lookup_name=TwoSunZAX
@@ -369,8 +407,9 @@ ambient_sfx=electri1:25, electric:25, zapper1:25, zapper2:25
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Пуэрто-Пеньяско:
+;---------------- Puerto Penasco:
 
 [Map 039]
 lookup_name=Puerto1
@@ -378,6 +417,7 @@ map_name=PSSign
 music=fs_bos
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 040]
 lookup_name=Puerto2
@@ -386,6 +426,7 @@ music=fs_bos
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 041]
 lookup_name=Puerto3
@@ -394,8 +435,9 @@ music=fs_bos
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Рейнджеры:
+;---------------- Rangers:
 
 [Map 042]
 lookup_name=RangersRoad
@@ -404,6 +446,7 @@ music=fs_rngr
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 043]
 lookup_name=RangersBasa
@@ -411,6 +454,7 @@ map_name=RBasa
 music=fs_rngr
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 044]
 lookup_name=RangersRadio
@@ -419,6 +463,7 @@ music=fs_rngr
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 045]
 lookup_name=RangersDumba
@@ -427,8 +472,9 @@ music=fs_rngr
 ambient_sfx=electri1:50, electric:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Феникс:
+;---------------- Phoenix:
 
 [Map 046]
 lookup_name=PhoenixSign
@@ -436,6 +482,7 @@ map_name=PXSign
 music=fs_phnx
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
+automap=yes
 
 [Map 047]
 lookup_name=PhoenixCenter
@@ -443,6 +490,7 @@ map_name=PXCenter
 music=fs_phnx
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 048]
 lookup_name=PhoenixBndcs
@@ -450,6 +498,7 @@ map_name=PXBndcs
 music=fs_phnx
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 049]
 lookup_name=PhoenixCity
@@ -457,6 +506,7 @@ map_name=PXCity
 music=f1_chrch
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 050]
 lookup_name=PhoenixVlt
@@ -465,6 +515,7 @@ music=f1_chrch
 ambient_sfx=elevato1:50, elevator:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 051]
 lookup_name=PhoenixAnal
@@ -474,6 +525,7 @@ ambient_sfx=squeak1:25, squeak:25, water1:25, water:25
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
 [Map 052]
 lookup_name=PhoenixDstr
@@ -482,6 +534,7 @@ music=fs_phnx
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 053]
 lookup_name=Car: Desert
@@ -497,8 +550,9 @@ map_name=PXElectr
 music=fs_phnx
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
-;---------------- Убежище 27:
+;---------------- Vault 27:
 
 [Map 055]
 lookup_name=Vault27a
@@ -507,6 +561,7 @@ music=fs_vault
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 056]
 lookup_name=Vault27b
@@ -516,8 +571,9 @@ ambient_sfx=water1:50, water:50
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Каса-Гранде:
+;---------------- Casa Grande:
 
 [Map 057]
 lookup_name=CGrandeWater
@@ -525,6 +581,7 @@ map_name=CGWater
 music=fs_grand
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
+automap=yes
 
 [Map 058]
 lookup_name=CGrandeHomes
@@ -532,6 +589,7 @@ map_name=CGGrande
 music=fs_grand
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 059]
 lookup_name=CGrandeGrave
@@ -540,8 +598,9 @@ music=fs_grand
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Инферно:
+;---------------- Inferno:
 
 [Map 060]
 lookup_name=InfernoRoad
@@ -550,6 +609,7 @@ music=fs_infrn
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=yes
 
 [Map 061]
 lookup_name=InfernoCity
@@ -559,6 +619,7 @@ ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
 [Map 062]
 lookup_name=InfernoShop
@@ -568,6 +629,7 @@ ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
 [Map 063]
 lookup_name=InfernoPolic
@@ -577,8 +639,9 @@ ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Каса-Нуэва:
+;---------------- Casa Nueva:
 
 [Map 064]
 lookup_name=CNuevaCity
@@ -586,6 +649,7 @@ map_name=CNCity
 music=f1_nueva
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 065]
 lookup_name=CNuevaGard
@@ -594,6 +658,7 @@ music=f1_nueva
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 066]
 lookup_name=CNuevaLab
@@ -602,8 +667,9 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Рейдеры:
+;---------------- Raiders:
 
 [Map 067]
 lookup_name=RaidersMap
@@ -612,8 +678,9 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Шакалы:
+;---------------- Jackals:
 
 [Map 068]
 lookup_name=JackalsMap
@@ -622,8 +689,9 @@ music=fs_jckls
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Пуэрто-Пеньяско после взрыва:
+;---------------- Puerto Penasco after explosion:
 
 [Map 069]
 lookup_name=PuertoDestroy
@@ -632,8 +700,9 @@ music=fs_infrn
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Флагстафф - шахта:
+;---------------- Flagstaff - mine:
 
 [Map 070]
 lookup_name=FlagstaffCave
@@ -643,8 +712,9 @@ ambient_sfx=squeak1:25, squeak:25, pebble1:25, pebble:25
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Старый мотель:
+;---------------- Old Motel:
 
 [Map 071]
 lookup_name=MotelMap
@@ -653,8 +723,9 @@ music=fs_motel
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Фелипе (Старый Маяк):
+;---------------- San Felipe (Old Lighthouse):
 
 [Map 072]
 lookup_name=SanFelipeLight
@@ -662,8 +733,9 @@ map_name=FelipeA
 music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
-;---------------- Лагерь Братства:
+;---------------- Brotherhood Camp:
 
 [Map 073]
 lookup_name=BSCamp1
@@ -672,6 +744,7 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 074]
 lookup_name=BSCamp2
@@ -680,6 +753,7 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 075]
 lookup_name=BSCamp3
@@ -688,8 +762,9 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Феникс - интерьер Собора:
+;---------------- Phoenix - interior of the Cathedral:
 
 [Map 076]
 lookup_name=PhoenixChrch
@@ -698,8 +773,9 @@ music=f1_chrch
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- ТуСан:
+;---------------- Two-Sun:
 
 [Map 077]
 lookup_name=TwoSunGrave
@@ -709,6 +785,7 @@ ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
 [Map 078]
 lookup_name=TwoSunInn
@@ -716,8 +793,9 @@ map_name=TSInn
 music=fs_tsun
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
+automap=yes
 
-;---------------- Вилла - развалина старого города
+;---------------- Villa - ruins of the old city
 
 [Map 079]
 lookup_name=VillaRuins
@@ -726,8 +804,9 @@ music=fs_villa
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Рейнджеры - дополнительные карты
+;---------------- Rangers - additional cards
 
 [Map 080]
 lookup_name=RangersParom
@@ -736,6 +815,7 @@ music=fs_rngr
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 081]
 lookup_name=RangersRetrns
@@ -744,6 +824,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 082]
 lookup_name=RangersQuartz
@@ -752,6 +833,7 @@ music=f1_dsrt
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 083]
 lookup_name=RangersCave
@@ -760,6 +842,7 @@ music=f1_cave
 ambient_sfx=squeak1:25, squeak:25, pebble1:25, pebble:25
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 084]
 lookup_name=RangersCity
@@ -767,8 +850,9 @@ map_name=RCity
 music=fs_rngr
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
-;---------------- ГаражСити - дополнительные карты
+;---------------- GarageCity - additional maps
 
 [Map 085]
 lookup_name=GarageHist
@@ -777,6 +861,7 @@ music=fs_garag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 086]
 lookup_name=GarageBram
@@ -784,8 +869,9 @@ map_name=GCBram
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
-;---------------- Флагстафф - захваченная ферма
+;---------------- Flagstaff - captured farm
 
 [Map 087]
 lookup_name=FlagstaffFarm
@@ -794,8 +880,9 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Эрмосильо:
+;---------------- Hermosillo:
 
 [Map 088]
 lookup_name=Hermosillo1
@@ -803,6 +890,7 @@ map_name=Hermo1
 music=fs_hermo
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 089]
 lookup_name=Hermosillo2
@@ -811,6 +899,7 @@ music=fs_hermo
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 090]
 lookup_name=Hermosillo3
@@ -819,8 +908,9 @@ music=fs_hermo
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- КасаГранде - тайник магистралов
+;---------------- CasaGrande - cache of highways
 
 [Map 091]
 
@@ -830,6 +920,7 @@ music=fs_grand
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 092]
 lookup_name=CGrandeBar
@@ -838,6 +929,7 @@ music=fs_grand
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 093]
 lookup_name=CGrandeStan
@@ -846,8 +938,9 @@ music=fs_grand
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Рейнджеры - Водокачка Мохаве
+;---------------- Rangers - Mojave Waterworks
 
 [Map 094]
 lookup_name=RangersWater
@@ -855,8 +948,9 @@ map_name=RMohave
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
-;---------------- Инферно - Таинственный Особняк
+;---------------- Inferno - Mysterious Church
 
 [Map 095]
 lookup_name=InfernoChurch
@@ -866,8 +960,9 @@ ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Special Encounters
+;----------------Special Encounters
 
 [Map 096]
 lookup_name=Special Gold Encounter
@@ -876,6 +971,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 097]
 lookup_name=Special Bibl Encounter
@@ -884,6 +980,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 098]
 lookup_name=Special Cafe Encounter
@@ -892,6 +989,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 099]
 lookup_name=Special Bomber Encounter
@@ -900,6 +998,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 100]
 lookup_name=Special Petro Encounter
@@ -908,6 +1007,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 101]
 lookup_name=Special Cry Encounter
@@ -916,6 +1016,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 102]
 lookup_name=Special DriveIn Encounter
@@ -924,6 +1025,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 103]
 lookup_name=Special Padre Encounter
@@ -932,6 +1034,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 104]
 lookup_name=Special Baron Encounter
@@ -940,6 +1043,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 105]
 lookup_name=Special Snow Encounter
@@ -948,6 +1052,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 106]
 lookup_name=Special Vault Encounter
@@ -956,6 +1061,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 107]
 lookup_name=Special Army Encounter
@@ -964,6 +1070,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
 [Map 108]
 lookup_name=Special LegendCity Encounter
@@ -972,8 +1079,9 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=no
 
-;---------------- Вилла - Склеп
+;---------------- Villa - Crypt
 
 [Map 109]
 lookup_name=VillaCrypt
@@ -982,8 +1090,9 @@ music=fs_villa
 ambient_sfx=squeak1:50, squeak:50
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Феникс - Склад ядер-колы
+;---------------- Phoenix - Nuka Cola Warehouse
 
 [Map 110]
 lookup_name=PhoenixCola
@@ -992,8 +1101,9 @@ music=fs_phnx
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Инферно - Главная магистраль
+;---------------- Inferno - Main Highway
 
 [Map 111]
 lookup_name=InfernoMonument
@@ -1003,8 +1113,9 @@ ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Каса-Нуэва - Цементный карьер
+;---------------- Casa Nueva - Cement Quarry
 
 [Map 112]
 lookup_name=CNuevaCarier
@@ -1013,8 +1124,9 @@ music=f1_nueva
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Каса-Нуэва - Теплицы (интерьер)
+;---------------- Casa Nueva - Greenhouses (interior)
 
 [Map 113]
 lookup_name=CNuevaGidro
@@ -1023,8 +1135,9 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Брамин - Погребенный город
+;---------------- San Brahmin - Buried City
 
 [Map 114]
 lookup_name=SanBrahminCave
@@ -1033,8 +1146,9 @@ music=fs_brhmn
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Фелипе:
+;---------------- San Felipe:
 
 [Map 115]
 lookup_name=SanFelipeCoast
@@ -1043,6 +1157,7 @@ music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 116]
 lookup_name=SanFelipeCave
@@ -1051,8 +1166,9 @@ music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Гараж-Сити - Автодом:
+;---------------- Garage City - Motorhome:
 
 [Map 117]
 lookup_name=GarageTrailer
@@ -1061,8 +1177,9 @@ music=fs_garag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Флагстафф - Лагерь Уайнон:
+;---------------- Flagstaff - Camp Winon:
 
 [Map 118]
 lookup_name=FlagstaffWinon
@@ -1071,8 +1188,9 @@ music=f1_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Брамин - Оазис
+;---------------- San Brahmin - Oasis
 
 [Map 119]
 lookup_name=SanBrahminOasis
@@ -1081,8 +1199,9 @@ music=fs_brhmn
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Санта Ана
+;---------------- Santa Ana
 
 [Map 120]
 lookup_name=SantaAnaPlaza
@@ -1090,6 +1209,7 @@ map_name=SAPlaza
 music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 121]
 lookup_name=SantaAnaMonument
@@ -1097,6 +1217,7 @@ map_name=SAMnmnt
 music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 122]
 lookup_name=SantaAnaGrave
@@ -1105,8 +1226,9 @@ music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сопровождение каравана СБ-Феникс
+;---------------- Escort of the SB-Phoenix caravan
 
 [Map 123]
 lookup_name=SanBrahminCaravanA
@@ -1115,6 +1237,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=no
 
 [Map 124]
 lookup_name=SanBrahminCaravanB
@@ -1123,6 +1246,7 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=no
 
 [Map 125]
 lookup_name=SanBrahminCaravanC
@@ -1131,8 +1255,9 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=no
 
-;---------------- Рыбацкая деревня (Нефтяная платформа)
+;---------------- Fishing Village (Oil Platform)
 
 [Map 126]
 lookup_name=OilCity
@@ -1140,6 +1265,7 @@ map_name=OilA
 music=fs_flag
 ambient_sfx=seawind:20, seawind1:20, waves:30, waves1:30
 saved=Yes
+automap=yes
 
 [Map 127]
 lookup_name=OilPlatformB
@@ -1147,6 +1273,7 @@ map_name=OilB
 music=fs_flag
 ambient_sfx=seawind:30, seawind1:30, waves:20, waves1:20
 saved=Yes
+automap=yes
 
 [Map 128]
 lookup_name=OilPlatformC
@@ -1155,6 +1282,7 @@ music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 129]
 lookup_name=OilPlatformD
@@ -1163,6 +1291,7 @@ music=fs_flag
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 130]
 lookup_name=OilCoast
@@ -1171,8 +1300,9 @@ music=fs_flag
 ambient_sfx=seawind:20, seawind1:20, waves:30, waves1:30
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- Сан-Диего (Сияние Дня)
+;---------------- San Diego (Dayglow)
 
 [Map 131]
 lookup_name=DiegoTijuana
@@ -1181,6 +1311,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
+automap=yes
 
 [Map 132]
 lookup_name=DiegoCampSouth
@@ -1188,6 +1319,7 @@ map_name=DiegoC1
 music=fs_daygl
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 133]
 lookup_name=DiegoCampEast
@@ -1196,6 +1328,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 134]
 lookup_name=DiegoCampNorth
@@ -1203,6 +1336,7 @@ map_name=DiegoC3
 music=fs_daygl
 ambient_sfx=blank:100
 saved=Yes
+automap=yes
 
 [Map 135]
 lookup_name=DiegoPatrulOffice
@@ -1211,6 +1345,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 136]
 lookup_name=DiegoChulaVista
@@ -1219,6 +1354,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 137]
 lookup_name=DiegoHospital
@@ -1227,6 +1363,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 138]
 lookup_name=DiegoCityHeart
@@ -1235,6 +1372,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 139]
 lookup_name=DiegoPirs
@@ -1243,6 +1381,7 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 140]
 lookup_name=DiegoVault
@@ -1251,6 +1390,7 @@ music=f1_cave
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
 [Map 141]
 lookup_name=DiegoCoronado
@@ -1259,71 +1399,79 @@ music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 can_rest_here=No,No,No
+automap=yes
 
-;---------------- !Карты случайных встреч:
+;---------------- !Random encounter cards:
 
 [Map 142]
-lookup_name=Mountain Encounter 9 ; Горное ущелье (много мусора и камней, пещеры нет)
+lookup_name=Mountain Encounter 9 ; Mountain Gorge (lots of debris and rocks, no cave)
 map_name=MOUNT9
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 143]
-lookup_name=Mountain Encounter 8 ; Горелый лес
+lookup_name=Mountain Encounter 8 ; Burnt Forest
 map_name=MOUNT8
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 144]
-lookup_name=Desert Encounter 9 ; зараженная пустошь
+lookup_name=Desert Encounter 9 ; infected wasteland
 map_name=desert9
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 145]
-lookup_name=Coast Encounter 4 ; Палаточный лагерь на берегу
+lookup_name=Coast Encounter 4 ; Tent camp on the shore
 map_name=COAST4
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 146]
-lookup_name=Road Encounter 5 ; Привал у дороги
+lookup_name=Road Encounter 5 ; Rest by the road
 map_name=ROAD5
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 147]
-lookup_name=Mountain Encounter 7 ; Хижина в лесу
+lookup_name=Mountain Encounter 7 ; Cabin in the woods
 map_name=MOUNT7
 music=f1_dsrt
 ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 148]
-lookup_name=City Encounter 9 ; Руины города 9 (Зона поражения)
+lookup_name=City Encounter 9 ; City Ruins 9 (Damage Zone)
 map_name=CITY9
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 149]
 lookup_name=In Game Movie
@@ -1332,12 +1480,14 @@ music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 can_rest_here=No,No,No
+automap=no
 
 [Map 150]
-lookup_name=Desert Encounter 999 ; пустошь
+lookup_name=Desert Encounter 999 ; wasteland
 map_name=desert1
 music=f1_dsrt
 ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+automap=no
