@@ -6234,183 +6234,183 @@
 #
 #  HIT IN HEAD
 #
-{34000}{}{Maldita sea!}
-{34001}{}{Demonios!}
-{34002}{}{Mi cabeza!}
-{34003}{}{*unintelligible curse word*}
-{34004}{}{Arrgh!}
-{34005}{}{Yo no morire en tus manos sino tu en las mias!}
+{34000}{}{¡Maldita sea!}
+{34001}{}{¡Demonios!}
+{34002}{}{¡Mi cabeza!}
+{34003}{}{¡Ay, valgame Dios!}
+{34004}{}{¡Arrgh!}
+{34005}{}{¡Yo no moriré en tus manos, sino tú en las mías!}
 {34006}{}{Estoy perdiendo el conocimiento...}
-{34007}{}{Mi cabeza!}
-{34008}{}{Maldicion...}
-{34009}{}{Esto es muy malo!}
+{34007}{}{¡Mi cabeza!}
+{34008}{}{¡Maldición...!}
+{34009}{}{¡Esto es muy malo!}
 #
 #  HIT IN LEFT ARM
 #
-{34010}{}{Mi mano!}
-{34011}{}{Necesito un doctor! Tengo una herida en el brazo!}
-{34012}{}{Mi brazo esta roto.}
-{34013}{}{Mi mano se entumecio.}
-{34014}{}{No puedo sentir mis manos.}
-{34015}{}{Me desarmaron!}
-{34016}{}{Ahora con que voy a luchar?}
+{34010}{}{¡Mi mano!}
+{34011}{}{¡Necesito un doctor! ¡Tengo una herida en el brazo!}
+{34012}{}{¡Mi brazo está roto!}
+{34013}{}{¡Mi mano se entumeció!}
+{34014}{}{¡No puedo sentir mis manos!}
+{34015}{}{¡Me desarmaron!}
+{34016}{}{¿Ahora con qué voy a luchar?}
 {34017}{}{Parece que me han lastimado.}
-{34018}{}{Me duele mucho!}
+{34018}{}{¡Me duele mucho!}
 {34019}{}{Eso no lo vimos en las clases.}
 #
 #  HIT IN TORSO (GENERIC SHOT/HIT)
 #
-{34030}{}{Mi pecho!}
-{34031}{}{Malditos gringos!}
-{34032}{}{Necesito un medico.}
-{34033}{}{Doctor!}
-{34034}{}{Donde hay un doctor?}
-{34035}{}{Llama a un doctor!}
-{34036}{}{Estoy herido!}
-{34037}{}{Estoy desangrandome.}
-{34038}{}{No puedo respirar.}
-{34039}{}{Que alguien me de un botiquin de primeros auxilios.}
-{34040}{}{No me mates!}
-{34041}{}{Por favor, quiero vivir!}
-{34042}{}{Solo sigo ordenes!}
-{34043}{}{No dispares!}
+{34030}{}{¡Mi pecho!}
+{34031}{}{¡Malditos gringos!}
+{34032}{}{¡Necesito un médico!}
+{34033}{}{¡Doctor!}
+{34034}{}{¿Dónde hay un doctor?}
+{34035}{}{¡Llama a un doctor!}
+{34036}{}{¡Estoy herido!}
+{34037}{}{¡Estoy desangrándome!}
+{34038}{}{¡No puedo respirar!}
+{34039}{}{¡Que alguien me dé un botiquín de primeros auxilios!}
+{34040}{}{¡No me mates!}
+{34041}{}{¡Por favor, quiero vivir!}
+{34042}{}{¡Solo sigo órdenes!}
+{34043}{}{¡No dispares!}
 {34044}{}{Herida de batalla.}
-{34045}{}{Herido en las entranas, sargento.}
-{34046}{}{Yo mismo te matare.}
-{34047}{}{Te atrapare...}
-{34048}{}{Esta armadura todavia resiste los golpes.}
-{34049}{}{Me hirieron el pecho!}
+{34045}{}{Herido en las entrañas, sargento.}
+{34046}{}{¡Yo mismo te mataré!}
+{34047}{}{¡Te atraparé...!}
+{34048}{}{Esta armadura todavía resiste los golpes.}
+{34049}{}{¡Me hirieron el pecho!}
 #
 #  HIT IN LEG
 #
-{34060}{}{Mi pie!}
-{34061}{}{Ah, mi pie!}
-{34062}{}{Mi pierna esta herida!}
-{34063}{}{Me hirieron la pierna!}
-{34064}{}{Un doctor!}
-{34065}{}{Mi rodilla!}
-{34066}{}{No quiero ser un cojo.}
-{34067}{}{No quiero ser un cojo.}
-{34068}{}{Espero que no se grangrene.}
-{34069}{}{Estoy exhausto ya no puedo seguir peleand.}
+{34060}{}{¡Mi pie!}
+{34061}{}{¡Ah, mi pie!}
+{34062}{}{¡Mi pierna está herida!}
+{34063}{}{¡Me hirieron la pierna!}
+{34064}{}{¡Un doctor!}
+{34065}{}{¡Mi rodilla!}
+{34066}{}{¡No quiero ser cojo!}
+{34067}{}{¡No quiero ser cojo!}
+{34068}{}{Espero que no se gangrene.}
+{34069}{}{Estoy exhausto, ya no puedo seguir peleando.}
 #
 #  HIT IN EYES
 #
-{34080}{}{Dios mio!}
-{34081}{}{Cabron!}
-{34082}{}{Mis ojos!}
-{34083}{}{Mis ojos!}
-{34084}{}{Quedolor!}
-{34085}{}{Me arden mis ojos.}
-{34086}{}{Donde estas cobarde? Sal!}
-{34087}{}{Acercate a mi, retrocede!}
-{34088}{}{No veo nada.}
-{34089}{}{Me sale sangre de los ojos}
+{34080}{}{¡Dios mío!}
+{34081}{}{¡Cabrón!}
+{34082}{}{¡Mis ojos!}
+{34083}{}{¡Mis ojos!}
+{34084}{}{¡Qué dolor!}
+{34085}{}{¡Me arden los ojos!}
+{34086}{}{¿Dónde estás, cobarde? ¡Sal!}
+{34087}{}{¡Acércate a mí! ¡Retrocede!}
+{34088}{}{¡No veo nada!}
+{34089}{}{¡Me sale sangre de los ojos!}
 #
 #  HIT IN GROIN
 #
-{34090}{}{Dios mio!}
-{34091}{}{Cabron!}
-{34092}{}{Hijo de puta!}
-{34093}{}{Todo nuestro ejercito me vengar.}
-{34094}{}{Ahora, esto es una cuestion de honor.}
-{34095}{}{Santa Maria!}
-{34096}{}{San Francisco!}
-{34097}{}{Madre de Dios!}
-{34098}{}{Creo que me orine.}
-{34099}{}{Ay!, si tan solo hubiera visto al sargento.}
+{34090}{}{¡Dios mío!}
+{34091}{}{¡Cabrón!}
+{34092}{}{¡Hijo de puta!}
+{34093}{}{¡Todo nuestro ejército me vengará!}
+{34094}{}{Ahora, esto es una cuestión de honor.}
+{34095}{}{¡Santa María!}
+{34096}{}{¡San Francisco!}
+{34097}{}{¡Madre de Dios!}
+{34098}{}{Creo que me oriné.}
+{34099}{}{¡Ay! Si tan solo hubiera visto al sargento.}
 #
 #  RUNNING AWAY
 #
-{34100}{}{Los gringos son tan peligrosos como el mismisimo Diablo.}
-{34101}{}{El ejercito del norte es invencible Estamos perdidos!}
-{34102}{}{Para queme unial ejercito?}
+{34100}{}{¡Los gringos son tan peligrosos como el mismísimo Diablo!}
+{34101}{}{¡El ejército del norte es invencible! ¡Estamos perdidos!}
+{34102}{}{¿Por qué me uní al ejército?}
 {34103}{}{Mejor me hubiera quedado en casa.}
-{34104}{}{No los abandono, senor, solo cambiede estrategia.}
+{34104}{}{No los abandono, señor, solo cambié de estrategia.}
 {34105}{}{Esto no es abandono, tenlo en cuenta.}
-{34106}{}{Ahora me serviria mucho el lanzagranadas.}
+{34106}{}{Ahora me serviría mucho el lanzagranadas.}
 {34107}{}{Dile al general que fui fiel al imperio.}
-{34108}{}{Entierrenme con el resto de mis hermanos.}
+{34108}{}{Entiérrenme con el resto de mis hermanos.}
 {34109}{}{Si muero, lleva mis cenizas a El Paso.}
 {34110}{}{Si muero, lleva mis cenizas a Monterrey.}
-{34111}{}{Oh no, hoy no voy a morir.}
-{34112}{}{Demonios!, me regreso a Guaymas.}
-{34113}{}{Mi familia me espera en Ciudad Obregon.}
+{34111}{}{¡Oh no, hoy no voy a morir!}
+{34112}{}{¡Demonios! Me regreso a Guaymas.}
+{34113}{}{Mi familia me espera en Ciudad Obregón.}
 {34114}{}{Simplemente no debo morir, al menos no en esta batalla.}
-{34115}{}{Morir a manos de un espia? Nunca!}
+{34115}{}{¿Morir a manos de un espía? ¡Nunca!}
 {34116}{}{Esto no estaba escrito en mi contrato.}
-{34117}{}{Maldicion! que esta haciendo el General?}
-{34118}{}{Pide refuerzos!}
-{34119}{}{Y donde estan los refuerzos? Maldiciones!}
+{34117}{}{¡Maldición! ¿Qué está haciendo el general?}
+{34118}{}{¡Pide refuerzos!}
+{34119}{}{¿Y dónde están los refuerzos? ¡Maldición!}
 #
 #  MOVING IN TO ATTACK
 #
 {34120}{}{Veo al intruso.}
-{34121}{}{Detente o disparare.}
-{34122}{}{Cuanto tiempo he esperado este momento.}
-{34123}{}{Te mostrare lo que es una verdadera batalla.}
-{34124}{}{Al ataque!}
-{34125}{}{Malditos gringos!}
-{34126}{}{Por Mexico! Viva Mexico!}
-{34127}{}{Por el nuevo Presidente!}
-{34128}{}{Por el general Saravia!}
+{34121}{}{¡Detente o dispararé!}
+{34122}{}{Cuánto tiempo he esperado este momento.}
+{34123}{}{Te mostraré lo que es una verdadera batalla.}
+{34124}{}{¡Al ataque!}
+{34125}{}{¡Malditos gringos!}
+{34126}{}{¡Por México! ¡Viva México!}
+{34127}{}{¡Por el nuevo presidente!}
+{34128}{}{¡Por el general Saravia!}
 {34129}{}{¡Aplastémolos como cucarachas!}
 {34130}{}{Ahora los destrozaremos.}
-{34131}{}{Nadie puede escapar de nuestro ejercito.}
-{34132}{}{Bajate, miserable cucaracha!}
-{34133}{}{Esta pelea seramuy rapida.}
-{34134}{}{Los gringos son demasiado insolentes.}
+{34131}{}{Nadie puede escapar de nuestro ejército.}
+{34132}{}{¡Bájate, miserable cucaracha!}
+{34133}{}{Esta pelea será muy rápida.}
+{34134}{}{¡Los gringos son demasiado insolentes!}
 {34135}{}{Tomaré tus pertenencias como trofeo.}
-{34136}{}{Me recompensaran por tu cabeza.}
-{34137}{}{Quedate quieto! Necesito una medalla por valentia.}
-{34138}{}{Por los espias dan grandes recompensas.}
-{34139}{}{Si no lo hago, me entregaran al tribunal.}
+{34136}{}{Me recompensarán por tu cabeza.}
+{34137}{}{¡Quédate quieto! Necesito una medalla por valentía.}
+{34138}{}{Por los espías hay grandes recompensas.}
+{34139}{}{Si no lo hago, me entregarán al tribunal.}
 #
 #  ATTACKING
 #
-{34140}{}{Muere cucaracha!}
+{34140}{}{¡Muere, cucaracha!}
 {34141}{}{Apuesto a que no esperabas tal resistencia.}
-{34142}{}{Aun no has visto a nuestro ejercito.}
-{34143}{}{Vete de aqui gringo!}
-{34144}{}{Americano ya vete a casa!}
+{34142}{}{Aún no has visto a nuestro ejército.}
+{34143}{}{¡Vete de aquí, gringo!}
+{34144}{}{¡Americano, ya vete a casa!}
 {34145}{}{¿Qué te parece esto?}
-{34146}{}{Al ataque!}
-{34147}{}{Ahora veras la fuerza de nuestro ejercito.}
-{34148}{}{Nuestro ejercito es invencible.}
-{34149}{}{Quedices al respecto?}
-{34150}{}{Arizona sera nuestra!}
-{34151}{}{Tu fin esta cerca, gringo.}
-{34152}{}{Dame un lazo.}
+{34146}{}{¡Al ataque!}
+{34147}{}{Ahora verás la fuerza de nuestro ejército.}
+{34148}{}{Nuestro ejército es invencible.}
+{34149}{}{¿Qué dices al respecto?}
+{34150}{}{¡Arizona será nuestra!}
+{34151}{}{Tu fin está cerca, gringo.}
+{34152}{}{¡Dame un lazo!}
 {34153}{}{Los saboteadores deben morir.}
-{34154}{}{Quieres mas?}
-{34155}{}{Antes de que llegaras todo estaba tranquilo.}
-{34156}{}{Alguien sera ahorcado hoy.}
+{34154}{}{¿Quieres más?}
+{34155}{}{Antes de que llegaras, todo estaba tranquilo.}
+{34156}{}{Alguien será ahorcado hoy.}
 {34157}{}{Un enemigo menos.}
-{34158}{}{Solo un tonto se meteria en nuestro territorio.}
+{34158}{}{Solo un tonto se metería en nuestro territorio.}
 {34159}{}{No es nada personal, gringo.}
 #
 #  TARGET BEING MISSED
 #
 {34160}{}{Te falta mucho para ser un verdadero soldado.}
-{34161}{}{Llama al General para que vea mi valentia.}
-{34162}{}{La pena el entrenamiento en el cuartel.}
-{34163}{}{Ves lo importante que es entrenar?}
-{34164}{}{Ja. No estaban acostumbrados a gringo de este tipo.}
-{34165}{}{No solo somos fuertes, sino tambien agiles.}
-{34166}{}{Inmediatamente me di cuenta de que tan solo eras un.}
+{34161}{}{Llama al general para que vea mi valentía.}
+{34162}{}{Pena por el entrenamiento en el cuartel.}
+{34163}{}{¿Ves lo importante que es entrenar?}
+{34164}{}{Ja. No estaban acostumbrados a un gringo de este tipo.}
+{34165}{}{No solo somos fuertes, sino también ágiles.}
+{34166}{}{Inmediatamente me di cuenta de que tan solo eras un aficionado.}
 {34167}{}{Aficionado.}
-{34168}{}{Queverguenza!}
-{34169}{}{No te saldras con la tuya.}
-{34170}{}{Todos gringo son igual de fragiles?}
+{34168}{}{¡Qué vergüenza!}
+{34169}{}{No te saldrás con la tuya.}
+{34170}{}{¿Todos los gringos son igual de frágiles?}
 {34171}{}{Eres una escoria de la sociedad estadounidense.}
-{34172}{}{Parece que no tienes opcion, eh?}
-{34173}{}{Parece que te esta s quedando sin fuerzas.}
-{34174}{}{Quieres escaparte?}
-{34175}{}{Excelente! Esto te debilitara rapidamente.}
-{34176}{}{Los gringo son debiles. Los capturaremos rapidamente.}
+{34172}{}{Parece que no tienes opción, ¿eh?}
+{34173}{}{Parece que te estás quedando sin fuerzas.}
+{34174}{}{¿Quieres escaparte?}
+{34175}{}{¡Excelente! Esto te debilitará rápidamente.}
+{34176}{}{Los gringos son débiles. Los capturaremos rápidamente.}
 {34177}{}{Mientras luchas, nos apoderaremos de toda Arizona.}
 {34178}{}{Tengo muchas sorpresas como esta.}
-{34179}{}{Mis tacticas son perfectas.}
+{34179}{}{Mis tácticas son perfectas.}
 #Vean a este gringo.
 
 ############################################
@@ -6507,7 +6507,7 @@
 {36000}{}{«Damn it!»}
 {36001}{}{«Damn!»}
 {36002}{}{«My head!»}
-{36003}{}{«*unintelligible curse word*»}
+{36003}{}{«Oh, God help me!»}
 {36004}{}{«Arrgh!»}
 {36005}{}{«I will not die by your hands but you will by mine!»}
 {36006}{}{«I'm losing consciousness...»}
@@ -6688,11 +6688,11 @@
 #
 # HIT IN HEAD
 #
-{37000}{}{¡Veo todo girar, cómo un carrusel!}
+{37000}{}{¡Veo todo girar como un carrusel!}
 {37001}{}{¡Ay, eso dolió más que mi divorcio!}
 {37002}{}{Una estrella... dos estrellas... ¡espero no llegar a cinco!}
 {37003}{}{¡Mi hermosa cara! ¡Nooo!}
-{37004}{}{Creo que me voy a desmayar... sólo una siestecita...}
+{37004}{}{Creo que me voy a desmayar... solo una siestecita...}
 {37005}{}{¡Directo en la cabeza! ¡Un tiro perfecto!}
 {37006}{}{¡Ay, mi pobre y dolorida cabeza!}
 {37007}{}{Creo que se me partió la cabeza... o simplemente no está de acuerdo conmigo.}
@@ -6701,12 +6701,12 @@
 #
 # HIT IN LEFT ARM
 #
-{37010}{}{¡Qué dolor! ¡No dijeron nada de esto cuándo me alisté!}
+{37010}{}{¡Qué dolor! ¡No dijeron nada de esto cuando me alisté!}
 {37011}{}{¡Mi mano! ¡Mi preciosa mano!}
 {37012}{}{¡Ay, mi mano! ¿Alguien grabó eso?}
 {37013}{}{¡Ay, esto duele peor que un corazón roto!}
 {37014}{}{Me duele el brazo. En serio, me duele mucho.}
-{37015}{}{Me duele el brazo. ¡Necesito un médico, ya!}
+{37015}{}{Me duele el brazo. ¡Necesito un médico ya!}
 {37016}{}{¡Me dejaste el brazo como un pretzel!}
 {37017}{}{Se me quebró esto... y esto... oh, genial.}
 {37018}{}{¡Me rompiste el brazo! ¿Quién pagará por esto?}
@@ -6716,12 +6716,12 @@
 #
 {37020}{}{¡No siento mi mano! ¿Me habré dormido encima?}
 {37021}{}{¿Alguien me puede arreglar la mano? ¡Por favor, por favorcito!}
-{37022}{}{¡Me arrancaste el dedo! ¡Basta con esto, por favor!}
+{37022}{}{¡Me arrancaste el dedo! ¡Basta, por favor!}
 {37023}{}{¡Detente! ¡No puedo alimentar a mi familia si me falta la mano!}
 {37024}{}{¡Por favor, déjame al menos un par de dedos! ¡Los necesito!}
 {37025}{}{Se me entumecen los dedos... ¿así se sintió Frosty?}
 {37026}{}{¡Oye, mira lo que me hiciste en la mano!}
-{37027}{}{¡Hay sangre por todos lados! ¡Tráiganme una venda, rápido!}
+{37027}{}{¡Hay sangre por todos lados! ¡Tráiganme una venda rápido!}
 {37028}{}{Por poquito y le digo adiós a mi mano.}
 {37029}{}{Duele tanto... Pensé que el dolor tenía límites.}
 #
@@ -6732,7 +6732,7 @@
 {37032}{}{¡Mis costillas! Eso realmente, realmente dolió.}
 {37033}{}{Me cuesta respirar... ¿así se sienten los peces?}
 {37034}{}{Esto es un problema con P mayúscula.}
-{37035}{}{No duele tanto, pero me sale suficiente sangre como para llenar una piscina.}
+{37035}{}{No duele tanto, pero sale suficiente sangre como para llenar una piscina.}
 {37036}{}{¡Me vas a tener que pagar el médico!}
 {37037}{}{¡Doctores, al rescate!}
 {37038}{}{Esta herida me da malas vibras.}
@@ -6754,7 +6754,7 @@
 {37054}{}{Espera... necesito un respiro...}
 {37055}{}{Espera, necesito contar mis costillas.}
 {37056}{}{Al menos déjame fumar un último cigarro antes de estirar la pata.}
-{37057}{}{Ay, dejaré de fumar después de esto}
+{37057}{}{Ay, dejaré de fumar después de esto.}
 {37058}{}{Parece que mis pulmones se tomaron el día libre.}
 {37059}{}{Una costilla menos, ¡espero poder vivir sin ella!}
 #
@@ -6846,7 +6846,7 @@
 {37131}{}{Es una lástima que hayamos llegado a esto...}
 {37132}{}{¿Por qué siempre termina así?}
 {37133}{}{Solo vete, y nadie saldrá lastimado.}
-{37134}{}{Por parásitos como tú, la gente honesta no dormir tranquila.}
+{37134}{}{Por parásitos como tú, la gente honesta no duerme tranquila.}
 {37135}{}{No quiero matar a nadie más. Por favor, no me obligues.}
 {37136}{}{De verdad espero que nadie te extrañe.}
 {37137}{}{Alguien va a pagar por todo esto.}
@@ -6861,7 +6861,7 @@
 {37143}{}{Sí, ¡toma eso!}
 {37144}{}{¿Qué tal eso?}
 {37145}{}{Oh, sí, justo ahí.}
-{37146}{}{Vaya vaya, parece que alguien está sangrando.}
+{37146}{}{Vaya, vaya, parece que alguien está sangrando.}
 {37147}{}{Sí, acércate, te voy a dar de nuevo.}
 {37148}{}{¿Qué te parece eso? No es chistoso, ¿verdad?}
 {37149}{}{¡Ja, te gustó eso? No lo creo.}

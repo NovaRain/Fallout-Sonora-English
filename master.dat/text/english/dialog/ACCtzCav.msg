@@ -1,16 +1,16 @@
 {100}{}{You see Gloria.}
 {101}{}{You see a Mexican girl.}
 {102}{}{You have revived the patient.}
-{103}{}{Madre de Dios! Lo que sucederá?}
+{103}{}{¡Madre de Dios! ¿Qué sucederá?}
 
 {110}{}{Ahhhh...}
 {111}{}{The girl is unconscious. She is experiencing a medical emergency.}
 {112}{}{«Thanks for saving my life. I need to catch my breath a little and calm down. Can you go to the village and tell them what happened?»}
-{113}{}{Tú eres mi salvador. Le estoy muy reconocido.}
+{113}{}{Tú eres mi salvador. Te estoy muy agradecida.}
 {114}{}{Okay, I'll explain what happened in the settlement. And you rest.}
-{115}{}{Le estoy muy reconocido.}
+{115}{}{Te estoy muy agradecida.}
 {116}{}{«Thank you again.»}
-{117}{}{Le estoy muy reconocido. Habla con Héctor.}
+{117}{}{Te estoy muy agradecida. Habla con Hector.}
 {118}{}{«Thank you again. Talk to Héctor about what happened.»}
 
 {179}{}{«Take it easy. Everything's fine.»}
@@ -27,21 +27,21 @@
 {205}{}{You're not right in the head, are you?}
 {206}{}{(looks around nervously)}
 {207}{}{Do you want to get out of here? I know the way out. Let's go, let's go...}
-{208}{}{Nope, I don't need a crazy traveling companions right now. Just stay here!}
-{209}{}{No te preocupes. Todo bueno.}
+{208}{}{Nope, I don't need any crazy traveling companions right now. Just stay here!}
+{209}{}{No te preocupes. Todo está bien.}
 {210}{}{«Monsters! They're everywhere!»}
 {211}{}{«Calm down, you're in no danger now.»}
 {212}{}{«You want them to find us? Then shut up, fool.»}
 {213}{}{«Oh, sorry, they're so horrible! I just want to go home. Will you get me out of here?»}
 {214}{}{«Of course, let's get you out of here. Let's go for some fresh air...»}
-{215}{}{«Nope, I don't need an hysterical girl tagging along right now. Just sit here and don't make a sound!»}
-{216}{}{Estará tan silencioso como un ratón.}
+{215}{}{«Nope, I don't need a hysterical girl tagging along right now. Just sit here and don't make a sound!»}
+{216}{}{Estaré tan silenciosa como un ratón.}
 {217}{}{«I'll be as quiet as a mouse.»}
 {218}{}{Stay back...}
 {219}{}{}
 
 #Re-dialogue
-{220}{}{¡Por favor no me dejes aquí!}
+{220}{}{¡Por favor, no me dejes aquí!}
 {221}{}{Please don't leave me here!}
 {222}{}{You can't stay here. Come with me...}
 {223}{}{Sit here and don't make any noise.}
@@ -57,7 +57,7 @@
 {237}{}{Where are you from?}
 {238}{}{I'm from a fishing village on the coast. It's called San Felipe.}
 {239}{}{How did you end up in the cave?}
-{240}{}{It seems that I was walking along the shore, when suddenly this monster leaped out of an old boat. Then I guess that I lost consciousness and woke up in this cave. I think the monsters dragged me here... God, what a nightmare!}
+{240}{}{It seems that I was walking along the shore when suddenly this monster leaped out of an old boat. Then I guess that I lost consciousness and woke up in this cave. I think the monsters dragged me here... God, what a nightmare!}
 {241}{}{What do you know about these monsters?}
 {242}{}{Creepy creatures. They really creep me out. Could nature have created such monsters? No, these are creatures from hell itself. It's no wonder they reek of death and decay!}
 {243}{}{Yes, they really do smell unhealthy.}
@@ -68,4 +68,4 @@
 {248}{}{That's right, I really need a big flamethrower.}
 {249}{}{Where are you from, Gloria?}
 {250}{}{That's all I wanted to know.}
-{251}{}{It seems that I was walking along the sea, when suddenly this monster jumped out of an old boat. It seems that I lost consciousness and woke up already in this cave. I think these monsters dragged me here... God, there were other bodies lying there too! Maybe they are still alive? No, I won't go back there...}
+{251}{}{It seems that I was walking along the sea when suddenly this monster jumped out of an old boat. It seems that I lost consciousness and woke up already in this cave. I think these monsters dragged me here... God, there were other bodies lying there too! Maybe they are still alive? No, I won't go back there...}

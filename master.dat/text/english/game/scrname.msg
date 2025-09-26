@@ -685,7 +685,7 @@
 {785}{}{Tribal Warrior}
 {786}{}{Tribal Warrior}
 {787}{}{Blockage}
-{788}{}{Senor Handy}
+{788}{}{Señor Handy}
 {789}{}{Collapse}
 {790}{}{Ranger Oscar}
 {791}{}{Tribal Warrior}

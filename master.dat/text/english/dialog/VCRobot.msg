@@ -1,5 +1,5 @@
-{100}{}{You see Senor Handy.}
-{101}{}{You see a robot from the "Senor Handy" series.}
+{100}{}{You see Señor Handy.}
+{101}{}{You see a robot from the "Señor Handy" series.}
 
 # First dialogue
 {200}{}{Ah, finally! I haven't seen a living human being for a long time. Decades of solitude leave their mark even on *my* neural connections... Who are you? Tell me about yourself.}
@@ -42,7 +42,7 @@
 {232}{}{Curious.}
 
 {233}{}{What should I call you? You're... just a robot.}
-{234}{}{Call me Felix, baby. Is this too exciting for you? Well, you're right. In that case, Senor Handy is the nickname your ancestor gave me.}
+{234}{}{Call me Felix, baby. Is this too exciting for you? Well, you're right. In that case, Señor Handy is the nickname your ancestor gave me.}
 {235}{}{I'll just call you robot.}
 {236}{}{Okay, you'll be my assistant then.}
 {237}{}{As you say, great-great-grandpa Felix.}

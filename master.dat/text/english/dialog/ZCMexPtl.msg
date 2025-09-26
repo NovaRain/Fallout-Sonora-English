@@ -2,16 +2,16 @@
 {101}{}{You see a private in typical military gear.}
 
 {110}{}{¡Un intruso!}
-{111}{}{Veo al intruso!}
-{112}{}{Eres gringo, no?}
-{113}{}{Bienvenido a Mexico!}
-{114}{}{Que buscas aqui?}
-{115}{}{Vienes del norte?}
-{116}{}{Esto es Nuevo Mexico.}
-{117}{}{Esta es nuestra tierra!}
-{118}{}{Guarda tus armas!}
-{119}{}{No nos caen bien los gringos.}
-{120}{}{Quien eres?}
+{111}{}{¡Veo a un intruso!}
+{112}{}{¿Eres gringo, verdad?}
+{113}{}{¡Bienvenido a México!}
+{114}{}{¿Qué buscas aquí?}
+{115}{}{¿Vienes del norte?}
+{116}{}{Esto es Nuevo México.}
+{117}{}{¡Esta es nuestra tierra!}
+{118}{}{¡Guarda tus armas!}
+{119}{}{No nos gustan los gringos.}
+{120}{}{¿Quién eres?}
 
 {210}{}{«Intruder!»}
 {211}{}{«I see an intruder!»}

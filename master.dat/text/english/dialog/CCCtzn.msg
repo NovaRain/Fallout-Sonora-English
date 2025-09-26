@@ -1,11 +1,11 @@
 {100}{}{You see one of Santa Ana's inhabitants.}
-{101}{}{You see a mexican-looking person.}
+{101}{}{You see a Mexican-looking person.}
 
-{110}{}{Hola!}
-{111}{}{Hola, heroe!}
-{112}{}{Hola, amigo!}
-{1112}{}{Hola, amiga!}
-{113}{}{Vete, traidor!}
+{110}{}{¡Hola!}
+{111}{}{¡Hola, héroe!}
+{112}{}{¡Hola, amigo!}
+{1112}{}{¡Hola, amiga!}
+{113}{}{¡Vete, traidor!}
 
 # added for use of the Spanish Trait
 {210}{}{«Hello!»}

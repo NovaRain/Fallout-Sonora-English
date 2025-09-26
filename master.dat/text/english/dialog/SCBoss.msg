@@ -109,8 +109,8 @@
 {286}{}{The hell with this. The Rangers will protect us, and you'll go to hell.}
 {287}{}{Too bad. So, in accordance with the laws of the Old World, you'll face the death penalty for your crimes against us. Prepare to accept your fate, you piece of shit...}
 {288}{}{Go to hell.}
-{289}{}{But I've commited no crimes...}
-{1289}{}{But I've commited no crimes...}
+{289}{}{But I've committed no crimes...}
+{1289}{}{But I've committed no crimes...}
 {290}{}{If you leave us alone, I'll try it.}
 {291}{}{As Supreme Paladin, I *will* keep my word. Take action.}
 {292}{}{Alright. Goodbye.}

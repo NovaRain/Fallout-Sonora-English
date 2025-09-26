@@ -14,7 +14,7 @@
 {114}{}{One day... General Sarabia take Arizona.}
 {115}{}{You want push... the waka?}
 {116}{}{Better stay away from... our waka. They no like strangers.}
-{117}{}{Want ride waks? Pay... doble pesos.}
+{117}{}{Want ride waks? Pay... dos pesos.}
 {118}{}{You really pay con... caps? Pf-ha-ha-ha!}
 {119}{}{Estúpido norteño! Estúpido norteño! Be-be-be!}
 {120}{}{My shoes... broken. You have... something to fix?}
@@ -26,7 +26,7 @@
 {214}{}{«One day General Sarabia will take over Arizona.»}
 {215}{}{«Do you want to push the waka?»}
 {216}{}{«You better stay away from our waka. They don't like strangers.»}
-{217}{}{«Want to ride some wakas? Then pay double pesos.»}
+{217}{}{«Want to ride some wakas? Then pay two pesos.»}
 {218}{}{«Are you really paying with caps? Pf-ha-ha-ha!»}
 {219}{}{«Stupid northerner! Stupid northerner! Be-be-be!»}
 {220}{}{«My shoes broke. Do you think you can fix them?»}

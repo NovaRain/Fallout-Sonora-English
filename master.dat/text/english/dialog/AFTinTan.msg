@@ -3,24 +3,24 @@
 {102}{}{Don't come near me! You, uh, smell bad.}
 {103}{}{Damn it, and it's all because of that little sucker...}
 
-{200}{}{Ay-ay-ay, what a small fish! Well, why do I need you? Swim back to the sea, become big and then come back. There you go! See you little fish!}
+{200}{}{Ay-ay-ay, what a small fish! Well, why do I need you? Swim back to the sea, become big, and then come back. There you go! See you, little fish!}
 {201}{}{Uh, I think I'm disturbing you.}
 {202}{}{I get sick in the waves and then fall asleep. Sometimes I dream about something cool, like I'm dancing surrounded by beautiful girls!}
 {203}{}{Uh, I see.}
 {204}{}{Seems like we have you to thank for this oil thing. «Thank you very much! Cheers!»}
 {205}{}{«It was nothing.»}
 {206}{}{You're welcome.}
-{207}{}{Seems like we have you to thank for this oil thing. Muchas gracias! Viva!}
+{207}{}{Seems like we have you to thank for this oil thing. ¡Muchas gracias! ¡Viva!}
 
 
 {210}{}{Hello. I'm Tin-Tan. How are you?}
 {211}{}{Bye.}
 
 {220}{}{Have you been to the platform?}
-{221}{}{In my dreams I go anywhere and in anyone's arms!}
+{221}{}{In my dreams, I go anywhere and into anyone's arms!}
 {222}{}{Um, I see.}
-{223}{}{Tin-Tan - what a strange name?}
-{224}{}{I used to be... drum roll... Topillo! And then I became Tin-Tan. Actually my name is... boom boom boom... German Henaro Cipriano Gomez Valdes-y-Castillo! But it's a little... inconvenient, you know?}
+{223}{}{Tin-Tan - that's a strange name.}
+{224}{}{I used to be... drum roll... Topillo! And then I became Tin-Tan. Actually, my name is... boom boom boom... German Henaro Cipriano Gomez Valdes-y-Castillo! But it's a little... inconvenient, you know?}
 {225}{}{Ah, now it's clear.}
 {226}{}{I'd say it's a nickname, idiot.}
 

@@ -19,16 +19,16 @@
 {220}{}{(The data is in Spanish. You do not understand what is written here.)}
 
 {300}{}{Ingresar comando}
-{301}{}{Terminar sesion}
+{301}{}{Cerrar sesión}
 {302}{}{Regresar}
 
 {310}{}{Informe trimestral del fuerte}
-{311}{}{(Informe 2162 para el cuartel general en Monterrey. El destacamento del General Sarabia entro en el desierto Hermosillo y organizo una base temporal. Una semana despues, llego la orden de acantonamiento permanente.)}
+{311}{}{(Informe 2162 para el cuartel general en Monterrey. El destacamento del General Sarabia entró en el desierto Hermosillo y organizó una base temporal. Una semana después llegó la orden de acantonamiento permanente.)}
 {312}{}{Fuerte en El Paso}
 {313}{}{(The data is in Spanish. You do not understand what is written here.)}
 {314}{}{Metas y objetivos}
-{315}{}{(El objetivo principal es mantener la posicion y expandir el territorio del nuevo estado.)}
-{316}{}{Evaluacion de la situacion}
-{317}{}{(Segun los ultimos datos, la principal amenaza para el fuerte es la Hermandad del Acero en las ruinas de Puerto Penasco y un asentamiento de Tintoreros cerca de Tucson antes de la guerra. El fuerte esta entrenando exploradores para estudiar las fuerzas de estos posibles oponentes.)}
+{315}{}{(El objetivo principal es mantener la posición y expandir el territorio del nuevo Estado.)}
+{316}{}{Evaluación de la situación}
+{317}{}{(Según los últimos datos, la principal amenaza para el fuerte es la Hermandad del Acero en las ruinas de Puerto Peñasco y un asentamiento de Hojalateros cerca de la Tucson pre-guerra. El fuerte está entrenando exploradores para estudiar las fuerzas de estos posibles oponentes.)}
 {318}{}{Copiar datos del ordenador al holodisco}
-{319}{}{Datos archivados copiados}
+{319}{}{Archivo de datos copiado}

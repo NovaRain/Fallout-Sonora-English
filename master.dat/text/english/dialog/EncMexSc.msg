@@ -7,7 +7,7 @@
 {200}{}{Muchas gracias. (Gives you clean water as a reward) Bebe, amigo.}
 {1200}{}{Muchas gracias. (Gives you clean water as a reward) Bebe, amiga.}
 {201}{}{You don't speak English?}
-{202}{}{Ingles? No.}
+{202}{}{¿Inglés? No.}
 {203}{}{I see. Well, have a nice trip then.}
 {204}{}{«You're welcome. By the way, where are you from?»}
 {205}{}{«I'm from Hermosillo. There are no other cities in this area. Although you can't call it a city.»}

@@ -4,10 +4,10 @@
 
 {110}{}{*Yawn*}
 {111}{}{Estoy aburrido...}
-{112}{}{Viene alguien?}
+{112}{}{¿Viene alguien?}
 {113}{}{¿Cuándo es el cambio de guardia?}
 {114}{}{Hoy hace calor.}
-{115}{}{Tengo que informar sobre esto.}
+{115}{}{Tengo que reportar esto.}
 {116}{}{Malditos insectos.}
 {117}{}{Necesito zapatos nuevos.}
 {118}{}{}
@@ -19,7 +19,7 @@
 {123}{}{«Where is the replacement guard?»}
 {124}{}{«It's a hot day today.»}
 {125}{}{«This will have to be reported.»}
-{126}{}{«Damn insects...»}
+{126}{}{«Damn insects.»}
 {127}{}{«I need new shoes.»}
 {128}{}{}
 {129}{}{}
@@ -28,15 +28,15 @@
 {191}{}{«Okay. Now what?»}
 {192}{}{«Are you threatening me?»}
 
-{200}{}{Detente ahi! No se mueva.}
+{200}{}{¡Detente ahí! No te muevas.}
 {201}{}{What?}
-{202}{}{Eres gringo, verdad? Hablas espanol?}
+{202}{}{Eres gringo, ¿verdad? ¿Hablas español?}
 {203}{}{I speak the language of fists. Shall we have a chat?}
 {204}{}{Sorry, I don't speak Spanish.}
 {205}{}{Americano - road - stop. You understand? Go back. Fast.}
 {206}{}{Are you driving me away? But why?}
 {207}{}{You can't tell me where to go? Get out of my way!}
-{208}{}{Civil - no entry...prohibito. You go - or I shoot. Vamos! Vamos!}
+{208}{}{Civil - no entry...prohibido. You go - or I shoot. ¡Vamos! ¡Vamos!}
 {209}{}{You're so serious. Okay, I'll leave.}
 {210}{}{Fuck you!}
 {211}{}{«I speak a little Spanish.»}
@@ -69,7 +69,7 @@
 {240}{}{«Didn't you understand the first time? If you try to come into the fort, you'll get a bullet in the forehead. Got it?»}
 {241}{}{Okay, okay, I'll leave...}
 {242}{}{If you do that again, I won't be responsible for what happens.}
-{243}{}{Eres tu otra vez? (raises weapon threateningly) Vete! Voy a dispararte!}
+{243}{}{¿Eres tú otra vez? (raises weapon threateningly) ¡Vete! ¡Voy a dispararte!}
 {244}{}{«You know, one of you took the radio transmitter from the Dominguez family.»}
 {245}{}{«Seriously? I didn't know that. It's a shame they were treated like that.»}
 {246}{}{«Perhaps you could return the radio?»}

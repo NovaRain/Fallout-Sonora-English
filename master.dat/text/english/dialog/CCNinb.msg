@@ -13,7 +13,7 @@
 {115}{}{«I think this is yours. Take it and do with it what you want.»}
 {116}{}{«It's too early to give this to you.»}
 
-{200}{}{Tu otra vez?}
+{200}{}{¿Tú otra vez?}
 {201}{}{There you are. And I've been looking for you everywhere.}
 {202}{}{(turns away)}
 {203}{}{...And I'm not the only one. Antonio is looking for you too.}
@@ -27,9 +27,9 @@
 {211}{}{That's good. I'll make sure you get home.}
 {212}{}{Stay here, I'll check outside.}
 
-{213}{}{(falls to her knees and sobs) El Diablo... *whine whine* No entiendes, gringo. Vivi para esto.}
-{214}{}{(grabs your sleeve) Este es mi destino! He perdido todo sentido de la vida!}
-{215}{}{(exhausted) Bueno. Me ire a casa. Que sea lo que tenga que ser.}
+{213}{}{(falls to her knees and sobs) El Diablo... *whine whine* No entiendes, gringo. Viví para esto.}
+{214}{}{(grabs your sleeve) ¡Este es mi destino! ¡Ya no encuentro sentido a la vida!}
+{215}{}{(exhausted) Bueno. Me iré a casa. Que sea lo que tenga que ser.}
 
 
 {220}{}{«You again, gringo?»}
@@ -37,7 +37,7 @@
 {222}{}{(turns away)}
 {223}{}{«... And I'm not the only one. Antonio is looking for you too.»}
 {224}{}{(turns back halfway) «Antonio?»}
-{225}{}{«He's the one, senora. He's the one who stole the crown from the ceremony to save you from death.»}
+{225}{}{«He's the one, señora. He's the one who stole the crown from the ceremony to save you from death.»}
 {226}{}{(falls to her knees and sobs) «But El Diablo... *sob* *sob* You don't understand, gringo. I've been prepared for this my whole life. I knew this day would come.»}
 {227}{}{«Isn't it better now that you're free?»}
 {228}{}{(grabs your sleeve) «This was my destiny! I had to go to El Diablo to save the rest of the townspeople!»}

@@ -1,7 +1,7 @@
 {100}{}{You see Lucia.}
 {101}{}{You see a girl in ceremonial attire, radiating joy.}
 {102}{}{Thanks for everything.}
-{103}{}{Muchas gracias.}
+{103}{}{¡Muchas gracias!}
 {104}{}{The crown has been returned to its rightful owner.}
 {105}{}{I think this is yours. Take it and do with it what you want.}
 {106}{}{It's too early to give this to you.}
@@ -12,13 +12,13 @@
 {199}{}{«Good morning.»}
 
 #Dialogue before the ceremony
-{200}{}{Buenas noches.}
-{201}{}{Buenos dias.}
+{200}{}{¡Buenas noches!}
+{201}{}{¡Buenos días!}
 {202}{}{Don't mind me.}
 {203}{}{Hello. Who are you? What is your name?}
 {204}{}{Mi nombre es Lucia.}
-{205}{}{Lucia, then. What special outfit are you wearing? Is this holiday really in your honor? }
-{206}{}{Hoy sere reina. Este es un gran honor para mi... (hides her excited gaze) Dime sinceramente, te gusta nuestra ciudad?}
+{205}{}{Lucia, then. What a special outfit! Is this holiday really in your honor?}
+{206}{}{Hoy seré reina. Este es un gran honor para mí... (hides her excited gaze) Dime sinceramente, ¿te gusta nuestra ciudad?}
 {207}{}{I don't understand, are you happy or crying?}
 {208}{}{(covers face) Estoy bien.}
 {209}{}{Okay, I'll go on having fun.}
@@ -46,10 +46,10 @@
 {232}{}{«Hey, how are you?»}
 {233}{}{(She lowers her head to her knees)}
 {234}{}{«Are you okay?»}
-{235}{}{(pulls her hand back and pushes you away) Vete, gringo! El Diablo ya esta aqui!}
+{235}{}{(pulls her hand back and pushes you away) ¡Vete, gringo! ¡El Diablo ya está aquí!}
 {236}{}{El Diablo? Who is this? What are you even talking about? I don't understand...}
-{237}{}{El Diablo is dead. Understand? (gesture emphatically) Dead!}
-{238}{}{(raises her eyes in amazement) Esta muerto el Diablo?... No... No! No! No! (runs away from the church)}
+{237}{}{El Diablo is dead. Understand? (gestures emphatically) Dead!}
+{238}{}{(raises her eyes in amazement) ¿Está muerto el Diablo?... No... No! No! No! (runs away from the church)}
 {239}{}{Come on, get some fresh air. Now you can afford to.}
 
 {240}{}{«El Diablo is dead.»}
@@ -57,6 +57,6 @@
 {242}{}{«Are you okay?»}
 {243}{}{(pulls her hand back and pushes you away) «Get out of here, gringo! El Diablo is already here!»}
 {244}{}{«El Diablo? Who is this? What are you even talking about? I don't understand...»}
-{245}{}{(raises her eyes in amazement) «Is el Diablo dead?... No... No! No! No!» (runs away from the church)}
+{245}{}{(raises her eyes in amazement) «Is El Diablo dead?... No... No! No! No!» (runs away from the church)}
 {246}{}{«Come on, get some fresh air. Now you can afford to.»}
 

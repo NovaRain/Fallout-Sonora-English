@@ -1,15 +1,15 @@
 {100}{}{You see an immigrant.}
 {101}{}{You see a dirty, emaciated person.}
 
-{110}{}{Por favor no nos ataquen!}
-{111}{}{No queremos problemas!}
+{110}{}{¡Por favor, no nos ataquen!}
+{111}{}{¡No queremos problemas!}
 {112}{}{Estamos buscando un nuevo hogar.}
-{113}{}{Ya llegamos?}
+{113}{}{¿Ya llegamos?}
 {114}{}{Quiero dormir.}
-{115}{}{Eres un aventurero, no?}
+{115}{}{Eres un aventurero, ¿no?}
 {116}{}{Ya hemos tenido suficiente de estos tiranos y guerrilleros.}
 {117}{}{Hay bandidos por todas partes.}
-{118}{}{Dejanos en paz!}
+{118}{}{¡Déjanos en paz!}
 {119}{}{No tenemos nada de valor.}
 
 {210}{}{«You're not going to attack us, right?»}

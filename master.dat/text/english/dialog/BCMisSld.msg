@@ -9,14 +9,14 @@
 {115}{}{Looks like we're stuck here for a while yet.}
 
 {150}{}{(Humming an old song while looking enviously at your rifle)}
-{151}{}{~ Carabina Treinta Treinta ~}
-{152}{}{~ Que los rebeldes llevaban ~}
-{153}{}{~ Y los carpinteros dijeron ~}
-{154}{}{~ Que no mataron con ellos. ~}
-{155}{}{~ Con mi 30/30 voy a luchar ~}
-{156}{}{~ Unete a las filas de la rebelion ~}
-{157}{}{~ Si pides mi sangre, te doy mi sangre ~}
-{158}{}{~ Por los habitantes de nuestra nacion. ~}
+{151}{}{~ Carabinas Treinta Treinta ~}
+{152}{}{~ Que los rebeldes portaban ~}
+{153}{}{~ Y decían los federales ~}
+{154}{}{~ Que con ellas no mataban ~}
+{155}{}{~ Con mi 30-30 voy a marchar ~}
+{156}{}{~ A engrosar las filas de la rebelión ~}
+{157}{}{~ Si mi sangre piden, mi sangre les doy ~}
+{158}{}{~ Por los habitantes de nuestra nación ~}
 {159}{}{~}
 
 {160}{}{Damn, it's finally over.}
@@ -34,12 +34,12 @@
 {175}{}{They told me not to get mixed up in this shit...}
 
 {250}{}{(Humming an old song while looking enviously at your rifle)}
-{251}{}{~ «Carabina Treinta Treinta» ~}
-{252}{}{~ «The rebels carried it» ~}
-{253}{}{~ «And the carpenters said» ~}
-{254}{}{~ «They did not kill with it» ~}
-{255}{}{~ «With my 30/30, I will fight» ~}
-{256}{}{~ «Join the ranks of the rebellion» ~}
-{257}{}{~ «If you ask for my blood, I will give my blood» ~}
+{251}{}{~ «Thirty Thirty Carabine» ~}
+{252}{}{~ «That the rebels carried» ~}
+{253}{}{~ «And the federals said» ~}
+{254}{}{~ «You can't kill with them» ~}
+{255}{}{~ «With my 30-30 I will march» ~}
+{256}{}{~ «To join the ranks of the rebellion» ~}
+{257}{}{~ «If they ask for my blood, I will give it» ~}
 {258}{}{~ «For the people of our nation» ~}
 {259}{}{~}

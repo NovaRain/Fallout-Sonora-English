@@ -77,7 +77,7 @@
 {258}{}{¿Holy Brahmin? Nunca escuché eso...eh, never heard of it. Sounds estúpido...to me.}
 {259}{}{Perhaps. But for them, it was a matter of survival.}
 {260}{}{Exactly. Never seen anything dumber.}
-{261}{}{Tus preguntas...eh, your questions...son cansadas...are tiresome. Tengo que...eh, I have to...mind mi propio negocio...own business.}
+{261}{}{Tus preguntas...eh, your questions...son cansadoras...are tiresome. Tengo que...eh, I have to...mind mi propio negocio...own business.}
 {262}{}{I'm already heading out, don't worry.}
 
 {270}{}{You mentioned the difficult situation in Mexico. What's going on?}
@@ -156,7 +156,7 @@
 {357}{}{«I've been to San Brahmin. The locals revered these animals as sacred.»}
 {358}{}{«Holy Brahmin? Never heard of it. Sounds stupid to me.»}
 {359}{}{«Perhaps. But for them, it was a matter of survival.»}
-{360}{}{«Exactly. Never seen anything dumber.»}
+{260}{}{«Exactly. Never seen anything dumber.»}
 {361}{}{«Your questions are tiresome. I have to mind my own business.»}
 {362}{}{«I'm already heading out, don't worry.»}
 

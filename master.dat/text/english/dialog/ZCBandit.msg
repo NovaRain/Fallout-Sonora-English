@@ -20,7 +20,7 @@
 
 {130}{}{*Curses in Spanish*}
 {131}{}{*Gives a speech in Spanish*}
-{132}{}{Maldita sea!}
-{133}{}{Esta es nuestra tierra!}
-{134}{}{Hemos fracasado!}
-{135}{}{Aumenta las patrullas!}
+{132}{}{¡Maldita sea!}
+{133}{}{¡Esta es nuestra tierra!}
+{134}{}{¡Hemos fracasado!}
+{135}{}{¡Aumenten las patrullas!}

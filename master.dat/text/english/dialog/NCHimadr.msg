@@ -1,6 +1,6 @@
-{100}{}{You see a agave farmer.}
+{100}{}{You see an agave farmer.}
 {101}{}{You see a deeply tanned man wearing a straw hat and a fresh linen shirt.}
-{102}{}{Weapons are prohibited in town. Hide it quickly.}
+{102}{}{Weapons are prohibited in town. Hide 'em pronto.}
 {103}{}{Oh, my respects, sir... I, uh, need to work... if I may...}
 {104}{}{«Don't talk to me while there's a curfew in town...»}
 {105}{}{You see Juan.}
@@ -9,10 +9,10 @@
 {107}{}{«I'll introduce myself again. I'm }
 {108}{}{, from a distant village in the north.»}
 
-{109}{}{Uh...take it easy, I...me }
-{110}{}{. I come (walk fingers through air) from a village to the north. (point to the north)}
+{109}{}{Uh... take it easy, I... me }
+{110}{}{. I come (walk fingers through the air) from a village to the north. (point to the north)}
 
-{111}{}{Pull yourself together fool.}
+{111}{}{Pull yourself together, fool.}
 {112}{}{No me hables mientras haya toque de queda en la ciudad...}
 
 
@@ -21,8 +21,8 @@
 {1200}{}{Hola. I am Juan. Why you come here?}
 {2200}{}{(stares at you wide-eyed, as if seeing a ghost, then steps back) I am Juan. I no speak English. NO! NO SPEAK!}
 {201}{}{«Is this the welcome all new people get?»}
-{202}{}{«What are you saying, amigo! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words were rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
-{1202}{}{«What are you saying, amiga! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words were rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
+{202}{}{«What are you saying, amigo! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words sounded rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
+{1202}{}{«What are you saying, amiga! I only wondered what brought you to our town. My English is not as good as your Spanish, so perhaps my words sounded rough. We have a close-knit community here. Everyone knows each other. It's hard for new people to settle in.»}
 {203}{}{«Alright. Sorry.»}
 {204}{}{«I'm not sure if I believe you. But either way, you've completely discouraged me from staying here.»}
 {205}{}{Nice to meet you, Juan. I'm }
@@ -34,8 +34,8 @@
 
 #Repeated meeting
 {210}{}{Hola. Buenas noches.}
-{211}{}{Hola. Buenos dias.}
-{212}{}{Adios, amigo.}
+{211}{}{Hola. Buenos días.}
+{212}{}{Adiós, amigo.}
 {213}{}{I need some fire agave syrup.}
 {2213}{}{«I need some fire agave syrup.»}
 {214}{}{Hmph! Dirty Mexican!}
@@ -51,7 +51,7 @@
 {223}{}{«Tell me about yourself.»}
 {224}{}{«I am Himador Juan. What else do you want to know?»}
 {225}{}{«What do you do here, Himador Juan?»}
-{226}{}{«I work with the fire agave and other crops. While they're growing, I handle shipments for caravans and other tasks.»}
+{226}{}{«I work with fire agave and other crops. While they're growing, I handle shipments for caravans and other tasks.»}
 {227}{}{«Juan, tell me... are you here by choice?»}
 {228}{}{«Yes, sir. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
 {1228}{}{«Yes, ma'am. I work as a peon. I could leave anytime, but there's nowhere to go. I have to live by the rules and work off my contract.»}
@@ -91,32 +91,32 @@
 {257}{}{«Sounds familiar. At the Villa, we also have to do everything by hand.»}
 {258}{}{«Really? I've never heard of other plantations. Are you serious?»}
 {259}{}{«If you don't believe me, let's change the subject.»}
-{260}{}{«I see. Let's talk about something else, then?»}
+{260}{}{«I see. Let's talk about something else, then.»}
 {261}{}{«I've never seen such a tool.»}
 {262}{}{«Me, "just anyone"?»}
 {263}{}{«Why?»}
 {264}{}{«Would you like it if someone wandered through your home without asking? Plus, sometimes we catch harvest thieves. Their fate is usually grim.»}
 {265}{}{«Do you have any more questions?»}
 
-{269}{}{«Uh... I'm sorry, sir.» I no speak English well. }
-{1269}{}{«Uh... I'm sorry, ma'am.» I no speak English well. }
+{269}{}{«Uh... I'm sorry, sir.» I no speak English well.}
+{1269}{}{«Uh... I'm sorry, ma'am.» I no speak English well.}
 
-{270}{}{Uh... Lo siento, senor. I no speak English well. }
-{1270}{}{Uh... Lo siento, senora. I no speak English well. }
-{271}{}{Too bad. I guess were gonna have trouble communicating.}
+{270}{}{Uh... Lo siento, señor. I no speak English well.}
+{1270}{}{Uh... Lo siento, señora. I no speak English well.}
+{271}{}{Too bad. I guess we're gonna have trouble communicating.}
 {272}{}{«I can speak Spanish too, friend.»}
 {273}{}{«I'm very relieved to hear that!»}
 {274}{}{Can I take a look at what you have in the cart?}
-{275}{}{No, no, no, senor! Agave syrup is only for the caravans. Not for sale.}
-{1275}{}{No, no, no, senora! Agave syrup is only for the caravans. Not for sale.}
-{276}{}{Lo siento, senor.}
-{1276}{}{Lo siento, senora.}
-{277}{}{Si, por supuesto, senor.}
-{1277}{}{Si, por supuesto, senora.}
+{275}{}{No, no, no, señor! Agave syrup is only for the caravans. Not for sale.}
+{1275}{}{No, no, no, señora! Agave syrup is only for the caravans. Not for sale.}
+{276}{}{Lo siento, señor.}
+{1276}{}{Lo siento, señora.}
+{277}{}{Sí, por supuesto, señor.}
+{1277}{}{Sí, por supuesto, señora.}
 {278}{}{[Continue]}
 {279}{}{[You switch to speaking Spanish]}
-{280}{}{(looks at you and steps back) Wh.. what y-you want?}
-{281}{}{(looks at you and goes pale) I n-no...speak English! Go away!}
+{280}{}{(looks at you and steps back) Wh... what y-you want?}
+{281}{}{(looks at you and goes pale) I n-no... speak English! Go away!}
 
-{282}{}{(looks at you and gulps) «Ah...my friend...Wh... what do you need?»}
-{283}{}{(looks at you and breaks out in cold sweat) «Can I help you...er...friend?»}
+{282}{}{(looks at you and gulps) «Ah... my friend... Wh... what do you need?»}
+{283}{}{(looks at you and breaks out in a cold sweat) «Can I help you... er... friend?»}

@@ -14,9 +14,9 @@
 {205}{}{What happened?}
 {206}{}{Well, I'll tell you if you get me something cold from the bar.}
 {207}{}{Okay, I'll get something now.}
-{208}{}{No drinking, senorita. Adios.}
+{208}{}{No drinking, señorita. Adiós.}
 {209}{}{Here's 5 caps, get yourself one.}
-{210}{}{Muchas gracias!}
+{210}{}{¡Muchas gracias!}
 {211}{}{Now tell me what's going on here.}
 {212}{}{Well, you've already shared a drink. I think I owe you one.}
 {1212}{}{Well, you've already shared a drink. I think I owe you one.}
@@ -28,8 +28,8 @@
 {221}{}{Why does that upset you so much?}
 {222}{}{Well, it's not that exactly. You see, when it got to be too much, my dad and other fishermen went to the platform. They knew it was dangerous. But something had to be done.}
 {223}{}{What happened there?}
-{224}{}{I just saw them go inside through my binoculars. Nothing has been heard from them since. I think they're all... dead. (takes a deep swig straight from the bottle)}
-{225}{}{I'm sorry. You must have loved your dad a lot?}
+{224}{}{I just saw them go inside through my binoculars. Nothing has been heard from them since. I think they're all... dead. (she takes a deep swig straight from the bottle)}
+{225}{}{I'm sorry. You must have loved your dad a lot.}
 {226}{}{Well, he was my dad. I... things will be tough without him. You know, I'd be happy if someone brought me his belongings as a keepsake.}
 {227}{}{I don't think I'll ever be on that platform. Sorry, but you've got the wrong person.}
 {228}{}{I'll keep that in mind. Cheer up, Thelma.}

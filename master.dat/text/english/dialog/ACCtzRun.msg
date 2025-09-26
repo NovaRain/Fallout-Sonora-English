@@ -2,32 +2,32 @@
 {101}{}{You see a disheveled Mexican with a thick, scruffy beard.}
 
 {110}{}{They exist!}
-{111}{}{I'm telling the truth. Why you not believe Me?}
+{111}{}{I'm telling the truth. Why you not believe me?}
 {112}{}{They'll get here someday!}
 {113}{}{We must act now!}
 
 #First dialogue
-{200}{}{A huevo amigo! What wind brought you to these lands?}
-{1200}{}{A huevo, amiga! What wind brought you to these lands?}
+{200}{}{¡A huevo, amigo! What wind brought you to these lands?}
+{1200}{}{¡A huevo, amiga! What wind brought you to these lands?}
 {201}{}{Well, I...}
-{202}{}{Al tiro, amigo! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
-{1202}{}{Al tiro, amiga! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
+{202}{}{¡Al tiro, amigo! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
+{1202}{}{¡Al tiro, amiga! Don't say a word! These amigos don't like strangers. They even look at me with a knife in their pocket.}
 {203}{}{Why? Did something happen between you two?}
-{204}{}{(looks around) Monstruos!}
+{204}{}{(looks around) ¡Monstruos!}
 {205}{}{You mean monsters?}
 {206}{}{Monstrous! Giant leeches! Creepy disgusting and terribly smelly criaturas! They appear on the coast where I collect shellfish. But these tontos don't listen to me, they think I'm loco! But old Ian is not like that. Ian is no loco!}
 {207}{}{They are making a big mistake by ignoring your words.}
 {208}{}{Seems like you're really out of your mind, old man.}
 {209}{}{Don't leave me alone, amigo. I need help!}
-{1209}{}{Don't leave me alone, amigo. I need help!}
+{1209}{}{Don't leave me alone, amiga. I need help!}
 {210}{}{Okay. Where do you say they made their lair?}
 {211}{}{It's near the wrecked schooner, further along the shore. But be careful.}
 {212}{}{I see. Bye.}
 
 #Re-dialogue
-{220}{}{Ola, amigo.}
-{1220}{}{Ola, amiga.}
-{221}{}{Adios, Jan.}
+{220}{}{¡Hola, amigo!}
+{1220}{}{¡Hola, amiga!}
+{221}{}{Adiós, Ian.}
 
 {230}{}{Who's in charge here?}
 {231}{}{Hector. Our old captain.}

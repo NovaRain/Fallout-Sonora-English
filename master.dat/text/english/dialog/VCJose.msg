@@ -57,7 +57,7 @@
 {250}{}{Good to see you, amigo.}
 {1250}{}{Good to see you, amiga.}
 {251}{}{Amigo, don't just stand around. Find something to do, okay?}
-{251}{}{Amiga, don't just stand around. Find something to do, okay?}
+{1251}{}{Amiga, don't just stand around. Find something to do, okay?}
 {252}{}{I gotta go.}
 
 {253}{}{I have a few questions... No, many questions.}

@@ -2,7 +2,7 @@
 {101}{}{You see a hard worker, busy fixing old junk.}
 {102}{}{Now the mechanic's items will contain more useful parts and caps.}
 {103}{}{Now the mechanic's products will contain even more useful items and caps.}
-{104}{}{No creo en mis ojos! Is this really Power Armor?!}
+{104}{}{¡No creo lo que veo! Is this really Power Armor?!}
 
 {105}{}{«I can't believe my eyes!» Is this really Power Armor?!}
 {106}{}{«Hello!»}
@@ -11,21 +11,21 @@
 
 {199}{}{Oh! «Greetings, friend!» New to the city?}
 
-{200}{}{Oh! Saludos, companero! New to the city?}
+{200}{}{Oh! ¡Saludos, compañero! New to the city?}
 {201}{}{Is this a city?}
-{202}{}{Why not, senor? We have everything a city needs - a bar, a hotel, housing, work. Stick around, you'll see for yourself.}
-{1202}{}{Why not, senorita? We have everything a city needs - a bar, a hotel, housing, work. Stick around, you'll see for yourself.}
+{202}{}{Why not, señor? We have everything a city needs - a bar, a hotel, housing, work. Stick around, you'll see for yourself.}
+{1202}{}{Why not, señorita? We have everything a city needs - a bar, a hotel, housing, work. Stick around, you'll see for yourself.}
 {203}{}{Eh, I'll think about it. And who are you?}
 {204}{}{My name is Pedro Fuerte... or just Pete.}
 {205}{}{I'll call you Pete.}
 {206}{}{Whatever's more convenient, sir.}
-{1206}{}{Whatever's more convenient, senora.}
+{1206}{}{Whatever's more convenient, señora.}
 {207}{}{Nice to meet you, Pedro.}
 {208}{}{(smiles) Likewise, amigo. The garage doors are always open to good folks. How can I help?}
 {1208}{}{(smiles) Likewise, amiga. The garage doors are always open to good folks. How can I help?}
 {209}{}{I guess I'll come by later.}
 
-{210}{}{Salute!}
+{210}{}{¡Saludos!}
 {211}{}{Adios.}
 {212}{}{Can you answer a couple of questions?}
 {213}{}{Enough talk. Now I want to look around.}
@@ -33,13 +33,13 @@
 {215}{}{You call this handful of filthy shacks a city?}
 
 #Questions
-{220}{}{Si, senor?}
-{1220}{}{Si, senora?}
+{220}{}{¿Sí, señor?}
+{1220}{}{¿Sí, señora?}
 {221}{}{What is this place?}
 {222}{}{This is Mr. Kogan's garage - the headquarters of the scavenger cartel. We recycle waste from the ruins. The useful stuff goes with the caravans, and the rest, well, it gets sorted out. Need parts or wires? We can trade.}
 {223}{}{Tell me about your work.}
 {224}{}{I'm a mechanic, sir. I recycle what the scavengers bring in. Fix it if needed and get it ready for shipping.}
-{1224}{}{I'm a mechanic, senora. I recycle what the scavengers bring in. Fix it if needed and get it ready for shipping.}
+{1224}{}{I'm a mechanic, señora. I recycle what the scavengers bring in. Fix it if needed and get it ready for shipping.}
 {225}{}{What does the boss think about you?}
 {226}{}{He appreciates my work! I'm his main assistant when dealing with scavengers.}
 {227}{}{Sounds more like he's just using you.}
@@ -48,7 +48,7 @@
 {230}{}{No, no, Mr. Kogan - he's the boss. We couldn't survive without him.}
 {231}{}{That wasn't the question, but whatever.}
 {232}{}{Where does all the stuff go?}
-{233}{}{Wherever the caravans come from, that's where they go. Everyone needs the stuff we dig up these days.}
+{233}{}{Wherever the caravans comes from, that's where it goes. Everyone needs the stuff we dig up these days.}
 {234}{}{Who are the scavengers?}
 {235}{}{Well... they're scavengers... They dig up useful stuff from local ruins - a 'mine' of remnants from the Old World. Then they bring these things here for processing and get paid in caps. The scavengers are divided into clans, all working under contract with the cartel.}
 {236}{}{Can someone trade on the side?}
@@ -56,8 +56,8 @@
 {238}{}{Scavengers don't forgive that kind of thing. Within the clan, everything is handed over to the leader, who then divides the income among everyone. If someone breaks the rules, they don't last here long.}
 
 {240}{}{Your boss is dead. What are you going to do now?}
-{241}{}{This is bad, senor. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
-{1241}{}{This is bad, senora. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
+{241}{}{This is bad, señor. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
+{1241}{}{This is bad, señora. The boss treated me pretty bad... paid me scraps for hard work, but without him... without him, the whole of Garage City will become an empty dump!}
 {242}{}{Are you sure?}
 {243}{}{Only he knew how to run a business. And now a war for the 'mine', or what's left of it, will start among the scavengers. I don't know what to do... Maybe it's time to leave this place. But where will I go?}
 {244}{}{Looks like you have a tough choice. Let's talk about something more pleasant.}
@@ -73,19 +73,19 @@
 {255}{}{Great. So what do you say you're trading?}
 {256}{}{Just look at this junk. You'll never sell it! You should let me see the good stuff.}
 {257}{}{You're right, sir. (reveals all his goods)}
-{1257}{}{You're right, senora. (reveals all his goods)}
+{1257}{}{You're right, señora. (reveals all his goods)}
 {258}{}{If you deny me good products, you'll miss out on a valuable client.}
 {259}{}{You're right, sir. (reveals all his goods)}
-{1259}{}{You're right, senora. (reveals all his goods)}
+{1259}{}{You're right, señora. (reveals all his goods)}
 {260}{}{Mr. Kogan is long dead. Can I get full service now?}
-{261}{}{Si, senor. (reveals all his goods)}
-{1261}{}{Si, senora. (reveals all his goods)}
+{261}{}{Sí, señor. (reveals all his goods)}
+{1261}{}{Sí, señora. (reveals all his goods)}
 {262}{}{Mr. Kogan recognized my right to full service. Let's see everything you have.}
-{263}{}{Si, senor. (reveals all his goods)}
-{1263}{}{Si, senora. (reveals all his goods)}
+{263}{}{Sí, señor. (reveals all his goods)}
+{1263}{}{Sí, señora. (reveals all his goods)}
 {264}{}{What is this gadget?}
 {265}{}{The Geiger counter? (takes the device and holds it over your body) Uh, sir, you should buy this thing! It shows radiation levels. Many scavengers would love to have it, but it's too expensive for them.}
-{1265}{}{The Geiger counter? (takes the device and holds it over your body) Oh, senora, you should buy this thing! It shows radiation levels. Many scavengers would love to have it, but it's too expensive for them.}
+{1265}{}{The Geiger counter? (takes the device and holds it over your body) Oh, señora, you should buy this thing! It shows radiation levels. Many scavengers would love to have it, but it's too expensive for them.}
 {266}{}{I'll think about it.}
 {267}{}{I need parts to fix my radio. An amplifier.}
 {268}{}{Radio? Seriously? You must have big plans. Not many people use radios these days. Rangers do though. Did they send you?}
@@ -103,8 +103,8 @@
 {280}{}{What are these, bottle caps?}  
 {281}{}{Well, yes, we've used them as money since the Great War. You didn't know?}  
 {282}{}{That's very... strange.}  
-{283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting counterfeit caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, comprende amigo?}  
-{1283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting counterfeit caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, comprende amiga?}  
+{283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting counterfeit caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, ¿comprende, amigo?}  
+{1283}{}{Everyone's used to it. And it's convenient. Just be careful; someone's started minting counterfeit caps. It's bad because if there are too many caps, they'll lose value. I'll bet our culprit will be someone who has caps to spare, ¿comprende, amiga?}  
 {284}{}{Yeah, I understand.}  
 {285}{}{We've been trying to track down this pendejo for a long time. If you find out who's making these counterfeit caps, let me know.}  
 {286}{}{Will do.}  

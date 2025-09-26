@@ -148,7 +148,7 @@
 {357}{}{That's your concern. I'll reward you with 500 caps for eliminating him.}  
 {358}{}{Okay. I'll handle it and report back.}
 {359}{}{Too risky. I'll focus on the holodisk.}
-{360}{}{Commander Crook had a "accident."}
+{360}{}{Commander Crook had an "accident."}
 {361}{}{I've already heard the rumors. Well done.}
 {362}{}{Glad to be of service.}
 {1362}{}{Glad to be of service.}

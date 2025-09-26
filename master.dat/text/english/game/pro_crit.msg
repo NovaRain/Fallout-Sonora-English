@@ -185,7 +185,7 @@
 {9300}{}{Geronimo}
 {9301}{}{You see the village elder in his tribal attire.}
 {9400}{}{Mysterious Stranger}
-{9401}{}{You see A Mysterious Stranger. He seems to be quite friendly to you.}
+{9401}{}{You see a Mysterious Stranger. He seems to be quite friendly to you.}
 {9500}{}{Mr. Kogan}
 {9501}{}{}
 {9600}{}{Administrator}
@@ -242,8 +242,8 @@
 {12101}{}{}
 {12200}{}{La Garra}
 {12201}{}{A terrifying monster, the worst nightmare you could imagine.}
-{12300}{}{Senor Handy}
-{12301}{}{You see a robot of the Senor Handy series.}
+{12300}{}{Señor Handy}
+{12301}{}{You see a robot of the Señor Handy series.}
 {12400}{}{Jack}
 {12401}{}{}
 {12500}{}{Eugene}
