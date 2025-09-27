@@ -1,0 +1,38 @@
+#
+# Configuration file for messages for the screen of death. Description of the format:
+#
+# gvar, value, worldAreaKnown, worldAreaNotKnown, minLevel, %, narrator file
+#
+# - GVAR number to control the slide
+# - GVAR value (if >= the slide is shown, otherwise not)
+# - worldAreaKnown - number of the location that must be known for the slide to appear
+# - worldAreaNotKnown - number of the location that must be NOT known for the slide to appear
+# - minLevel - minimum player level to get the slide
+# - % - probability of a slide from the general list of slides appearing
+# - narrator - name of the file (without path and extension) with text and voiceover file
+
+##### Common types of death:
+#399, 99, -1, -1, 0, 40, DTH_001 - does not work, conditions are ignored
+#399, 99, -1, -1, 0, 40, DTH_002 - does not work, ignores conditions
+-1, 0, -1, -1, 3, 10, DTH_001
+-1, 0, -1, -1, 3, 10, DTH_002
+-1, 0, -1, -1, 0, 10, DTH_003
+-1, 0, -1, -1, 0, 10, DTH_004
+-1, 0, -1, -1, 0, 10, DTH_005
+-1, 0, -1, -1, 0, 10, DTH_006
+-1, 0, -1, -1, 0, 10, DTH_007
+-1, 0, -1, -1, 0, 10, DTH_008
+-1, 0, -1, -1, 5, 10, DTH_009
+-1, 0, -1, -1, 5, 10, DTH_010
+
+##### Joking types of death:
+-1, 0, -1, -1, 10, 2, DTH_201
+-1, 0, -1, -1, 10, 2, DTH_202
+-1, 0, -1, -1, 10, 2, DTH_203
+-1, 0, -1, -1, 10, 2, DTH_204
+-1, 0, -1, -1, 10, 2, DTH_205
+-1, 0, -1, -1, 10, 2, DTH_206
+-1, 0, -1, -1, 10, 2, DTH_207
+-1, 0, -1, -1, 10, 2, DTH_208
+-1, 0, -1, -1, 10, 2, DTH_209
+-1, 0, -1, -1, 10, 2, DTH_210

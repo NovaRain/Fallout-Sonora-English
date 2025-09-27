@@ -1,0 +1,46 @@
+## ... #
+#########################################################################
+
+# Rules of Survival
+# GVAR_HOLODISK_00
+#100, 901, 1000
+
+# Founder's Notes
+# GVAR_HOLODISK_01
+101, 902, 2000
+
+# Vault 27 Journal
+# GVAR_HOLODISK_02
+102, 903, 3000
+
+# Expedition Report
+# GVAR_HOLODISK_03
+103, 904, 4000
+
+# Roy Faber's Passwords
+# GVAR_HOLODISK_04
+104, 905, 5000
+
+# Sergeant McBain's Note
+# GVAR_HOLODISK_05
+105, 906, 6000
+
+# Orders for the Mayor of Casa Grande
+# GVAR_HOLODISK_06
+106, 907, 7000
+
+# J. Crook's Field Notes
+# GVAR_HOLODISK_07
+107, 908, 8000
+
+# Letter from Vault-Tec
+# GVAR_HOLODISK_08
+108, 909, 9000
+
+# Letter to Shore
+# GVAR_HOLODISK_09
+109, 910, 10000
+
+# Luther's Notes
+# GVAR_HOLODISK_10
+110, 911, 11000

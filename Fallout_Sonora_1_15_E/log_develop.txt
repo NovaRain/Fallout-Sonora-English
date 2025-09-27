@@ -1,0 +1,799 @@
+>> FALLOUT SONORA: DEVELOPMENT LOG
+
+Version 1.15E (September 27, 2025) --------------------------------------------------
+
+- Base combined with Patch #15
+
+Version 1.15 (January 30, 2025) --------------------------------------------------
+
++ Patch #15
+
+Version 1.14 (June 22, 2024) ----------------------------------------------------
+
++ Patch #14
+
+Version 1.13 (February 17, 2024) -------------------------------------------------
+
++ Patch #13
+
+Version 1.12 (October 25, 2023) -------------------------------------------------
+
++ Patch #12
+
+Version 1.11 (July 25, 2023) ----------------------------------------------------
+
++ Patch #11
+
+Version 1.10c (September 11, 2022) --------------------------------------------------------------
+
++ Patch #10c
+
+Version 1.10b (July 14, 2022) ---------------------------------------------------
+
++ Patch #10b
+
+Version 1.10 (June 27, 2022) ----------------------------------------------------
+
++ Patch #10
+
+Version 1.09 (April 18, 2021) --------------------------------------------------
+
++ Patch #9
+
+Version 1.08 (December 19, 2020) -------------------------------------------------
+
++ Patch #8
+
+Version 1.07 (November 11, 2020) --------------------------------------------------
+
++ Patch #7
+
+Version 1.06 (July 6, 2020) ----------------------------------------------------
+
++ Patch #6
+
+Version 1.05 (April 19, 2020) --------------------------------------------------
+
++ Patch #5
+
+Version 1.04 (April 8, 2020) ---------------------------------------------------
+
++ Patch #4
+
+Version 1.03 (April 2, 2020) ---------------------------------------------------
+
++ Patch #3
+
+Version 1.02 (March 28, 2020) ---------------------------------------------------
+
++ Patch #2
+
+Version 1.01 (March 23, 2020) ---------------------------------------------------
+
++ Patch #1
+
+Version 1.00 (March 20, 2020) ---------------------------------------------------
+
++ Final build assembly
++ High resolution patch
++ sfall adaptation
+
+Version 0.32 (March 20, 2020) ---------------------------------------------------
+
++ Extensive update of old graphics and addition of new ones by A. Berezina (graphic packs #6 and #7):
+- END_CG1.FRM + WEED032.FRM + BIBL0006 + BIBL0002 + new water pump
+- various inventory items
+- seguaro cacti
+- new car with a turbine
+- Villa: town hall arches VILL0505-VILL0507.FRM
+- Garage City: Lucas' head + green goo in the Factory warehouse + new locker for the Factory + Factory wall upgrade + GAR017 + GAR018
+- Flagstaff: mine arch + Roy Faber's head + new final slide for Flagstaff + FLAG026
+- Rangers: radio antenna with shadow upgrade + dam upgrade + final slide update with the general's head
+- San Brahmin: new pipeline at the starting area + BRAHM012.FRM and BRAHM013.FRM + END_SB1.FRM + new Sanctuary facade
+- Phoenix: new animated hanged men at the entrance + columns on the main facade of the city
+- Raiders: major rework of the outer walls + fuel tank improvement
+- Two-Sun: minor improvement of planes + ambassador's body + new design of the rubble around the passage to Two-Sun + animated windmill at the entrance
+- Casa Nueva: improvement of the hydrolysis plant + improvement of the final slides + improvement of the silo plant
+- Puerto: sign on the roof of the hotel building + improvement of the hotel walls + boat on board + ship side + ship bow + new tiles under the guns + improvement of the reactor
+- Inferno: minor improvement of the monument + improvement of the police facade +
+- Old Motel: improvement of the advertising console
+- San Felipe: improvement of the lighthouse + new types of boats
+- Hermosillo: minor statue improvement + wall improvement + SIGN023
++ Extensive work on implementing new and updated graphics on maps with corresponding edits to these maps, sprites, pro-files, texts and scripts. Particularly serious changes were made to RAIDERS.MAP, PSBASA.MAP, TSCITY.MAP
++ Minor improvements to various maps (ARTEMPLE, BSCAMPA, BSCAMPB, RBASA, RCAVE, VLRUINS, VLCRYPT, PXDSTR, etc.) in order to expand tight spaces for ease of exploration and combat, as well as other minor improvements along the way
++ Villa: the transfer of the Madre Pendant is now carried out through dialogue (and not by using the item on the character) and adds one to Luck (as was originally intended)
++ Villa: the Tejada machine gun was created and added to the Crypt map as a bonus after the game (until now it was considered questionable for implementation)
++ Rangers: in the quest about the missing pistol, you can now hand over the find not only to the quartermaster, but also to the cadet
++ San Felipe: the cave map with flyers has been significantly rebuilt
++ Phoenix: completed first dialogue with Don Diego
++ Phoenix: Mike's dialogue regarding training has been clarified and expanded + a one-day break is now required between training sessions
++ Phoenix: combat parameters of opponents in the ring have been enhanced (damage resistance, Luck, Strength, HP, AC) + the distance between opponents in the ring at the start of the fight has been reduced
++ The curtains have a WalkThru flag, allowing the main character to walk through them by opening them himself.
++ Increased defense and health points for pig rats, mole rats, ants, and the legendary scorpion.
++ Spanish-language text edited + accented Spanish letters added to FONT1.AAF font + Mexican soldiers' battle cries translated into Spanish
++ The "Lone Wolf" trait was remade into the "Spanish Language" trait due to its uselessness, which translates Spanish in several texts + a check was made for this trait to replace lines + a new caricature was drawn for the trait
++ GAMMOVIE.MAP: a new technology object was drawn + various improvements to the environment on the map
++ Completed work on the intro video (work with 3D O. Adzhiusmanov, voice acting A. Trofimov, idea and storyboard A. Poshelyuzhin)
++ Completed work on the explosion video in Puerto (video creation G. Sokolov, idea and storyboard A. Poshelyuzhin)
++ Slightly reduced the firing range for pistols, revolvers and shotguns. Increased the weight of the poison gland from 3 to 5. ACmod rifle ammo from -30 to -20. Increased the cost of the nuclear block for the bike. + Most human critters have a "drop" flag added so that items from their bodies do not fall to the ground during a critical death (relevant due to the individual ammo).
+
+
+Version 0.31 (February 29, 2020) -------------------------------------------------
+
++ During the author's role-playing, numerous minor changes and clarifications were made throughout the game (scripts, texts, maps, experience point balance, currency balance, etc.)
++ Relic #10 implemented (pro file + script placement on the RRADIO.MAP map + use on 13 gaming computers + clarification of the dialogue of the junkman in Phoenix)
++ Graphic update from A. Berezina: homemade scarecrow, police revolver, shotgun, animated sign of the "Atomic Cafe", boxes for the bomber, skeleton in the Flagstaff Museum, Petro-Chico truck, retexture of new cacti, aqueduct channel.
++ Villa: local pits no longer irradiate when dug with a shovel
++ Garage City: a character for playing with a stimulator has been added to the bar
++ Garage City: a volumetric head for Mr. Kogan with a full set of animations has been added
++ Garage City: the transition grid to the motorhome map has been moved from the Shacks map to the Plant map
++ Garage City: transition grids have been organized between the Plant and Route 66 (previously, the grids in their place led to the world map)
++ Garage City, Route 66: Lucas and Kogan's gangs have swapped places on the map with corresponding amendments to the scripts + the caravan group has been moved closer to the center + stray dogs appear not only after the deal, but also before it + the situation when the player leaves the map without completing the deal has been improved (characters remain on the map until the deal is completed and disappear from other maps of the location for the duration of the deal) + now when playing for Lucas, you need to get to this area yourself (previously the game transferred the MC forcibly)
++ Garage City: Lucas now does not allow walking around the Plant until the MC completes his first task
++ Garage City: the bartender's quest to establish a trade route has been expanded and partially reworked
++ Jackals: a volumetric head of the Mad Bitch with a full set of animation has been added + the Mad Bitch's dialogue has been improved + new graphics for the final slides
++ Flagstaff, farm: the rooms on the farm have been expanded for more convenient combat and exploration + updated graphics for the road sign by A. Berezina
++ Flagstaff, colony: a mini-quest for the bartender to deliver lunch has been added, and the quest to collect the debt has been made the second in a row
++ Flagstaff, colony: a new quest for the bartender has been developed with a reference to the location of the Wynon hunting camp
++ Flagstaff, colony: the roof of the cafe has been replaced with another tile set and the sign of the cafe on the roof has been redrawn to suit it
++ Flagstaff, Colony: Victims' bodies are now placed on the map as scripted objects (previously they were generated on the fly by a script)
++ Flagstaff, Colony: Added a patrolman for the sake of extras
++ Flagstaff, Colony: Restructured and slightly expanded Uncle Tom FCTom's dialogue
++ Flagstaff, Colony: Developed a mini-quest for "Sonora Express" to find a missing item
++ Flagstaff, Colony: Added female versions of FCSlvB's servant's dialogue
++ Flagstaff, Mine: Optimized and clarified FCVillA and FCVillB scripts
++ Flagstaff, Mine: Developed a new quest to remove the warden from his position
++ Flagstaff, Mine: The transition grid to the world map now leads to the garrison area
++ Flagstaff, Mine: The prisoner's body in the hangar has been removed from the map (but appears under certain conditions), a prisoner with a short dialogue has been created instead
++ Flagstaff: A new small location, Wynon, has been unexpectedly created for the new bartender quest (map, scripts, dialogues, totem graphics)
++ San Brahmin: basement map in the Sanctuary has been finalized and opened for visiting
++ San Brahmin: missionary boxes are now emptied after they escape from the location
++ Rangers: graphics for ventilation above the entrance to the superstructure have been implemented, animated and destroyed (artist A. Berezina), for which it was also necessary to write a script and edit the location map
++ Rangers: a new resident for dialogue has been added to the Aqueduct + minor changes to the Aqueduct RCITY.MAP map
++ Rangers: new music by A. Trofimov has been added
++ Phoenix: new graphics for the power plant facade by A. Berezina + the district map has been adjusted to fit the new graphics + the interior of the PXELECTR.MAP power plant has been slightly expanded
++ Phoenix: a mercenary has been implemented for protection during street fights (script, dialogue, placement on maps)
++ Phoenix: the casino premises have been slightly expanded
++ Shelter27: Arthur Carrington's dialogue and script have been partially rewritten in order to make him a full-fledged partner
++ Raiders: a small map revision + three mines and a hole in the wall have been added to the northeast
++ Raiders: a wounded raider has been added to the dorm for treatment
++ Raiders: a small quest for newbie Chuck has been developed
++ Raiders: a new random encounter has been implemented in the vicinity in the form of a skirmish between a highwayman and bounty hunters, as well as the reaction of the sentry and Ben to the rescue of this highwayman
++ Raiders: the flamethrower has been returned to the game and added to Ben's hands + Ben gives the flamethrower after his quests + wounded raider sells fuel after treatment
++ Raiders: a short dialogue was written for the wounded raider and fuel trade was added
++ Casa Grande: a resident poisoned by a scorpion was implemented in the slums + the hacienda map was slightly corrected + the burial ground map was slightly corrected
++ Two-Sun: Cody's dialogue TCCody.msg was clarified and expanded
++ Two-Sun: new music from Alexey Trofimov was added to all areas of this location
++ Casa Nueva: a drunkard at the pillory was implemented (graphics, dialogue, script)
++ Puerto: a new volumetric head for the sentry at the gangway + the gangway was improved for ease of use with the cursor
++ Puerto: new music from A. Trofimov was added
++ Puerto: the ship's doors can no longer be blown up
++ Inferno: the graphics at the church facade were slightly improved
++ Hermosillo, ranch: a mini-quest for getting a radio was added (wife's dialogue, husband's reaction, pro-file and item sprite)
++ Hermosillo, barracks: removed skeleton with relic in subway + re-sorted some inventory by containers + added quest item radio receiver + added opacity property to doors on the back side of walls, and added invisible roof tiles above them for ease of exploration + created own pro-file for prisoner of war and registered position in party.txt
++ Hermosillo, headquarters: graphic update for general staff facade and searchlights by A. Berezina + minor map edit
++ Optimized ZSBooks script
++ Optimized partyRunToDude macro + fixed bug in macro (set_gvar_bit_off instead of set_lvar_bit_off)
++ At Foxx's suggestion, in scripts of ZSSoil pits, ZSGrvGen graves and BSBrmGoo shit, random check when shovel breaks was replaced with global variable increment.
++ Added animation with a knife to the savage GG sprite, after which the critter.dat file was re-flashed
++ Added description of Arthur Carrington from UB 27 and paladin Barkley from Inferno to party member settings party.txt
++ All game texts were checked by YandexSpeller service to fix errors
++ PP 22LR now fires a burst of 6 rounds (previously 10)
++ Implemented a new special encounter "Lost Vault" (three-level rndVault.MAP map, scripts and phrases of the vault inhabitants, Frank's dialogue, correction of several typical scripts, generator, computer, holotape with a letter from Vault-Tec, unique flask)
++ Implemented a new special encounter "Mobile Fortress" (three-level rndArmy.MAP map, scripts and phrases of super mutants, dialogue of engineer Paul, reactor, platform graphics, new rail weapon gun)
++ Unused music from the original has been removed from the resources so that it doesn't take up space
+
+
+Version 0.30 (December 27, 2019) ---------------------------------------------------
+
++ Numerous minor changes and clarifications throughout the game (scripts, texts, maps, inventory), made during the author's role-playing.
++ A number of bugs and problems were fixed thanks to the work of Dmitry Kuznetsov.
++ Fixed a bug with re-spawning special encounters + Special encounters now disappear after they are discovered
++ Inventory: 44 ammo penalty to CB increased from 10 to 15 + Grenades damage decreased + Reduced cost of batteries and irradiated cola + Added "Hot Guy" perk to flare gun
++ Inventory: Decreased chance of tail appearance upon death for small scorpions from 100% to 25%
++ Inventory: Increased number of caps for traders and bartenders (Phoenix, Flagstaff, Garage City)
++ Inventory: Clarified the balance of ammo globally throughout the game (missing ones added, excess ones reduced, item distribution by locations and traders revised)
++ Villa: The secret passage to the Villa cellar can now be opened with different skills (previously - only by repair)
++ Garage City: Implemented a mini-quest for the bartender's trade contract in Flagstaff
++ Garage City: Implemented mini-quest with rapists in the motel
++ Garage City, GCHIST.MAP map: the left grid now leads to the Factory, not to the world map + a poster was added to the wall + the left building was moved to the right + minor map improvements + Lucas now disappears from the Factory territory if he died on the GCHIST map
++ Garage City: a new area with a trailer was created GCTrlr.map
++ Garage City: the quest to find a welding machine was completely rewritten (characters change places, the dialogue and quest presentation were rewritten, the machine was moved to the trailer map)
++ Garage City: the quest to eliminate dogs at the Factory was completely rewritten (coyotes on the trailer map are now eliminated, the dialogue was rewritten, the quest presentation is different)
++ Garage City: A mini-quest to eliminate counterfeit cap production was added to Pete
++ Flagstaff, prison map: patrolmen were added to the street and guards were added inside the building + the composition of local loot from balance considerations + minor adjustments to the environment
++ Phoenix: background radiation on the PXDstr and PXCola maps has been removed
++ Phoenix: the bellboy in the casino remains on the 2nd floor after training until the map is reloaded
++ Phoenix: the arms dealer can now upgrade ammo in packs, not individually + the cost of upgrading weapons and increasing skills has been increased
++ Phoenix: local merchants have been given lines for entering the barter window
++ KNueva: a wanted poster for the main character has been added to the outer wall of the city (appears at the Cursed reputation)
++ Puerto: the quartermaster now places power armor behind him as an environmental object during repairs
++ Hermosillo: expanded the dialogue with the farmer about the state of affairs in Mexico
++ Music has been added to the final credits (akiss.acm)
++ A new special encounter, "Flying Padre", has been implemented (rndPadre.MAP map, aircraft graphics, script and dialogue padre)
+
+
+Version 0.29 (December 7, 2019) ---------------------------------------------------
+
++ Inferno: a generic super mutant has been added to the church and minor changes have been made to the map
++ Inferno: Inferno text editing has been completed (editor A. Chernenko) + the dialogue with guard Garrett has been improved along the way
++ Inferno: a 3D head has been added to guard Garrett (artist A. Berezina), no animations yet
++ Jackals: a 3D head has been added to Mad Bitch (artist A. Berezina), no animations yet
++ Garage City: a 3D head has been added to Kogan (artist A. Berezina), no animations yet
++ Hermosillo: a 3D head has been added to the sentry (artist A. Berezina)
++ San Felipe: map templates for three districts have been prepared for the future + a lighthouse has been drawn
++ Casa Nueva: for locations used a large marker on the world map instead of a medium one
++ Casa Nueva: created the character Nick for simple questions (dialogue, script, map edits)
++ Rangers: shifted the left edge of the screen on the RBASA.MAP map (not the entire dam fit on the screen) + graphic update of the dam by A. Berezina, as well as turbines on the dam
++ Implemented a new special encounter "Snowfall" (RNDSNOW.MAP map, graphics of icy figures, scripts of figures)
++ Inventory: created a new interactive item - a comic book magazine, giving an increase to a random skill (art, script, pro-file, placement in Puerto)
++ Inventory: slightly reduced damage for revolvers
++ Inventory: AK-112 with an extended magazine has been returned to the game as a unique upgrade in Phoenix
++ Inventory: improved hunting rifle has had ropes removed from the texture
++ Graphic update by A. Berezina: GarageCity factory walls + GarageCity outer walls and gates (added script to change between day and night) + new sprite for original loaders + brighter Mojave water pump + large pile of rocks in the desert + pickup truck upgrade + cult flags on lanterns in Phoenix + Puerto ship cannons + pneumatic fist
++ Additional types of saguaro cacti have been drawn and added to various maps (graphics by A. Poshelyuzhin)
++ Unfinished gameplay videos have been replaced with fake videos with blackness
++ A temporary video of the explosion in Puerto has been created and added to the game (derrick.mve)
++ A temporary intro video has been created and added to the game (intro.mve)
++ The intro video with the announcer (credits.mve) has been re-entered into the game, with improved quality, reduced weight and subtitles restored
+
+
+Version 0.28 (November 19, 2019) ---------------------------------------------------
+
++ Minor changes to the maps: GCHOME.MAP, SBSIGN.MAP, FLAGMINE.MAP, VLCRYPT.MAP, TSDSTR.MAP, rndBaron.map
++ A video of the first visit to Phoenix has been created and entered into the game (cartucci.mve - video by A. Poshelyuzhin, voice acting by A. Trofimov)
++ Missing ending slides have been drawn and entered (Phoenix, Rangers, Raiders, Jackals, Two-Sun, etc.)
++ The script and dialogue of the ZSNwsppr newspaper machines have been rewritten
++ Jackals: the script and dialogue of the ranger-prisoner have been rewritten
++ Inferno: a volumetric head for the super mutant guard has been added (artist A. Berezina), without animations yet
+
+
+Version 0.27 (November 3, 2019) ---------------------------------------------------
+
++ Walkie-talkie: the ability to receive a radio signal from the Hub in a certain place on the world map has been implemented
++ Puerto: Pockmarked has been added to the crater map in freeplay as an Easter egg from Broken Hills
++ Phoenix: a bonus quest for Advisor Ulysses to eliminate George Crook after the events of San Brahmin has been implemented (scripts and texts have been created for: Ulysses Grant, Crook in Phoenix, bartender in the casino, head of the mercenary guild)
++ San Brahmin: technical refinement of the town hall sprite
++ San Brahmin: shaman Mangas has been implemented (script, floating phrases, dialogue, quest for an alliance with missionaries, quest to eliminate the moonshine still)
++ San Brahmin: implemented Shaman Genaro (script, dialogue, pen cleaning quest, missionary alliance quest, Buried City quest)
++ San Brahmin: Chief Chatto's son implemented (script, dialogue, chief replacement)
++ San Brahmin: Chief Geronimo now has the option to die when using drugs
++ San Brahmin: generic villagers have been given floating phrases based on different situations at the location
++ San Brahmin: generic tribe children implemented (script, response lines)
++ San Brahmin: tribe children in the Pens implemented (script, dialogue, Buried City quest)
++ San Brahmin: tribe children in the Buried City implemented (script, dialogue, rescue quest)
++ San Brahmin: excrement in the Brahmin pen implemented
++ San Brahmin: sacred Brahmin implemented
++ San Brahmin: implemented rangers-guards in freeplay (script, response lines)
++ San Brahmin: Ranger Oscar implemented (script, dialogue, quests)
++ San Brahmin: Tanner Ronnie implemented (script, dialogue, quests, trade)
++ San Brahmin: Fortune teller Lozen implemented (script, dialogue)
++ San Brahmin: Lady with a special dish in the hut on the square implemented
++ San Brahmin: Commander George Crook's holotape created (item, text in PipBoy)
++ San Brahmin: General quest to restore trade between the Garage and the Security Council completed (additions were made to the dialogues and scripts of the chieftain, Chatto, Ronnie, and the bartender in the Garage for this)
++ San Brahmin: Three wounded savages were implemented for treatment
++ San Brahmin: Combat skirmish between the tribe and missionaries on the starting map was implemented
++ San Brahmin: the map of the Pens SBTABL.MAP is completely finished
++ San Brahmin: the map of the Buried City SBCAVE.MAP is completely finished + some graphics have been drawn for the district and traps in the form of collapse of walls have been created
++ San Brahmin: the map of Pueblo SBCHURCH.MAP is completely finished + awnings for the outer walls of the huts have been drawn for the district
++ San Brahmin: the map of the missionary camp SBSIGN.MAP is completely finished + graphics of the pipeline have been drawn for the district
++ Villa: the map of the crypt VLCRYPT.MAP is completely finished + a robot script has been written for the district, a new death claw has been created, a sarcophagus has been drawn
++ Villa: minor improvements to the map of the cellars, including the script for the secret shelves in the basement of the town hall has been improved
++ Music by A. Trofimov has been added to the location of Hermosillo
++ Texts: the file QUOTES.TXT has been compiled, the file with credits CREDITS.TXT
++ Texts: completed editing texts for typical objects and random encounters on the world map (editor David Ageev)
++ Texts: completed editing texts for San Brahmin (editor David Ageev)
++ Texts: completed editing texts for Casa Nueva (editor Ilya Nizovskikh)
++ A gas mask has been implemented into the game: image in the inventory from Berezina, sale in Phoenix, loot from ghosts in UB 27, Casa Grande school, Casa Nueva greenhouses
++ A large graphic update from A. Berezina: water tanks in Casa Grande, fuel tank for Raiders, Mexican flag in Hermosillo, ore dumps in Flagstaff, ship engine and air defense system in Puerto, statue in Inferno, Jackal totems, rangers' water tower, radio equipment on radios for rangers, fishing nets in Aqueduct, satellite in Flagstaff Museum, Garage City has a rotating vent in the dorm and improved factory walls, gas mask is in inventory.
+
+
+Version 0.26 (October 12, 2019) ---------------------------------------------------
+
++ Texts: the text folder has been renamed from English to Russian for easier translation in the future
++ Texts: Garage City text editing has been completed (editor David Ageyev), including gender phrases
++ Texts: Flagstaff text editing has been completed (editor Ilya Nizovskikh)
++ Texts: Rangers location text editing has been completed (editor David Ageyev)
++ Texts: Phoenix texts have been partially edited (editor A. Chernenko)
++ Texts: Casa Grande and Raiders text editing has been completed (editor Tainted Acolyte)
++ Texts: Two-Sun text editing has been completed (editor Ilya Nizovskikh)
++ Jackals: top, right, and left transition grids have been removed
++ Raiders: billboard with a poster replaced with a standing advertisement for Petro Chico + the map perimeter is surrounded by blockers in case of a fight + other minor map fixes
++ Motel: new art for the room key in the Old Motel has been drawn + two more traps have been added to the cafe
++ Rangers: the ferry map has been expanded downwards and narrowed on the sides to give it a vertical configuration
++ Various minor improvements to many different maps
++ Graphic update by A. Berezina for the environment: walls of the Hermosillo warehouses (HER2101-HER2308.FRM) + new advertising sign for the "Atomic Cafe" + bags in the hangar and in the cellars of the Villa + slide with Dixon's head
++ Graphic update by A. Berezina for the inventory: ranger's duster + chest plate + heads (Gil McCord, Los Panchos chieftains, the leader of the Blue Shields) + rat soup + corn flour
++ Puerto: three new volumetric heads added (sprites created by A. Berezin) - General Dixon, a sentry at the entrance to the ship, Commander Dobbs in a field operation
++ The folder with talking heads and their script macros have been completely cleared of temporary files
++ A modification of the zero lvar for critters has been made to the setReaction macro, which determines the initial state of the talking head (bad, neutral, good)
++ An introductory video with the voice acting of Dmitry Chepusov has been edited, converted and added to the game
++ Voice acting for death slides and city ending slides has been added (voice actor Dmitry Chepusov)
++ Ending slides have been drawn and added: common opening slide, Hermosillo, Puerto
++ Loading screens for locations have been drawn and added: Villa, Garage City, Flagstaff, Rangers, San Brahmin, Phoenix, Casa Grande, Two-Sun, Casa Nueva, Puerto, Hermosillo, Highway Raiders, Inferno, Vault 27. District markers have been rearranged to match the new art.
++ New icons have been drawn for the list of locations on the world map (letters are collaged from the original Fallout 1 interface)
++ New music by A. Trofimov has been added for Vault 27 and Garage City locations.
++ San Brahmin: the main building's facade has been drawn and implemented on the map (the graphics are quite cursory)
++ San Brahmin: implemented a character with a broken cart and the cart itself (scripts, texts, mini-quest to repair the cart)
++ San Brahmin: implemented the high chief Geronimo (script, dialogue, quest)
++ San Brahmin: implemented the priestess Nana (script, dialogue, participation in the main quest)
++ San Brahmin: implemented the missionary commander (script, dialogue, quest) and his soldiers (script, floating lines)
++ Rangers, General: completed the option to obtain the ranger rank (correction for the events of SBrahmin) + completed the mission quest in SBrahmin (script, dialogue, variables) + removed the mission cheat in SBrahmin + for ordinary rangers, an amendment was made to the mission in the script of floating lines
++ Created a Trejo brand pistol + implemented the "Immigrant's Body" encounter in the south of the map with a unique find of this pistol
++ Casa Nueva: settlement map supplemented with loot, the mayor is armed with a Trejo pistol, the mayor's script supplemented with a check of several types of weapons (there was only one check)
++ Phoenix: Aaron and his quest line are fully completed (dialogue expanded, mission to San Brahmin with positive and negative results, quest reward, access to the shelter, obtaining the title of monk, removing the cheat in the dialogue) + Ulysses Grant's dialogue has been improved
++ Phoenix: the diner in the market is replenished with dried meat after the alliance of San Brahmin with Phoenix (dialogue, script and merchant goods have been supplemented)
++ Reminder videos have been created and added to the game (artimer1.mve - artimer4.mve and afailed.mve)
+
+
+Version 0.25 (September 14, 2019) ---------------------------------------------------
+
++ A new special encounter "Open Cinema" has been implemented (RNDDRIVE.MAP map, script and robot lines, schedule and movie screen graphics)
++ Text for final slides with endings written (57 in total) + endings registered in endgame.txt file and written in game script
++ Ending slides for Casa Nueva and Ranger General drawn
++ New text for GG death slides written (10 regular and 10 joke messages) and settings file for these slides rewritten
++ New introductory phrases added to various maps and existing ones adjusted
++ Garage City: clutter added to empty upper right corner of starting map GCSIGN.MAP + expanded set of response lines for regular residents
++ Garage City: new mini-quest for finding welding machine developed (two characters + machine profile + adjustment of shack map)
++ Garage City, Abandoned Factory: new sprite of A. Berezina added for machine tool at Factory and added the script of the machine for changing the sprite after the explosion
++ Garage City, Abandoned Factory: new floor tiles for the factory by A. Berezina
++ Garage City, Abandoned Factory: increased the number of dogs from three to five + the walls of the administrative building have been replaced with factory ones
++ Large graphic update by A. Berezina:
+- animated icon for the bike in the world map interface
+- new water tank on the mayor's roof in Casa Nueva and a new tank on the plantation
+- update of the machine at the factory in Garage City + its destroyed version + new factory floor tiles
+- new statue with a horse in Inferno
+- new arch at the ranch in Flagstaff
+- updated entrance group of the school in Casa Grande
+- ending slide for the Ranger General
+- adjustment of warehouse walls and addition of warehouse tiles from the Hermosillo set
+- improved sprite of a typical truck
+- updated entrance group at the Phoenix railway station
++ Inferno: the main entrance to the supermarket has been drawn, thus the Inferno location is completely finished
++ Villa: Granny Adonsiya has a dialogue added in freeplay to go to the Founder's Crypt
++ Edited the mountain maps MOUNT1.MAP, MOUNT2.MAP, MOUNT3.MAP, MOUNT9.MAP in terms of blockers
++ The blackness of the rock tiles MNTD010-MNTD036.FRM has been painted over with a sand texture in case of playing on a large screen
++ The roof of the roadside cafe in the special encounter has been replaced with the same one as in the Garage
++ Implemented shimmering pixels for several sprites: lenses in tinsmith glasses, decoder screen, rad precipitation, irradiated Nuka-Cola, standing torches on the jackal map JCKL1011.FRM, intercom PXCOM.FRM, radio point RADIOGEN.FRM, on-board computers BOS046-BOS047.FRM, COMPGLW5.FRM, one of the totems in Inferno INF1005.FRM, garbage in sea water (SHOR002.FRM, SHOR004.FRM, SHOR005.FRM, SHORJNK7.FRM). Also - missing sprites of standard SVMs and consoles were drawn to match the destroyed look of shelters. + Motel: location map is fully built
++ Motel: advertising console, roof tiles (based on standard tiles), canopy supports at the administration building, counter and key holder, bathroom with a dead body, motel key with a round tag are drawn
++ Motel: scripts and texts are written for the outer gate, door and freezer remote control, objects that disappear in freeplay
++ Motel: scripts and texts are written for the mutant mother, three mutant brothers, prisoner, settlers in freeplay
++ Text editing: Floating lines throughout the game (including combat lines in COMBATAI.MSG) have been added closing dots
++ Text editing: Wound messages in the log (COMBAT.MSG) have been reworked
++ Text editing: The error "goodbye" to "goodbye" has been fixed in almost 30 files
++ Text editing: First batch of editing text files (editors David A.D., Tainted Acolyte, Ilya Nizovskikh, Alexander Chernenko)
++ Text editing: Texts of two cut characters (FCMer.msg and FCMerGrd.msg) have been removed from resources
++ Two-Sun: minor changes to the hotel map TSINN.MAP (coffee moved to a box, transition grids shortened, bullet cartridges placed in the grave instead of regular ones, other minor improvements)
+
+
+Version 0.24 (August 17, 2019) ---------------------------------------------------
+
++ World map: the boundaries of different geographical areas on the world map are visually better highlighted + the grid is recolored blue like in Fallout 1 + cities are shifted into cell frames + the water of the bay is redrawn + the desert around Tucson is expanded + and other edits to the world map image
++ World map: Villa, Jackals, Flagstaff and Quartz are slightly shifted + the middle marker is used for Villa and Quartz + bit masks are adjusted impassability of water
++ World map: created and configured world map zones
++ World map: developed all approved random encounters (scripts, texts, encounter settings) - a total of about 60 encounters at the moment
++ World map: on the MOUNT3.MAP map, the tent was moved one tile further + on the MOUNT1-MOUNT3.MAP maps, the corner of the right transition grid was cut off for beauty and a hole in this grid was eliminated + a map of the littered gorge MOUNT9.MAP was created
++ World map: fixed the assignment of rodents on the world map to the GG group
++ World map: implemented a mini-quest with finding a parcel from a dead courier on the world map and handing over the parcel to the delivery service in Phoenix
++ Now simple loot appears in the inventory of ants with a probability equal to Luck. + Reflashed the critter.dat file with the addition of the tree man sprite from the Casa Nueva location
+
+
+Version 0.23 (July 31, 2019) ---------------------------------------------------
+
++ Numerous minor edits to many maps made during the adjustment of the revealability of each weapon build (and other related improvements)
++ The names of the Flagstaff sprites have been reduced to a single recording system (FLAG + serial number)
++ Minor editing of the RNDCAFE.MAP and FLAGCITY.MAP maps, in particular, the corner and T-shaped segments have been improved for the cafe walls
++ Updated the palm tree sprite
++ Villa: the potter's wheel can now be used with Repair to obtain ceramics one-time (previously Science was used to obtain information) + the cult symbol is no longer used on the back of the wall
++ Villa: new music by Alexey Trofimov has been added
++ Villa: a mini-quest has been implemented for return of the madre pendant
++ Phoenix: the power plant facade has been drawn and the space around it on the map has been arranged (blockers, transitions between levels, etc.) and thus the PXELECTR.MAP map is complete
++ Puerto: the torpedo compartment on the ship has been finished and arranged (thus the ship map is completely finished)
++ KNueva: barrels for starting a fire and inactive traps for using them against the monster have been added to the silo map (the traps disappear from the map after it is eliminated)
++ KNueva: workers and an administrator have been added to the silo map (they appear in freeplay after the end of the game, provided that the local deathclaw is killed)
++ KNueva: the CNGARD.MAP plantation map has been built + a water tower, a new agave sprite, and a scarecrow have been drawn for the map + the scarecrow has been scripted + the appearance of spore bearers has been implemented
++ KNueva: the CNCITY.MAP settlement map has been built + the map has been drawn and scripted Welcome Billboard, Hydrolysis Lab + Insecticide quest item created
++ KNueva: Jimador Juan implemented (dialogue, script, agave trade)
++ KNueva: Mayor Alvaro implemented (first meeting, questions about the city, dialogue on Rosalia's quest, revelation about the Brotherhood, reaction to the destruction of Puerto, suicide in freeplay)
++ KNueva: Rosalia character implemented (dialogue, script, her quest to find her husband)
++ KNueva: School teacher implemented (dialogue, script, handing over an ancient relic, the history of the Followers, reaction to developed combat skills, handing over surviving books, quest to copy the electronic library of the Brotherhood of Steel)
++ KNueva: Followers leader Nestor implemented (dialogue, routine questions, treatment, purification perks, addiction rehabilitation, Carlos from Two-Sun quest, quest to create an insecticide)
++ KNueva: Clinic assistant implemented (dialogue, script, medicine trade, product expansion, price penalty for the explosion of Puerto)
++ KNueva: the warden has been implemented (dialogue, script, patrolling at night, stopping the main character at night with a transfer to the cell, attack with the reputation of Cursed in Puerto, a quest to eliminate a monster in the Quarry, a reaction to Pinky's quest)
++ KNueva: the peasant Lo has been implemented for a frank dialogue about the city
++ KNueva: typical children at school have been implemented (script, response lines)
++ KNueva: typical city residents have been implemented (script, change of location, response lines)
++ KNueva: Chipo has been implemented (script, dialogue, quest to treat a pet) and his pet Pinky (script, dialogue, treatment, poisoning)
++ KNueva: new wall sprites have been drawn for the laboratory
++ KNueva: a map of the CNLAB.MAP laboratory exterior has been built + a chemical laboratory has been implemented for creating a quest substance + a research computer has been implemented (text, script, obtaining a holodisk) + a counter has been drawn index
++ KNueva: CNGIDR.MAP laboratory interior map built + timed poisoning, microclimate terminals for its elimination, common generator implemented
++ KNueva: custom sprite for Converted Follower of Wang Chong drawn as a tree man
++ KNueva: Converted Follower of Wang Chong implemented (script, dialogue, sprite)
++ Jackals: warehouse level slightly expanded with addition of two standard totems + implemented ability to use rope on one of the hoods for descent to warehouse level + other minor fixes
++ Inferno: monument sprite with horse completed
++ Rangers, Aqueduct: implemented child with short dialogue about aqueduct and finding ammo
++ Rangers, Aqueduct: now you need to use rope to descend into aqueduct + knowledge about bodies at the bottom moved to separate GVAR instead of bit + option to study bodies by Science moved to trigger, since the player most likely will not think to use the skill
++ Rangers, Aqueduct: gear for the wall of the hut is drawn + minor edits in the immigrant's dialogue + other minor changes (especially in terms of loot)
++ Most AI packages have a lower minimum HP level at which NPCs run away from the battlefield
++ When hacking standard computers, all monitors now light up
++ Implemented the ability to use a gas mask against air poisoning, like boots in the case of toxic liquid (useful in the greenhouses of CasaNueva and in Vault 27)
++ In the MOUNT6.MAP cave, the selection of random monsters is synchronized (previously, each room generated its own type of monster)
++ The sounds of picking up objects from the floor have been restored, including many omissions in Fallout 2 (there were no sounds, for example, for small boxes SMALBOX2.FRM, grenades, shovels, books, batteries, etc.)
++ All game texts have been checked for grammatical errors via Word function
++ Amendments have been made to scripts and macros for the presence of power armor in case of combat poisoning by the enemy
++ A special weapon, Spikes, has been created for long-range attacks on predatory plants (essentially brass knuckles with a long range)
++ A new special encounter, "Scream of Silence", has been implemented (RNDCRY.MAP map, Lamont's script and dialogue, tumbleweed scripts)
+
+
+Version 0.22 (June 25, 2019) ---------------------------------------------------
+
++ Puerto: old town map PSSIGN.MAP completed (upper corner, pier transition grid, lower corner, alcohol stash, hotel interior, ruined buildings around) + hotel exterior walls and roof drawn
++ Puerto: ruined Puerto map PSDSTR.MAP completed
++ Puerto: pier map PSDOCS.MAP completed (though it would be worth adding a port crane)
++ Puerto: minor improvements to PSBASA.MAP map, including additional NPCs for the crowd
++ Puerto: ship engine and ship reactor drawn (poorly drawn)
++ Puerto: new wall sprites for Caborca ​​drawn - interior brick walls, white wall with red stripe at the bottom, white wall with blue stripe at the bottom
++ Puerto: Desert Storm quest fully implemented
++ Desert Storm quest: Brotherhood camp map built (first level of BSCAMPA.MAP map)
++ Desert Storm quest desert": the first raid map BSCAMPB.MAP (a tent camp in the desert) was built + a new set of external walls was drawn for the map
++ Quest "Desert Storm": the second raid map BSCAMPC.MAP (a camp in Caborca) was built + new sets of external walls, advertising signs and other environmental objects were drawn for the map
++ Quest "Desert Storm": the third raid map BSCAMPA.MAP (a camp in a cave) was built
++ Quest "Desert Storm": quest options were implemented in the dialogue and script of the patrol chief
++ Quest "Desert Storm": the dialogue and script of the field commander on the maps of the operation were implemented
++ Quest "Desert Storm": the dialogue and script of the caravan driver-hostage of the raiders were implemented
++ Quest "Desert Storm": BS soldiers were implemented for fire support during the siege of camps
++ Quest "Desert Storm": bike adjustments made to account for location disappearance
++ Casa Nueva: CNCARIER.MAP Career map developed, including graphics of concrete mixing plant with silo
++ Special encounter "Petro Chico's Truck" improved (van graphics, blockers, sludge triggers, loot and everything else)
++ Hex dummy created that cancels green sludge script at its point of placement
++ Improved interior wall sprites for Ranger Radio Station and Hermosillo General Staff
+
+
+Version 0.21 (May 29, 2019) ---------------------------------------------------
+
++ Unused sprites removed from resources: STCOMP01-STCOMP10.FRM (Lost Hills computers), VERTI01-VERTI09.FRM (helicopter), RETSCAN.FRM (retina scanner)
++ Palm tree sprite added from A. Berezina instead of the old one + slightly corrected the north-south billboard sprite + another segment of boarded-up windows was drawn
++ Jackals: minor map improvements
++ Highwaymen: an image was drawn in the inventory for the head of the raider leader Ben
++ GarageCity: a table for assembling laser weapons was added to the map of the plant Repair + brick walls of the checkpoint buildings were replaced with tin ones
++ Inferno: an image was drawn in the inventory of the mutagen sprayer
++ Phoenix: a cripple with the ability to heal for experience was added among the homeless near the cathedral
++ Phoenix: sprites of the destroyed and restored cooling system at the power plant were drawn
++ Phoenix: the electrical panel script was added, increasing the lighting on the lower level of the power plant
++ Phoenix: a bug was fixed - if you arrive on a motorcycle to the Cathedral map in Phoenix (PXCITY.MAP) after its explosion, the bike was placed on an already inaccessible level (now it moves to the starting area Phoenix)
++ Casa Grande: the name of the city has been added to the building of the railway station + other minor edits to the station map CGSTAN.MAP
++ Casa Grande: minor improvements to the settlement map CGGRANDE.MAP (increased loot, lack of blockers, minor improvements to the environment)
++ Puerto: an image for the access map to the hold has been drawn + the Valuable Relic item has been created for the raid on the raider camps quest
++ Puerto: robots have been added near the torpedo compartment and the space has been completed
++ Puerto: the chief of the patrol service, paladin Latham, has been implemented (counter dialogue, quest in Inferno, reconnaissance in Hermosillo)
++ Puerto: the ability to repair power armor through the quartermaster in Puerto and through the quartermaster in Two-Sun has been implemented
++ Puerto: new sprites have been drawn for the steering wheel, air defense missile system and ship cannons
++ Puerto: the first (counter) dialogue has been implemented with General Dixon + handing in Ulysses Grant's holodisk and receiving a reward from the quartermaster + asking about the Brotherhood + story quest to eliminate the rangers + receiving the BS title
++ Puerto: the PSDOCS.MAP pier map has been significantly improved + new pier graphics and authentic lamp posts have been drawn
++ Puerto: implemented quest to treat officer Bell (except for the quarry map) - examining Bell with a skill or mentat + first and final dialogues with Bell + dialogue with Bell's partner + dialogue with the doc
++ Created a CNCarier.map template for the new Casa Nueva district (concrete plant)
++ Rangers: implemented quest and dialogue of the general to find and destroy the Brotherhood of Steel base with the subsequent completion of the alliance with Villa
++ Rangers: implemented surrender of Brotherhood of Steel tokens to the quartermaster (available after the start of the confrontation with the BS)
++ Villa: implemented the Ranger Ambassador and the Brotherhood of Steel Ambassador
++ Villa: implemented all Community Councils and the end of the game based on their results - confrontation with the Garage and Flagstaff, alliance with the Rangers or the Brotherhood, Villa's neutrality, the extermination of the Council by the player, the end of the game (no slides yet), calculation and receiving the title of keeper/destroyer traditions, improvements to various dialogues (Hidalgo, Ranger General, Helford, Padre and Madre)
++ The entire existing plot of the game was tested and various minor adjustments were made to various dialogues and scripts during the testing
++ Freeplay after the finale in Phoenix: the microwave appears on sale in the gun shop + the junkman's caps increase fivefold until the Cathedral is blown up
++ Freeplay after the finale in Phoenix: hostile bandits appear on the city streets (PXSIGN, PXCITY, PXELECTR, PXCENTER districts) after the Cathedral is blown up
++ Freeplay after the finale in Phoenix: ghosts appear at the crater of the blown up Cathedral
++ Freeplay after the finale in Phoenix: racketeers appear at the slumlord's after the fall of the Cardinals gang
++ Freeplay after the finale in Rangers: hostile raiders appear on the starting map (RROAD) after the dam falls
++ Freeplay after the finale in GarageCity: when successfully restoring the plant when playing for Lucas, the plant windows are highlighted in yellow
++ Freeplay after the finale in KGrand: a bartender appears in an abandoned bar after the skirmish in this bar is successfully completed for the mayor
++ New music from Alexey Trofimov has been implemented for the locations: Phoenix, Jackals, Motel, Casa Grande
+
+
+Version 0.20 (May 1, 2019) ---------------------------------------------------
+
++ World Map: fixed confusion in bit masks of the variable at the meeting Convoy with slaves, due to which the guards attacked the main character for no reason
++ Villa: minor improvements on the map of the Dormitory District ARTEMPLE.MAP
++ Access maps from shelters 25 and 27 - numbers have been added to the images in the inventory to distinguish them (files KEY010.FRM-KEY013.FRM)
++ Puerto: implemented the knight Graham in the dining room (counter dialogue, gambling, about Jung, combat story)
++ Puerto: implemented the Supreme Scribe Maura (counter dialogue, the story of the Brotherhood and the Overlord, about the ship, about the prisoner, the PipBoy amplifier for the title of scribe, convincing the general of the false path)
++ Puerto: the quartermaster has been given the option to improve the 40 mm grenade launcher
++ Puerto: scripted the radio station to receive the Brotherhood frequency
++ Puerto: implemented Private Christopher in the cabin with a story about the battles in California
++ Puerto: implemented the loudmouth instructor and his combat skills training
++ Puerto: implemented a floating dialogue between the doctor and the patient in the infirmary
++ Puerto: implemented a broken plasma rifle in one of the cabins for repair
++ Puerto: implemented the general computer of the scribes (text, script)
++ Puerto: implemented the personal computer of General Dixon (text, script)
++ Puerto: implemented the navigation computer (own sprite, disclosure of the fog of war and locations, survival skill +5)
++ Puerto: new sprites for onboard computers, ladders, ship sides, gangway, etc. have been drawn
++ Puerto: the PSBASA.MAP map has been significantly improved
++ Puerto: the PSDOCS.MAP map has been significantly improved
++ Inferno: the facade of the Mysterious Mansion has been drawn and implemented on the map, an exit from the Mansion to the outside and back has been organized
+
+
+Version 0.19 (April 15, 2019) ---------------------------------------------------
+
++ Garage City: new interior walls and doors have been drawn for the plant
++ Inferno: the Paladin can now be taken as a partner by Eloquence earlier than the corresponding stage of the quest + the Paladin now attacks Levi and his guards when entering the Mansion
++ Inferno: the front wall of the nave in the church with a table and an icon of the Virgin Mary has been drawn
++ Inferno: the corner of the police station with the PEP emblem has been drawn
++ Puerto: sprites have been drawn for the outer and inner walls of the ship, the side railing, various ship doors and other destroyer entourage
++ Puerto: redesign of all ship decks
++ Puerto: significant elaboration of the PSBASA.MAP map
++ Puerto: significant elaboration of the PSDOCS.MAP map
++ Puerto: the Junga has been implemented (dialogue, script, quest to find a toy)
++ Puerto: the deck scrubber has been implemented Prisoner (dialogue, script)
++ Puerto: quartermaster implemented (dialogue, script, handing in BS tokens, receiving equipment with the BS title, expanding the goods)
++ Puerto: cook in the kitchen implemented (dialogue, script, opening the goods, coffee delivery, receiving food with the BS title, mini-quest for leave)
++ Phoenix: the junk dealer has an option to hand in the ancient relic "Snow Globe" + the dialogue regarding ancient relics has been improved
++ Minor improvements regarding loot and the environment of the FLAGCITY.MAP, TSINN.MAP, RCITY.MAP, RMOHAVE.MAP maps
++ All ancient relics now cost 10 caps each, so that they can be exchanged for at least something by barter, and weigh nothing
++ The ancient relic "Arizona Flag" has been developed (given to the Flagstaff bartender in exchange for a Winchester, after which flag appears on the wall of the bar)
++ New unique weapon created - Winchester (bonus in Flagstaff for delivering an Ancient Relic)
++ New unique weapon created - Mop (rope mop on the ship in Puerto, a joke item)
+
+
+Version 0.18 (March 20, 2019) ---------------------------------------------------
+
++ Amended macros to suspend background irradiation of locations in dialogue mode.
++ All full-fledged partners in the game now refuse to join the team if there is another partner
++ Phoenix: an image has been drawn in the inventory for the crate with Nuka-Cola caps (quest item)
++ Phoenix: loot for the poor has been added to the Cathedral entrance map, blockers have been corrected, and the statue graphics have been updated to the new one by A. Berezina
++ Phoenix: new design for the Arena and Cardinals rings by A. Berezina
++ Inferno: various improvements to all location maps
++ Inferno: a jukebox in the bar and a fire alarm in the supermarket have been implemented
++ Inferno: new sprites by A. Berezina for ventilation and totems
++ Inferno: a new area, Main Highway INFMNMT.MAP, has been developed (only the monument graphics remain)
++ Inferno: the quest items "Chemical Set" and "Mutagen" have been created
++ Inferno: Levi's dialogue has been completed parts of various inquiries and local plot
++ Inferno: fully completed quest "Deal with the Devil", including scripts, dialogues, etc.
++ Inferno: fully developed Diana (script, dialogue, quest for escorting to Casa Nueva, partner options)
++ Inferno: fully developed Paladin Barkley (script, dialogue, quest, partner options, communication with the paladin via radio, hostility when attacking BS members and when launching torpedoes in Puerto)
++ Garage City: new graphics by A. Berezina for water towers and production machine at the plant
++ Garage City: minor improvements to GCSIGN.MAP, GCHOME.MAP and GCDSTR.MAP maps
++ Rangers: new graphics by A. Berezina for radio station equipment with added animation and script addition
++ Villa: hangar sprites update by A. Berezina
++ Partially reworked the radio script and its text file
++ Added a cheat for doors and safes to unlock using cheat tokens. The same for computers.
++ Added new tiles from A. Berezina to RRADIO.MAP and HERMO3.MAP maps
++ Started special encounter map "Petro-Chico Truck", rndPetro.MAP
+
+
+Version 0.17 (March 8, 2019) ---------------------------------------------------
+
++ Added new portraits of protagonists from A. Berezina
++ Fixed a bug on many maps when NPCs could run through "dilapidated walls" + along the way other minor improvements on the same maps
++ Two-Sun: decorative improvement of the TSDSTR.MAP map
++ Phoenix: updated Union Station tiles with volumetric letters
++ Phoenix: updated the graphics of the main gate of Phoenix with sprites from A. Berezina
++ Inferno: ghoul totems were converted from scenery to containers and replaced on all Inferno maps
++ Inferno: the road map is fully completed jam INFROAD.MAP + Withered added answers to the quest of the missing BS squad
++ Inferno: the map of the residential area INFCITY.MAP is fully completed
++ Inferno: the map of the police station INFPOLIC.MAP has been significantly worked on
++ Inferno: the map of the supermarket INFSHOP.MAP has been significantly worked on
++ Inferno: the map of the mysterious mansion INFCHRCH.MAP has been significantly worked on
++ Inferno: ghoul lab assistants have been implemented in the Mansion (script and response lines)
++ Inferno: mutant guards have been implemented in the Mansion (script and response lines)
++ Inferno: super mutant Garrett has been implemented in the Mansion (script and dialogue)
++ Inferno: the main part of the dialogue with the Follower of the Apocalypse Diana has been written
++ Inferno: a counter dialogue with the leader of the mutants Levi has been written
++ Inferno: notes for the computer in the police station have been written plot
++ Puerto: re-created blank for PSSign.map map + created welcome road sign
+
+
+Version 0.16 (February 14, 2019) ---------------------------------------------------
+
++ Rangers: in freeplay (after completing the story) the ability to lower the dam floodgates is blocked (either by explosion or through the control panel)
++ Rangers: another Madman was added to Quartz + several minor edits on the map
++ GarageCity: a new poster was drawn and added to the advertising billboard for the abandoned factory map
++ Inferno: various numerous improvements to all maps of the location in terms of loot and environment
++ Inferno: implemented Withered on the starting map (dialogue, script)
++ Inferno: scripted obtaining of power armor and created the necessary prefabs for this
++ Inferno: prepared blanks of scripts for Inferno characters
++ Inferno: partially implemented Follower of the Apocalypse Diana
++ Implemented a new special encounter "Bomber" (map RNDBOMB.MAP, sprite of the fallen plane by A. Berezina)
+
+
+Version 0.15 (February 6, 2019) ---------------------------------------------------
+
++ Completed a lot of work on the file of combat lines COMBATAI.MSG
++ Checked for serious errors in the texts of the game of the latest versions
++ Phoenix: significant development of the nuclear power plant map PXELECTR.MAP
++ Phoenix: on the map of the eastern collector PXANAL.MAP, a passage to the basements of the power plant with an obstacle in the form of green liquid was added
++ Phoenix: Vernon's first quest to eliminate the drug addict Larry has been implemented
++ Phoenix: Vernon's second quest to kick out the debtor of rent has been implemented
++ Phoenix: Vernon's third quest to eliminate the Cardinal gang has been implemented + the appearance of food in the refrigerators of the slums after successful completion of this quest
++ Phoenix: various improvements to the slum map PXBNDCS.MAP in terms of loot and environment
++ Phoenix: a casino test quest for debt collection has been implemented (administrator, debtor, warehouse map)
++ Phoenix: a new quest area has been built PXCOLA.MAP (nuclear cola warehouse)
++ New environment sprites by Alexander Berezin: statue in Hermosillo, small cacti, rocks in the sand, CARJUNK6.FRM, several minor sprite fixes
++ New inventory item sprites by Alexander Berezin: torpedo key, tire sandals, fried cockroach, El Giganto skull, fire bomb, emitter, light machine gun, homemade laser weapon, molecular cutter, 40mm grenade launcher
++ Inventory: inventory item volume no longer exceeds their weight + increased damage of fire cocktails + increased weight of light machine gun from 12 to 16 + created a pro-profile for the 40mm grenade launcher with increased ammunition
++ Motorcycle: added new sprites for the motorcycle by Alexander Berezin
++ Motorcycle: tested the bike and its upgrades with passing fixes and clarifications
++ Motorcycle: various changes in motorcycle and trunk scripts
++ Motorcycle: the initial volume of the trunk has been reduced from 175 to 100 units
++ Highwaymen: twice as many fire cocktails have been added to the RAIDERS.MAP base map
++ Garage City: minor improvements to the GCSIGN.MAP, GCDSTR.MAP and GCHIST.MAP maps (environment improvements, increased loot to support exploration)
++ Garage City: tires have been added to the garage for self-installation on a bike in case of the death of a local mechanic
++ Garage City: wild dogs have been added to the GCHIST.MAP map (they only appear after completing the local storyline with the caravan)
++ Villa: the first Community Council and its two subsequent quests have been implemented (the Garage plant and the Flagstaff mines) + dialogues of various NPCs have been supplemented on the topic of the Council + the town hall map has been improved for holding the Council + the game can now end from killing the Council elder + Fixed a bug in the description of the padre
++ Villa: on the plantation map, the right grid of the transition to the world map was removed
++ In freeplay (after the end of the game), the possibilities for detonating a bomb in Vault 25 and torpedoes in Puerto were blocked
++ Sprites of round windows for standard black walls were drawn + these windows were placed on the Inferno maps and in the Phoenix slums
++ Boarded up windows were drawn + these windows, along with other small changes, were added to the Casa Grande and Quartz maps.
++ Multiple minor changes on various maps
++ Rangers: completed and clarified entries (rangers' dossiers) in the computer on the dam
+
+
+Version 0.14 (January 11, 2019) ---------------------------------------------------
+
++ Removed the following files from resources as unnecessary: ​​CMBATAI2.msg, AIBDYMSG.TXT, AIGENMSG.TXT
++ Optimized set_injure_start and set_injure_update macros (by outputting the LVAR_Medic_Quest variable to the LVAR_Self_Flags bitmask)
++ Reorganized special goods macros for traders (by outputting the LVAR_Barter_Dopusk variable to the LVAR_Self_Flags bitmasks under numbers 10 and 11)
++ Successful poisoning with scorpion venom now reduces Karma by 5 units
++ GarageCity: fixed confusion in numbers between variables 220 and 221
++ GarageCity: Lucas now has a choice of rewards between caps and laser weapons
++ Highwaymen: RAIDERS.MAP map completed (fuel depot visualization, depot explosion, blockers, stairs to the top disappear after explosion)
++ Highwaymen: sentry dialogue added to reveal traps at the location
++ New item created - Holy Book (pro file + image) for the quest of bookkeeper Francis. The item is located in the San Brahmin church.
++ Phoenix: Bookkeeper Francis now has the ability to hand over books for covers or reputation, with the subsequent receipt of a recommendation for Aaron
++ Phoenix: Bookkeeper Francis now has a mini-quest before delivering the holy book from the San Brahmin Church
++ Phoenix: The signalman in the Cathedral can now be affected by scorpion venom and alcohol to gain access to the radio station
++ Phoenix: minor changes to the PXDSTR.MAP map
++ Phoenix: Red Cardinals map PXBNDCS.MAP completed
++ Phoenix: Red Cardinals main quest with all related options fully developed
++ Phoenix: fully scripted and texted on PXBNDCS.MAP map - Cardinals leader Orris, Orris' right hand Murphy, ordinary cardinals, cardinal at the entrance
++ Phoenix: receiving letters for the Sonora Express quest moved from Murphy to the cardinal on duty
++ Phoenix: Red Cardinals quest scripts and dialogues written for the liaison in the sewer, the imprisoned cardinal, the jailer, the radio station in the Cathedral
++ Phoenix: partial development of the nuclear power plant map PXELECTR.MAP
++ Phoenix: fully worked out the quest "Let there be light" with all related options
++ Phoenix: fully scripted and texted on PXELECTR.MAP map - the head of the nuclear power plant, his assistant, the injured ghoul, quartermaster, ordinary workers, Ralph's henchmen, computer, damaged cooling system, monk at the checkpoint
++ Inferno: INFCITY.MAP map is almost finished (the sewer entrance remains)
++ New item created - Ceramics (pro file + image) for resale at the initial stages of the game. The item is placed on the Villa maps.
+
+
+Version 0.13 (December 23, 2018) ---------------------------------------------------
+
++ Fixed a bug in the ZSRandom script, in which advertising billboards were deployed in a random position, which should not happen
++ Phoenix: replaced the old sprites of the rubble in the business center with a new one from A. Berezina + minor edits to the business center
++ Quartz: decorative revision of the map to give the location a more dilapidated look
++ Old Man Gallegos in Casa Grande and Dominguez in Hermosillo have been written connecting dialogues for "sending greetings"
++ Casa Grande: completed the CGGRANDE.MAP map (visualized the roof of the mansion + minor improvements)
++ Casa Grande: implemented the imprisoned highwayman (dialogue, script, quest)
++ Inferno: previous district blanks have been removed and re-created with a different breakdown by files, different layout and different names
++ Inferno: ventilation unit script written
++ Inferno: INFROAD.MAP starting area map completed (previously INFERNOA.MAP)
++ Inferno: INFCITY.MAP map significantly built up
++ Inferno: Police Station map (INFPOLIC.MAP) significantly built up
++ Inferno: robots script written in the police station and non-working computer there
++ Highwaymen: RAIDERS.MAP map almost finished (it remains to visualize and equip the fuel tank)
++ Highwaymen: dialogue and other interactions with the guard at the gate written
++ Highwaymen: dialogue with raider leader Ben written
++ Highwaymen: dialogue with Rio written
++ Highwaymen: first quest to rescue a raider from prison implemented
++ Highwaymen: second quest under the contract with the tinsmiths implemented
++ Highwaymen: the third quest for a truce with Casa Grande has been implemented
++ Highwaymen: Rio's quest for the delivery of chemical raw materials has been implemented
++ Highwaymen: a cutscene with conflicting raiders in the barracks has been implemented
++ Highwaymen: texts and other interactions with the concubine, slave, and raider from the Casa Grande bar have been written
++ Changes have been made to the macros for calculating personal Relationships (caused by an arithmetic error in the engine)
+
+
+Version 0.12 (November 23, 2018) ---------------------------------------------------
+
++ Road Armor image drawn in inventory
++ New misc item Tire Sandals created and placed on maps and in goods.
++ New armor item created - Chest Guard (Chest Guard)
++ Tirelessness perk renamed to Eternal Wanderer + several minor clarifications in descriptions of other perks + caricature replaced for Intimidation perk
++ Scavenger's Intuition perk now increases caps at merchants by 10% (was 25%).
++ Vault Boy caricatures drawn for titles in the Brotherhood of Steel.
++ Villa: updated Adonsia's 3D head.
++ Villa: changes on ARTEMPLE.MAP (added 1 trap + simplified detection check for traps in THIS location + minor map changes)
++ Villa: changes on VLRUINS.MAP (removed entire grid except the bottom one + replaced dilapidated wall with another pid + minor map changes)
++ Villa, raider in the basement: completely restructured and partially rewritten dialogue + fixed a bug where the bandit says Error when dying + he no longer runs away during combat with low HP.
++ Garage City: changes on GCHOME.MAP (added object for creating Chestplate with repair skill + minor map changes)
++ Garage City: Pete now sells PP 0.22.
++ Jackals: minor map changes + a shotgun with ammo was placed in the chest instead of the PP 0.22 + Ancient Relic (music box mechanism) is now generated in totems when dismantled.
++ Flagstaff: fixed a bug where a bully in a bar continued attacking after a peaceful end to the fight
++ Flagstaff, museum area: a dinosaur skeleton was added to the museum (sprite drawn by A. Berezina), the surrounding space was redesigned for it + a dismantled satellite was implemented (appears after using Repair) + other minor or cosmetic map improvements
++ Flagstaff: minor changes to the garrison map FLAGSLAV.MAP in terms of loot, barracks walls and blockers. + Rangers: minor improvements to the RBASA.MAP map (loot, removal of the transition arrow, script for changing the superstructure after a flood, incorrect shadow on the roof of the superstructure)
++ Rangers: the quartermaster has been given an option to hand over the Ancient Relic
++ Rangers: blockers have been added to the graves on the radio station map so that the main character does not hover visually over the dug holes.
++ Rangers: the control panel sprite near the general has been replaced with a new one by Alexander Berezin
++ Rangers: a 3D head created by Alexander Berezin has been added to the Ranger General
++ Rangers: the long-started quest "Bad Languages" has been completed
++ Rangers: the Mojave Waterworks map RMOHAVE.MAP has been built (including scripts, texts and graphics)
++ Phoenix: the new quest "Return the Stolen Letters" has been fully developed (which required numerous edits and additions within Phoenix)
++ Phoenix: the bartender's reaction to the destruction of the moonshine still has been added (a separate question about the problem, correction of the rest of the conversation, reduction of tequila in the product)
++ Phoenix: Aaron has been given a 3D head created by Alexander Berezin
++ Casa Grande: the holotape "Instructions for Regulating the Situation in Casa Grande" has been written and its holodisk has been prepared
++ Casa Grande: the boy with the grenade has the ability to win back the grenade using the gambling skill + the dialogue for handing over the ancient relic with the transition to the cache map has been implemented
++ Casa Grande: the CGGRANDE.MAP map is almost finished (it remains to visualize the roof of the mansion)
++ Casa Grande: the school map CGSCHOOL.MAP has been completed (including scripts, texts and graphics)
++ Casa Grande: Completed the burial ground map CGGRAVE.MAP (including scripts, texts and graphics)
++ Casa Grande: Completed the water station map CGWATER.MAP (including scripts, texts and graphics)
++ Casa Grande: Completed the train station map CGSTAN.MAP (including scripts, texts and graphics)
++ Casa Grande: Almost complete the bar map CGBAR.MAP (including scripts, texts and graphics)
++ Casa Grande: Implemented the first mayor's quest (quest at the train station, skirmish in the bar, receiving the second quest)
++ Casa Grande: Implemented the mayor's quest to kill the leader of the Blue Shields
++ Casa Grande: Completed the "Family Business" quest to restore the bathhouse
++ Casa Grande: Implemented the quest to save a resident at the train station. + Casa Grande: implemented a quest to repair the water pump
++ Casa Grande: supplemented and slightly improved the dialogue of Gil McCord, now you can part ways with him peacefully, having the title "Peace-loving wanderer" or the number of human deaths <=5.
++ Casa Grande: mayor's dialogue written
++ Casa Grande: water merchant's dialogue written + merchant's skirmish with a settler attacking him implemented + goods written
++ Casa Grande: caravan driver's dialogue written at the parking lot
++ Casa Grande: water station chief's dialogue written
++ Casa Grande: mayor's daughter's dialogue written (including gambling)
++ Casa Grande: mayor's newbie security guard's dialogue written
++ Casa Grande: old man Gallegos's dialogue written
++ Casa Grande: additions to Hard's quest to find a tinsmith in the mayor's dialogue and at the portable radio
++ Two-Sun, Master Hard: added a volumetric head created by Alexander Berezin + minor changes and additions to the dialogue + dialogue blocking for the presence of a weapon in the GG's hands was removed + EMP resistance was reduced to 90 (was 500)
++ Two-Sun: small (but noticeable) changes on the ZAX bunker map in terms of loot and layout
++ Two-Sun: small changes on the settlement map TSCITY.MAP
++ Hermosillo: fixed a bug (two soldiers on the General Staff map were without scripts) + the Mexican PP is now repaired on the workbench in the barracks, not the PP 10 mm
++ Hermosillo: the street floodlights on the General Staff map have been given a night sprite and a script has been added to change the sprite at night
++ Inferno: the starting area map INFERNOA.MAP is almost finished (except for the air purifier and the net for the next area)
++ A new wall with three rusty round cylinders vertically has been drawn. Used on 4 maps.
++ Standard destructible objects of the "Old Wall" type: reduced to several prefabs numbered 1504-1511 + old pids on 12 maps replaced with new ones + additions made to the ZSBlock script + old pids (878-882 and 1336) removed from resources.
++ Highway Leader: character placed on the map + when attacking with a laser, there is a 10% chance of getting your own eyes injured + head added to inventory upon death
++ 5 mm rounds are no longer single, but in packs of 5 rounds (since NPCs load weapons in packs, which in the case of a minigun becomes a fail) + 11 scripts and 16 maps have been edited for this reason
+
+
+Version 0.11 (October 8, 2018) ---------------------------------------------------
+
++ Removed redundant asphalt tiles from resources - from ROAD501 to ROAD540
++ Phoenix: Completed Union Station map (including scripts, texts and graphics), as well as the sewers underneath it
++ Phoenix: Completed the first rebel quest (rescue the agent)
++ Phoenix: Completed the second rebel quest (destroy the Cathedral)
++ Phoenix: Completed the second Cathedral quest (liquidate the rebel base)
++ Phoenix: Rebel Elisa now teaches the Trap skill
++ Phoenix: Some NPCs have been given corrections for the Cathedral explosion and the activation of the bomb in Vault 25
++ Phoenix: Added a crime scene in the house opposite the entrance to the Cathedral
++ Phoenix: Completed the Atom Square map, painted the entrance to the Cathedral, created a destroyed level with a crater
++ Phoenix: Now the entire market in the business center raises prices after the explosion Cathedral, and the drug dealer lowers and reveals all his goods
++ Phoenix: minor changes to the business center map (mostly in terms of loot)
++ Phoenix: a character has been added to the business center that illustrates the trade crisis that occurs after the fall of Two-Sun
++ An image of a pneumatic fist has been drawn in the inventory
++ Hermosillo: the HERMO2.MAP map is completely finished (including scripts, texts and graphics)
++ Hermosillo: the HERMO3.MAP map is completely finished (including scripts, texts and graphics)
++ Hermosillo: the prisoner of war in prison has been completed (script, dialogue, personal quest, etc.)
++ Flagstaff: minor changes to the settlement map
++ The world map has been expanded by one sector lower, Hermosillo has been moved accordingly and the "Sonora Expert" perk has been supplemented.
++ Two-Sun: minor changes on the settlement map and on the workshop map
++ Two-Sun: rewritten dialogue with the Cathedral ambassador from "you" to "you" and partially improved text
++ Two-Sun: completely rewritten the quest for Cody and his family, Cody is now a child and is housed in the tinsmiths' dormitory.
++ Two-Sun: implemented a surviving Puerto Style scout in the workshop
++ Now the ranger title is removed when reaching fame <=-500
++ Rangers: implemented the general's reaction to losing the Arizona Ranger title, receiving the Follower of Fire title, membership in the Brotherhood of Steel
++ Phoenix: added a refugee from Flagstaff in the slums (appears after the mine is liquidated)
++ Puerto Style: worked out the torpedo launch terminal (script, dialogue, access key)
++ Puerto Style: implemented a dialogue with the guard at the entrance to the ship
++ Casa Grande: completed Hard's quest to find the missing tinsmith (neurochip, additions on the map, grave script, ranger dialogue and script, report in Hard's dialogue)
++ Garage City: finalized the GCHOME.MAP map (upper city gates drawn, minor changes to the map)
++ Garage City: GCSIGN.MAP map has been improved (the front city gates with lighting in front of them, surroundings, blockers, etc. have been drawn)
++ Casa Grande: minor improvements to CGGRANDE.MAP map
++ Casa Grande: implemented a boy with a grenade (script, dialogue)
++ Casa Grande: partially improved the script and floating lines of typical townspeople
++ Rangers: fixed confusion in numbers between the variables GVAR_RANGERS_QST_IMMIGRANTS (203) and GVAR_RANGERS_QST_QUARTZ (199)
++ Phoenix: improved the dialogue and script of the casino administrator regarding his personal quest and access to the boss
++ Phoenix: the bartender in the casino now reacts to the arena champion title, and the bartender in the ring continues to trade after receiving the title
++ Phoenix: Veronica now sings the song "Nature Boy" and does not enter the dialogue
++ Phoenix: implemented the game of nuclear jack
++ Villa: added a volumetric head to the old woman Adonsia, created by Alexander Berezin
+
+
+Version < 0.10 ---------------------------------------------------
+
+(no entries were conducted)
+
++ version 0.10 completed 09/05/18
++ version 0.09 completed 07/09/18
++ version 0.08 completed 06/11/18
++ version 0.07 completed 05/28/18
++ version 0.06 completed 04/12/18
++ version 0.05 completed 02/26/18
++ version 0.04 completed 10/26/17
++ version 0.03 completed 07/15/17
++ version 0.02 completed 05/20/17
++ version 0.01 completed 03/21/17
+
+-----------------------------------------------------------------

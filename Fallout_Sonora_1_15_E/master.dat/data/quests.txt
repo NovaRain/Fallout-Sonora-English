@@ -1,0 +1,730 @@
+##########################################################################
+#
+# Configuration of quest entries in Pip-Boy. Description format:
+#
+# 1) location, 2) quest description, 3) GVAR number, 4) quest opening, 5) quest completion
+#
+# --------------------------------------------------------
+#
+# More details:
+#
+# 1. Location name by number in the map.msg file.
+# 2. Line number in the quests.msg file with the quest description to be displayed in PiPBoy.
+# 3. Number of the GVAR variable responsible for the quest.
+# 4. Min. GVAR value at which the quest will be opened.
+# 5. Min. GVAR value at which the quest will be considered complete.
+#
+# ----------------------------------------
+#
+# Attention! The Pip-Boy only fits 18 lines of text, the rest falls outside the window
+#
+##########################################################
+
+
+#----------------------------------------------------------
+#Villa
+#----------------------------------------------------------
+
+# Find out about the raiders in Garage City
+# GVAR_MAIN_QUEST_VILLA
+1500, 100, 79, 1, 2
+
+# Free your fellow tribesmen in Flagpool
+# GVAR_MAIN_QUEST_FLAGSTAFF
+1500, 101, 84, 1, 2
+
+# Free your fellow tribesmen in Tu-San
+# GVAR_MAIN_QUEST_TWOSUN
+1500, 102, 85, 1, 2
+
+# Speak to the Community Council
+# GVAR_MAIN_QUEST_SYNOD_VILLA
+1500, 103, 183, 1, 2
+
+# Search the cellars for family heirlooms
+# GVAR_VILLA_RELICT
+1500, 104, 80, 1, 2
+
+# Resident requires medical attention
+# GVAR_VILLA_MEDIC_HELP
+1500, 105, 155, 1, 2
+
+# Find and return a runaway child
+# GVAR_VILLA_KID_RUN
+1500, 107, 82, 1, 2
+
+# Drive marauders from the Villa plantations
+# GVAR_VILLA_MARAUDERS
+1500, 108, 77, 1, 2
+
+# Repair the Villa weather station
+# GVAR_VILLA_METEO
+1500, 109, 78, 1, 2
+
+# Find Chris
+# GVAR_VILLA_QST_CHRIS
+1500, 111, 185, 1, 2
+
+# The Council has decided to blow up the Flagpool mines
+# GVAR_FLAGSTAFF_MINES_DESTROY
+1500, 112, 121, 1, 2
+
+# The Council has decided to destroy the machine in Garage City
+# GVAR_GARAGE_STANOK_DESTROY
+1500, 113, 223, 1, 2
+
+# Villa needs allies
+# GVAR_VILLA_ALLIANCE_PIP
+1500, 114, 190, 1, 2
+
+#-----------------------------------------------------------
+# Flagpool
+#-----------------------------------------------------------
+
+# Infiltrate the slave pen and find Villa's people there
+# GVAR_FLAGSTAFF_SLAVES_DIALOG
+1501, 200, 88, 1, 2
+
+# Free the tribesmen from the pen by any means
+# GVAR_FLAGSTAFF_SLAVES_ZAGON
+1501, 201, 89, 1, 2
+
+# Rescue the tribesmen from the mine trap
+# GVAR_FLAGSTAFF_SLAVES_MINE
+1501, 202, 90, 1, 2
+
+# Repair the drilling robot
+# GVAR_FLAGSTAFF_ROBOT_REPAIR
+1501, 203, 92, 1, 2
+
+# Eliminate the rat king in the mines
+# GVAR_FLAGSTAFF_RAT_KING_QST
+1501, 204, 93, 1, 2
+
+# Roy Faber will pay for the ranger's head
+# GVAR_FLAGSTAFF_RANGER_KILL
+1501, 205, 127, 1, 2
+
+# Take lunch to the mine administrator
+# GVAR_FLAGSTAFF_BARMEN_DINNER
+1501, 206, 436, 1, 2
+
+# Mercenary Stan owes the bar a hundred caps
+# GVAR_FLAGSTAFF_BARMEN_DOLG
+1501, 207, 132, 1, 2
+
+# Deal with the infidel in the name of the Holy Fire
+# GVAR_FLAGSTAFF_CULT_GOHOME
+1501, 208, 134, 1, 2
+
+# Cure the kid for radiation sickness
+# GVAR_FLAGSTAFF_RAD_KID_STATUS
+1501, 209, 136, 1, 2
+
+# Drive the invaders off the farm
+# GVAR_FLAGSTAFF_QST_FARM
+1501, 210, 254, 1, 2
+
+# Find Ms. Brandley's personal effects
+# GVAR_FLAGSTAFF_POST_VOR
+1501, 211, 442, 1, 2
+
+# Remove Overseer Knut from his position
+# GVAR_FLAGSTAFF_EVIL_WARDEN
+1501, 212, 443, 1, 2
+
+# Check out what's going on at Camp Wynon
+# GVAR_FLAGSTAFF_QST_TRAPERS
+1501, 213, 449, 1, 2
+
+#-----------------------------------------------------------
+# Garage City
+#-----------------------------------------------------------
+
+# Stop the Scavengers in the Dorm
+# GVAR_GARAGE_QST_BOSS
+1502, 300, 213, 1, 3
+
+# Get Mr. Kogan parts from the factory
+# GVAR_GARAGE_QST_FABRICA
+1502, 301, 214, 1, 2
+
+# Participate in the caravan deal for Kogan
+# GVAR_GARAGE_QST_BOSS_TRADE
+1502, 302, 215, 1, 3
+
+# Lucas needs data from the computer in the garage
+# GVAR_GARAGE_QST_LUCS_COMP
+1502, 303, 220, 1, 2
+
+# Participate in the caravan deal for Lucas
+# GVAR_GARAGE_QST_LUCS_TRADE
+1502, 304, 221, 1, 3
+
+# Participate in the attack on the brahmin
+# GVAR_GARAGE_QST_BRAHMINATTAK
+1502, 305, 224, 1, 2
+
+# Restore the trade route to San Brahmin
+# GVAR_GARAGE_QST_BARMEN_SB
+1502, 306, 225, 1, 2
+
+# Organize a trade route to the ranger lands
+# GVAR_GARAGE_QST_BARMEN_RNGR
+1502, 307, 457, 1, 2
+
+# Organize the delivery of alcohol from Flagpool
+# GVAR_GARAGE_QST_BAR
+1502, 308, 430, 1, 3
+
+# Stop fake cap production
+# GVAR_GARAGE_QST_FAKECAPS
+1502, 309, 432, 1, 2
+
+# Find and return the welding machine
+# GVAR_GARAGE_QST_APPARAT
+1502, 310, 386, 1, 2
+
+#-----------------------------------------------------------
+# San Brahmin
+#-----------------------------------------------------------
+
+# Help the chieftain make an alliance
+# GVAR_BRAHMIN_QST_GERONIMO
+1503, 400, 417, 1, 2
+
+# The missionaries want to make an alliance with the tribe
+# GVAR_BRAHMIN_QST_COMMANDER
+1503, 401, 391, 1, 2
+
+# Help the ranger drive out the missionaries
+# GVAR_BRAHMIN_QST_RANGER
+1503, 402, 419, 1, 2
+
+# Stop the tequila production in Phoenix
+# GVAR_BRAHMIN_QST_TEQILA
+1503, 403, 420, 1, 2
+
+# Clear the corral of brahmin excrement
+# GVAR_BRAHMIN_QST_GOO
+1503, 404, 421, 1, 2
+
+# Uncover the mystery of the Buried City
+# GVAR_BRAHMIN_QST_ELMONSTRO
+1503, 405, 423, 1, 2
+
+# Clear the oasis of radscorpions
+# GVAR_BRAHMIN_QST_OASIS
+1503, 406, 480, 1, 2
+
+# Protect the caravan on the way to Phoenix
+# GVAR_BRAHMIN_QST_CARAVANPNX
+1503, 407, 482, 1, 2
+
+#-----------------------------------------------------------
+# Tu-San
+#-----------------------------------------------------------
+
+# Find a way to disable the force barrier
+# GVAR_TWOSUN_QST_ZONA
+1504, 500, 164, 1, 2
+
+# Find your padre in the Forbidden Zone
+# GVAR_TWOSUN_QST_PADRE
+1504, 501, 166, 1, 2
+
+# Padre asks you to change Carlos' mind
+# GVAR_TWOSUN_QST_KARLOS
+1504, 503, 165, 1, 2
+
+# Tinsmiths want to deactivate the Forbidden Zone's security
+# GVAR_TWOSUN_QST_ZAX
+1504, 504, 170, 1, 2
+
+# Eliminate the gang of escaped slaves in Old Town
+# GVAR_TWOSUN_QST_BAND_SLAVES
+1504, 505, 171, 1, 10
+
+# Find the missing tinsmith in Casa Grande
+# GVAR_TWOSUN_QST_LOST_TIN
+1504, 506, 172, 1, 2
+
+# Cody is having personality conflicts; look for his family in Casa Grande
+# GVAR_TWOSUN_QST_FAMILY_PIP
+#1504, 507, 168, 1, 2
+
+# Get a power cell for the peasant
+# GVAR_TWOSUN_QST_POMPA
+1504, 508, 167, 1, 2
+
+#-----------------------------------------------------------
+# Puerto Peñasco
+#-----------------------------------------------------------
+
+# Deliver the Advisor's holotape
+# GVAR_PHENIX_QST_OWRS_HOLO
+1505, 600, 235, 1, 2
+
+# Brotherhood unit lost in Inferno
+# GVAR_PUERTO_QST_INFERNO
+1505, 601, 335, 1, 2
+
+# Officer Bell suffers from mental breakdown
+# GVAR_PUERTO_QST_BELL
+1505, 602, 347, 1, 2
+
+# Conduct reconnaissance of the Mexican army in the south
+# GVAR_PUERTO_QST_HERMOSILLO
+1505, 603, 348, 1, 2
+
+# Eliminate the rangers
+# GVAR_PUERTO_QST_RANGERS
+1505, 604, 350, 1, 2
+
+# Participate in raids on bandit camps
+# GVAR_PUERTO_QST_BANDITS_PIP
+1505, 605, 356, 1, 2
+
+# Conduct reconnaissance in San Felipe
+# GVAR_PUERTO_QST_SANFELIPE_PIP
+1505, 606, 464, 1, 2
+
+#-----------------------------------------------------------
+# Rangers
+#------------------------------------------------------------
+
+# Repair the farmers' water tank
+# GVAR_RANGER_QST_WATERTANK
+1506, 700, 175, 1, 2
+
+# Spy needs the Ranger radio code
+# GVAR_RANGERS_QST_SPY
+1506, 701, 177, 1, 2
+
+# Repair equipment at the power plant
+# GVAR_RANGERS_QST_REPAIR_DUM
+1506, 702, 178, 1, 2
+
+# Escort the young mechanic from Garage City
+# GVAR_RANGERS_QST_EUGENE_DUM
+1506, 703, 179, 1, 2
+
+# Expand the radio station's broadcast area
+# GVAR_RANGERS_QST_REPAIR_RADIO
+1506, 704, 193, 1, 2
+
+# Deliver the report to the ranger in San Brahmin
+# GVAR_RANGERS_QST_SBRAHMIN
+1506, 705, 194, 1, 2
+
+# Escort the refugees to the ferry
+# GVAR_RANGERS_QST_FAMILY
+1506, 706, 195, 1, 2
+
+# Find the missing patrol in the north
+# GVAR_RANGERS_QST_RNGR_JCKL
+1506, 707, 198, 1, 2
+
+# Find out what happened to the citizens of Quartz
+# GVAR_RANGERS_QST_QUARTZ
+1506, 708, 203, 1, 2
+
+# Collect map data in Quartz
+# GVAR_RANGERS_QST_QUARTZMAP
+1506, 709, 204, 1, 3
+
+# Find refugees in Garage City
+# GVAR_RANGERS_QST_IMMIGRANTS
+1506, 710, 199, 1, 2
+
+# Help Cadet Presley
+# GVAR_RANGERS_QST_CADET
+1506, 711, 209, 1, 2
+
+# Investigate the epidemic in the neighboring village
+# GVAR_RANGERS_QST_MOR
+1506, 712, 211, 1, 2
+
+# Find and kill the legendary radscorpion
+# GVAR_RANGERS_QST_SCORPLEGEND
+1506, 713, 232, 2, 2
+
+# Find the missing equipment
+# GVAR_RANGERS_QST_INTENDANT
+1506, 714, 255, 1, 2
+
+# Assist the Phoenix rebels in eliminating the cult
+# GVAR_RANGERS_QST_PHOENIX
+1506, 715, 259, 1, 2
+
+# Find the missing Aqueduct residents
+# GVAR_RANGERS_QST_MISSING
+1506, 716, 260, 1, 2
+
+# Conduct reconnaissance in Puerto Peñasco
+# GVAR_RANGERS_QST_PUERTO
+1506, 717, 349, 1, 2
+
+#-----------------------------------------------------------
+# Phoenix
+#------------------------------------------------------------
+
+# Learn about the Villa slaves from the local cult
+# GVAR_MAIN_QUEST_PHENIX
+1507, 800, 91, 1, 2
+
+# Find your uncle Miguel in Phoenix
+# GVAR_PHENIX_MIGEL_KNOWN
+# 1507, 801, 230, 1, 2
+
+# Clear the Phoenix area of ​​the Los Panchos gang
+# GVAR_PHENIX_QST_MERC_A
+#1507, 802, 244, 1, 2
+
+# Eliminate the legendary gunslinger Gil McCord
+# GVAR_PHENIX_QST_MERC_B
+#1507, 803, 245, 1, 2
+
+# Investigate the recent attacks on the Followers
+# GVAR_PHENIX_QST_CULT_A
+1507, 804, 237, 1, 2
+
+# Infiltrate the rebels
+# GVAR_PHENIX_QST_CULT_B
+1507, 805, 251, 1, 2
+
+# Help the missionaries capture San Brahmin
+# GVAR_PHENIX_QST_CULT_C
+1507, 806, 268, 1, 2
+
+# Eliminate George Crook
+# GVAR_PHENIX_QST_CULT_D
+1507, 807, 427, 1, 2
+
+# Find the Liberation Party agent in the ruins
+# GVAR_PHENIX_PARTY_QST_A
+1507, 808, 262, 1, 2
+
+# Sabotage in the Cathedral ordered by the Liberation Party
+# GVAR_PHENIX_PARTY_QST_B
+1507, 809, 263, 1, 2
+
+# The client owes the casino a large sum of caps
+# GVAR_PHENIX_QST_CASINO_DEBT
+1507, 810, 273, 1, 2
+
+# Return the stolen letters
+# GVAR_PHENIX_QST_LETTERS
+1507, 811, 277, 1, 3
+
+# The Red Cardinals gang has problems
+# GVAR_PHENIX_QST_CARDINALS
+1507, 812, 307, 1, 3
+
+# There was an accident at the nuclear power plant
+# GVAR_PHENIX_QST_PLANT
+1507, 813, 315, 1, 2
+
+# Iron Mike is going to teach his students a lesson
+# GVAR_PHENIX_QST_TRENER
+1507, 814, 320, 1, 2
+
+# Help the slum dwellers in their difficult fate
+# GVAR_PHENIX_QST_BNDCS_PIP
+1507, 815, 469, 1, 2
+
+#-----------------------------------------------------------
+# Fishing village (Oil platform)
+#-----------------------------------------------------------
+
+# Leave a leak on the oil platform
+# GVAR_OIL_PLATFORM_QST_A
+1508, 900, 501, 1, 2
+
+# Cure the sick from oil poisoning
+# GVAR_OIL_PLATFORM_QST_B
+1508, 901, 502, 1, 2
+
+# Thelma asks you to find her uncle's memorabilia
+# GVAR_OIL_PLATFORM_QST_TAG
+1508, 902, 503, 1, 2
+
+# Bring the Geiger counter to the fishmonger
+# GVAR_OIL_PLATFORM_QST_GEIGER
+1508, 903, 505, 1, 2
+
+# Ruiz suggests finding treasure
+# GVAR_OIL_PLATFORM_QST_GOLD
+1508, 904, 509, 1, 2
+
+# Catch the creature from the Black Lagoon
+# GVAR_OIL_PLATFORM_QST_C
+1508, 905, 516, 1, 2
+
+# Investigate a Mysterious Murder
+# GVAR_OIL_PLATFORM_QST_KILL
+1508, 906, 517, 1, 2
+
+#-----------------------------------------------------------
+# Casa Grande
+#------------------------------------------------------------
+
+# Steve lays claim to the bathhouse
+# GVAR_CGRANDE_QST_BATHHOUSE
+1509, 1000, 276, 1, 2
+
+# Rivera pays for water pump repair
+# GVAR_CGRANDE_WATER_REPAIR
+1509, 1001, 281, 1, 2
+
+# Abandoned bar is in trouble
+# GVAR_CGRANDE_ATTAK_TO_BAR
+#1509, 1002, 282, 1, 2
+
+# Bandits have appeared in Casa Grande
+# GVAR_CGRANDE_QST_BANDITS
+1509, 1003, 284, 1, 2
+
+# Rescue a resident
+# GVAR_CGRANDE_QST_SALVATION
+1509, 1004, 285, 1, 2
+
+# Destroy the Highwayman Fuel Depot
+# GVAR_CGRANDE_QST_ROADSTOP
+1509, 1005, 283, 1, 2
+
+# The Mayor pays 500 caps for Red Skull's head
+# GVAR_CGRANDE_QST_ROADBOSS_KILL
+1509, 1006, 286, 1, 2
+
+#-----------------------------------------------------------
+# Hermosillo
+#------------------------------------------------------------
+
+# Return the radio to Dominguez's ranch
+# GVAR_HERMO_QST_RADIO
+1510, 1100, 452, 1, 2
+
+# Escort the prisoner to Puerto Peñasco
+# GVAR_HERMO_QST_PARTY
+1510, 1101, 267, 1, 2
+
+#---------------------------------------------------------
+# San Felipe (Old Lighthouse)
+#---------------------------------------------------------
+
+# Find and save Gloria
+# GVAR_SANFELIPE_STATUS_CTZNCAVE
+1511, 1203, 474, 1, 2
+
+#-----------------------------------------------------------
+# Inferno
+#-----------------------------------------------------------
+
+# Paladin Barclay requests support to find his party
+# GVAR_INF_QST_PALADIN_A
+1512, 1300, 341, 1, 2
+
+# Levi tries to create a mutagen to save his race
+# GVAR_INF_QST_APOSTOL_A
+1512, 1301, 336, 1, 2
+
+# Escort Diana to Casa Nueva
+# GVAR_NUEVA_QST_APOC_HOME
+1512, 1302, 340, 1, 2
+
+#-----------------------------------------------------------
+# Casa Nueva
+#-----------------------------------------------------------
+
+# Escort Diana to Casa Nueva
+# GVAR_NUEVA_QST_PLANT_DEAD
+1513, 1401, 365, 1, 2
+
+# Followers want to stop the mutations
+# GVAR_NUEVA_QST_PLANT_INSECT
+1513, 1402, 366, 1, 3
+
+# Find and eliminate the cause of the disappearances at the concrete plant
+# GVAR_NUEVA_QST_EL_GIGANTO
+1513, 1403, 367, 1, 2
+
+# Chip asks to cure his pet despite the discontent of the residents
+# GVAR_NUEVA_QST_PINKI
+1513, 1404, 370, 1, 2
+
+# The local school needs more books
+# GVAR_NUEVA_QST_BOOKS_PUERTO
+1513, 1405, 371, 1, 3
+
+#-----------------------------------------------------------
+# Dayglow / San Diego
+#-----------------------------------------------------------
+
+# Find the city of the dead
+# GVAR_DAYGLOW_VISITED
+1516, 1700, 508, 1, 2
+
+# Visit Vault 24
+# GVAR_VAULT24_VISITED
+#1516, 1701, 518, 1, 2
+
+# Disarm the military robot in the ruins of Tijuana
+# GVAR_DAYGLOW_QST_ROBOT
+1516, 1702, 519, 1, 2
+
+# Neutralize the maddened Gonzo
+# GVAR_DAYGLOW_A_GHOST
+1516, 1703, 524, 1, 2
+
+# Restore city power (San Isidro Main Quest 1)
+# GVAR_DAYGLOW_MAIN_A
+1516, 1704, 525, 1, 2
+
+# Restore city radio broadcasts (San Isidro Main Quest 2)
+# GVAR_DAYGLOW_MAIN_B
+1516, 1705, 526, 1, 2
+
+# Take the holotape to Old Town (San Isidro Main Quest 3)
+# GVAR_DAYGLOW_RADIO
+1516, 1706, 530, 2, 3
+
+# Meet the caravan from the Hub (Old Cities)
+# GVAR_DAYGLOW_MAIN_C
+1516, 1707, 527, 1, 2
+
+# Treasure of Coronado Island (Dayglow Main Quest)
+# GVAR_DAYGLOW_MAIN_D
+1516, 1708, 528, 1, 100
+
+# Restore the monorail service
+# GVAR_DAYGLOW_STATUS_MONORAIL
+1516, 1709, 532, 1, 2
+
+# Organize mariachi performances
+# GVAR_DAYGLOW_QST_MARIACHI
+1516, 1710, 537, 1, 3
+
+# Find Donovan
+# GVAR_DAYGLOW_QST_DONOVAN
+1516, 1711, 553, 1, 4
+
+# Drive black miners out of the Factory
+# GVAR_DAYGLOW_QST_MORODERS
+1516, 1712, 554, 1, 2
+
+# Granny Judy is looking for her husband Rooper
+# GVAR_DAYGLOW_QST_LIVE
+1516, 1713, 558, 1, 2
+
+# Work for Mr. De-Santi
+# GVAR_DAYGLOW_QST_SUPERMUT
+1516, 1714, 565, 1, 2
+
+# Truckers contract to find relics
+# GVAR_DAYGLOW_QST_CARAVAN
+1516, 1716, 541, 1, 2
+
+# Contract to deliver strong alcohol
+# GVAR_DAYGLOW_CONTRACT_VISKI
+1516, 1717, 550, 1, 2
+
+# Coffee Delivery Contract
+# GVAR_DAYGLOW_CONTRACT_COFFE
+1516, 1718, 551, 1, 2
+
+# Lunch Delivery Contract
+# GVAR_DAYGLOW_CONTRACT_CAFE_CURIER
+1516, 1719, 560, 1, 10
+
+#-----------------------------------------------------------
+# Santa Ana
+#-----------------------------------------------------------
+
+# Talk to the villagers about the festival
+# GVAR_SANTAANA_QST_DIALOG
+1518, 1900, 488, 1, 2
+
+# Find the missing ceremonial wreath
+# GVAR_SANTAANA_QST_FIESTA
+1518, 1901, 489, 1, 2
+
+# Find and return Lucia
+# GVAR_SANTAANA_QST_NINA
+1518, 1902, 490, 1, 2
+
+# Stop Mayor Hilario
+# GVAR_SANTAANA_QST_BOSS
+1518, 1903, 491, 1, 2
+
+# Form a trade alliance with Casa Nueva
+# GVAR_SANTAANA_QST_BARTER
+1518, 1904, 492, 1, 2
+
+#-----------------------------------------------------------
+# Jackals
+#-----------------------------------------------------------
+
+# Rescue the ranger
+# GVAR_JACKALS_RANGER_STATUS
+1520, 2100, 139, 1, 2
+
+# Alliance with the rangers
+# GVAR_JACKALS_UNION_CITY
+1520, 2101, 140, 1, 2
+
+# Raid the burrows with your GarageCity buddies
+# GVAR_JACKALS_MERC_ATAK
+1520, 2104, 143, 1, 2
+
+#-----------------------------------------------------------
+# Vault 27
+#-----------------------------------------------------------
+
+# Find Vault 27
+# GVAR_VAULT27_VISITED
+1523, 2400, 146, 1, 2
+
+# Find Vault Background Information
+# GVAR_HOLODISK_02
+1523, 2401, 102, 1, 1
+
+# Start Backup Generator
+# GVAR_VAULT27_GENERATOR
+#1523, 2402, 147, 1, 2
+
+# Restore Ventilation
+# GVAR_VAULT27_POISON
+1523, 2403, 148, 1, 2
+
+# Meet with Surviving Expedition Member
+# GVAR_VAULT27_QST_MERC
+1523, 2404, 150, 1, 2
+
+# Escort Arthur Carrington to Safety zone
+# GVAR_VAULT27_STATUS_MERC
+1523, 2405, 149, 1, 2
+
+#-----------------------------------------------------------
+# Raiders (highwaymen)
+#-----------------------------------------------------------
+
+# Eliminate raiders in Casa Grande prison
+# GVAR_RAIDER_QST_PRISON
+1525, 2600, 290, 1, 2
+
+# Sign Blue Shields contract with tinsmiths
+# GVAR_RAIDER_QST_CONTRACT
+1525, 2601, 291, 1, 2
+
+# Sign Blue Shields contract with Casa Grande
+# GVAR_RAIDER_QST_GRANGE
+1525, 2602, 292, 1, 2
+
+# Deliver questionable package to Phoenix pusher
+# GVAR_RAIDER_QST_DRUGS
+1525, 2603, 304, 1, 2
+
+# Prepare Chuck for Raider initiation
+# GVAR_RAIDER_QST_HAK
+1525, 2604, 445, 1, 2

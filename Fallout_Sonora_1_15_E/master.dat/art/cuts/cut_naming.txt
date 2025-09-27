@@ -1,0 +1,22 @@
+[FILE .MVE]	[DESCRIPTION]		FALLOUT 2]			[FALLOUT SONORA]  
+
+iplogo        	startup logo  
+intro        	intro with music  
+credits      	slideshow with narrator "war never changes"  
+
+elder        	new game start        	Elder’s speech         		?  
+vsuit        	prologue completion    	suit in the Temple of Trials   	exit from the Cellars  
+tanker       	pre-final video        	tanker departure to Enclave    	explosion in the Cathedral  
+derrick      	final video            	Enclave explosion        	explosion in Puerto  
+
+artimer1     	reminder 1            	Hakunin’s dream 1        	old photo 1  
+artimer2     	reminder 2            	Hakunin’s dream 2        	old photo 2  
+artimer3     	reminder 3            	Hakunin’s dream 3        	old photo 3  
+artimer4     	reminder 4            	Hakunin during Enclave abduct  	old photo with complete disappearance  
+afailed      	defeat                	PC became Arroyo’s enemy    	PC became Villa’s enemy (unused)  
+timeout      	game ends after 13 years  
+
+adestroy     	...                    	not used in F2        		not used  
+car          	...                    	not used in F2        		not used  
+cartucci     	...                    	not used in F2        		first visit to Phoenix  
+enclave      	...                    	not used in F2        		not used  
