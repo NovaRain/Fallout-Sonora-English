@@ -216,11 +216,13 @@ end
 procedure critter_p_proc begin
    set_critter_options(0,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
    if (local_var(LVAR_Flag_Run) != 0) then begin
-      if ((map_var(MVAR_PNX_RING_START) == 1) and (cur_map_index == MAP_PHOENIX_BNDCS)) then begin
-      call NodePartyNon;
+      if (cur_map_index == MAP_PHOENIX_BNDCS) then begin
+         if (map_var(MVAR_PNX_RING_START) == 1) then begin
+            call NodePartyNon;
+         end
       end
       else begin
-      partyRunToDude // персонаж бегает вслед за ГГ
+         partyRunToDude // персонаж бегает вслед за ГГ
       end
    end
 end
@@ -881,7 +883,7 @@ end
 
 procedure NodeQst203 begin
    Reply(358)
-   //Слушай, здесь мне не обойтись без твоей помощи. Как твоя нога, ты можешь вести бой?
+   //Listen, I can't do this without your help. How's your leg, can you fight?
    NAnswer(359,1,Node999)
 end
 
