@@ -150,9 +150,11 @@ procedure timed_event_p_proc begin
    end
    if (fixed_param == 4) then begin
       if (cur_map_index == MAP_CASA_NUEVA_CITY) then begin
+         bitDialogExp(bit_13,0) // added to mark that arthur has seen Casa Nueva - cambragol
       floater(self_obj, 110, COLOR_MSG_NORMAL);
       end
       else if (cur_map_index == MAP_CASA_NUEVA_GIDROPONIC) then begin
+         bitDialogExp(bit_13,0) // added to mark that arthur has seen Casa Nueva - cambragol
       floater(self_obj, 111, COLOR_MSG_NORMAL);
       end
       else if (cur_map_index == MAP_RANGERS_BASA) then begin
@@ -176,14 +178,16 @@ end
 procedure critter_p_proc begin
    set_critter_options(0,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
    if (getQuest(GVAR_VAULT27_QST_MERC) >= qEnd) then begin
-   if (self_TEAM == TEAM_PLAYER) then begin
-      if ((map_var(MVAR_PNX_RING_START) == 1) and (cur_map_index == MAP_PHOENIX_BNDCS)) then begin
-      call NodePartyNon2;
+      if (self_TEAM == TEAM_PLAYER) then begin
+         if (cur_map_index == MAP_PHOENIX_BNDCS) then begin
+            if (map_var(MVAR_PNX_RING_START) == 1) then begin 
+               call NodePartyNon2;
+            end
+         end
+         else begin
+            partyRunToDude // Персонаж следует за ГГ
+         end
       end
-      else begin
-      partyRunToDude // Персонаж следует за ГГ
-      end
-   end
    end
 end
 
@@ -321,7 +325,12 @@ procedure NodeStopDialog5 begin
 end
 
 procedure NodeStopDialog6 begin
-   Reply(474)
+   if (bitDialog(bit_13) == 0) then begin // added to mark that arthur has seen Casa Nueva - cambragol
+      Reply(474)
+   end
+   else begin
+      Reply(488)
+   end
    NAnswer(475,1,NodeStopDialog7)
 end
 
@@ -538,7 +547,12 @@ procedure NodeSndDialog begin
 
    if (getQuest(GVAR_VAULT27_GO_MERC) == qEnd) then begin
    if (cur_map_index == MAP_CASA_NUEVA_CITY) then begin
-   GAnswer(480,1,NodeStopDialog8)
+      if (bitDialog(bit_13) == 0) then begin // added to mark that arthur has seen Casa Nueva - cambragol
+         GAnswer(480,1,NodeStopDialog8)
+      end
+      else begin
+         GAnswer(489,1,NodeStopDialog8)
+      end
    end
    end
 

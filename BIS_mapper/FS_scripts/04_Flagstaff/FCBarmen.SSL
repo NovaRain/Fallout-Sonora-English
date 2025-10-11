@@ -906,7 +906,7 @@ end
 procedure NodeBarterTeam500 begin
    bitDialogExp(bit_7,0)
    decBarterMod(20);
-   Reply(283)
+   zReply(283)
    NAnswer(284,0,NodeBarterTeam501)
 end
 

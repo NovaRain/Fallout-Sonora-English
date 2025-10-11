@@ -236,13 +236,13 @@ procedure NodeAnswer100 begin
    Reply(206)
    NAnswer(207,1,NodeAnswer101)
    NAnswer(209,1,NodeAnswer102)
-   NAnswer(215,1,NodeAnswer105)
+   //NAnswer(215,1,NodeAnswer105)
 end
 
 procedure NodeAnswer101 begin
    Reply(208)
    NAnswer(209,1,NodeAnswer102)
-   NAnswer(215,1,NodeAnswer105)
+   //NAnswer(215,1,NodeAnswer105)
 end
 
 procedure NodeAnswer102 begin

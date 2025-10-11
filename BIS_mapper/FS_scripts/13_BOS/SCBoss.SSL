@@ -722,7 +722,7 @@ procedure NodeTitul begin
    if (global_var(GVAR_TITUL_REBIRTH)>0) then begin
       zReply(439)
       NAnswer(440,4,Node999)
-      BAnswer(441,4,Node999)
+      zBAnswer(441,4,Node999)
    end
    else if (titulParam >= 100) then begin
       Reply(437)

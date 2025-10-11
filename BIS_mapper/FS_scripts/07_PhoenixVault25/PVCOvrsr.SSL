@@ -490,7 +490,12 @@ end
 //--- КОГДА УНИЧТОЖЕН ПУЭРТО
 
 procedure NodePuertoDstr begin
-   Reply(260)
+   if dude_is_female then begin
+   Reply(mstr(1260)+mstr(276))
+   end
+   else begin
+   Reply(mstr(260)+mstr(276))
+   end
    NAnswerSkill(264,3,NodePuertoDstr3,SKILL_CONVERSANT,40,264,NodePuertoDstr3b)
    BAnswer(261,1,NodePuertoDstr2)
 end
@@ -550,7 +555,7 @@ procedure NodePuertoDstr7 begin
    setQuest(GVAR_PHENIX_CULT_DESTROY,qStart);
    end
    set_global_var(GVAR_PHENIX_CULT_DESTROY_TIMER, (ONE_GAME_MINUTE*5) + game_time);
-   Reply(273)
+   zReply(273)
    NAnswer(274,1,Node999)
 end
 

@@ -248,7 +248,7 @@ procedure NodeAnswer204 begin
    set_map_var(MVAR_OIL_PLATFORM_KILL_B, 10);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BANDITS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BANDIT);
-   Reply(241)
+   zReply(241)
    BAnswer(242,1,Node998)
    NAnswer(243,1,Node999)
 end

@@ -309,7 +309,7 @@ end
 
 procedure NodeFstDialog300 begin
    bitDialogExp(bit_3,0)
-   Reply(240)
+   zReply(240)
    NAnswer(241,1,NodeFstDialog301)
 end
 
@@ -322,7 +322,7 @@ end
 
 procedure NodeFstDialog302 begin
    bitDialogExp(bit_3,0)
-   Reply(246)
+   zReply(246)
    NAnswer(247,1,NodeSndDialog)
 end
 
@@ -333,7 +333,7 @@ procedure NodeSndDialog begin
    Reply(301)
    end
    else if (global_var(GVAR_TITUL_REBIRTH)>0) then begin
-   Reply(305)
+   zReply(305)
    end
    else if (getReaction <= -50) then begin
    Reply(302)
@@ -824,7 +824,7 @@ end
 procedure NodeQstCult202 begin
    setBonusReaction(-40)
    set_REP(-1)
-   Reply(331)
+   zReply(331)
    NAnswer(332,1,Node999)
 end
 

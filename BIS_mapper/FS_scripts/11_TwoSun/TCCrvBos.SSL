@@ -355,7 +355,7 @@ procedure NodePuerto begin
    NAnswer(303,3,NodePuerto2)
    end
    else if (global_var(GVAR_TITUL_PHENIX_CULT) >0) then begin
-   NAnswer(304,3,NodePuerto2)
+   zNAnswer(304,3,NodePuerto2)
    end
 
    NAnswer(305,1,NodeSndDialog)

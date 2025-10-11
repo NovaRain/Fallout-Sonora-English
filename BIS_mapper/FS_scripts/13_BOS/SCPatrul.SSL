@@ -409,8 +409,8 @@ procedure NodeAnswer101 begin
    NAnswer(286,1,Node999)
    end
    else begin
-   Reply(283)
-   NAnswer(284,1,Node999)
+   zReply(283)
+   zNAnswer(284,1,Node999)
    end
 end
 

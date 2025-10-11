@@ -216,7 +216,7 @@ procedure NodeFstDialog3 begin
 end
 
 procedure NodeFstDialog4 begin
-   Reply(206)
+   zReply(206) // added zReply to use son and daughter when talking to PC - cambragol
    NAnswer(209,0,NodeFstDialog6)
 end
 

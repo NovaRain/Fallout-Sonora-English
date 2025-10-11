@@ -322,7 +322,7 @@ end
 
 procedure NodeFstDialog205 begin
    Reply(228)
-   NAnswer(229,1,NodeFstDialog206)
+   zNAnswer(229,1,NodeFstDialog206)
 end
 
 procedure NodeFstDialog206 begin

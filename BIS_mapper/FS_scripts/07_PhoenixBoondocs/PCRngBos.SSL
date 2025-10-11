@@ -410,7 +410,7 @@ procedure NodeSndDialog begin
 end
 
 procedure NodeSndDialog1 begin
-   //Reply(260)
+   //zReply(260)
    Reply(mstr(263)+g_mstr(global_var(GVAR_PHENIX_TITUL_ARENA_NAME))+mstr(264))
    NAnswer(261,1,Node999)
 end

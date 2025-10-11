@@ -272,7 +272,7 @@ procedure NodeFstDialog begin
       NAnswer(226,4,NodeFstDialog43)
    end
    else begin
-      Reply(200)
+      zReply(200)
       if (getQuest(GVAR_MAIN_QUEST_VILLA) == qStart) then begin
       BAnswer(201,4,NodeFstDialog10)
       end

@@ -595,7 +595,7 @@ procedure NodeAnswer205 begin
    else begin
    zReply(227)
    end
-   NAnswerSkill(228,5,NodeAnswer208,SKILL_SCIENCE,20,229,NodeAnswer206)
+   NAnswerSkill(228,1,NodeAnswer208,SKILL_SCIENCE,20,229,NodeAnswer206)
 end
 
 procedure NodeAnswer206 begin

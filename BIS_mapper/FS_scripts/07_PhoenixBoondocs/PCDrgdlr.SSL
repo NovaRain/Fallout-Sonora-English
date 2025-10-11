@@ -242,7 +242,7 @@ end
 
 procedure NodeEnemy2 begin
    bitDialogExp(bit_3,0)
-   Reply(220)
+   zReply(220)
    BAnswer(221,1,NodeEnemy4)
    NAnswer(222,1,Node999)
 end

@@ -236,7 +236,7 @@ procedure NodeFinalDialog begin
    setBonusReaction(80)
 
    zReply(280)
-   GAnswer(281,1,NodeFinalDialog2)
+   zGAnswer(281,1,NodeFinalDialog2)
    NAnswer(284,1,NodeFinalDialog3)
 end
 

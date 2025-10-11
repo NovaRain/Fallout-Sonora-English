@@ -173,7 +173,7 @@ procedure talk_p_proc begin
    setReaction(1) // Отношение к ГГ(1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
 
    if (getQuest(GVAR_FLAGSTAFF_CAVEVILLA) <= qStop) then begin
-      floater(self_obj,103,COLOR_MSG_RED);
+      z_floater(self_obj,103,COLOR_MSG_RED);
    end
    else if (getQuest(GVAR_FLAGSTAFF_SLAVES_MINE) >= qEnd) then begin
       floater(self_obj,107,COLOR_MSG_NORMAL);

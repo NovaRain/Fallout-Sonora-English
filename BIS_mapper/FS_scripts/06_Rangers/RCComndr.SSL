@@ -254,45 +254,45 @@ end
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
    Reply(200)
-   NAnswer(201,1,NodeStartDialog)
-   GAnswer(202,1,NodeStartDialog)
+   zNAnswer(201,0,NodeStartDialog)
+   GAnswer(202,0,NodeStartDialog)
 end
 
 procedure NodeStopDialog begin
    bitDialogExp(bit_11,0)
    Reply(280)
-   NAnswer(281,1,NodeStartDialog)
+   NAnswer(281,0,NodeStartDialog)
 end
 
 procedure NodeStopDialog200 begin
    bitDialogExp(bit_12,0)
    setBonusReaction(-20)
    Reply(282)
-   NAnswer(296,1,NodeStopDialog210)
+   NAnswer(296,0,NodeStopDialog210)
 end
 
 procedure NodeStopDialog210 begin
    Reply(297)
-   NAnswer(283,1,NodeStopDialog211)
-   NAnswer(287,1,NodeStopDialog212)
-   NAnswer(289,1,NodeStopDialog213)
+   NAnswer(283,0,NodeStopDialog211)
+   NAnswer(287,0,NodeStopDialog212)
+   NAnswer(289,0,NodeStopDialog213)
 end
 
 procedure NodeStopDialog211 begin
    zReply(284)
-   NAnswer(285,1,NodeStopDialog220)
-   NAnswer(286,1,NodeStopDialog221)
+   NAnswer(285,0,NodeStopDialog220)
+   NAnswer(286,0,NodeStopDialog221)
 end
 
 procedure NodeStopDialog212 begin
    Reply(288)
-   NAnswer(285,1,NodeStopDialog220)
-   NAnswer(286,1,NodeStopDialog221)
+   NAnswer(285,0,NodeStopDialog220)
+   NAnswer(286,0,NodeStopDialog221)
 end
 
 procedure NodeStopDialog213 begin
    zReply(290)
-   NAnswer(291,1,NodeStopDialog221)
+   NAnswer(291,0,NodeStopDialog221)
 end
 
 procedure NodeStopDialog220 begin
@@ -300,13 +300,13 @@ procedure NodeStopDialog220 begin
    set_SLAVA(-10)
    setBonusReaction(-10)
    Reply(292)
-   NAnswer(293,1,Node999)
+   NAnswer(293,0,Node999)
 end
 
 procedure NodeStopDialog221 begin
    setBonusReaction(5)
    Reply(294)
-   NAnswer(295,1,Node999)
+   NAnswer(295,0,Node999)
 end
 
 //--- ПОВТОРНЫЙ ДИАЛОГ
@@ -325,19 +325,19 @@ procedure NodeSndDialog begin
       end
       else if (getQuest(GVAR_MAIN_QUEST_FLAGSTAFF) < qEnd) then begin
          if (bitDialog(bit_6) == 0) then begin
-         NAnswer(301,1,NodeVilla100)
+         NAnswer(301,0,NodeVilla100)
          end
          else begin
-         NAnswer(302,1,NodeVilla100)
+         NAnswer(302,0,NodeVilla100)
          end
       end
       else begin
-         NAnswer(300,1,NodeVilla100)
+         NAnswer(300,0,NodeVilla100)
       end
    end
    else if (getQuest(GVAR_RANGERS_TO_VILLA_HELP) == qEnd) then begin
       if (bitDialog(bit_10) == 0) then begin
-      NAnswer(320,1,NodeVilla104)
+      NAnswer(320,0,NodeVilla104)
       end
    end
    if ((getQuest(GVAR_RANGERS_QST_REPAIR_RADIO) == qStart) or
@@ -345,18 +345,18 @@ procedure NodeSndDialog begin
        (getQuest(GVAR_RANGERS_QST_RNGR_JCKL) == qStart) or
        (getQuest(GVAR_RANGERS_QST_IMMIGRANTS) == qStart) or
        (getQuest(GVAR_RANGERS_QST_MOR) == qStart)) then begin
-      NAnswer(350,1,NodeMainQst)
+      NAnswer(350,0,NodeMainQst)
    end
 
    //--- метаквест Закон и Порядок
 
    if (getQuest(GVAR_RANGERS_TO_VILLA_HELP) > qZero) then begin
       if ((getQuest(GVAR_RANGERS_QST_RNGR_JCKL) == qZero) or (getQuest(GVAR_RANGERS_QST_IMMIGRANTS) == qZero) or (getQuest(GVAR_RANGERS_QST_MOR) == qZero)) then begin
-      NAnswer(400,1,NodeDopQst)
+      NAnswer(400,0,NodeDopQst)
       end
    end
       //!!! ЧИТ
-      //NAnswer(400,1,NodeDopQst)
+      //NAnswer(400,0,NodeDopQst)
       //!!!
 
    //--- Семейка преступника
@@ -364,7 +364,7 @@ procedure NodeSndDialog begin
    if (getQuest(GVAR_RANGERS_QST_FAMILY) == qZero) then begin
       if (gvar_bit(GVAR_RANGERS_BIT_FAMILY, bit_4) != 0) then begin
       if (bitDialog(bit_7) == 0) then begin
-      NAnswer(250,1,NodeBezh)
+      NAnswer(250,0,NodeBezh)
       end
       end
    end
@@ -372,20 +372,20 @@ procedure NodeSndDialog begin
    //--- Преступления в акведуке
    if (global_var(GVAR_RANGERS_AQUEDUCT_BODIES) != 0) then begin
       if (global_var(GVAR_STATUS_RANGERS_GART) == 0) then begin
-      BAnswer(390,1,NodeAcv)
+      BAnswer(390,0,NodeAcv)
       end
    end
 
    //--- Вопросы
 
    if ((getQuest(GVAR_RANGERS_QST_SPY) > qZero) and (global_var(GVAR_RANGERS_STATUS_SPY) == 0)) then begin
-   NAnswer(270,1,NodeSndDialog2)
+   NAnswer(270,0,NodeSndDialog2)
    end
    if (getQuest(GVAR_RANGERS_QST_INTENDANT) == qStart) then begin
    NAnswer(273,3,NodeSndDialog3)
    end
-   NAnswer(213,1,NodeAnswer)
-   NAnswer(211,1,Node999)
+   NAnswer(213,0,NodeAnswer)
+   NAnswer(211,0,Node999)
 end
 
 procedure NodeSndDialog2 begin
@@ -393,74 +393,74 @@ procedure NodeSndDialog2 begin
    set_REP(5)
    exp_add(350);
    Reply(271)
-   NAnswer(272,1,Node999)
+   NAnswer(272,0,Node999)
 end
 
 procedure NodeSndDialog3 begin
    Reply(274)
-   NAnswer(275,1,Node999)
+   NAnswer(275,0,Node999)
 end
 
 procedure NodeAcv begin
    Reply(391)
-   NAnswer(392,1,Node999)
+   NAnswer(392,0,Node999)
 end
 
 procedure NodeAcv2 begin
    bitDialogExp(bit_14,0)
    Reply(393)
-   NAnswer(394,1,Node999)
-   BAnswer(395,1,Node999)
+   NAnswer(394,0,Node999)
+   BAnswer(395,0,Node999)
 end
 
 //--- ������� �������
 
 procedure NodeAnswer begin
    Reply(214)
-   NAnswer(220,1,NodeAnswer100)
-   NAnswer(222,1,NodeAnswer101)
+   NAnswer(220,0,NodeAnswer100)
+   NAnswer(222,0,NodeAnswer101)
    if (bitDialog(bit_2) != 0) then begin
-   NAnswer(226,1,NodeAnswer103)
+   NAnswer(226,0,NodeAnswer103)
    end
    if (bitDialog(bit_3) != 0) then begin
-   NAnswer(230,1,NodeAnswer105)
+   NAnswer(230,0,NodeAnswer105)
    end
-   NAnswer(212,1,NodeSndDialog)
+   NAnswer(212,0,NodeSndDialog)
 end
 
 procedure NodeAnswer100 begin
    Reply(221)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 procedure NodeAnswer101 begin
    Reply(223)
    NAnswer(224,3,NodeAnswer102)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 procedure NodeAnswer102 begin
    bitDialogExp(bit_2,10)
    Reply(225)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 procedure NodeAnswer103 begin
    Reply(227)
    NAnswer(228,3,NodeAnswer104)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 procedure NodeAnswer104 begin
    bitDialogExp(bit_3,10)
    Reply(229)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 procedure NodeAnswer105 begin
    bitDialogExp(bit_4,50)
    Reply(231)
-   NAnswer(215,1,NodeAnswer)
+   NAnswer(215,0,NodeAnswer)
 end
 
 //--- СЕМЬЯ ПРЕСТУПНИКА
@@ -478,23 +478,23 @@ procedure NodeBezh begin
    set_gvar_bit_on(GVAR_RANGERS_BIT_FAMILY, bit_5);
    bitDialogExp(bit_7,0)
    Reply(251)
-   NAnswer(252,1,NodeBezh2)
+   NAnswer(252,0,NodeBezh2)
 end
 
 procedure NodeBezh2 begin
    Reply(253)
-   NAnswer(254,1,NodeBezh3)
+   NAnswer(254,0,NodeBezh3)
 end
 
 procedure NodeBezh3 begin
    Reply(255)
-   NAnswer(256,1,NodeBezh4)
+   NAnswer(256,0,NodeBezh4)
 end
 
 procedure NodeBezh4 begin
    Reply(257)
-   NAnswer(258,1,Node999)
-   NAnswer(259,1,Node999)
+   NAnswer(258,0,Node999)
+   NAnswer(259,0,Node999)
 end
 
 procedure NodeBezh5 begin
@@ -502,18 +502,18 @@ procedure NodeBezh5 begin
    item_add(dude_obj,PID_AMMO_308,4)
    item_add(dude_obj,PID_AMMO_44_MAGNUM,6)
    Reply(260)
-   NAnswer(261,1,Node999)
+   NAnswer(261,0,Node999)
 end
 
 procedure NodeBezh6 begin
    bitDialogExp(bit_9,0)
    Reply(262)
-   NAnswer(263,1,NodeBezh7)
+   NAnswer(263,0,NodeBezh7)
 end
 
 procedure NodeBezh7 begin
    Reply(264)
-   NAnswer(265,1,Node999)
+   NAnswer(265,0,Node999)
 end
 
 //--- СОЮЗ ВИЛЛЫ И РЕЙНДЖЕРОВ
@@ -529,42 +529,42 @@ procedure NodeVilla100 begin
    bitDialogExp(bit_6,0) // опция размещена ниже ответной реплики, иначе не сработает оператор условия
 
    if (getQuest(GVAR_RANGERS_QST_REPAIR_RADIO) == qZero) then begin
-   NAnswer(305,1,NodeVilla101a)
+   NAnswer(305,0,NodeVilla101a)
    end
    else begin
-   NAnswer(305,1,NodeVilla101b)
+   NAnswer(305,0,NodeVilla101b)
    end
 end
 
 procedure NodeVilla101a begin
    Reply(306)
    if (getQuest(GVAR_RANGERS_QST_REPAIR_RADIO) == qZero) then begin
-   NAnswer(330,1,NodeVilla200)
+   NAnswer(330,0,NodeVilla200)
    end
-   NAnswer(307,1,NodeSndDialog)
-   BAnswer(308,1,NodeSndDialog)
+   NAnswer(307,0,NodeSndDialog)
+   BAnswer(308,0,NodeSndDialog)
 end
 
 procedure NodeVilla101b begin
    Reply(310)
    if ((getQuest(GVAR_RANGERS_QST_REPAIR_RADIO) >= qEnd) and (getQuest(GVAR_RANGERS_QST_QUARTZ) >= qEnd)) then begin
-   zNAnswer(311,1,NodeVilla102)
+   zNAnswer(311,0,NodeVilla102)
    end
-   NAnswer(307,1,NodeSndDialog)
-   BAnswer(308,1,NodeSndDialog)
+   NAnswer(307,0,NodeSndDialog)
+   BAnswer(308,0,NodeSndDialog)
 end
 
 procedure NodeVilla102 begin
    Reply(312)
-   NAnswer(313,1,NodeVilla103)
+   NAnswer(313,0,NodeVilla103)
 end
 
 procedure NodeVilla103 begin
    set_gvar_bit_on(GVAR_RANGERS_RECOMMENDATION, bit_1);
    setQuest(GVAR_RANGERS_TO_VILLA_HELP,qStart);
    Reply(314)
-   NAnswer(315,1,Node999)
-   BAnswer(316,1,Node999)
+   NAnswer(315,0,Node999)
+   BAnswer(316,0,Node999)
 end
 
 procedure NodeVilla104 begin
@@ -575,32 +575,32 @@ procedure NodeVilla104 begin
    else begin
    Reply(321)
    end
-   NAnswer(323,1,Node999)
-   BAnswer(324,1,Node999)
+   NAnswer(323,0,Node999)
+   zBAnswer(324,0,Node999)
 end
 
 procedure NodeVilla200 begin
    zReply(331)
-   NAnswer(332,1,NodeVilla201)
+   NAnswer(332,0,NodeVilla201)
 end
 
 procedure NodeVilla201 begin
    setQuest(GVAR_RANGERS_QST_REPAIR_RADIO,qStart);
    Reply(333)
-   NAnswer(334,1,NodeVilla202)
-   BAnswer(335,1,NodeVilla202)
+   NAnswer(334,0,NodeVilla202)
+   BAnswer(335,0,NodeVilla202)
 end
 
 procedure NodeVilla202 begin
    setQuest(GVAR_RANGERS_QST_QUARTZ,qStart);
    Reply(336)
-   NAnswer(337,1,NodeVilla203)
-   BAnswer(338,1,NodeVilla203)
+   NAnswer(337,0,NodeVilla203)
+   BAnswer(338,0,NodeVilla203)
 end
 
 procedure NodeVilla203 begin
    Reply(343)
-   NAnswer(344,1,Node999)
+   NAnswer(344,0,Node999)
 end
 
 //--- СЮЖЕТНЫЕ КВЕСТЫ
@@ -610,62 +610,62 @@ procedure NodeMainQst begin
 
    if (getQuest(GVAR_RANGERS_QST_REPAIR_RADIO) == qStart) then begin
       if (global_var(GVAR_RANGER_RADIO_MARK) <= -1) then begin
-      BAnswer(353,1,NodeRadio2)
+      BAnswer(353,0,NodeRadio2)
       end
       else if (global_var(GVAR_RANGER_RADIOTRANSLTR) >= 2) then begin
-      GAnswer(360,1,NodeRadio3)
+      GAnswer(360,0,NodeRadio3)
       end
       // added to handle mid-way point in Radio quest - cambragol
       else if (global_var(GVAR_RANGER_RADIOTRANSLTR) >= 1) then begin
-      GAnswer(366,1,NodeRadio1b)
+      GAnswer(366,0,NodeRadio1b)
       end
       // added the below else to make the response mutually exclusive with above. either the radio is fixed, or you ask about how to fix it. - cambragol
       else begin
-      NAnswer(357,1,NodeRadio1)
+      NAnswer(357,0,NodeRadio1)
       end
    end
 
    if (getQuest(GVAR_RANGERS_QST_QUARTZ) == qStart) then begin
-      NAnswer(370,1,NodeQuartz)
+      NAnswer(370,0,NodeQuartz)
    end
 
    if (getQuest(GVAR_RANGERS_QST_RNGR_JCKL) == qStart) then begin
       if ((global_var(GVAR_JACKALS_STATUS_RANGER) < 0) and (global_var(GVAR_JACKALS_STATUS_RANGER) != -10)) then begin
-      NAnswer(241,1,NodeJackals1)
+      NAnswer(241,0,NodeJackals1)
       end
       if (global_var(GVAR_JACKALS_STATUS_RANGER) > 0) then begin
-      GAnswer(244,1,NodeJackals2)
+      GAnswer(244,0,NodeJackals2)
       end
-      NAnswer(236,1,NodeJackals0)
+      NAnswer(236,0,NodeJackals0)
    end
 
    if (getQuest(GVAR_RANGERS_QST_IMMIGRANTS) == qStart) then begin
       if (item_amnt(dude_obj,PID_Q_RANGER_STAR_QST) > 0) then begin
-      NAnswer(440,1,NodeGarage4)
+      NAnswer(440,0,NodeGarage4)
       end
       else if (gvar_bit(GVAR_RANGERS_BIT_FAMILY, bit_10) != 0) then begin
-      NAnswer(430,1,NodeGarage1)
+      NAnswer(430,0,NodeGarage1)
       end
       /*else if (gvar_bit(GVAR_RANGERS_BIT_FAMILY, bit_11) != 0) then begin
-      NAnswer(440,1,NodeGarage4)
+      NAnswer(440,0,NodeGarage4)
       end*/
    end
 
    if (getQuest(GVAR_RANGERS_QST_MOR) == qStart) then begin
       if (global_var(GVAR_RANGERS_QST_MOR_STATUS) == 1) then begin
-         NAnswer(453,1,NodeMor10)
+         NAnswer(453,0,NodeMor10)
       end
       else begin
          if (global_var(GVAR_STATUS_RANGERS_FLICK) > 0) then begin
-         NAnswer(463,1,NodeMor20)
+         NAnswer(463,0,NodeMor20)
          end
       end
       if (global_var(GVAR_RANGERS_QST_MOR_STATUS) >= 3) then begin
-         NAnswer(466,1,NodeMor30)
+         NAnswer(466,0,NodeMor30)
       end
    end
 
-   BAnswer(352,1,NodeSndDialog)
+   BAnswer(352,0,NodeSndDialog)
 end
 
 //--- КВАРЦ
@@ -673,18 +673,18 @@ end
 procedure NodeQuartz begin
    Reply(371)
    if (gvar_bit(GVAR_RANGERS_BIT_FAMILY, bit_12) != 0) then begin
-   NAnswer(372,1,NodeQuartz2)
+   NAnswer(372,0,NodeQuartz2)
    end
    if (global_var(GVAR_HOLODISK_04) != 0) then begin
-   NAnswer(373,1,NodeQuartz2)
+   NAnswer(373,0,NodeQuartz2)
    end
-   BAnswer(374,1,NodeMainQst)
+   BAnswer(374,0,NodeMainQst)
 end
 
 procedure NodeQuartz2 begin
    Reply(375)
-   NAnswer(376,1,NodeQuartz3)
-   NAnswer(377,1,NodeQuartz3)
+   NAnswer(376,0,NodeQuartz3)
+   NAnswer(377,0,NodeQuartz3)
 end
 
 procedure NodeQuartz3 begin
@@ -693,21 +693,21 @@ procedure NodeQuartz3 begin
    exp_add(500);
    setBonusReaction(10)
    zReply(378)
-   NAnswer(379,1,Node999)
-   NAnswer(380,1,Node999)
+   NAnswer(379,0,Node999)
+   NAnswer(380,0,Node999)
 end
 
 //--- РАДИОСТАНЦИЯ
 
 procedure NodeRadio1 begin
    Reply(358)
-   NAnswer(359,1,NodeMainQst)
+   NAnswer(359,0,NodeMainQst)
 end
 
 // added to handle mid-way point in Radio quest - cambragol
 procedure NodeRadio1b begin
    Reply(367)
-   NAnswer(368,1,NodeMainQst)
+   NAnswer(368,0,NodeMainQst)
 end
 
 procedure NodeRadio2 begin
@@ -715,13 +715,13 @@ procedure NodeRadio2 begin
    set_REP(-5)
    exp_add(1000);
    Reply(354)
-   NAnswer(355,1,Node999)
-   BAnswer(356,1,Node999)
+   NAnswer(355,0,Node999)
+   BAnswer(356,0,Node999)
 end
 
 procedure NodeRadio3 begin
    Reply(361)
-   NAnswer(362,1,NodeRadio4)
+   NAnswer(362,0,NodeRadio4)
 end
 
 procedure NodeRadio4 begin
@@ -730,8 +730,8 @@ procedure NodeRadio4 begin
    exp_add(1000);
    item_add(dude_obj,PID_W_RIFLE_HUNTING,1)
    Reply(363)
-   zNAnswer(364,1,Node999)
-   NAnswer(365,1,Node999)
+   zNAnswer(364,0,Node999)
+   NAnswer(365,0,Node999)
 end
 
 //--- СПАСТИ РЕЙНДЖЕРА У ШАКАЛОВ
@@ -739,11 +739,11 @@ end
 procedure NodeJackals0 begin
    if (global_var(GVAR_JACKALS_STATUS_RANGER) == -10) then begin
    Reply(234)
-   NAnswer(235,1,NodeJackals5)
+   NAnswer(235,0,NodeJackals5)
    end
    else begin
    Reply(237)
-   NAnswer(238,1,NodeMainQst)
+   NAnswer(238,0,NodeMainQst)
    end
 end
 
@@ -752,11 +752,11 @@ procedure NodeJackals1 begin
    bitDialogExp(bit_5,250)
    setBonusReaction(-20)
    Reply(242)
-   NAnswer(248,1,NodeJackals3)
+   NAnswer(248,0,NodeJackals3)
    if (getQuest(GVAR_JACKALS_UNION_CITY) == qStart) then begin
-   NAnswer(239,1,NodeJackals4)
+   NAnswer(239,0,NodeJackals4)
    end
-   NAnswer(243,1,Node999)
+   NAnswer(243,0,Node999)
 end
 
 procedure NodeJackals2 begin
@@ -772,47 +772,47 @@ procedure NodeJackals2 begin
    else begin
    zReply(246)
    end
-   NAnswer(248,1,NodeJackals3)
+   NAnswer(248,0,NodeJackals3)
    if (getQuest(GVAR_JACKALS_UNION_CITY) == qStart) then begin
-   NAnswer(239,1,NodeJackals4)
+   NAnswer(239,0,NodeJackals4)
    end
-   NAnswer(247,1,Node999)
+   NAnswer(247,0,Node999)
 end
 
 procedure NodeJackals3 begin
    Reply(249)
    if (getQuest(GVAR_JACKALS_UNION_CITY) == qStart) then begin
-   NAnswer(239,1,NodeJackals4)
+   NAnswer(239,0,NodeJackals4)
    end
-   NAnswer(211,1,Node999)
+   NAnswer(211,0,Node999)
 end
 
 procedure NodeJackals4 begin
    Reply(240)
-   NAnswer(248,1,NodeJackals3)
-   NAnswer(211,1,Node999)
+   NAnswer(248,0,NodeJackals3)
+   NAnswer(211,0,Node999)
 end
 
 procedure NodeJackals5 begin
    setQuest(GVAR_RANGERS_QST_RNGR_JCKL,qEnd);
    bitDialogExp(bit_5,0)
    Reply(233)
-   NAnswer(243,1,Node999)
+   NAnswer(243,0,Node999)
 end
 
 //--- БЕЖЕНЦЫ В ГАРАЖ-СИТИ
 
 procedure NodeGarage1 begin
    Reply(431)
-   NAnswer(432,1,NodeGarage2)
-   NAnswer(433,1,NodeGarage2)
-   BAnswer(434,1,NodeGarage2)
+   NAnswer(432,0,NodeGarage2)
+   NAnswer(433,0,NodeGarage2)
+   BAnswer(434,0,NodeGarage2)
 end
 
 procedure NodeGarage2 begin
    setBonusReaction(-25)
    Reply(435)
-   NAnswer(436,1,NodeGarage3)
+   NAnswer(436,0,NodeGarage3)
 end
 
 procedure NodeGarage3 begin
@@ -824,18 +824,18 @@ procedure NodeGarage3 begin
    item_remove(dude_obj,PID_Q_RANGER_STAR_QST,1)
 
    Reply(437)
-   NAnswer(438,1,Node999)
-   BAnswer(439,1,Node999)
+   NAnswer(438,0,Node999)
+   BAnswer(439,0,Node999)
 end
 
 procedure NodeGarage4 begin
    Reply(441)
-   NAnswer(442,1,NodeGarage5)
+   NAnswer(442,0,NodeGarage5)
 end
 
 procedure NodeGarage5 begin
    Reply(443)
-   NAnswer(444,1,NodeGarage3)
+   NAnswer(444,0,NodeGarage3)
 end
 
 //--- ЭПИДЕМИЯ
@@ -843,10 +843,10 @@ end
 procedure NodeMor10 begin
    Reply(454)
    if (global_var(GVAR_STATUS_RANGERS_FLICK) > 0) then begin
-   NAnswer(455,1,NodeMor11)
+   NAnswer(455,0,NodeMor11)
    end
    else begin
-   NAnswer(459,1,NodeMor12)
+   NAnswer(459,0,NodeMor12)
    end
 end
 
@@ -855,15 +855,15 @@ procedure NodeMor11 begin
    exp_add(250);
    set_REP(1)
    Reply(456)
-   NAnswer(457,1,Node999)
-   NAnswer(458,1,Node999)
+   NAnswer(457,0,Node999)
+   NAnswer(458,0,Node999)
 end
 
 procedure NodeMor12 begin
    set_global_var(GVAR_RANGERS_QST_MOR_STATUS,2);
    Reply(460)
-   NAnswer(461,1,Node999)
-   NAnswer(462,1,Node999)
+   NAnswer(461,0,Node999)
+   NAnswer(462,0,Node999)
 end
 
 procedure NodeMor20 begin
@@ -872,7 +872,7 @@ procedure NodeMor20 begin
    set_REP(1)
    setBonusReaction(10)
    Reply(464)
-   NAnswer(465,1,Node999)
+   NAnswer(465,0,Node999)
 end
 
 procedure NodeMor30 begin
@@ -884,8 +884,8 @@ procedure NodeMor30 begin
    item_add(dude_obj,PID_M_STIMPAK,2)
    item_add(dude_obj,PID_M_ANTIDOTE,1)
    Reply(467)
-   zNAnswer(468,1,Node999)
-   NAnswer(469,1,Node999)
+   zNAnswer(468,0,Node999)
+   NAnswer(469,0,Node999)
 end
 
 //--- ДОПОЛНИТЕЛЬНЫЕ КВЕСТЫ
@@ -894,27 +894,27 @@ procedure NodeDopQst begin
    Reply(401)
 
    if (getQuest(GVAR_RANGERS_QST_RNGR_JCKL) == qZero) then begin
-   NAnswer(410,1,NodeDopQst10)
+   NAnswer(410,0,NodeDopQst10)
    end
    if (getQuest(GVAR_RANGERS_QST_IMMIGRANTS) == qZero) then begin
-   NAnswer(420,1,NodeDopQst20)
+   NAnswer(420,0,NodeDopQst20)
    end
    if (getQuest(GVAR_RANGERS_QST_MOR) == qZero) then begin
-   NAnswer(450,1,NodeDopQst30)
+   NAnswer(450,0,NodeDopQst30)
    end
-   NAnswer(402,1,Node999)
+   NAnswer(402,0,Node999)
 end
 
 procedure NodeDopQst2 begin
    Reply(414)
-   NAnswer(415,1,NodeDopQst)
-   NAnswer(416,1,Node999)
+   NAnswer(415,0,NodeDopQst)
+   NAnswer(416,0,Node999)
 end
 
 procedure NodeDopQst10 begin
    Reply(411)
-   NAnswer(412,1,NodeDopQst11)
-   NAnswer(403,1,NodeDopQst)
+   NAnswer(412,0,NodeDopQst11)
+   NAnswer(403,0,NodeDopQst)
 end
 
 procedure NodeDopQst11 begin
@@ -924,8 +924,8 @@ end
 
 procedure NodeDopQst20 begin
    Reply(421)
-   NAnswer(422,1,NodeDopQst21)
-   NAnswer(403,1,NodeDopQst)
+   NAnswer(422,0,NodeDopQst21)
+   NAnswer(403,0,NodeDopQst)
 end
 
 procedure NodeDopQst21 begin
@@ -935,8 +935,8 @@ end
 
 procedure NodeDopQst30 begin
    Reply(451)
-   NAnswer(452,1,NodeDopQst31)
-   NAnswer(403,1,NodeDopQst)
+   NAnswer(452,0,NodeDopQst31)
+   NAnswer(403,0,NodeDopQst)
 end
 
 procedure NodeDopQst31 begin

@@ -322,7 +322,7 @@ procedure NodeStopDialog12 begin
    decBarterMod(20);
    item_add(dude_obj,PID_M_BOOZE,2)
 
-   Reply(294)
+   zReply(294)
    NAnswer(295,1,Node999)
 end
 

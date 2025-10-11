@@ -153,7 +153,7 @@ end
 //--- ПЕРВЫЙ ДИАЛОГ
 
 procedure NodeFstDialog begin
-   Reply(200)
+   zReply(200)
 
    if (bitDialog(bit_5) == 0) then begin
    NAnswer(213,1,NodeFstDialog4)

@@ -436,7 +436,7 @@ procedure NodeEndDialog100 begin
    set_local_var(LVAR_Home_Rotat,2);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SANTA_ANA_CRCH);
 
-   Reply(230)
+   zReply(230)
    BAnswer(231,1,NodeEndDialog101)
 end
 
