@@ -13,6 +13,8 @@
 >> Fallout Sonora, No. 15E, September 27, 2025:
 
 - Base Sonora and Dayglow expansion combined in one release
+- Increased random encounter critter numbers to minumum of 2 to fix grammar errors
+- Small fixes to several maps (rcity and tsgrave)
 - updated multiple scripts for 'amigo/amiga' 
 - updated several scripts VCRobot,RCRngMap,SCBoss, HCRunchA,HCRunchB, and AFGold to match Nevada Band's 1.14+ changes
 - added more Spanish translation to GCPit.ssl
