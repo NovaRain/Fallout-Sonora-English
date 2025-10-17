@@ -62,4 +62,8 @@
 #define AI_PARTY_GOMER                          (57)
 #define AI_PARTY_ASSISTENT                      (58)
 
+#define AI_HERMO_SOLDIER_ENG                    (59)
+#define AI_MEXIC_GEN                            (60)
+#define AI_MEXIC_GEN_ENG                        (61)
+
 #endif
