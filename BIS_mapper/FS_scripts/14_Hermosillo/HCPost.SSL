@@ -69,7 +69,7 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Alcoghol,0);
        // added to allow for combat taunts to be either pure spanish, or 'translated' via the Espanol Trait - cambragol
        if DudeTraitHas(TRAIT_espanol) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_HERMO_SOLDIER_ENG);       
+          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_HERMO_SOLDIER_ENG);
        end
    end
 end

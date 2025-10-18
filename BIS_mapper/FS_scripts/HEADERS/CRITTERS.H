@@ -727,7 +727,10 @@ variable damage_amnt;
                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER); \
                                             set_local_var(LVAR_Flags,0);                                  \
                                             off_enemy_dude;                                               \
+                                            if (lvar_bit(LVAR_Self_Flags, bit_13) == 0) then begin        \
                                             exp_add(3*x);                                                 \
+                                            set_lvar_bit_on(LVAR_Self_Flags, bit_13);                     \
+                                            end                                                           \
                                             g_display_mstr(502);                                          \
                                             dude_floater_OK;                                              \
                                             end                                                           \
@@ -1421,18 +1424,23 @@ itemTypeUseDude фиксирует успех применения предме�
                                     party_remove(partyPidUdj);     \
                                     end                            \
                                     if (partyPidSnc!=0) then begin \
+                                    add_timer_event(partyPidSnc,1,5); \
                                     party_remove(partyPidSnc);     \
                                     end                            \
                                     if (partyPidHrm!=0) then begin \
+                                    add_timer_event(partyPidSnc,1,4); \
                                     party_remove(partyPidHrm);     \
                                     end                            \
                                     if (partyPidApc!=0) then begin \
+                                    add_timer_event(partyPidApc,1,4); \
                                     party_remove(partyPidApc);     \
                                     end                            \
                                     if (partyPidBos!=0) then begin \
+                                    add_timer_event(partyPidBos,1,4); \
                                     party_remove(partyPidBos);     \
                                     end                            \
                                     if (partyPidAss!=0) then begin \
+                                    add_timer_event(partyPidAss,1,3); \
                                     party_remove(partyPidAss);     \
                                     end                            \
                                     if (partyPidTsn!=0) then begin \
@@ -1448,6 +1456,7 @@ itemTypeUseDude фиксирует успех применения предме�
                                     party_remove(partyPidMr2);     \
                                     end                            \
                                     if (partyPidBnd!=0) then begin \
+                                    add_timer_event(partyPidBnd,1,4); \
                                     party_remove(partyPidBnd);     \
                                     end                            \
 

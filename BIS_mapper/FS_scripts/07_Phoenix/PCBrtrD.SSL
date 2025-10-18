@@ -321,7 +321,7 @@ end
 procedure NodeAnswer104 begin
    if (item_amnt(dude_obj,PID_BOOTLE_CAPS) >= 10) then begin
    item_remove(dude_obj,PID_BOOTLE_CAPS,10)
-   Reply(232)
+   zReply(232)
    NAnswer(233,1,NodeAnswer103)
    end
    else begin
@@ -338,7 +338,7 @@ end
 procedure NodeAnswer106 begin
    bitDialogExp(bit_3,0)
    Reply(244)
-   NAnswer(245,1,NodeSndDialog)
+   zNAnswer(245,1,NodeSndDialog)
 end
 
 procedure NodeAnswer200 begin

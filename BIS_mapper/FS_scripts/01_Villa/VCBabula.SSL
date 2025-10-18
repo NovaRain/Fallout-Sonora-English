@@ -224,7 +224,7 @@ procedure NodeFstDialog004 begin
 end
 
 procedure NodeFstDialog005 begin
-   Reply(220)
+   zReply(220)
    GAnswer(237,1,NodeFstDialog006a)
    NAnswer(221,1,NodeFstDialog006)
    BAnswer(239,1,NodeFstDialog006b)

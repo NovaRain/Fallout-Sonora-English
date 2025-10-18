@@ -226,7 +226,7 @@ procedure critter_p_proc begin
    end
 
    if ((cur_map_index == MAP_OIL_PLATFORM) or (cur_map_index == MAP_OIL_PLATFORMDRILL) or (cur_map_index == MAP_OIL_PLATFORMROOMS)) then begin
-      if (global_var(GVAR_OIL_PLATFORM_DUDE_DOPUSK)>0) then begin
+      if ((global_var(GVAR_OIL_PLATFORM_DUDE_DOPUSK)>0) or (self_TEAM == TEAM_PLAYER)) then begin
       attakParam := 0;
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
       end

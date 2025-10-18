@@ -437,7 +437,6 @@ procedure NodeAnswer200 begin
    NAnswer(436,1,NodeAnswer202)
    NAnswer(438,1,NodeAnswer203)
    NAnswer(432,1,NodeSndDialog)
-   
 end
 
 procedure NodeAnswer200a begin

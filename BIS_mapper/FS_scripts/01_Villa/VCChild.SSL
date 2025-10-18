@@ -91,7 +91,19 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   if (get_REP > 5) then begin
+   if (armor_pid_dude_var == PID_ARMOR_POWER_A) then begin
+   floater(self_obj,103,COLOR_MSG_NORMAL);
+   display_mstr(104);
+   end
+   else if (armor_pid_dude_var == PID_ARMOR_POWER_B) then begin
+   floater(self_obj,103,COLOR_MSG_NORMAL);
+   display_mstr(104);
+   end
+   else if (armor_pid_dude_var == PID_ARMOR_POWER_C) then begin
+   floater(self_obj,103,COLOR_MSG_NORMAL);
+   display_mstr(104);
+   end
+   else if (get_REP > 5) then begin
    floater(self_obj,random(110,114),COLOR_MSG_NORMAL);
    end
    else if (get_REP < -5) then begin

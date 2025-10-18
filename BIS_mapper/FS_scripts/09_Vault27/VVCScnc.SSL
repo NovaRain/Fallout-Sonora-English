@@ -173,20 +173,23 @@ procedure timed_event_p_proc begin
       floater(self_obj, 116, COLOR_MSG_NORMAL);
       end
    end
+   if (fixed_param == 5) then begin
+      call NodePartyNon2;
+   end
 end
 
 procedure critter_p_proc begin
    set_critter_options(0,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
+   if (self_TEAM == TEAM_PLAYER) then begin
+      if (cur_map_index == MAP_PHOENIX_BNDCS) then begin
+         if (map_var(MVAR_PNX_RING_START) == 1) then begin
+            call NodePartyNon2;
+         end
+      end
+   end
    if (getQuest(GVAR_VAULT27_QST_MERC) >= qEnd) then begin
-      if (self_TEAM == TEAM_PLAYER) then begin
-         if (cur_map_index == MAP_PHOENIX_BNDCS) then begin
-            if (map_var(MVAR_PNX_RING_START) == 1) then begin 
-               call NodePartyNon2;
-            end
-         end
-         else begin
-            partyRunToDude // Персонаж следует за ГГ
-         end
+      if (partyPidSelf!=0) then begin
+         partyRunToDude // Персонаж следует за ГГ
       end
    end
 end

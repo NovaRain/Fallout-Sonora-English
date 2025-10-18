@@ -79,8 +79,7 @@ procedure map_enter_p_proc begin
       set_global_var(GVAR_RADIOACTIV_STOP,0);
       set_global_var(GVAR_RANDOM_CAVE_ENEMIES,random(0,6)); // см SCRIPT_ZSRandom
       if (global_var(GVAR_GAME_DLC_1) == 0) then begin
-      //set_global_var(GVAR_GAME_DLC_1,0); 
-      // !!! даёт допуск к DLC
+      //set_global_var(GVAR_GAME_DLC_1,0); // !!! даёт допуск к DLC
       end
 
       if (map_first_run) then begin

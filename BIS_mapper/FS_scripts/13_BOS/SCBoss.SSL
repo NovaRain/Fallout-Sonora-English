@@ -728,7 +728,6 @@ procedure NodeTitul begin
       Reply(437)
       NAnswer(438,4,NodeTitul2)
    end
-
    else begin
       if (getQuest(GVAR_PUERTO_QST_RANGERS) >= qEnd) then begin
       Reply(432)

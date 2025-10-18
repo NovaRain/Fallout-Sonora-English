@@ -152,19 +152,28 @@ procedure timed_event_p_proc begin
           floater(self_obj, 106, COLOR_MSG_NORMAL);
        end
    end
+   if (fixed_param == 4) then begin
+      call NodePartyNon2;
+   end
 end
 
 procedure critter_p_proc begin
    set_critter_options(0,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
-   if (global_var(GVAR_HERMO_STATUS_PARTY) > 0) then begin
+
+   if (self_TEAM == TEAM_PLAYER) then begin
       if (cur_map_index == MAP_PHOENIX_BNDCS) then begin
          if (map_var(MVAR_PNX_RING_START) == 1) then begin
             call NodePartyNon2;
          end
        end
-       if (local_var(LVAR_Stop_Run) == 0) then begin
-         partyRunToDude
-       end
+   end
+
+   if (partyPidSelf!=0) then begin
+      if (global_var(GVAR_HERMO_STATUS_PARTY) > 0) then begin
+         if (local_var(LVAR_Stop_Run) == 0) then begin
+            partyRunToDude
+         end
+      end
    end
 end
 

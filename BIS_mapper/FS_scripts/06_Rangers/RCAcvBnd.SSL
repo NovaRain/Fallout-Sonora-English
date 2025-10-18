@@ -289,7 +289,7 @@ procedure NodeStopDialog15 begin
    NAnswer(249,1,NodeStopDialogEnd)
    BAnswer(250,1,Node998)
 end
- 
+
 // changed NodeStopDialog7 to NodeStopDialog9, as the dialogue didn't make sense otherwise - cambragol
 procedure NodeStopDialog16 begin
    Reply(235)

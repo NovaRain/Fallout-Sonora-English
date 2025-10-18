@@ -457,7 +457,7 @@ procedure NodeSndDialog begin
    Reply(240)
    end
    else if (getReaction <= -20) then begin
-   Reply(242)
+   zReply(242)
    end
    else begin
    Reply(241)

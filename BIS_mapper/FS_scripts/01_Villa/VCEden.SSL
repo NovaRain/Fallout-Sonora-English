@@ -11,7 +11,7 @@
 #define KILL_FRAC_REP                   FRAC_NON              // принадлежность определенной фракции (-1, если не нужно)
 
 #define FLAG_STEAL                      0  // Нижний порог навыка для кражи (для торговцев 200, для животных 300)
-#define FLAG_ALCOHOL                    0  // Примет ли алкоголь от ГГ: 0 - принимает, 1 - не принимает
+#define FLAG_ALCOHOL                    1  // Примет ли алкоголь от ГГ: 0 - принимает, 1 - не принимает
 #define FLAG_FOOD                       0  // Примет ли пищу от ГГ: 0 - принимает, 1 - не принимает
 
 //---------------------
@@ -154,7 +154,7 @@ procedure talk_p_proc begin
    if (global_var(GVAR_VILLA_STATUS_EDEN) == 0) then begin
       setReaction(1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
       fracReaction(GVAR_TITUL_ARIZONA_RANGER,20) // Поправка к отношению за принадлежность к фракциям
-      dialog_proc(0,0,NodeStartDialog,-1,-1)
+      dialog_proc(0,104,NodeStartDialog,-1,-1)
    end
    else if (global_var(GVAR_VILLA_STATUS_EDEN) == 2) then begin
       floater(self_obj,102,COLOR_MSG_NORMAL);

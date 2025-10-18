@@ -550,7 +550,6 @@ procedure NodeGame105 begin
    end
    end
    NAnswer(363,0,NodeGame106)
-   
 end
 
 procedure NodeGame106 begin
