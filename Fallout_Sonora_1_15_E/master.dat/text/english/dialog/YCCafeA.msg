@@ -101,11 +101,14 @@
 {295}{}{Hey, Ed, I found a food processor with your name on the delivery sheet in the ruins.}
 {296}{}{Finally it's found! A delivery bot was supposed to bring it, but something happened. You know, that processor is priceless! We're starving here without proper food. It's gonna greatly improve our situation. So, you say you have it?}
 {297}{}{No, uh, I left it where I found it. Sorry.}
+{1297}{}{No, uh, I left it where I found it. Sorry.}
 {298}{}{That's a shame. We really need that processor! Could you go back and get it? I'll give you 200 caps.}
 {299}{}{Well, if I'm in the area.}
 {300}{}{Alright.}
 {301}{}{Yes, here it is, take it.}
 {302}{}{Oh man, you're saving us! Hey, guys, look, this smoothskin really helped us out. Thank him!}
+{1302}{}{Oh man, you're saving us! Hey, guys, look, this smoothskin really helped us out. Thank her!}
 {303}{}{Glad to help. Goodbye, Ed.}
 {304}{}{Damn, De Santi would've given me more... Oh, I was talking about something else, never mind. Uh, see you.}
 {305}{}{Oh man, you're saving us, my friend! Hey, guys, thank him!}
+{1305}{}{Oh man, you're saving us, my friend! Hey, guys, thank her!}

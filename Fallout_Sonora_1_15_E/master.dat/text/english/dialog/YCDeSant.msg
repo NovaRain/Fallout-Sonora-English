@@ -52,6 +52,7 @@
 {246}{}{Alright.}
 {247}{}{Here are the caps Kurt owed - exactly 300 of them.}
 {248}{}{Ah, nothin' like the smell of caps in the mornin'. Alright, kid, you earned your cut.}
+{1248}{}{Ah, nothin' like the smell of caps in the mornin'. Alright, baby, you earned your cut.}
 {249}{}{Of course.}
 
 {250}{}{It looks like everything is falling apart here. Need some repairs done?}
@@ -82,6 +83,7 @@
 {1271}{}{Ah, love them old classics. But I wouldn't recommend watchin' it, honey - you're too young for this sorta thing. Just take the caps and fuhgeddaboudit.}
 {272}{}{Okay.}
 {273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, kid, I don't take failure lightly.}
+{1273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, baby, I don't take failure lightly.}
 {274}{}{Tell me what to do.}
 {275}{}{Don't tak... Hold on, mister. That's enough. I'm getting a little tired of your attitude. I'm out.}
 {276}{}{Somewhere on the way to San Ysidro, a courier bot with an important part got... misplaced. I need that part. Chop-chop, kid, move it.}
@@ -155,10 +157,11 @@
 {350}{}{Once again, you haven't let me down. Now, I've got one last task for you. There's a super mutant named Flowers. Right now, his aimless, lonely body's wandering Highway 805, searching for his 'purpose.' Bring him to me. Let him know I'll give him a place here if he's willing to work.}
 {351}{}{Got it.}
 {352}{}{I've got Flowers right here.}
-{353}{}{He's here, kid! Perfect! Flowers'll be my hotel 'bouncer,' the ideal job for him. But... uh, I've got no more work for you. Here's your final payday, friend. Enjoy your retirement.}
+{353}{}{Perfect! Flowers'll be my hotel 'bouncer,' the ideal job for him. But... uh, I've got no more work for you. Here's your final payday, friend. Enjoy your retirement.}
 {354}{}{[Leave]}
 {355}{}{Flowers is dead.}
 {356}{}{That's rotten news, kid. And I don't take kindly to rotten news. You've let me down. Get out. No more work for you.}
+{1356}{}{That's rotten news, baby. And I don't take kindly to rotten news. You've let me down. Get out. No more work for you.}
 {357}{}{[Leave]}
 {358}{}{Flowers didn't want to work for you. He joined the scavengers.}
 

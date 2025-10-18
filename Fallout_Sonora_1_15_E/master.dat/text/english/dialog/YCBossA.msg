@@ -94,6 +94,7 @@
 {281}{}{The route that lies before you winds through the grim ruins of San Diego. Don't underestimate it. Many dangers lurk there. Be more careful. I really need this holodisk to get through. And ask Edward for supplies for the trip.}
 {282}{}{Alright, see you.}
 {283}{}{Give me a weapon if you want me to survive the trip to Old Town.}
+{1283}{}{Give me a weapon if you want me to survive the trip to Old Town.}
 {284}{}{Hmm, alright. What weapon are you best with?}
 {285}{}{[Take }
 {286}{}{]}
@@ -120,6 +121,7 @@
 {304}{}{Got it. We'll talk later.}
 {305}{}{If you don't wanna talk, fine. Goodbye.}
 {306}{}{Amigo, I'm always happy to listen and answer your questions. }
+{1306}{}{Amiga, I'm always happy to listen and answer your questions. }
 {307}{}{Alright, see you.}
 
 {310}{}{Can you tell me more about yourself?}

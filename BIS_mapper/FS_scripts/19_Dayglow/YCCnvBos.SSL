@@ -192,7 +192,7 @@ end
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
    if DudePerkHas(PERK_ghouling_fiziology) then begin
-   Reply(245)
+   zReply(245)
    end
    else begin
    zReply(200)
@@ -364,7 +364,7 @@ end
 
 procedure NodeQuest106 begin
    setQuest(GVAR_DAYGLOW_FABRICA_STATUS, qStart);
-   Reply(231)
+   zReply(231)
    NAnswer(232,0,Node999)
    BAnswer(233,0,Node998)
 end

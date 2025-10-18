@@ -168,5 +168,6 @@
 {394}{}{(The operation extends over several hours behind closed doors. You wait outside. At last, Talius emerges and solemnly proclaims: "Donovan shall live!")}
 {395}{}{Wow, Talius, you really work miracles!}
 {396}{}{Yeah, right. I don't believe it. Well, goodbye, 'doctor' Talius.}
+{1396}{}{Yeah, right. I don't believe it. Well, goodbye, 'doctor' Talius.}
 {397}{}{About Donovan.}
 

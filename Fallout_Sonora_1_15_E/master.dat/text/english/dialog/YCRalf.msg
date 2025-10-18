@@ -6,7 +6,7 @@
 {201}{}{Ralph? What are you doing here? Weren't you planning to leave for Texas?}
 {202}{}{Well, for a while, I didn't want to leave Phoenix. There are some pretty fat rats in the local sewers. But then a wandering ghoul came to town and told me about Dayglow. It occurred to me that it's better to be close to my kind than to perish alone in the sands. What about you? What are you doing here?}
 {203}{}{Looking for new adventures... I guess.}
-{204}{}{Huh? I don't even know what to say. You're a strange person. Maybe something's not right at home for you? But it'll be tough for you to fit in here - radiation and traces of the Old World are everywhere. }
+{204}{}{Huh? I don't even know what to say. You're a strange person. Maybe something's not right at home for you? But it'll be tough for you to fit in here - radiation and fragments of the Old World are everywhere. }
 {205}{}{I know.}
 {206}{}{Here, take this RadAway as thanks for your help at the power station. It might come in handy.}
 {207}{}{Thanks, Ralph. See you.}

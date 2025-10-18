@@ -48,7 +48,7 @@ procedure info_proc begin
       floater(partyPidMr2, 106, COLOR_MSG_NORMAL);
       end
       else if (partyPidMtn != 0) then begin
-      floater(partyPidMtn, 107, COLOR_MSG_NORMAL);
+      z_floater(partyPidMtn, 107, COLOR_MSG_NORMAL);
       end
       inc_local_var(LVAR_Status);
    end

@@ -31,6 +31,7 @@
 {224}{}{Then no deal. Goodbye.}
 {225}{}{[Leave]}
 {226}{}{Wait, I changed my mind. Here's 800 caps. Now hand over the controller.}
+{1226}{}{Wait, I changed my mind. Here's 800 caps. Now hand over the controller.}
 {227}{}{If you don't want to hand over the controller, I'll just take it from your corpse...}
 {228}{}{Yes. Here's 800 caps.}
 {229}{}{Yes. Here's 1000 caps.}

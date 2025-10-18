@@ -17,6 +17,7 @@
 {132}{}{Holy macaroni!}
 
 {200}{}{Whoa-whoa, bro! Don't freak out, but you're on my private property. Well... I don't mind you being here. But just so ya know, it's mine.}
+{1200}{}{Whoa-whoa, sis! Don't freak out, but you're on my private property. Well... I don't mind you being here. But just so ya know, it's mine.}
 {201}{}{Seriously? You live in these sewers?}
 {202}{}{Yeah, I'm homeless. So what? I live well! I live in the most picturesque place in Dayglow. Don't you think?}
 {203}{}{Ever thought about moving into the city with the others?}
