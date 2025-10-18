@@ -16,6 +16,7 @@
 {205}{}{Alright...}
 {206}{}{Here's 10 caps.}
 {207}{}{Good boy... I see you're also rich. Hand over another 10 caps.}
+{1207}{}{Good girl... I see you're also rich. Hand over another 10 caps.}
 {208}{}{Here's another 10 caps. Are you satisfied now?}
 {209}{}{Here's all I have. Are you satisfied now?}
 {210}{}{Quite. I love suckers like you. Although I don't get the thrill like in the old days. But why am I talking to you? Get lost.}
@@ -37,6 +38,7 @@
 {226}{}{[Run away from the beggar as fast as you can]}
 {227}{}{[Walk past]}
 {228}{}{Stop! I'm talking to you, damn normie.}
+{1228}{}{Stop! I'm talking to you, damn normie.}
 {229}{}{[Ignore]}
 {230}{}{What do you want?}
 {231}{}{Alright, I have caps. How much do you need?}
