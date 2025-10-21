@@ -2,3 +2,11 @@
 sonora_eng/art/cuts/credits.mve
 sonora_eng_DLC/art/cuts/credits.mve
 sonora_eng_DLC_script/art/cuts/credits.mve
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
