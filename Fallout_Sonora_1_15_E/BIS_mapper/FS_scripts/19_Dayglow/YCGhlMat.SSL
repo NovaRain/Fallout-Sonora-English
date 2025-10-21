@@ -161,7 +161,7 @@ end
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
-   Reply(200)
+   zReply(200)
    NAnswer(205,0,NodeFstDialog3)
    GAnswer(207,7,NodeFstDialog4)
    BAnswer(201,0,NodeFstDialog2)
@@ -314,7 +314,7 @@ procedure NodeAnswer106 begin
    end
 
    if (local_var(LVAR_GameFinal) == 1) then begin
-   Reply(240)
+   zReply(240)
    NAnswer(242,0,NodeAnswer107)
    zNAnswer(243,0,NodeAnswer107)
    end

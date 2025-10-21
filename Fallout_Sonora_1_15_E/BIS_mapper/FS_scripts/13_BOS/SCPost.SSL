@@ -140,7 +140,6 @@ procedure talk_p_proc begin
    else begin
    setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
    dialog_proc(0,0,NodeStartDialog,HEAD_BOSS_POST,BACKGROUND_WASTELND)
-   //dialog_proc(0,105,NodeStartDialog,-1,-1)
    end
 end
 

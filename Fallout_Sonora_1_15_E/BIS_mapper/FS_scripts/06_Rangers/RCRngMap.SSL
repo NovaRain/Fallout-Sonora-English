@@ -193,7 +193,7 @@ procedure NodeSndDialog begin
       if (gvar_bit(GVAR_RANGERS_BIT_FAMILY, bit_13) == 0) or (getQuest(GVAR_RANGERS_QST_QUARTZMAP) >= qEnd) then begin
       NAnswer(226,4,NodeAnswer103)
       end
-   end   
+   end
 
    //--- Кварц
    if (getQuest(GVAR_RANGERS_QST_QUARTZMAP) == qZero) then begin

@@ -53,6 +53,7 @@ procedure NodeSndDialog205;
 procedure NodeSndDialog206;
 procedure NodeSndDialog207;
 procedure NodePartyAdd;
+procedure NodePartyAdd2;
 procedure NodePartyDialog;
 procedure NodePartyOpt2;
 procedure NodePartyOpt3;
@@ -208,10 +209,12 @@ end
 procedure critter_p_proc begin
    set_critter_options(0,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
 
-   if (global_var(GVAR_GARAGE_EUGENE_STATUS) == 1) then begin
-       if (local_var(LVAR_Stop_Run) == 0) then begin
-       partyRunToDude
-       end
+   if (partyPidSelf!=0) then begin
+      if (global_var(GVAR_GARAGE_EUGENE_STATUS) == 1) then begin
+         if (local_var(LVAR_Stop_Run) == 0) then begin
+            partyRunToDude
+         end
+      end
    end
 end
 
@@ -419,14 +422,22 @@ end
 
 procedure NodePartyAdd begin
    display_mstr(106);
+   call NodePartyAdd2;
+   call Node999;
+end
+
+procedure NodePartyAdd2 begin
    set_global_var(GVAR_GARAGE_EUGENE_STATUS,1);
    rm_timer_event(self_obj);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
    party_add(self_obj);
-   call Node999;
 end
 
 procedure NodePartyDialog begin
+   if (partyPidSelf<=0) then begin
+   call NodePartyAdd2;
+   end
+
    if (dialogMsgReply > 0) then begin
    Reply(dialogMsgReply)
    end

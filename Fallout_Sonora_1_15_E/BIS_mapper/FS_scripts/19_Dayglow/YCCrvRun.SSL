@@ -249,7 +249,7 @@ end
 procedure NodeFstDialog11 begin
    Reply(224)
    if (item_amnt(dude_obj,PID_BOOTLE_CAPS) >= 800) then begin
-   NAnswer(226,1,NodeFstDialog12)
+   zNAnswer(226,1,NodeFstDialog12)
    end
    BAnswer(227,1,Node998)
    NAnswer(225,1,Node999)

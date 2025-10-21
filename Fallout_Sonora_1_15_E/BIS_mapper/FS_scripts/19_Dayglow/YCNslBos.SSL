@@ -198,7 +198,7 @@ procedure NodeDialog3 begin
    end
    else begin
    Reply(218)
-   NAnswer(219,0,NodeDialog6)
+   zNAnswer(219,0,NodeDialog6)
    NAnswer(220,0,NodeDialog6)
    end
 end

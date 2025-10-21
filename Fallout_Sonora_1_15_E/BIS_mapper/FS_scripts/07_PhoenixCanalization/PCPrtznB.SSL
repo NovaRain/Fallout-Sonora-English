@@ -327,7 +327,7 @@ procedure NodeSkillUp2 begin
    NAnswer(279,1,NodeSkillUp5)
    end
    if (global_var(GVAR_PHENIX_STATUS_SPYPARTY) >= 2) then begin
-   NAnswer(276,4,NodeSkillUp3)
+   zNAnswer(276,4,NodeSkillUp3)
    end
    NAnswer(274,1,Node999)
 end

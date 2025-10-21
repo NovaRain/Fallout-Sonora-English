@@ -130,7 +130,7 @@ end
 procedure talk_p_proc begin
    if (global_var(GVAR_TITUL_ARENA_MASTER) > 0) then begin
       if (local_var(LVAR_Flag_Stavka) == 0) then begin
-      floater(self_obj,random(150,157),COLOR_MSG_NORMAL);
+      z_floater(self_obj,random(150,157),COLOR_MSG_NORMAL);
       end
       else begin
       floater(self_obj,random(160,167),COLOR_MSG_NORMAL);

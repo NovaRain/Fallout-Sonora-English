@@ -195,7 +195,7 @@ procedure NodeDialog4 begin
 end
 
 procedure NodeDialog5 begin
-   Reply(216)
+   zReply(216)
    zNAnswer(217,1,Node998)
 end
 

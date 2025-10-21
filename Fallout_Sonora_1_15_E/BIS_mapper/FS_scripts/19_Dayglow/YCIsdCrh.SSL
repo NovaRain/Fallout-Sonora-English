@@ -179,7 +179,7 @@ end
 procedure NodeFstDialog2 begin
    bitDialogExp(bit_1,0)
    if DudePerkHas(PERK_ghouling_fiziology) then begin
-   Reply(205)
+   zReply(205)
    end
    else begin
    Reply(203)

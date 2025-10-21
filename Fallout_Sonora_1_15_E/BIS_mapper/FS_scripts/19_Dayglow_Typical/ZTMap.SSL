@@ -435,16 +435,16 @@ procedure map_exit_p_proc begin
    end
    // added check to see if Jackals wiped out or not, success or failure - cambragol
    else if (cur_map_index == MAP_JACKALS) then begin
-       if ((getQuest(GVAR_JACKALS_MERC_ATAK) == qStart) and (global_var(GVAR_JACKALS_DEAD) >= LIMIT_JACKALS_DEAD)) then begin
+      if ((getQuest(GVAR_JACKALS_MERC_ATAK) == qStart) and (global_var(GVAR_JACKALS_DEAD) >= LIMIT_JACKALS_DEAD)) then begin
          setQuest(GVAR_JACKALS_MERC_ATAK,qEnd);
-       end
-       else begin
+      end
+      else begin
          if (getQuest(GVAR_JACKALS_MERC_ATAK) == qStart) then begin
             setQuest(GVAR_JACKALS_MERC_ATAK,-2);
          end
-       end
+      end
    end
-else if (cur_map_index == MAP_VAULT_27_EXTERIER) then begin
+   else if (cur_map_index == MAP_VAULT_27_EXTERIER) then begin
        if (global_var(GVAR_VAULT27_STATUS_MERC) == 1) then begin
        set_global_var(GVAR_VAULT27_STATUS_MERC,2);
        end

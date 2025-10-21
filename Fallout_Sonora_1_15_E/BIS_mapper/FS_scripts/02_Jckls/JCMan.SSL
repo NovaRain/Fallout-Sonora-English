@@ -118,6 +118,6 @@ procedure talk_p_proc begin
       floater(self_obj,random(200,203),COLOR_MSG_RED);
    end
    else begin
-      floater(self_obj,random(205,207),COLOR_MSG_NORMAL);
+      z_floater(self_obj,random(205,207),COLOR_MSG_NORMAL);
    end
 end

@@ -159,7 +159,7 @@ procedure NodeDialog1 begin
 end
 
 procedure NodeDialog2 begin
-   Reply(203)
+   zReply(203)
    BAnswer(204,1,Node998)
 end
 
