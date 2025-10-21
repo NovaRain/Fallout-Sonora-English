@@ -12,10 +12,10 @@ Rare=4%            ; Was 5/3d6
 None=0%            ; This shouldn't change (used in F2 only for ocean territory)
 
 ; Player speed reduction for each terrain type:
-terrain_types=Desert:2, Mountain:3, City:2, Ocean:1, Road:1
+terrain_types=Desert:1, Mountain:2, City:1, Ocean:1, None:1, Road:1
 
 ; These short names are used only for debugging:
-terrain_short_names=DES, MNT, CTY, OCN
+terrain_short_names=DES, MNT, CTY, OCN, NON, ROD
 
 ; List of maps by tags (speed is set above for the same tags):
 
@@ -331,7 +331,7 @@ type_00=pid:16777285, Item:165(wielded), Item:134, Item:(6-10)11, Script:628 ; P
 type_01=pid:16777283, Item:155(wielded), Item:134, Script:628 ; Private in Metal Armor M
 type_02=pid:16777284, Item:155(wielded), Item:134, Script:628, If (Rand(25%)) ; Private in Metal Armor Zh
 type_03=pid:16777283, Item:158(wielded), Item:133, Script:628 ; Private in Metal Armor M
-type_04=pid:16777284, Item:158(wielded), Item:133, Script:628, If (Rand(25%)) ; Private in Metal Armor Ж
+type_04=pid:16777284, Item:158(wielded), Item:133, Script:628, If (Rand(25%)) ; Private in Metal Armor Zh
 position=huddle, spacing:3, distance:10
 
 [Encounter: MEXI_Alejo]
@@ -471,7 +471,10 @@ position=surrounding, spacing:5, distance:15
 type_00=pid:16777222, Item:(5)46, Script:627 ; encounter with a wrecked car
 position=surrounding, spacing:5, distance:10
 
-; ...
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;  Random encounter tables  ;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;-------------
 ;
@@ -861,18 +864,18 @@ maps=Coast Encounter 1
 enc_00=Chance:100%,Enc: TRG_RADACTIV
 
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;; End of Newly added Encounter Tables ;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;  End of Newly added Encounter Tables  ;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 [Tile Data]
-; Размер карты мира по горизонтали:
+; World map horizontal size:
 num_horizontal_tiles=4
 
 [Tile 0]
 art_idx=339
 encounter_difficulty=0
-;x_offset_yoffset=тип карты, ?, шанѝ утром, шанѝ днем, шанѝ вечером, название вѝтречи
+;x_offset_yoffset=map type, ?, chance in the morning, chance in the afternoon, chance in the evening, encounter name
 0_0=Desert,No_Fill,Common,Common,Common,VILL_D
 0_1=Desert,No_Fill,Common,Common,Common,VILL_D
 0_2=Desert,No_Fill,Common,Common,Common,VILL_D
@@ -919,7 +922,7 @@ encounter_difficulty=0
 [Tile 1]
 art_idx=340
 encounter_difficulty=0
-;x_offset_yoffset=тип карты, шанѝ утром, шанѝ днем, шанѝ вечером, название вѝтречи
+;x_offset_yoffset=map type, chance in the morning, chance in the afternoon, chance in the evening, encounter name
 0_0=Desert,No_Fill,Common,Common,Common,VILL_D
 0_1=Desert,No_Fill,Common,Common,Common,VILL_D
 0_2=Desert,No_Fill,Common,Common,Common,VILL_D
