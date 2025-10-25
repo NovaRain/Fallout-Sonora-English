@@ -24,7 +24,7 @@ SONORA Active Items
 ***************        SONORA Ammo     ***************************
 ******************************************************************/
 
-#define PID_AMMO_ENERGY_CELL                (1) // не используется в геймплее
+#define PID_AMMO_ENERGY_CELL                (1) // not used in gameplay
 #define PID_AMMO_MICRO_FUSION_CELL          (2)
 #define PID_AMMO_22_LR                      (3) // в пачке 5 патронов!
 #define PID_AMMO_9_MM                       (4)
