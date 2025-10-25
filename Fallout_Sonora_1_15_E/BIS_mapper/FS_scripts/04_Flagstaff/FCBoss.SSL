@@ -370,7 +370,7 @@ procedure NodeSndDialog begin
       end
    end
 
-  //--- Квест по смене надзирателя
+   //--- Квест по смене надзирателя
    if (getQuest(GVAR_FLAGSTAFF_EVIL_WARDEN) == qStart) then begin
       if (bitDialog(bit_9) == 0) then begin
          NAnswer(350,3,NodeAnswer400)

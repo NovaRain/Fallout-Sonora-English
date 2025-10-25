@@ -195,6 +195,6 @@ procedure talk_p_proc begin
       floater(self_obj, 102, COLOR_MSG_RED);
    end
    else begin
-      floater(self_obj, 103, COLOR_MSG_RED);
+      z_floater(self_obj, 103, COLOR_MSG_RED);
    end
 end

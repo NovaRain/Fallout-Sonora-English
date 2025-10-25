@@ -165,7 +165,7 @@ end
 //--- ПОВТОРНЫЙ ДИАЛОГ
 
 procedure NodeSndDialog begin
-   Reply(210)
+   zReply(210)
    if ((global_var(GVAR_JACKALS_RANGER_CONTRAKT) == 1) and (getQuest(GVAR_JACKALS_UNION_CITY) == qEnd)) then begin
    NAnswer(212,1,NodeSndDialog2)
    end

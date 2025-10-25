@@ -230,14 +230,14 @@ procedure NodeDialog2 begin
 end
 
 procedure NodeDialog3 begin
-   Reply(205)
+   zReply(205)
    BAnswer(206,0,NodeDialog4)
-   BAnswer(209,0,NodeDialog5)
+   zBAnswer(209,0,NodeDialog5)
    GAnswer(214,0,NodeDialog6)
 end
 
 procedure NodeDialog4 begin
-   Reply(207)
+   zReply(207)
    BAnswer(208,0,Node998)
 end
 

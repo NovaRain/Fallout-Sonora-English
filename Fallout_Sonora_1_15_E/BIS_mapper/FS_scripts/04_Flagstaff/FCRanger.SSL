@@ -253,7 +253,7 @@ end
 
 procedure NodeFstDialog103 begin
    bitDialogExp(bit_2,50)
-   Reply(211)
+   zReply(211)
    zNAnswer(220,1,NodeFstDialog105)
    BAnswer(260,1,NodeFstDialog150)
    NAnswer(280,1,NodeFstDialog170)

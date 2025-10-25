@@ -325,7 +325,7 @@ end
 procedure NodeBarterViski begin
    Reply(231)
    NAnswer(233,0,NodeBarterViski2)
-   NAnswer(232,0,NodeSndDialog)
+   zNAnswer(232,0,NodeSndDialog)
 end
 
 procedure NodeBarterViski2 begin

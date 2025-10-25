@@ -190,7 +190,7 @@ procedure NodeDialog begin
    Reply(200)
    NAnswer(201,0,Node999)
    BAnswer(202,0,Node998)
-   NAnswer(203,0,NodeDialog2)
+   zNAnswer(203,0,NodeDialog2)
    end
    else if (partyPidMtn != 0) then begin
    Reply(207)

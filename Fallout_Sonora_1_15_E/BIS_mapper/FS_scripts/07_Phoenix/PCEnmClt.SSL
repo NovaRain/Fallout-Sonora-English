@@ -188,7 +188,7 @@ procedure NodeStartDialog begin
 end
 
 procedure NodeDialog100a begin
-   Reply(200)
+   zReply(200)
    NAnswer(201,1,NodeDialog100)
    NAnswer(202,1,NodeDialog100)
 end

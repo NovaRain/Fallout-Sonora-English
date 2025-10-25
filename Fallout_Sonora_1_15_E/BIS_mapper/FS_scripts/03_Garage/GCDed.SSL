@@ -577,7 +577,7 @@ procedure NodeIguana105 begin
    end
    else begin
    replyParam := 345;
-   Reply(336)
+   zReply(336)
    NAnswer(337,1,NodeSndDialog)
    end
 end

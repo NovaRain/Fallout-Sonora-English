@@ -249,7 +249,7 @@ procedure NodeStartDialog begin
    bitDialogExp(bit_20,0)
    end
    if ((global_var(GVAR_GAME_END)!=0) and (bitDialog(bit_9) == 0)) then begin
-   item_add(self_obj,PID_W_MICROWAVE_PISTOL,1) // бонус после финала игры
+   item_add(self_obj,PID_W_MICROWAVE_PISTOL,1) // bonus after the end of the game
    bitDialogExp(bit_9,0)
    end
 

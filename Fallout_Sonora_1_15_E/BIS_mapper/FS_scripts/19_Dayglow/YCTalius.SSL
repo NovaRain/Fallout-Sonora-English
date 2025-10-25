@@ -406,7 +406,7 @@ procedure NodeDonovan105 begin
    game_time_advance(ONE_GAME_HOUR*3);
    Reply(394)
    NAnswer(395,0,NodeDonovan106)
-   BAnswer(396,0,NodeDonovan106)
+   zBAnswer(396,0,NodeDonovan106)
 end
 
 procedure NodeDonovan106 begin

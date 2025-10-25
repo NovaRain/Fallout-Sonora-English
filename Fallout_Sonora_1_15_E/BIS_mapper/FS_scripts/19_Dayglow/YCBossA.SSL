@@ -398,7 +398,7 @@ procedure NodeSndDialog begin
 
    if (getQuest(GVAR_DAYGLOW_RADIO) == 2) then begin
       if (bitDialog(bit_4) == 0) then begin
-      NAnswer(283,4,NodeQst109)
+      zNAnswer(283,4,NodeQst109)
       end
    end
 
@@ -436,12 +436,12 @@ procedure NodeAnswer100 begin
       Reply(302)
       end
       else begin
-      Reply(301)
+      zReply(301)
       end
    end
    else begin
       if (getReaction>=50) then begin
-      Reply(301)
+      zReply(301)
       end
       else if (getReaction<=-50) then begin
       Reply(303)
@@ -461,7 +461,7 @@ end
 
 procedure NodeAnswer101 begin
    if (getReaction>=50) then begin
-      Reply(306)
+      zReply(306)
    end
    else if (getReaction<=-50) then begin
       Reply(303)

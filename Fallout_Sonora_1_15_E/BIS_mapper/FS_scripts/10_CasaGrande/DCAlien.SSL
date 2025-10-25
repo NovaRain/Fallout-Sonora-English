@@ -491,7 +491,7 @@ end
 
 procedure NodeQst107 begin
    setQuest(GVAR_CGRANDE_QST_BATHHOUSE,qStart);
-   Reply(276)
+   zReply(276)
    NAnswer(277,1,Node999)
 end
 

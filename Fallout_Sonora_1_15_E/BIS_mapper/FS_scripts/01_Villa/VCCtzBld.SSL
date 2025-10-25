@@ -80,11 +80,11 @@ procedure map_update_p_proc begin
       critter_uninjure_full(self_obj);
       medicMetod := 3;
       end
-      if dude_is_female then begin         
+      if dude_is_female then begin
          set_injure_update(100,(1105+medicMetod))
-      end else begin                       
+      end else begin
          set_injure_update(100,(105+medicMetod))
-      end 
+      end
    end
 end
 

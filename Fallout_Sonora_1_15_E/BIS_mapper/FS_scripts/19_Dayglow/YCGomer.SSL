@@ -222,7 +222,9 @@ procedure critter_p_proc begin
    end
 
    if (global_var(GVAR_DAYGLOW_STATUS_GOMER) == 2) then begin
+      if (partyPidSelf!=0) then begin
       partyRunToDude
+      end
 
       if ((cur_map_index == MAP_DAYGLOW_PATRUL) and (self_elevation == 1)) then begin
          if (map_var(MVAR_DIEGOPTRL_MUTNTLIFE) < 0) then begin

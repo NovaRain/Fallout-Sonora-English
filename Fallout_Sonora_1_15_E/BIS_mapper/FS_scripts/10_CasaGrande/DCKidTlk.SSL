@@ -180,6 +180,12 @@ procedure talk_p_proc begin
    end
    else if (local_var(LVAR_GRANADA_STATUS) < 0) then begin
    end
+   else if (global_var(GVAR_TITUL_REBIRTH) > 0) then begin
+   z_floater(self_obj,215,COLOR_MSG_RED);
+   end
+   else if ((armor_pid_dude_var == PID_ARMOR_ROAD) or (global_var(GVAR_TITUL_WARRIOR_ROAD) > 0)) then begin
+   floater(self_obj,216,COLOR_MSG_RED);
+   end
    else begin
    setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
    fracReaction(GVAR_TITUL_WARRIOR_ROAD,-50) // Поправка к отношению за принадлежность к фракциям
@@ -381,7 +387,7 @@ procedure NodeGranad206 begin
    bitDialogExp(bit_2,150)
    call NodeGranadDelete;
    Reply(257)
-   NAnswer(258,1,Node999)
+   zNAnswer(258,1,Node999)
 end
 
 procedure NodeGranad300 begin

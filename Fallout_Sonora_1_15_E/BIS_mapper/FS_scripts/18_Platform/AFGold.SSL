@@ -210,20 +210,19 @@ end
 //--- ПОВТОРНЫЙ ДИАЛОГ
 
 procedure NodeSndDialog begin
-      if (global_var(GVAR_OIL_STATUS_GOLD) >= 3) then begin
+   if (global_var(GVAR_OIL_STATUS_GOLD) >= 3) then begin
    Reply(104)
    end
    else begin
    Reply(220)
    end
-   
 
    if ((getQuest(GVAR_OIL_PLATFORM_QST_A) < qEnd) and (getQuest(GVAR_OIL_PLATFORM_STATUS) < qEnd)) then begin
       NAnswer(230,0,NodeAnswer100)
    end
 
    if (bitDialog(bit_2) == 0) then begin
-      //Кстати, у меня тоже есть родственник по имени Хосе. / В мире полно людей по имени Хосе, дубина! Займись лучше делом! -- Я просто хотел поддержать дружескую беседу. / Ты что, подлизываешься? Я не из тех, кому нужна дружба. Проваливай!
+      //Кстати, у меня тоже есть родственник по имени Хосе. / В мире полно людей по имени Хосе, дубина! Займись лучше делом! -- Я просто хотел поддержать дружескую беседу. / Ты что, подлизываешься? Я не из тех, кому нужна дружба. Проваливай! / Бу таким быть...
    end
 
    if (getQuest(GVAR_OIL_PLATFORM_QST_GOLD) == qStart) then begin

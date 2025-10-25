@@ -247,7 +247,7 @@ end
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
-   Reply(200)
+   zReply(200)
    NAnswer(201,1,NodeFstDialog2)
 end
 
@@ -260,7 +260,7 @@ end
 procedure NodeStopDialog begin
    bitDialogExp(bit_1,0) // дубляж сделан на тот случай, если игрок ни разу не заговорит с персонажем до размыва дамбы
    bitDialogExp(bit_6,0)
-   Reply(270)
+   zReply(270)
    NAnswer(271,1,NodeStopDialog2)
 end
 

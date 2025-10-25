@@ -555,7 +555,7 @@ end
 
 procedure NodeBarterQst5 begin
    Reply(296)
-   NAnswer(297,0,NodeBarterQst6)
+   zNAnswer(297,0,NodeBarterQst6)
    NAnswer(301,0,NodeBarterQst7)
 end
 
@@ -582,10 +582,10 @@ procedure NodeBarterQst8 begin
    set_REP(3)
 
    if DudePerkHas(PERK_ghouling_fiziology) then begin
-   Reply(305)
+   zReply(305)
    end
    else begin
-   Reply(302)
+   zReply(302)
    end
    NAnswer(303,0,Node999)
    NAnswer(304,0,Node999)

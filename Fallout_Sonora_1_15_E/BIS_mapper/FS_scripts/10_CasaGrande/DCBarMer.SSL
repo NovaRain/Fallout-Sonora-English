@@ -378,6 +378,6 @@ procedure NodeAnswer205 begin
 end
 
 procedure NodeAnswer206 begin
-   Reply(277)
+   zReply(277)
    NAnswer(278,1,Node999) //!!! стычка со Cтэном
 end
