@@ -190,8 +190,8 @@ procedure talk_p_proc begin
 
    //Added the test for nightkin cap, to prevent being teleported out of base with the captain - cambragol
    if (global_var(GVAR_DAYGLOW_STATUS_GOMER_CAP) == 1) then begin
-         z_floater(self_obj, 226, COLOR_MSG_RED);
-         call Node998;
+      z_floater(self_obj, 226, COLOR_MSG_RED);
+      call Node998;
    end
    else if (map_var(MVAR_DIEGOPTRL_PALADIN_STOP_DIALOG)>=0) then begin
    setReaction(0) // отношение к ГГ (персонаж: 1 положительный, 0 нейтральный, -1 отрицательный)
@@ -220,37 +220,35 @@ procedure NodeStartDialog begin
 end
 
 procedure NodeDialog begin
+   if (map_var(MVAR_DIEGOPTRL_PALADIN_STOP_DIALOG) == 2) then begin
+   Reply(213)
+   end
+   else if (map_var(MVAR_DIEGOPTRL_PALADIN_STOP_DIALOG) == 1) then begin
+   Reply(212)
+   end
+   else begin
+   Reply(200)
+   end
 
-      if (map_var(MVAR_DIEGOPTRL_PALADIN_STOP_DIALOG) == 2) then begin
-      Reply(213)
-      end
-      else if (map_var(MVAR_DIEGOPTRL_PALADIN_STOP_DIALOG) == 1) then begin
-      Reply(212)
-      end
-      else begin
-         Reply(200)
-      end
+   if (global_var(GVAR_TITUL_BOS_SCRIBE)>0) then begin
+   GAnswer(mstr(203)+dude_name+mstr(207),0,NodeDialog3)
+   end
+   if (global_var(GVAR_TITUL_BOS_CAVALER)>0) then begin
+   GAnswer(mstr(204)+dude_name+mstr(207),0,NodeDialog3)
+   end
+   if (global_var(GVAR_TITUL_BOS_PALADIN)>0) then begin
+   GAnswer(mstr(205)+dude_name+mstr(207),0,NodeDialog3)
+   end
+   if (global_var(GVAR_TITUL_BOS_SCOUT)>0) then begin
+   GAnswer(mstr(205)+dude_name+mstr(207),0,NodeDialog3)
+   end
 
-      if (global_var(GVAR_TITUL_BOS_SCRIBE)>0) then begin
-      GAnswer(mstr(203)+dude_name+mstr(207),0,NodeDialog3)
-      end
-      if (global_var(GVAR_TITUL_BOS_CAVALER)>0) then begin
-      GAnswer(mstr(204)+dude_name+mstr(207),0,NodeDialog3)
-      end
-      if (global_var(GVAR_TITUL_BOS_PALADIN)>0) then begin
-      GAnswer(mstr(205)+dude_name+mstr(207),0,NodeDialog3)
-      end
-      if (global_var(GVAR_TITUL_BOS_SCOUT)>0) then begin
-      GAnswer(mstr(205)+dude_name+mstr(207),0,NodeDialog3)
-      end
+   if (getQuest(GVAR_DAYGLOW_QST_GOMERSUPERMUT) >= qStart) then begin
+   NAnswer(217,0,NodeDialog5)
+   end
 
-      if (getQuest(GVAR_DAYGLOW_QST_GOMERSUPERMUT) >= qStart) then begin
-      NAnswer(217,0,NodeDialog5)
-      end
-
-      BAnswer(202,0,Node998)
-      NAnswer(201,0,NodeDialog2)
-   
+   BAnswer(202,0,Node998)
+   NAnswer(201,0,NodeDialog2)
 end
 
 procedure NodeDialog1 begin

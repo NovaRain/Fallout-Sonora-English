@@ -282,7 +282,7 @@ end
 procedure NodeFstDialog103 begin
    capsdude := 10;
    call NodeCapsMove;
-   Reply(207)
+   zReply(207)
    if (item_amnt(dude_obj,PID_BOOTLE_CAPS) >= 10) then begin
    NAnswer(208,0,NodeFstDialog104)
    end
@@ -345,7 +345,7 @@ procedure NodeFstDialog110 begin
 end
 
 procedure NodeFstDialog111 begin
-   Reply(228)
+   zReply(228)
    BAnswer(226,0,NodeFstDialogRun)
    BAnswer(230,0,NodeFstDialog101)
 end

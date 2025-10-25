@@ -273,11 +273,11 @@ end
 
 procedure NodeFstDialog200 begin
    if (local_var(LVAR_Trener_Status) > 1) then begin
-   Reply(250)
+   zReply(253)
    NAnswer(251,1,Node999)
    end
    else if ((getReaction>=20) or (get_SLAVA>=100)) then begin
-   Reply(255)
+   zReply(255)
    NAnswer(256,1,Node999)
    end
    else begin

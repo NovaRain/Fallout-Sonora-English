@@ -24,8 +24,8 @@
 {213}{}{You look big and menacing, but you're brainless.}
 {214}{}{Please, don't hurt us! We're of the same blood!}
 {215}{}{We're not enemies. We're both mutants. Can't we be friends?}
-{216}{}{What'd you say? Shut up, scavenger! We're soldiers of the Master, not filth like you!}
-{1216}{}{What'd you say? Shut up, bitch! We're soldiers of the Master, not trash like you!}
+{216}{}{Shut up, scavenger! We're soldiers of the Master, not filth like you!}
+{1216}{}{Shut up, bitch! We're soldiers of the Master, not trash like you!}
 {217}{}{Seems like I just made him angrier...}
 {1217}{}{Seems like I just made him angrier...}
 {218}{}{Hmph. Maybe you're right. They all hate us anyway. But we're real soldiers! You're just a scrappy half-breed!}

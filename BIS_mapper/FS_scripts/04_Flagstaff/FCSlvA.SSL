@@ -120,7 +120,7 @@ end
 
 procedure talk_p_proc begin
    if (map_var(MVAR_SlavStoryB) != 0) then begin
-      floater(self_obj,103,COLOR_MSG_RED);
+      z_floater(self_obj,103,COLOR_MSG_RED);
    end
    else if (map_var(MVAR_SlavStoryA) == 0) then begin
       dialog_proc(0,0,NodeStartDialog,-1,-1)

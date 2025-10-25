@@ -15,7 +15,7 @@
 
 {210}{}{What can I do you for?}
 {211}{}{Uh, nothing.}
-{212}{}{Hey, who are you supposed to be, some character out of a book? Can't say I remember reading about you.}
+{212}{}{}
 {213}{}{Oh, excuse me, so sorry! Can't a man fantasize anymore?}
 {214}{}{You seem a little *too* immersed in fantasy.}
 {215}{}{Oh, I do like folks who can laugh at themselves. Not like those grim types behind the wall - got so serious about building that city, more serious than they've ever been in their whole lives.}

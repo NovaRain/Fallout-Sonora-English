@@ -252,7 +252,7 @@ procedure NodeDialog begin
 end
 
 procedure NodeDialog2 begin
-   Reply(202)
+   zReply(202)
    NAnswerSkill(209,4,NodeDialog5,SKILL_CONVERSANT,50,205,NodeDialog4)
    BAnswer(204,1,Node998)
    NAnswer(203,1,NodeDialog3)

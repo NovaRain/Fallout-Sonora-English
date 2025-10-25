@@ -20,7 +20,7 @@
 {204}{}{Damn...}
 {205}{}{This won't save you...}
 
-{208}{}{Smart call, ÔøΩmy dear friendÔøΩ. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  #added for espanol trait - cambraagol
+{208}{}{Smart call, ùmy dear friendù. But even with your community's consent, there's still one thorn in my side - the Rangers. They fancy themselves noble guardians, but in truth, they're little more than a self-important blockade standing in the way of our progress north. We've been scouting their positions around Phoenix, and once we're ready, we'll deal with those bastards properly.}  #added for espanol trait - cambraagol
 {209}{}{What in the blazes is this? Which idiot let a MUTANT on board?! Someone's getting a proper dressing-down for this! Alright, you green freak, you better have a damn good reason for being here. Well?}
 {210}{}{What in the blazes is this? Someone's getting a proper dressing-down for letting a civilian waltz in here like they own the place. Fine. You're here now - so talk. Who are you, and what exactly do you want from me?}  
 {211}{}{I'm here to wipe out your army of invading scum from the face of the earth. Death to the invaders!}
@@ -237,5 +237,5 @@
 {439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
 {1439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
 {440}{}{Alright. No problem, General. Take care.}
-{441}{}{I donÔøΩt want to join your little group anyway. Adios.}
-{1441}{}{I donÔøΩt want to join your little group anyway. Adios.}
+{441}{}{I don't want to join your little group anyway. Adios.}
+{1441}{}{I don't want to join your little group anyway. Adios.}

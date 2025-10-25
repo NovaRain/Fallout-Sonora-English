@@ -8,6 +8,7 @@ procedure timer_gaming;
 procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure use_obj_on_p_proc;
+procedure use_poker_fishka;
 procedure gaming_proc;
 
 #define LVAR_Playing_Counter            (0) // Текущий запас фишек в автомате
@@ -67,7 +68,7 @@ end
 
 procedure timer_gaming begin
    if (local_var(LVAR_Play_Timer) < game_time) then begin
-      set_local_var(LVAR_Playing_Counter,random(dude_luck*20,dude_luck*25));
+      set_local_var(LVAR_Playing_Counter,random(dude_luck*40,dude_luck*50));
       set_local_var(LVAR_Play_Timer, ONE_GAME_DAY + game_time);
    end
 end
@@ -83,12 +84,12 @@ procedure use_p_proc begin
    call gaming_proc;
    end
    else begin
-   display_mstr(117);
+   call use_poker_fishka;
+   //display_mstr(117);
    end
 end
 
 procedure use_skill_on_p_proc begin
-
    if (action_being_used == SKILL_LOCKPICK) then begin
        script_overrides;
        display_mstr(110);
@@ -117,33 +118,36 @@ procedure use_obj_on_p_proc begin
 
    else if (objUsedPid == PID_POKER_FISH) then begin
        script_overrides;
-
-       if (cur_map_index != MAP_PHOENIX_CENTER) then begin
-          display_mstr(122);
-       end
-       else if (has_skill(dude_obj, SKILL_GAMBLING) < 20) then begin
-          skill_display_mstr(116,SKILL_GAMBLING,20)
-       end
-       else if (local_var(LVAR_Stavka) >= 20) then begin
-          display_mstr(121);
-       end
-       else if (local_var(LVAR_Playing_Counter) <= local_var(LVAR_Stavka)) then begin
-          display_mstr(120);
-       end
-       else if (local_var(LVAR_Playing_Counter) > 0) then begin
-          inc_local_var_amt(LVAR_Stavka,1);
-          display_msg(mstr(118)+local_var(LVAR_Stavka)+mstr(119));
-          item_remove(dude_obj, objUsedPid, 1)
-       end
-       else begin
-          display_mstr(115);
-       end
+       call use_poker_fishka;
    end
 
    else if ((objUsedPid == PID_BOOTLE_CAPS) or (objUsedPid == PID_MANY)) then begin
        script_overrides;
        display_mstr(114);
        dude_floater_NON;
+   end
+end
+
+procedure use_poker_fishka begin
+   if (cur_map_index != MAP_PHOENIX_CENTER) then begin
+      display_mstr(122);
+   end
+   else if (has_skill(dude_obj, SKILL_GAMBLING) < 20) then begin
+      skill_display_mstr(116,SKILL_GAMBLING,20)
+   end
+   else if (local_var(LVAR_Stavka) >= 20) then begin
+      display_mstr(121);
+   end
+   else if (local_var(LVAR_Playing_Counter) <= local_var(LVAR_Stavka)) then begin
+      display_mstr(120);
+   end
+   else if (local_var(LVAR_Playing_Counter) > 0) then begin
+      inc_local_var_amt(LVAR_Stavka,1);
+      display_msg(mstr(118)+local_var(LVAR_Stavka)+mstr(119));
+      item_remove(dude_obj, PID_POKER_FISH, 1)
+   end
+   else begin
+      display_mstr(115);
    end
 end
 
@@ -158,6 +162,10 @@ procedure gaming_proc begin
    barabanB := random(171,177);
    barabanC := random(171,177);
    barabanX := 0;
+   if (random(0,200) <= has_skill(dude_obj, SKILL_GAMBLING)) then begin
+   barabanB := barabanA;
+   barabanC := barabanA;
+   end
 
    //--- Просчет вероятности выигрыша
 

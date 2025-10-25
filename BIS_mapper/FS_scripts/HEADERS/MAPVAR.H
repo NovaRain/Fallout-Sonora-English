@@ -496,15 +496,15 @@
 #define MVAR_NUEVA_CURFEW                (3) // number of MC detentions during curfew
 #define MVAR_NUEVA_WATERFLASK            (4) // MC gave water to the man at the pillory
 
-//--------------------------------- Quarry
+//------------------------------- Quarry
 
 #define MVAR_NUEVA_MEAT_TILE             (1) // tile for moving El Gigante to the meat drop-off point
 
-//--------------------------------- Greenhouses (exterior)
+//------------------------------- Greenhouses (exterior)
 
 #define MVAR_NUEVA_LAB_DOCS_DISC         (1) // !=0 - PC has obtained documentation from the lab computer
 
-//--------------------------------- Greenhouses (interior)
+//------------------------------- Greenhouses (interior)
 
 #define MVAR_NUEVA_LAB_CLIMAT_A          (1) // !=0 - PC has activated ventilation at level 1 (dome)
 #define MVAR_NUEVA_LAB_CLIMAT_B          (2) // !=0 - PC has activated ventilation at level 2 (greenhouse on the right)

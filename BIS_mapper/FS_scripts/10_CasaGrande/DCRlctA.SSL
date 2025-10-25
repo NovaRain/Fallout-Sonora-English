@@ -177,7 +177,7 @@ procedure NodeDialog101 begin
 end
 
 procedure NodeDialog200 begin
-   Reply(231)
+   zReply(231)
    NAnswer(232,1,Node999)
 end
 

@@ -85,6 +85,12 @@ procedure critter_p_proc begin
    if (map_var(MVAR_OIL_PLATFORM_GHOUL_INVIS) > 0) then begin
    attakToDude := 0;
    end
+   else if ((attakToDude == 99) or (dude_charisma <= 2) or DudePerkHas(PERK_ghouling_charisma)) then begin
+   attakToDude := 0;
+   end
+   else if (global_var(GVAR_OIL_STATUS_GHOUL) > 0) then begin
+   attakToDude := 0;
+   end
    set_critter_options(attakToDude,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
 end
 
@@ -99,6 +105,19 @@ end
 
 procedure use_obj_on_p_proc begin
    UsedItemToCrit_Proc
+   if ((objUsedPid == PID_M_ASH) or (objUsedPid == PID_M_MENTATS)) then begin
+       if (global_var(GVAR_OIL_STATUS_GHOUL) == 0) then begin
+       script_overrides;
+       item_remove(dude_obj, objUsedPid, 1)
+       if (combat_is_initialized == true) then begin
+       terminate_combat;
+       end
+       off_enemy_dude;
+       set_local_var(LVAR_Flags,0);
+       attakToDude := 99;
+       dialogue_system_enter;
+       end
+   end
 end
 
 procedure combat_p_proc begin
@@ -117,8 +136,7 @@ end
 
 procedure talk_p_proc begin
    if (global_var(GVAR_OIL_STATUS_GHOUL) == 0) then begin
-      if ((dude_charisma <= 2) or DudePerkHas(PERK_ghouling_charisma)) then begin
-      setReaction(-1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+      if ((attakToDude == 99) or (dude_charisma <= 2) or DudePerkHas(PERK_ghouling_charisma)) then begin
       dialog_proc(0,0,NodeStartDialog,-1,-1)
       end
       else begin
@@ -138,6 +156,7 @@ procedure Node999 begin
 end
 
 procedure NodeStartDialog begin
+   attakToDude := 0;
    call NodeDialog;
 end
 

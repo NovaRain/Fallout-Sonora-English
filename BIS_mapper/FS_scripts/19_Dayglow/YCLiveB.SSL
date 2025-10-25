@@ -260,7 +260,7 @@ procedure NodeSndDialog5 begin
 end
 
 procedure NodeSndDialog6 begin
-   Reply(233)
+   zReply(233)
    BAnswer(234,0,NodeSndDialog7)
    NAnswer(235,0,NodeSndDialog7)
 end

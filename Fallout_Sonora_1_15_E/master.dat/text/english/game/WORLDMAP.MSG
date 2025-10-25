@@ -92,7 +92,7 @@
 {301}{}{Garrison}
 {302}{}{Fort}
 #
-# San Felipe ( Old Lighthouse )
+# San Felipe (Old Lighthouse)
 {310}{}{Lighthouse Settlement}
 {311}{}{Fondeport}
 {312}{}{Cerro Picacho del Diablo}
@@ -148,7 +148,7 @@
 # Motorcycle without energy
 {410}{}{Pit Stop}
 #
-# Destroyed Arroyo ( do not use!)
+# Destroyed Arroyo (do not use!)
 {420}{}{Desert}
 #
 # Vault 27
@@ -163,7 +163,7 @@
 # Raiders
 {450}{}{Blue Shields' Base}
 #
-# Random Encounter Desert ( Wasteland )
+# Random Encounter Desert (Wasteland)
 {460}{}{Desert}
 {461}{}{Desert}
 {462}{}{Desert}
@@ -181,7 +181,7 @@
 {477}{}{Blackwood}
 {478}{}{Gorge}
 #
-# Random Encounter City ( Ruins )
+# Random Encounter City (Ruins)
 {480}{}{Ruins}
 {481}{}{Ruins}
 {482}{}{Ruins}
@@ -193,7 +193,7 @@
 {488}{}{Highway}
 {489}{}{Highway}
 #
-# Random Encounter Coast ( Coast )
+# Random Encounter Coast (Coast)
 {490}{}{Coast}
 {491}{}{Coast}
 {492}{}{Coast}
@@ -232,7 +232,7 @@
 # Special Encounter- Snowfall
 {600}{}{Sonoran Wasteland}
 #
-# Special Encounter- Lost Sanctuary ( Van Buren )
+# Special Encounter- Lost Sanctuary (Van Buren)
 {610}{}{Sonoran Wasteland}
 #
 # Special Encounter- Mobile fortress of the Master's army
@@ -247,7 +247,7 @@
 #! Empty slot
 {650}{}{Sonoran Wasteland}
 #
-# Irradiated Village ( Quartzsite )
+# Irradiated Village (Quartzsite)
 {660}{}{Quartzsite Ruins}
 #
 #ShadowWorlds
@@ -272,16 +272,16 @@
 #
 ################################################## #####
 
-# Signature when hovering over the GG marker ( does not work , a rudiment of Fallout 1):
+# Signature when hovering over the GG marker (does not work, a rudiment of Fallout 1):
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{Ruins}
 {1003}{}{Coast}
 
-# Signature of a location not yet explored :
+# Signature of a location not yet explored:
 {1004}{}{Unknown}
 
-# Miscellaneous :
+# Miscellaneous:
 {1500}{}{You have received 10,000 experience points!}
 {1501}{}{Ruins}
 {1502}{}{Your motorcycle has run out of energy.}

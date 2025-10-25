@@ -189,7 +189,7 @@ end
 
 procedure NodeSndDialog begin
    if (global_var(GVAR_TITUL_REBIRTH)>0) then begin
-   Reply(215)
+   zReply(215)
    end
    else begin
    Reply(210)

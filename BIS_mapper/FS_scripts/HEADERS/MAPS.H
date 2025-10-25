@@ -256,10 +256,10 @@
 
 /*
 Teleportation of the main character to another map:
-fa - fade (ignored if <=0)
-fb - screen restoration (ignored if <=0)
-map - index of the loaded map
-hour - number of hours to be scrolled (ignored if <=0)
+   fa   - fade (ignored if <=0)
+   fb   - screen restoration (ignored if <=0)
+   map  - index of the loaded map
+   hour - number of hours to be scrolled (ignored if <=0)
 */
 #define dude_teleport_map(fa,fb,map,hour)                                       \
                                     if (fa >0) then begin                       \

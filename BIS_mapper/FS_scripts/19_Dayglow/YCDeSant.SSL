@@ -407,7 +407,7 @@ procedure NodeQst111 begin
    Reply(214)
    end
    else if (game_time_hour < 1000) then begin
-   Reply(248)
+   zReply(248)
    end
    else begin
    Reply(215)
@@ -451,7 +451,7 @@ end
 procedure NodeQst116 begin
    setQuest(GVAR_DAYGLOW_QST_SUPERMUT, -10);
    exp_add(100);
-   Reply(356)
+   zReply(356)
    NAnswer(357,0,Node999)
 end
 
@@ -522,7 +522,7 @@ procedure NodeQst207_01 begin
 end
 
 procedure NodeQst208 begin
-   Reply(273)
+   zReply(273)
    NAnswer(274,0,NodeQst209)
    BAnswer(275,0,NodeQst210)
 end

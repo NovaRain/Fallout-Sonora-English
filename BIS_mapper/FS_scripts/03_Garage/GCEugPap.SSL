@@ -246,7 +246,7 @@ end
 //--- КВЕСТ
 
 procedure NodeKid100 begin
-   Reply(251)
+   zReply(251)
    NAnswerSkill(252,3,NodeKid101,SKILL_CONVERSANT,20,252,NodeKid101b)
    NAnswer(270,1,NodeKid110)
    NAnswerRep(263,1,NodeKid105,30,263,NodeKid106)

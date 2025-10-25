@@ -139,7 +139,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   if (self_elevation == 0) then begin                      
+   if (self_elevation == 0) then begin
       z_floater(self_obj,random(210,219),COLOR_MSG_NORMAL);
    end
    else begin
