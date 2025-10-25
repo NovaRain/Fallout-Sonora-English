@@ -52,7 +52,7 @@
 {243}{}{Good riddance. No one's gonna miss you here.}
 {244}{}{Goodbye.}
 {245}{}{Yuck! I thought you were another ghoul. But you're just some kind of ugly mutant freak. We don't want you around here. Get lost.}
-{1245}{}{Yuck! I thought you were another ghoul. But you're just some kind of ugly mutant freak. We don't want you around here. Get lost.}
+{1245}{}{Yuck! I thought you were another ghoul. But you're just some kind of ugly mutant bitch. We don't want you around here. Get lost.}
 
 {250}{}{I've been sent by the mayor of Old Town.}
 {251}{}{Yeah? And what does he want?}

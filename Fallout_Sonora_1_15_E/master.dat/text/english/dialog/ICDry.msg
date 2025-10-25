@@ -50,7 +50,7 @@
 {252}{}{They used to be important and influential. Now, as demons, they still crush others underfoot. (laughs) Fine, let them shine and live forever in torment.}  
 {253}{}{[More]}  
 {254}{}{This is a hell worse than death. They can't die, even if they want to. This is their punishment -- immortality. Tormented by their sins, they must suffer forever.}  
-{255}{}{I guess your a 'demon' too? Like those glowing ones?}  
+{255}{}{I guess you're a 'demon' too? Like those glowing ones?}  
 {256}{}{What kind of place turns people into this?}  
 {257}{}{So you were kicked out of the pack? Is that why you're so skinny?}  
 {258}{}{The pack shares food. You can't survive here alone. And the glowing ones take all the best for themselves. When there's no food, they eat the weakest... like me. They'll eat me next, and I'll be freed from torment. But I don't want to be eaten. That's why I'm hiding.}  

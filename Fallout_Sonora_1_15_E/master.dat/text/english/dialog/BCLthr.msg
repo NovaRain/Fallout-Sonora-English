@@ -7,7 +7,7 @@
 {201}{}{Sure. Who are you? And what is this place?}
 {202}{}{I did, just wanted to meet you.}
 {203}{}{I am Ronnie and this is my leather workshop.}
-{204}{}{Looks like your set up pretty well here, Ronnie.}
+{204}{}{Looks like you're set up pretty well here, Ronnie.}
 {205}{}{Correct. I used to travel throughout the Sonoran Desert and herd brahmin like the others. And now I sit here and prepare leather for my fellow tribesmen and for sale.}
 {206}{}{Seems like an important job, Ronnie.}
 {207}{}{Must be a good business.}

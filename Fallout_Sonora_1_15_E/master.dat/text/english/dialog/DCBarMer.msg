@@ -25,7 +25,7 @@
 {219}{}{Looks like I have no choice... Who's ready to do this? I'm gonna pay anyone who helps save my daughter.}
 {220}{}{Wait, let's not rush. Let me assess the situation.}
 {221}{}{I'm in. Let's give those bastards hell!}
-{222}{}{Then lets go!}
+{222}{}{Then let's go!}
 {223}{}{Yeah!}
 {224}{}{Why not pay them a ransom?}
 {225}{}{They want too much. The city will be ruined. And further...}
@@ -63,7 +63,7 @@
 {275}{}{That's impossible. I propose a frontal attack right now!}
 {276}{}{Relax, Don. All the highwaymen in the bar are already dead.}
 {277}{}{Amazing! You are quite the problem solver.}
-{1277}{}{Amazing! You are quite the problem solver.}
+{1277}{}{Amazing! You are quite the problem solver, lady.}
 {278}{}{Then you're in luck.}
 
 {280}{}{}

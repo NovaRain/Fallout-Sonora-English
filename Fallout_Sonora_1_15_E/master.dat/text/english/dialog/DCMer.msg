@@ -53,7 +53,7 @@
 {240}{}{What is it this time?}
 {241}{}{You again? What is it this time?}
 {242}{}{You again? I told you to get out of my town.}
-{1242}{}{You again? I told you to get out of my town.}
+{1242}{}{You again? I told you to get out of my town, bitch.}
 {243}{}{Goodbye, Don Bustos.}
 {244}{}{(As you enter the office, you find the local mayor leaning tiredly on the table. In his other hand he holds a bottle of alcohol. "Oh..." he says, seeing your colorful robe.) What a surprise. I'm usually warned about any visits of ambassadors from your church.}
 {245}{}{I'm just passing through here.}
@@ -330,7 +330,7 @@
 {532}{}{Fuel is their lifeblood, both a weapon and a means of survival. In the future, it could serve as a valuable trade resource. Plus, the depot's destruction will cripple their fort's actual structure. Such a blow would seriously rock the gang.}
 {533}{}{How will you know if I blow up this depot?}
 {534}{}{I'll be able to see the smoke through binoculars. There are eyes and ears everywhere; something like that can't be hidden from anyone.}
-{535}{}{Where is the Blue Shields main base?}
+{535}{}{Where is the Blue Shields' main base?}
 {536}{}{According to the caravan leaders, it's somewhere to the northeast of us.}
 {537}{}{Why were some Casa Grande residents among the highwaymen?}
 {538}{}{It's an old and long story. When I became mayor, the first thing I did was evict all the scum from the city. As it turned out, some of them survived and began to terrorize the highways.}

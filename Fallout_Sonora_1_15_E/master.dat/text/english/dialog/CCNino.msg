@@ -6,7 +6,7 @@
 {200}{}{What do you want, gringo?}
 {201}{}{Oh, you speak English?}
 {202}{}{A little. I'm Antonio. My parents were from the north, so I understand a bit of your language.}
-{203}{}{I guess I'm lucky. How come your in here? Aren't you joining the celebrations with everyone?}
+{203}{}{I guess I'm lucky. How come you're in here? Aren't you joining the celebrations with everyone?}
 {204}{}{I don't like this holiday. I wish it would end.}
 {205}{}{Why?}
 {206}{}{How can you celebrate a Day of Life when so many people have died? This old man and everyone else are just happy they weren't the ones who died. Bastards.}

@@ -24,7 +24,7 @@
 {217}{}{Who knows?}
 {218}{}{Ah, if only we'd had someone like you on the front lines six years ago - so many brothers could have been saved from the super mutants!}
 {219}{}{Back then, I was working on the plantations and had no idea there was a war with super mutants. That's why I cherish my rural life.}
-{1219}{}{Back then, I was working on the plantations and had no idea there was a war with super mutants. That's why I cherish my rural life.}
+{1219}{}{Back then, I was living in my Villa and had no idea there was a war with super mutants. That's why I cherish my rural life.}
 {220}{}{I did manage to save you, so that's something.}
 {221}{}{Okay, now I need to find a place to clean up. Thanks, brother.}
 {222}{}{By the way, what's the Brotherhood doing here?}

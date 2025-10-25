@@ -804,7 +804,7 @@
 {39701}{}{The severed head of a boss of Los Panchos.}
 {39800}{}{Chucho's Head}
 {39801}{}{Another severed head of a Los Panchos boss.}
-{39900}{}{Adie's Head}
+{39900}{}{Eydie's Head}
 {39901}{}{The head of yet another Los Panchos boss.}
 {40000}{}{Gil McCord's Head}
 {40001}{}{The severed head of a legendary marksman from the Mercenary Guild.}
@@ -931,7 +931,7 @@
 {46100}{}{Tablet with Notes}
 {46101}{}{A work tablet with notes by old Isaac. Here, he describes the steps to restore the Bonita dam.}
 {46200}{}{Gustavo's Holodisk}
-{46201}{}{Seùor Gustavo asked to secretly deliver this holodisk to the mayor in Old Town.}
+{46201}{}{SeÒor Gustavo asked to secretly deliver this holodisk to the mayor in Old Town.}
 {46300}{}{Vacuum Tube}
 {46301}{}{A high-power electronic vacuum tube. Most of these tubes have long since burnt out, but this one still works, making it quite rare, and expensive.}
 {46400}{}{Dispatcher Module}

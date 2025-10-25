@@ -259,7 +259,6 @@ end
 procedure NodeFstDialog4 begin
    bitDialogExp(bit_1,0)
    setQuest(GVAR_PHENIX_QST_PLANT,qStart);
-   setQuest(GVAR_PHENIX_QST_PLANT_REPAIR,qStart);
    Reply(206)
    NAnswer(207,1,NodeFstDialog5)
    GAnswer(211,1,NodeFstDialog6)
@@ -272,6 +271,8 @@ procedure NodeFstDialog5 begin
 end
 
 procedure NodeFstDialog6 begin
+   //moved quest start to here, as this is where the player agrees to the quest, which matters for future reponses - cambragol
+   setQuest(GVAR_PHENIX_QST_PLANT_REPAIR,qStart);
    Reply(212)
    NAnswer(213,1,Node999)
 end

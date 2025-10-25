@@ -68,7 +68,7 @@
 {271}{}{It's risky, but necessary. No one but you can handle it. If we leave the mine, slavery will expand and reach us again. We can't handle that.}
 {272}{}{I see.}
 {273}{}{The Council has decided to destroy the Garage City factory. What do you think?}
-{274}{}{The scavengers deserve it. They betrayed us by aiding the raiders. Restarting the factory will cost us our privacy, peace, and way of life. It should be destoryed.}
+{274}{}{The scavengers deserve it. They betrayed us by aiding the raiders. Restarting the factory will cost us our privacy, peace, and way of life. It should be destroyed.}
 {275}{}{I see.}
 {276}{}{How do you feel about an alliance with the Rangers?}
 {277}{}{The Rangers have their own goals. But we need allies to improve our security. No one better than the Rangers. We can only hope they limit themselves to protection in exchange for food.}
