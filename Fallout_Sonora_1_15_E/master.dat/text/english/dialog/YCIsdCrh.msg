@@ -28,6 +28,7 @@
 {203}{}{You smoothskin bastard! Don't you dare tell anyone!}
 {204}{}{I'm not blaming you. I understand. You did what you had to.}
 {205}{}{Oh, friend, please don't tell anyone!}
+{1205}{}{Oh, lady, please don't tell anyone!}
 {206}{}{Really? Well, thank you. But Zerah's gone...}
 {207}{}{Are you sure he's dead?}
 {208}{}{Scum like you piss me off. How could you abandon your friend like that!}

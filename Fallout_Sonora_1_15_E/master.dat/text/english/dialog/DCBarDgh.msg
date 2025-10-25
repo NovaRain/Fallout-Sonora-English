@@ -6,7 +6,7 @@
 
 #First dialogue
 {200}{}{Stay away from me, you filthy highwayman!}
-{1200}{}{Stay away from me, you filthy raider!}
+{1200}{}{Stay away from me, you filthy raider bitch!}
 {201}{}{Calm down. Your father sent me.}
 {202}{}{My... dad? Daddy... Let's get out of here, quickly.}
 {203}{}{I'll untie you... Let's go, but quietly.}

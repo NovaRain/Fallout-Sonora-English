@@ -2,9 +2,11 @@
 {101}{}{You see a ghoul in combat armor and helmet.}
 
 {200}{}{John spoke about you. Said you're a smart one. You ready to storm the island with that smooth, baby face?}
+{1200}{}{John spoke about you. Said you're a smart lady. You ready to storm the island with that smooth, baby face?}
 {201}{}{I'm ready. You don't need to worry about that.}
 {202}{}{I can handle whatever's thrown at me, ghoul.}
 {203}{}{John spoke about you. Said you're a smart one. Hope you realize the risks waiting for you on the island?}
+{1203}{}{John spoke about you. Said you're a smart lady. Hope you realize the risks waiting for you on the island?}
 {204}{}{Yeah... might need to prep a bit for the landing.}
 {205}{}{I understand the risks, ghoul.}
 {206}{}{John spoke about you, but I didn't expect to see Gustavo's people here. What's going on?}
@@ -22,8 +24,8 @@
 {224}{}{What's stopped you from landing there until now?}
 {225}{}{Coronado Island's got big guns. Some survived the bombings under shields, stretching along the whole coastline to keep us away. There's also concrete forts, debris in the water, underwater mines, and patrolling robots. We also didn't have a transponder with a base-friendly ID - and nice work on helping set that up, by the way.}
 {226}{}{What is my objective on the island?}  
-{227}{}{For you, our smooth-skinned friend, the goal is simple-disable the internal security system so the robots and turrets stop shooting at everyone indiscriminately. After that, we'll take care of figuring out what and how to extract from the island.}  
-
+{227}{}{For you, our smooth-skinned friend, the goal is simple - disable the internal security system so the robots and turrets stop shooting at everyone indiscriminately. After that, we'll take care of figuring out what and how to extract from the island.}
+{1227}{}{For you, our lovely smooth-skinned friend, the goal is simple - disable the internal security system so the robots and turrets stop shooting at everyone indiscriminately. After that, we'll take care of figuring out what and how to extract from the island.}
 
 {250}{}{Ah! Do you feel that beautiful fresh air?}
 {251}{}{I only feel radioactive dust from scorched earth.}

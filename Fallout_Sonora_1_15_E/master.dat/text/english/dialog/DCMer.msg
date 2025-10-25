@@ -53,7 +53,7 @@
 {240}{}{What is it this time?}
 {241}{}{You again? What is it this time?}
 {242}{}{You again? I told you to get out of my town.}
-{1242}{}{You again? I told you to get out of my town.}
+{1242}{}{You again? I told you to get out of my town, bitch.}
 {243}{}{Goodbye, Don Bustos.}
 {244}{}{(As you enter the office, you find the local mayor leaning tiredly on the table. In his other hand he holds a bottle of alcohol. "Oh..." he says, seeing your colorful robe.) What a surprise. I'm usually warned about any visits of ambassadors from your church.}
 {245}{}{I'm just passing through here.}

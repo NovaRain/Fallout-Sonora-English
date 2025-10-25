@@ -37,6 +37,7 @@
 {229}{}{Okay.}
 {230}{}{Actually, that's a great idea. What do I need to do for you to release the ghouls?}
 {231}{}{Surprise, surprise! Alright, bring me 10 microchips. That'll be enough to compensate for our losses. And after that, we'll go trade up north.}
+{1231}{}{Surprise, surprise! Alright, bring me 10 microchips. That'll be enough to compensate for our losses. And after that, we'll go trade up north.}
 {232}{}{Okay.}
 {233}{}{I've had enough of this 'fetching' crap. It'd be easier just to end you right now!}
 {234}{}{I'm still waiting for the microchips. Come on, surprise me!}
@@ -51,6 +52,7 @@
 {243}{}{Good riddance. No one's gonna miss you here.}
 {244}{}{Goodbye.}
 {245}{}{Yuck! I thought you were another ghoul. But you're just some kind of ugly mutant freak. We don't want you around here. Get lost.}
+{1245}{}{Yuck! I thought you were another ghoul. But you're just some kind of ugly mutant bitch. We don't want you around here. Get lost.}
 
 {250}{}{I've been sent by the mayor of Old Town.}
 {251}{}{Yeah? And what does he want?}

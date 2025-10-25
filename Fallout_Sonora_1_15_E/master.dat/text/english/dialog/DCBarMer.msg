@@ -63,7 +63,7 @@
 {275}{}{That's impossible. I propose a frontal attack right now!}
 {276}{}{Relax, Don. All the highwaymen in the bar are already dead.}
 {277}{}{Amazing! You are quite the problem solver.}
-{1277}{}{Amazing! You are quite the problem solver.}
+{1277}{}{Amazing! You are quite the problem solver, lady.}
 {278}{}{Then you're in luck.}
 
 {280}{}{}

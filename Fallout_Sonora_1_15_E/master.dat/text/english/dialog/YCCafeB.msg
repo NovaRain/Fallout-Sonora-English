@@ -19,6 +19,7 @@
 {230}{}{Do you have anything stronger than old beer?}
 {231}{}{Good liquor has become a real rarity. What they find in the ruins is usually sold to northern-bound caravans, and the bar is left with whatever swill remains.}
 {232}{}{That's a shame. I was hoping for a good drink...}
+{1232}{}{That's a shame. I was hoping for a good drink...}
 {233}{}{I could scavenge for some good stuff in the ruins for you.}
 {234}{}{Bring me any, and I'll gladly pay triple the price.}
 {235}{}{Deal. I'll bring you all the hard liquor I find in the ruins.}

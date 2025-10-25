@@ -17,7 +17,7 @@
 {201}{}{You're a dead man walking.}
 {202}{}{You're surrounded. Surrender before you regret it.}
 {203}{}{(pauses to consider for a moment) Fuck you!}
-{1203}{}{(pauses to consider for a moment) Fuck you!}
+{1203}{}{(pauses to consider for a moment) Fuck you, bitch!}
 {204}{}{Let's go...}
 {205}{}{(pauses to consider for a moment then flees)}
 {206}{}{Yeah, get lost.}

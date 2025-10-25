@@ -2,6 +2,7 @@
 {101}{}{You see an elderly ghoul in glasses. He is weakly rocking back and forth in his chair.}
 
 {200}{}{Hey, which book character are you, esteemed one? I don't remember reading about you.}
+{1200}{}{Hey, which book character are you, my fair lady? I don't remember reading about you.}
 {201}{}{What are you babbling about, old fart?}
 {202}{}{Oh, sorry, sorry! Can't a man fantasize anymore? By the way, I'm Phil. Sort of a scientist, if you can call it that.}
 {203}{}{Nice to meet you, Phil. It's rare to meet scholars these days.}
@@ -44,7 +45,8 @@
 {237}{}{Not bad. Quite good for an amateur. However, you'll need a lot more practice to beat me.}
 {238}{}{Well, I tried my best.}
 {239}{}{Let's talk about something else.}
-{240}{}{You actually beat me? Extraordinary!}
+{240}{}{You actually beat ME? Extraordinary!}
+{1240}{}{You actually beat me. What an extraordinary lady!}
 {241}{}{Do you want to play a game of chess?}
 {242}{}{I guess you should never underestimate your opponent?}
 {243}{}{It was definitely a fluke. Didn't mean to dethrone the champ.}

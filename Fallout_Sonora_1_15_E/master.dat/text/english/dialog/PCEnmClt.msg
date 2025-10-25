@@ -3,7 +3,7 @@
 {102}{}{Move along.}
 
 {200}{}{Where you headed, cultist? Trying to run out of the city? Smart move. We'll help you along.}
-{1200}{}{Where you headed, cultist? Trying to run out of the city? Smart move. We'll help you along.}
+{1200}{}{Where you headed, cultist bitch? Trying to run out of the city? Smart move. We'll help you along.}
 {201}{}{Really? That's...so kind of you.}
 {202}{}{You've got the wrong person.}
 {203}{}{Nah, we know you're one of those fire worshippers. And guess what? We're done putting up with your 'nuclear magic'. Get lost, scum.}

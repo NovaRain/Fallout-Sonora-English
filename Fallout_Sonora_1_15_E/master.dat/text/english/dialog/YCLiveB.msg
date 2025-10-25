@@ -36,6 +36,7 @@
 {231}{}{What do you want? Who sent you?}
 {232}{}{Miss Judy. She's looking for her missing husband. And it looks like he's secretly wasting all his money here.}
 {233}{}{(sigh) Listen, buddy. Do you think I'd be hanging around here if I wanted to reunite with Judy?}
+{1233}{}{(sigh) Listen, babe. Do you think I'd be hanging around here if I wanted to reunite with Judy?}
 {234}{}{I don't really care actually. She's looking for you, that's all.}
 {235}{}{So you have no interest in reuniting with your wife?}
 {236}{}{You're a man, you should understand what it's like to be nagged by a woman for 80 years!}

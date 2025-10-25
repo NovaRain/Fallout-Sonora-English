@@ -49,8 +49,8 @@
 {242}{}{Oh, it's from that herding tribe out west. They finally got smart and started trading with Phoenix.}
 {243}{}{I think I know about that.}
 {244}{}{Really? Then you know what I'm talkin' about. Pure freshness! Top-grade beef. Expensive, but worth it. Look, I've gotten fat off just one steak, like a pregnant rat. Ha-ha!}
-{245}{}{Well, good for you. I hope you're storing all that fat up nicely.}
-{1245}{}{Well, good for you. I hope you're storing all that fat up nicely.}
+{245}{}{Well, good for you. Hope you're storing all that fat up nicely.}
+{1245}{}{Well, good for you. Hope you're storing all that fat up nicely.}
 
 {250}{}{What happened to Lloyd?}
 {251}{}{Some street thug knifed him like a dog. Shouldn't have been flaunting his new suit.}
