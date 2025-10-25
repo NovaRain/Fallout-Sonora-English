@@ -228,7 +228,7 @@ procedure use_obj_on_p_proc begin
        end
    end
 
-   if (objUsedPid == PID_TOOL_CAR_GAZ) then begin
+   else if (objUsedPid == PID_TOOL_CAR_GAZ) then begin
        play_sfx("WOS1XXX1"); // play_sfx("WRS1XXX1");
        dude_floater_OK;
    end
@@ -249,7 +249,7 @@ procedure use_obj_on_p_proc begin
        floater(dude_obj,201,COLOR_MSG_NORMAL);
    end
 
-   if (objUsedPid == PID_TOOL_PARTS_MECHANICAL) then begin
+   else if (objUsedPid == PID_TOOL_PARTS_MECHANICAL) then begin
        script_overrides;
        display_mstr(204);
        floater(dude_obj,201,COLOR_MSG_NORMAL);
