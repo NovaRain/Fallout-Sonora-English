@@ -69,7 +69,7 @@ Copy code
 {251}{}{[Continue]}
 {252}{}{Beyond the valley, there's a world we never imagined. Outsiders have caught wind of our plantations. Sooner or later, thieves and traders alike will come to take a slice of what we've got.}
 {253}{}{[Continue]}
-{254}{}{We must prepare for their arrival. Remember how easily those raiders stormed our village and took everyone captive? Even Seï¿½or Andres couldn't fend them off in the town hall. (The hall fills with murmurs of anger.)}
+{254}{}{We must prepare for their arrival. Remember how easily those raiders stormed our village and took everyone captive? Even Señor Andres couldn't fend them off in the town hall. (The hall fills with murmurs of anger.)}
 {255}{}{[Continue]}
 {256}{}{Quiet now. We're all on edge, but not all is lost. We've returned from our ordeal, our homes still stand, and soon the plantations will bear fruit again. We still have some time.}
 {257}{}{[Continue]}
@@ -102,12 +102,12 @@ Copy code
 {277}{}{Friends, let's continue.}
 {278}{}{Well, that's gratitude for you. Typical.}
 
-{280}{}{The thing is, slavery and that long trek through the desert have really taken a toll on Seï¿½or Andres. He can't stray too far from the Villa now and is barely managing the village's recovery. }
+{280}{}{The thing is, slavery and that long trek through the desert have really taken a toll on Señor Andres. He can't stray too far from the Villa now and is barely managing the village's recovery. }
 {281}{}{, you're going to have to take on some of his duties. It's time you start carrying the responsibility your padre once did.}
 {282}{}{Of course. I've been preparing for this my whole life.}
 {1282}{}{Of course. I've been preparing for this my whole life.}
 {283}{}{Is this some kind of joke? Hey, padre, what's going on?}
-{284}{}{I'm also sorry to share some sad news. Seï¿½or Andres, your savior's father, died during his imprisonment. (a gasp ripples through the crowd) According to our community's rules, his rightful heir will take his place. }
+{284}{}{I'm also sorry to share some sad news. Señor Andres, your savior's father, died during his imprisonment. (a gasp ripples through the crowd) According to our community's rules, his rightful heir will take his place. }
 {285}{}{, you're now our leader.}
 {286}{}{Of course. I've been preparing for this my whole life.}
 {1286}{}{Of course. I've been preparing for this my whole life.}
