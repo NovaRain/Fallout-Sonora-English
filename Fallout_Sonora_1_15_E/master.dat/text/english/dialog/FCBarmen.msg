@@ -286,7 +286,7 @@
 {452}{}{Turned their superstitions against 'em. A little trickery.}
 {453}{}{Yikes, glad I'm not on your bad side. Camp's a major meat source for me and the city. Now we owe you big time. Thanks.}
 {454}{}{People shouldn't suffer for leaders' failures.}
-{455}{}{Thanks doesn't pay the bills.}
+{455}{}{'Thanks' doesn't pay the bills.}
 {456}{}{I was thinking of paying you 20 caps to bring back the meat. But after how that job turned out, it'd take me a year just to make it up to you. Tell you what, I'll give you a 50% discount on all my goods. Seems fair, right?}
 {457}{}{Seems fair. Okay, I'm off to keep righting wrongs.}
 {458}{}{I've got it covered.}

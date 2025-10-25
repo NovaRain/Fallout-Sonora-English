@@ -41,7 +41,7 @@
 
 {250}{}{We are facing a disaster. It's as if the sea itself is punishing fishermen and peasants for the mistakes of our ancestors!}
 {251}{}{What are you talking about?}
-{252}{}{Take a closer look out to sea. See that platform on the horizon? Looks like some black, oily muck is leaking right into the water from it, right? It smells awful, and the sea life around here is dying off at like crazy because of it. This has happened before, but lately, it's become too much.}
+{252}{}{Take a closer look out to sea. See that platform on the horizon? Looks like some black, oily muck is leaking right into the water from it, right? It smells awful, and the sea life around here is dying off like crazy because of it. This has happened before, but lately, it's become too much.}
 {253}{}{Is it that bad?}
 {254}{}{At first we were happy to see the coastline littered with fish - just come and take as much as you want. But all these dead fish are poisoned. Some of our people still suffer from eating it. And I'm not sure if they'll recover.}
 {255}{}{What kind of poison is this?}
@@ -53,7 +53,7 @@
 {261}{}{Thanks. You give me hope. And about a boat, talk to the fishermen on the pier.}
 {262}{}{Okay.}
 {263}{}{What about the Brotherhood of Steel? Why not ask them for help?}
-{264}{}{Brotherhood? Ha! They would rather have their hands cut off than allow ancient technologies to be destroyed. I think the Brotherhood hopes to restore this platform. But until they sort out the problems in the east, he won't have enough strength to deal with the platform. That is, we'll have to wait a long time for their help.}
+{264}{}{Brotherhood? Ha! They would rather have their hands cut off than allow ancient technologies to be destroyed. I think the Brotherhood hopes to restore this platform. But until they sort out the problems in the east, they won't have enough strength to deal with the platform. That is, we'll have to wait a long time for their help.}
 {265}{}{I see.}
 
 {270}{}{All the sick have recovered. The poison no longer affects them.}

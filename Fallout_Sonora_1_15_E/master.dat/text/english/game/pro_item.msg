@@ -804,7 +804,7 @@
 {39701}{}{The severed head of a boss of Los Panchos.}
 {39800}{}{Chucho's Head}
 {39801}{}{Another severed head of a Los Panchos boss.}
-{39900}{}{Adie's Head}
+{39900}{}{Eydie's Head}
 {39901}{}{The head of yet another Los Panchos boss.}
 {40000}{}{Gil McCord's Head}
 {40001}{}{The severed head of a legendary marksman from the Mercenary Guild.}
@@ -931,7 +931,7 @@
 {46100}{}{Tablet with Notes}
 {46101}{}{A work tablet with notes by old Isaac. Here, he describes the steps to restore the Bonita dam.}
 {46200}{}{Gustavo's Holodisk}
-{46201}{}{Seùor Gustavo asked to secretly deliver this holodisk to the mayor in Old Town.}
+{46201}{}{SeÔøΩor Gustavo asked to secretly deliver this holodisk to the mayor in Old Town.}
 {46300}{}{Vacuum Tube}
 {46301}{}{A high-power electronic vacuum tube. Most of these tubes have long since burnt out, but this one still works, making it quite rare, and expensive.}
 {46400}{}{Dispatcher Module}
@@ -1004,7 +1004,7 @@
 {49701}{}{A pistol originally designed to shoot flares. You've modified its barrel to fire shotgun shells. Shooting has become heavier, but deadlier. Min ST: 5.}
 {49800}{}{Laser Emitter (Improved)}
 {49801}{}{A makeshift weapon created from parts of an industrial robot. Emits a low-power laser beam over a short distance. Min ST: 3.}
-{49900}{}{°Viva Villa!}
+{49900}{}{ÔøΩViva Villa!}
 {49901}{}{This is an old patriotic comic book. It's amusing that even now its content hasn't lost its relevance.}
 {50000}{}{}
 {50001}{}{}

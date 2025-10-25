@@ -73,7 +73,7 @@
 {253}{}{Where did you all come from?}
 {254}{}{Our origins lie in California. For many years, we remained quietly tucked away in our bunker, keeping to ourselves and avoiding the chaos of the outside world. But our time of seclusion has passed - now, we extend our reach. This is just one of many outposts.}
 {255}{}{Tell me the story of the Brotherhood.}
-{256}{}{Our order was founded during the Great War by General Maxon, who led our ancestors to an old military base where we endured the darkest of times. Generations have come and gone since, and now his descendant carries the torch, guiding us forward.}
+{256}{}{Our order was founded during the Great War by General Maxson, who led our ancestors to an old military base where we endured the darkest of times. Generations have come and gone since, and now his descendant carries the torch, guiding us forward.}
 {257}{}{What is your mission? What do you ultimately hope to achieve?}
 {258}{}{Our mission is to recover and preserve ancient technologies, with the ultimate goal of restoring order to a once-great country. Yet, within the Brotherhood, there is debate. For years, we remained passive, but recent events in California have forced us to reconsider our role and step into the light once more.}
 {259}{}{Country? What country are we talking about?}

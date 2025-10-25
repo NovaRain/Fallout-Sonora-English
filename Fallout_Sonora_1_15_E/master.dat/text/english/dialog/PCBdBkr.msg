@@ -8,7 +8,7 @@
 {201}{}{That's right.}
 {202}{}{Maybe it is. What's it to you?} 
 {203}{}{You're wrong. It's my bike. Got a problem with that? Or maybe you want to BUY it? Smart move. Price is 500 caps. And hurry up before I change my mind.}
-{204}{}{Why do you need it? I doubt you can't even ride it.}
+{204}{}{Why do you need it? I doubt you can even ride it.}
 {205}{}{Do I look like an idiot? This bike is a hot commodity. If you don't pay, someone else will.}
 {206}{}{Hand over the motorcycle. I'm asking nicely, but there won't be a second time.}
 {207}{}{Give me time to get the caps.}

@@ -25,7 +25,7 @@
 {219}{}{Looks like I have no choice... Who's ready to do this? I'm gonna pay anyone who helps save my daughter.}
 {220}{}{Wait, let's not rush. Let me assess the situation.}
 {221}{}{I'm in. Let's give those bastards hell!}
-{222}{}{Then lets go!}
+{222}{}{Then let's go!}
 {223}{}{Yeah!}
 {224}{}{Why not pay them a ransom?}
 {225}{}{They want too much. The city will be ruined. And further...}

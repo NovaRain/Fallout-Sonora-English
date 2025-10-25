@@ -20,7 +20,7 @@
 {213}{}{What's going on? What's all the commotion?}
 {214}{}{I see you won't help me. Can I go, Paladin?}
 {215}{}{You again? I told you, we can't deal with your village right now. We have bigger issues.}
-{216}{}{Enemies from the south, mutants in the west, chaos in the east. We lost a squard up north and can't even send a rescue mission.}
+{216}{}{Enemies from the south, mutants in the west, chaos in the east. We lost a squad up north and can't even send a rescue mission.}
 {217}{}{What if I helped you find this squad? Would you let me see the general then?}
 {218}{}{Help us? A peasant helping the Brotherhood? Haha, did you hear that, guys? Alright, let's see what you've got.}
 {1218}{}{Help us? A peasant woman helping the Brotherhood? Haha, did you hear that, guys? Alright, let's see what you've got.}

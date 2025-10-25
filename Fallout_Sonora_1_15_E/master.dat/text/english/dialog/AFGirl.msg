@@ -14,9 +14,9 @@
 {205}{}{What happened?}
 {206}{}{Well, I'll tell you if you get me something cold from the bar.}
 {207}{}{Okay, I'll get something now.}
-{208}{}{No drinking, seÃ±orita. AdiÃ³s.}
+{208}{}{No drinking, señorita. Adiós.}
 {209}{}{Here's 5 caps, get yourself one.}
-{210}{}{Â¡Muchas gracias!}
+{210}{}{¡Muchas gracias!}
 {211}{}{Now tell me what's going on here.}
 {212}{}{Well, you've already shared a drink. I think I owe you one.}
 {1212}{}{Well, you've already shared a drink. I think I owe you one.}
