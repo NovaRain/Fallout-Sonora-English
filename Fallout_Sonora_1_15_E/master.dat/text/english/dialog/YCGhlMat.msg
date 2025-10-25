@@ -46,7 +46,7 @@
 {238}{}{Well, I tried my best.}
 {239}{}{Let's talk about something else.}
 {240}{}{You actually beat ME? Extraordinary!}
-{1240}{}{You actually beat ME? Extraordinary!}
+{1240}{}{You actually beat me. What an extraordinary lady!}
 {241}{}{Do you want to play a game of chess?}
 {242}{}{I guess you should never underestimate your opponent?}
 {243}{}{It was definitely a fluke. Didn't mean to dethrone the champ.}

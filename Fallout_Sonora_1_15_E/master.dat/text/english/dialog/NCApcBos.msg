@@ -167,8 +167,8 @@
 
 # Questions
 {400}{}{Tell me about the Followers.}
-{401}{}{There's myself. I run the clinic and chemical lab. And Teresa. She handles teaching and research.}
-{402}{}{Also Diana recently joined us.}
+{401}{}{There's myself. I run the clinic and chemical lab. And Teresa. She handles teaching and research. }
+{402}{}{Also, Diana recently joined us.}
 {403}{}{Thanks, I had some other questions though.}
 {404}{}{Who is the boss among you?}
 {405}{}{We don't have bosses. Each Follower does their own thing, and together we form a board to resolve common issues. It's different from the rough, primitive relationships you're used to in the wasteland.}

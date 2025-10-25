@@ -16,8 +16,8 @@
 {211}{}{Nothing. See you around.}
 {212}{}{See you around, Mr. De Santi.}
 {213}{}{Catch you later, Mr. De Santi.}
-{214}{}{Ah, nothin' like the smell of caps before bed. Alright, kid, you really earned half.}
-{215}{}{(shakes the bag of caps) Ah! Love the sound of caps during lunch. Alright, kid, you really earned half.}
+{214}{}{Ah, nothin' like the smell of caps before bed. Alright, you really earned half.}
+{215}{}{(shakes the bag of caps) Ah! Love the sound of caps during lunch. Alright, you really earned half.}
 
 # Quests
 {220}{}{Have you tried dealing with the crazies in the building next door?}
@@ -52,11 +52,11 @@
 {246}{}{Alright.}
 {247}{}{Here are the caps Kurt owed - exactly 300 of them.}
 {248}{}{Ah, nothin' like the smell of caps in the mornin'. Alright, kid, you earned your cut.}
-{1248}{}{Ah, nothin' like the smell of caps in the mornin'. Alright, baby, you earned your cut.}
+{1248}{}{Ah, nothin' like the smell of caps in the mornin'. Alright, honey, you earned your cut.}
 {249}{}{Of course.}
 
 {250}{}{It looks like everything is falling apart here. Need some repairs done?}
-{251}{}{You got it, kid. Takin' care of this place alone? It's no picnic. Could use a bit of a tune-up, that's for sure.}
+{251}{}{You got it. Takin' care of this place alone? It's no picnic. Could use a bit of a tune-up, that's for sure.}
 {252}{}{I could do it for a moderate fee.}
 {253}{}{Sorry, but I can't help with that.}
 {254}{}{Actually, I know someone better suited. Don't even need to pay him. He's sittin' in the pantry across the street - it's a 'Mr. Handy'. Just gotta get him up and runnin' and load a hotel manager program on him. I'll pay you 300 hubbucks if you pull it off.}
@@ -82,8 +82,8 @@
 {271}{}{Ah, love them old classics. But I wouldn't recommend watchin' it, kid - you're too young for this sorta thing. Just take the caps and fuhgeddaboudit.}
 {1271}{}{Ah, love them old classics. But I wouldn't recommend watchin' it, honey - you're too young for this sorta thing. Just take the caps and fuhgeddaboudit.}
 {272}{}{Okay.}
-{273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, kid, I don't take failure lightly.}
-{1273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, baby, I don't take failure lightly.}
+{273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, I don't take failure lightly.}
+{1273}{}{Got one more job for ya, but it ain't small potatoes. I'll pay good - 500 hubbucks - but listen, honey, I don't take failure lightly.}
 {274}{}{Tell me what to do.}
 {275}{}{Don't tak... Hold on, mister. That's enough. I'm getting a little tired of your attitude. I'm out.}
 {276}{}{Somewhere on the way to San Ysidro, a courier bot with an important part got... misplaced. I need that part. Chop-chop, kid, move it.}
@@ -113,7 +113,7 @@
 {293}{}{Alright, let's get down to *real* business. There's a bunch of rogue scavengers nearby. They're diggin' through MY ruins without payin' up. They should be workin' for me, and if not, they can get off my turf! Go handle it.}
 {294}{}{Will do.}
 {295}{}{Nah, that isn't for me. I'm here to earn caps, not be some muscle for your shady deals.}
-{296}{}{Disappointed, kid. Thought we were friends. And friends don't turn on each other. So here's a tip: watch your back.}
+{296}{}{Disappointed. Thought we were friends. And friends don't turn on each other. So here's a tip: watch your back.}
 {297}{}{I'm done with this business with the scavengers.}
 {298}{}{The 'problem' with the scavengers has been... resolved.}
 {299}{}{Once again, you came through for me.}
@@ -161,7 +161,7 @@
 {354}{}{[Leave]}
 {355}{}{Flowers is dead.}
 {356}{}{That's rotten news, kid. And I don't take kindly to rotten news. You've let me down. Get out. No more work for you.}
-{1356}{}{That's rotten news, baby. And I don't take kindly to rotten news. You've let me down. Get out. No more work for you.}
+{1356}{}{That's rotten news, honey. And I don't take kindly to rotten news. You've let me down. Get out. No more work for you.}
 {357}{}{[Leave]}
 {358}{}{Flowers didn't want to work for you. He joined the scavengers.}
 

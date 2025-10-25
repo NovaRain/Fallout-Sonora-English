@@ -18,7 +18,7 @@
 {200}{}{Ahh, fresh biological material. Lie down there. (points unceremoniously at the dirty operating table) What are we fixing today?}
 {201}{}{I'm not a machine you can just *fix*.}
 {202}{}{Understood. If the material is exceptionally fragile, then surgical amputation is the optimal solution. It ensures maximum efficiency.}
-{203}{}{Hey, were not cutting anything off either!}
+{203}{}{Hey, we're not cutting anything off either!}
 {204}{}{Really? (adjusts strange glasses with glowing lenses and examines you) Where does it hurt?}
 {205}{}{Uh, doc... maybe we should talk first?}
 {206}{}{Wait, Doc, I'll be back soon...}

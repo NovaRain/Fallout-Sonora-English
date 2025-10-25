@@ -4,7 +4,7 @@
 
 #First Dialogue
 {200}{}{Hey there, are you lost?}
-{1200}{}{Hey there, are you lost?}
+{1200}{}{Hey there, you lost?}
 {201}{}{Sort of. Do you actually live here?}
 {202}{}{(grunts in annoyance) Yeah, this is a community house, and this is my room.}
 {203}{}{And you are...?}

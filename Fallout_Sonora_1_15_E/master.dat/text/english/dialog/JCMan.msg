@@ -25,8 +25,8 @@
 {207}{}{Mmm, what a juicy outsider.}
 
 {1205}{}{Killing you'll earn me fame and respect.}
-{1206}{}{Do you want to die, outsider?}
-{1207}{}{Mmm, what a juicy outsider.}
+{1206}{}{Do you want to die, bitch?}
+{1207}{}{Mmm, what a juicy bitch.}
 
 {210}{}{My l-life is yours now, outsider.}
 {211}{}{*Piteous whine*}

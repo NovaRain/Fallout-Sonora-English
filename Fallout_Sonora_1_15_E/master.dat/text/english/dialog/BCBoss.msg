@@ -123,7 +123,7 @@
 {331}{}{Not you, but your father. I met him once, many years before. Strong man. Persistent. One that all respect.}
 {332}{}{Hmm, sounds like him.}
 {333}{}{My padre is not worthy of such words. He couldn't resist the slavers and surrendered.}
-{334}{}{But he made it clear that he did not want a strangers to set foot in the Villa. We entered into an isolation agreement. Our tribe still does not visit those parts. There is not enough grass for our brahmin.}
+{334}{}{But he made it clear that he did not want strangers to set foot in the Villa. We entered into an isolation agreement. Our tribe still does not visit those parts. There is not enough grass for our brahmin.}
 {335}{}{It's just desert all around.}
 {336}{}{It is very surprising that you grow crops in the middle of barren land. It is as if the Divine Brahmin himself guarded your lands... until recently. Maybe you did something to anger him?}
 {337}{}{I'd also like to know how such a miracle came to be. But enough about my village. Let's talk about yours.}

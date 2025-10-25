@@ -78,6 +78,14 @@ procedure map_enter_p_proc begin
    end
 end
 
+procedure description_p_proc begin
+   //dsrptProcMsg
+   //script_overrides;
+   if (combat_is_initialized == TRUE) then begin
+       script_overrides;
+   end
+end
+
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
       call set_type_door;

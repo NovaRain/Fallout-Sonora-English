@@ -42,7 +42,7 @@
 {230}{}{You again? What do you want?}
 {231}{}{People are talking about you lately. What brings you here?}
 {232}{}{Hello, neighbor. What's new?}
-{1232}{}{Hello, neighbor. What's new?}
+{1232}{}{Hello, miss. What's new?}
 {233}{}{Just wanted to say hello before I leave.}
 
 {240}{}{What do you do, Frank?}

@@ -55,7 +55,7 @@
 {241}{}{So?}
 {242}{}{Flagstaff supplies uranium, and our prisoners are the main link in this chain. Without us, there'd be no progress in the south. We're making history, and now your pathetic village can be part of it. You'll do something useful for the rest of the world.}
 {243}{}{You don't seem like lawmen yourselves.}
-{244}{}{You think there's a big difference? Lawmen live off criminals. They collect taxes from settlements in exchange for protection from raiders and other filth. We live off the criminals labor. (lifts a brass knuckle, inspecting it fondly) Power gives authority. How you wield it is up to you.}
+{244}{}{You think there's a big difference? Lawmen live off criminals. They collect taxes from settlements in exchange for protection from raiders and other filth. We live off the criminals' labor. (lifts a brass knuckle, inspecting it fondly) Power gives authority. How you wield it is up to you.}
 {245}{}{Why do you need uranium ore?}
 {246}{}{Ah, savages like you have forgotten the Old World. Several generations ago, people used uranium ore to generate energy. It powered old technology - from a regular light bulb to the most advanced electronics. In big cities, they still use the remnants of these technologies.}
 {247}{}{Who's buying it?}

@@ -12,7 +12,7 @@
 {204}{}{I see you're serious. Fine, I'll be on my way.}
 {205}{}{Just scavenging for some useful stuff.}
 {206}{}{Then scavenge elsewhere. Your filth stains the Holy Fire's work.}
-{1206}{}{Then scavenge elsewhere. Your filth stains the Holy Fire's work.}
+{1206}{}{Then scavenge elsewhere. Your whorish filth stains the Holy Fire's work.}
 {207}{}{Why the hostility?}
 {208}{}{Leave now, or face the Holy Fire's retribution from my spear.}
 {209}{}{Is that a spear or a rusty pipe? Move aside, cultist.}
@@ -24,7 +24,7 @@
 {221}{}{Perhaps. What's your connection to this spy?}
 {222}{}{Spy? You've got it wrong. We just sell scrap from the ruins. What did he do?}
 {223}{}{Keep to your scavenging, filth, and stay out of trouble.}
-{1223}{}{Keep to your scavenging, filth, and stay out of trouble.}
+{1223}{}{Keep to your scavenging, whore, and stay out of trouble.}
 {224}{}{Uh, okay...}
 {225}{}{Filth? Again? I've put up with your crap enough, you sanctimonious rat.}
 {226}{}{I don't believe your lies. Kneel, wretch, before the Holy Fire.}

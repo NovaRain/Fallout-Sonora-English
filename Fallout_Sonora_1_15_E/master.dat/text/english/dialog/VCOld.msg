@@ -229,7 +229,7 @@ Copy code
 {412}{}{[Next]}
 {413}{}{(a peasant rises) }
 {414}{}{(Sancho rises) }
-{415}{}{You're right. We escaped the slave pen, but as long as the mine is operational, we won't be safe. I think we should destroy them.}
+{415}{}{You're right. We escaped the slave pen, but as long as the mine is operational, we won't be safe. I think we should destroy it.}
 {416}{}{Destroy the mine? How do you propose we do that?}
 {417}{}{In the mine, we used something called "explosives." They can 'explode' and bring down tons of rock. There should be enough of this stuff stored near the mine to collapse the main passage.}
 {418}{}{You're insane. Going back there just to sabotage the place? It's way too dangerous.}
@@ -270,7 +270,7 @@ Copy code
 {457}{}{Hm? Ah... Good news. No need to stir up that old demon. We were fine without the factory.}
 {458}{}{Now it's time to deal with the Flagstaff slave trade...}
 {459}{}{We don't need to destroy the machines in Garage City. The factory leader is offering favorable terms for Villa's restoration.}
-{460}{}{Oh... What are you saying? You're proposing we form an alliance with scavengers? Many won't like that. That said, we desperately need labor and supplies to rebuilt our Villa.}
+{460}{}{Oh... What are you saying? You're proposing we form an alliance with scavengers? Many won't like that. That said, we desperately need labor and supplies to rebuild our Villa.}
 {461}{}{Now I'll go deal with the Flagstaff mine...}
 {462}{}{So, both problems have been solved. Time to convene a new Council.}
 {463}{}{(thinking for a long time, nodding in response) Alright... But now you will only speak with the elders.}

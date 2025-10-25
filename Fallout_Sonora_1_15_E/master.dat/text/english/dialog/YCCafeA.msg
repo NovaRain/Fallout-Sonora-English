@@ -107,8 +107,8 @@
 {300}{}{Alright.}
 {301}{}{Yes, here it is, take it.}
 {302}{}{Oh man, you're saving us! Hey, guys, look, this smoothskin really helped us out. Thank him!}
-{1302}{}{Oh man, you're saving us! Hey, guys, look, this smoothskin really helped us out. Thank her!}
+{1302}{}{Oh babe, you're saving us! Hey, guys, look, this lovely smoothskin really helped us out. Thank her!}
 {303}{}{Glad to help. Goodbye, Ed.}
 {304}{}{Damn, De Santi would've given me more... Oh, I was talking about something else, never mind. Uh, see you.}
 {305}{}{Oh man, you're saving us, my friend! Hey, guys, thank him!}
-{1305}{}{Oh man, you're saving us, my friend! Hey, guys, thank her!}
+{1305}{}{Oh babe, you're saving us! Hey, guys, thank her!}

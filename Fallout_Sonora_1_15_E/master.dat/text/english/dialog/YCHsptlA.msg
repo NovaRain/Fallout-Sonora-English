@@ -2,7 +2,7 @@
 {101}{}{You see one of the local scavengers. Though he looks more like a bandit.}
 {102}{}{Another disgusting ghoul. I'm so sick of you freaks!}
 {103}{}{Who do we have here? Ghoul lover or just a wandering scavenger? Either way, you ain't leaving...}
-{1103}{}{Who do we have here? Ghoul lover or just a wandering scavenger? Either way, you ain't leaving...}
+{1103}{}{Well, what do we have here? Ghoul whore or just a wandering scavenger slut? Either way, you ain't leaving...}
 {104}{}{Get the hell out of here while I'm still in a good mood.}
 
 {110}{}{We don't need any competition!}

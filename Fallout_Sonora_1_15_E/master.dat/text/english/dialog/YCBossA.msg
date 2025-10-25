@@ -120,8 +120,8 @@
 {303}{}{Now what. I'm not even sure I should be talking to you.}
 {304}{}{Got it. We'll talk later.}
 {305}{}{If you don't wanna talk, fine. Goodbye.}
-{306}{}{Amigo, I'm always happy to listen and answer your questions. }
-{1306}{}{Amiga, I'm always happy to listen and answer your questions. }
+{306}{}{Amigo, I'm always happy to listen and answer your questions.}
+{1306}{}{Amiga, I'm always happy to listen and answer your questions.}
 {307}{}{Alright, see you.}
 
 {310}{}{Can you tell me more about yourself?}

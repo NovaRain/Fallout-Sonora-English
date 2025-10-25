@@ -26,7 +26,7 @@
 {224}{}{I see.}
 
 {230}{}{What are you doing in this town?}
-{231}{}{We're running from trouble. Terrible things are happening in the southeast: power is changing in the cities, people are being enslaved, farmers are being driven from their rightful lands. We hoped to find safety in the Rangers territory, but they turned out to be no better.}
+{231}{}{We're running from trouble. Terrible things are happening in the southeast: power is changing in the cities, people are being enslaved, farmers are being driven from their rightful lands. We hoped to find safety in the Rangers' territory, but they turned out to be no better.}
 {232}{}{How did you manage to cross the desert?}
 {233}{}{It was a real brutal ordeal. It was cold at night and so hot during the day that we fried lizards right on the rocks. We made most of the distance in the evenings and early mornings. At times it seemed like we wouldn't survive. We definitely won't survive a second trip like that.}
 {234}{}{Yah, it's an unforgiving land.}

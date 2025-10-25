@@ -6,7 +6,7 @@
 
 #Floating lines
 {110}{}{Vegas Lights and Brahmin Steak.}
-{111}{}{Sorry, were all out of Nuka-Rum.}
+{111}{}{Sorry, we're all out of Nuka-Rum.}
 {112}{}{Ashen Los Angeles is ready.}
 {113}{}{Here's your "Nuclear Mary."}
 {114}{}{Who ordered the Atomic Cocktail?}

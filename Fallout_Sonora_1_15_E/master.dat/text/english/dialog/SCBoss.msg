@@ -105,7 +105,7 @@
 {282}{}{Well, for all your annoying antics, one has to give you some credit. I never expected that one hayseed would be able to pull off such a complex task. But you know, I'm ready to forgive you for *your* meddling.}
 {283}{}{Really?}
 {284}{}{Oh, how "noble" of you.}
-{285}{}{Your rebellious little village can earn forgiveness - and protection - under the Brotherhood's banner. But there's a catch. To secure that future, our competition - the Rangers - needs to be removed from the equation. My scouts tell me they've holed up in an old hydroelectric dam. Scout the area and find a way to make that dam disappear.}  
+{285}{}{Your rebellious little village can earn forgiveness - and protection - under the Brotherhood's banner. But there's a catch. To secure that future, our competition - the Rangers - need to be removed from the equation. My scouts tell me they've holed up in an old hydroelectric dam. Scout the area and find a way to make that dam disappear.}  
 {286}{}{The hell with this. The Rangers will protect us, and you'll go to hell.}
 {287}{}{Too bad. So, in accordance with the laws of the Old World, you'll face the death penalty for your crimes against us. Prepare to accept your fate, you piece of shit...}
 {288}{}{Go to hell.}
@@ -237,5 +237,5 @@
 {439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
 {1439}{}{Sorry, but we don't admit mutants into our ranks, no matter their merits. You're tolerated on the ship, but no more than that. This rule is above me.}
 {440}{}{Alright. No problem, General. Take care.}
-{441}{}{I don’t want to join your little group anyway. Adios.}
-{1441}{}{I don’t want to join your little group anyway. Adios.}
+{441}{}{I don't want to join your little group anyway. Adios.}
+{1441}{}{I don't want to join your little group anyway. Adios.}
