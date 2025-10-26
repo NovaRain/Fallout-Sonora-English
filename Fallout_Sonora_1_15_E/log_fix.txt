@@ -13,11 +13,6 @@
 >> Fallout Sonora, No. 15E+, October 26, 2025:
 
 - Add more gender-based replies/answers/floats to various characters
-- El Faro Pier: Fixed a bug where hacking turrets on the platform through Science did not add them to the main character's team (since it constantly returned to the original number).
-- El Faro Pier: Creatures from the Black Lagoon, added the ability to reason with him through mentats.
-- Partially improved the code for forced disconnection of all partners (fight in the ring, sending as a slave to Two-Sun, sending to Daybreak).
-- Villa: added a reaction to power armor for several characters + Eden was given a ban on alcohol.
-- Slot machines in the casino: an additional correction for the gambling skill has been introduced + the supply of chips in the machine has been increased + now you can use the machine manually without using chips directly (the bet is 1).
 - Base Sonora and Dayglow expansion combined in one release
 - Increased random encounter critter numbers to minumum of 2 to fix grammar errors
 - Small fixes to several maps (rcity and tsgrave)
