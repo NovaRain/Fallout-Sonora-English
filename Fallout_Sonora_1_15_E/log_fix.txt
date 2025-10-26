@@ -10,8 +10,9 @@
 [Changes marked with an asterisk may not apply to saves from previous versions.]
 
 
->> Fallout Sonora, No. 15E, September 27, 2025:
+>> Fallout Sonora, No. 15E+, October 26, 2025:
 
+- Add more gender-based replies/answers/floats to various characters
 - Base Sonora and Dayglow expansion combined in one release
 - Increased random encounter critter numbers to minumum of 2 to fix grammar errors
 - Small fixes to several maps (rcity and tsgrave)
