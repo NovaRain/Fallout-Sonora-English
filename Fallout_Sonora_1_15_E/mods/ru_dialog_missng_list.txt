@@ -1,0 +1,85 @@
+ACCtzCav.msg is missing messages: 180, 182, 179, 181
+ACCtzRun.msg is missing messages: 1209, 1202, 1200, 1220
+AFBarter.msg is missing messages: 1206, 1229
+AFCaptan.msg is missing messages: 1280, 199, 1346
+AFGold.msg is missing messages: 226, 224, 225
+AFMom.msg is missing messages: 202
+AFTinTan.msg is missing messages: 207
+BCMisSld.msg is missing messages: 254, 256, 250, 257, 251, 253, 259, 258, 255, 252
+BCRanger.msg is missing messages: 1303
+CCBosGrd.msg is missing messages: 1104, 104
+CCBoss.msg is missing messages: 1210, 258
+CCChild.msg is missing messages: 212, 1212, 210, 211, 213
+CCCtzn.msg is missing messages: 212, 1212, 210, 211, 213
+CCNina.msg is missing messages: 242, 243, 244, 199, 246, 245, 240, 241, 198
+CCNinb.msg is missing messages: 116, 215, 248, 247, 249, 115, 214, 213
+CCPapa.msg is missing messages: 1285, 1266, 1250
+DCCtznE.msg is missing messages: 2205, 244, 182, 256, 1244, 181, 245, 1256, 220, 257, 1220, 180, 1257
+EncBaron.msg is missing messages: 198, 199
+EncCafA.msg is missing messages: 198, 199
+EncGold.msg is missing messages: 198, 199
+EncLamnt.msg is missing messages: 198, 199
+EncMexSc.msg is missing messages: 103, 1300, 300
+EncMtntC.msg is missing messages: 198, 199
+EncPadre.msg is missing messages: 198, 199
+FCCtznB.msg is missing messages: 247, 246
+FCPost.msg is missing messages: 334
+FCSlvB.msg is missing messages: 213
+FCSlvRdr.msg is missing messages: 214
+FCSlvStn.msg is missing messages: 231, 230
+GCBarmen.msg is missing messages: 459, 460, 461
+GCBrmAtk.msg is missing messages: 260
+GCCtzn.msg is missing messages: 1121, 1120, 1122, 1123, 1124, 1125, 1126
+GCGate.msg is missing messages: 393, 392, 394, 390, 391
+GCMercJc.msg is missing messages: 112, 111, 110, 104, 114, 115, 113
+GCPit.msg is missing messages: 1283, 199, 107, 106, 1270, 1294, 1277, 1107, 249, 105, 1208
+HCBoss.msg is missing messages: 307, 305, 1310, 312, 301, 103, 309, 302, 308, 310, 300, 1307, 303, 304, 311, 306
+HCPost.msg is missing messages: 224, 190, 192, 262, 214, 213, 263, 225, 191
+HCPrisnr.msg is missing messages: 1226
+HCRunchA.msg is missing messages: 354, 346, 357, 329, 374, 340, 311, 307, 331, 305, 370, 347, 316, 325, 359, 330, 308, 317, 342, 338, 350, 301, 326, 361, 303, 373, 300, 304, 356, 108, 333, 336, 309, 310, 362, 334, 322, 312, 327, 335, 320, 107, 355, 377, 109, 328, 358, 382, 306, 321, 339, 110, 341, 344, 324, 313, 372, 353, 318, 379, 352, 332, 111, 302, 323, 314, 380, 351, 315, 381, 376, 375, 378, 319, 345, 337, 371, 343
+HCRunchB.msg is missing messages: 117, 322, 324, 301, 106, 327, 326, 320, 329, 303, 332, 107, 109, 300, 302, 323, 304, 311, 118, 307, 331, 305, 328, 108, 325, 306, 321, 119, 309, 330, 308, 310
+HCRunchC.msg is missing messages: 212, 106, 1120, 1220, 215, 1215, 1213, 218, 210, 220, 1219, 1210, 219, 1212, 1217, 1216, 1218, 1214, 217, 214, 216, 211, 213, 1211
+HSComp.msg is missing messages: 312, 301, 313, 315, 310, 319, 318, 316, 300, 317, 302, 311, 314
+MCBoss.msg is missing messages: 1200
+NCApcBos.msg is missing messages: 429
+NCHimadr.msg is missing messages: 112, 111, 107, 110, 282, 109, 283, 108, 1243, 1236, 269, 2213, 1202, 1269
+NCSilosA.msg is missing messages: 207
+PCAtmBos.msg is missing messages: 216, 215
+PCAtmClt.msg is missing messages: 199
+PCBdBos.msg is missing messages: 449, 450
+PCBdLohB.msg is missing messages: 103
+PCCasAdm.msg is missing messages: 1290
+PCDrgdlr.msg is missing messages: 1220
+PCMaster.msg is missing messages: 592, 593, 591, 594
+PCMerkBs.msg is missing messages: 436
+PCMisBos.msg is missing messages: 1215, 1210, 1213, 1212, 1217, 1216, 1219, 1218, 1214, 1211
+PCPost.msg is missing messages: 288
+PCRedBos.msg is missing messages: 299, 298
+PCRngBos.msg is missing messages: 1366
+RCComndr.msg is missing messages: 366, 367, 368
+RCRngMap.msg is missing messages: 242, 235, 239, 240, 241, 236, 237, 238
+SCBoss.msg is missing messages: 1255, 208
+SCPost.msg is missing messages: 105
+TCCarlos.msg is missing messages: 1206, 1204
+TCCrvQst.msg is missing messages: 1301, 1259, 266
+TCCult.msg is missing messages: 252
+TCPadre.msg is missing messages: 1206
+TCPost.msg is missing messages: 236
+TCScvr.msg is missing messages: 100
+TCSlvVll.msg is missing messages: 1225, 1213, 1221, 1202, 1230
+TCTins.msg is missing messages: 153, 152, 102, 158, 159, 156, 150, 154, 151, 157, 155
+VCChrisB.msg is missing messages: 1231
+VCCtzBld.msg is missing messages: 1108, 1106, 1105, 1107
+VCJose.msg is missing messages: 1300, 1287, 1294, 199
+VCOld.msg is missing messages: 1207
+VCRobot.msg is missing messages: 1241, 1211, 1214, 208
+VVCScnc.msg is missing messages: 488, 489
+YCBandA.msg is missing messages: 1269
+YCBossA.msg is missing messages: 1255, 1266, 1256, 1254
+YCBossB.msg is missing messages: 354, 355
+YCDumBos.msg is missing messages: 1232
+YCLiveB.msg is missing messages: 198, 199
+YCMutBos.msg is missing messages: 226
+YCTitr.msg is missing messages: 1260
+ZCImgrnt.msg is missing messages: 312, 313, 315, 310, 319, 318, 316, 317, 311, 314
+ZIUseStp.msg is missing messages: 131
