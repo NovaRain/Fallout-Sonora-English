@@ -1,0 +1,79 @@
+
+##############################################################################################################
+V3.0.2 28/06/11
+Added a new window to setup angled clipping, used to clean up some original maps.
+Fixed a couple of problems that may have caused movie and dialog screens to crash.
+
+##############################################################################################################
+V3.0.1 08/06/11
+Fixed a bug causing a crash when accessing the Screen Settings Window.
+Added a toggle button to view all map edge lines.
+
+##############################################################################################################
+V3.0 07/06/11
+Major code overhaul, most of patch re-written and/or optimised.
+Added option to set 32bit colour output.
+Text used in the Screen-Settings screen can now be edited in a msg file.
+Hi-res patch art and other files have been integrated into the fallout file system. And are now stored in f2_res.dat and can be patched in the data folder.
+Added map edge clipping option to hide the unused area beyond the map borders.
+Map edges are now the same no matter the resolution.
+Multiple edge sets can now be set up on a single map level.
+Map angled borders have been removed. All 10 000 tile and 40 000 hex positions can be utilised.
+Added a button to the iFace-Bar to toggle Block Object Viewing.
+Added a button to the iFace-Bar to open the Map Edge Setup Window.
+The Map Edge Setup Window has been overhauled and should be far more intuitive to use.
+Added an option in the top-bar settings menu to switch between hi-res and original blockers.
+Added an option in the m2_res.ini to increase the max number of scripts to 10000.(by Timeslip)
+Numerous other small fixes.
+
+##############################################################################################################
+V2.0 10/08/09
+Updated the Hi-res Mapper patch up to the current fallout2 hi-res patch.
+Improved the code for restarting fallout via the button in the Screen Settings window.
+Re-worked the code and ini files relating to hi-res map scroll boarders(edges).
+Added a new menu in the top bar for accessing the screen and hi-res map edge settings.
+Set mapper to use original map scroll blockers when in 640x480 mode.
+
+##############################################################################################################
+V1.2 03/09/08
+Fixed a bug where the map edges data wasn't loading because the internal names of some maps were in lower case.
+Set background colour to black for the Help Screen and Ending Slides.
+World-Map background now retains the image of the map you left from.
+
+##############################################################################################################
+V1.1a 25/08/08
+Turned off a city limits fix that i had put in the res_m2.ini file. It was for personal use and would
+probably cause a "Memory Mismatch" error for those with B@ZiK's m2_city_patch installed.
+
+##############################################################################################################
+V1.1 23/08/08
+Disabled auto scrolling which was causing view to become stuck in some maps
+Fixed - NPC should now appear in the dialog view window unless they are off the screen.
+
+##############################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

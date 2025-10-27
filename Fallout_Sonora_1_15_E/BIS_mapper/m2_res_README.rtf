@@ -1,0 +1,254 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang3081\deflangfe3081{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\nowidctlpar\f0\fs20\par
+\ul\b\fs24 MAPPER 2 HIGH RESOLUTION PATCH README Ver 3.0.2\par
+\ulnone\b0\fs20 *************************************************************************************\par
+Created by "Mash" Matt Wells \tab\tab\tab\tab 27 June 2011\par
+\i mashw@bigpond.net.au\par
+\i0\par
+Links to the latest version can be found here:\par
+No Mutants Allowed Forum {\field{\*\fldinst{HYPERLINK "http://www.nma-fallout.com/forum/viewtopic.php?t=42386"}}{\fldrslt{\ul\cf1 http://www.nma-fallout.com/forum/viewtopic.php?t=42386}}}\f0\fs20\par
+\par
+\par
+\ul\b\i\fs24 About\par
+\par
+\ulnone\b0\i0\fs20 This patch is for the Official BIS Mapper Program which creates maps for the game Fallout 2. It modifies the "mapper2.exe" in memory for the purposes of increasing the visual resolution. It can also be used to create scroll border config files for use with both the Fallout and Fallout2 Hi-Res Patches.\par
+\par
+It was compiled with "Visual C++ 6.0 -sp6" and should work on most versions of Windows.\par
+\par
+\par
+\ul\b\i\fs24 Table Of Contents\par
+\ulnone\b0\i0\fs20\par
+\fs24 1\fs20 . \fs24 Mapper2 High Resolution Patch Contents\par
+2. Un-installation of previous versions of this patch\par
+3\fs20 . \fs24 Installation\par
+4. Troubleshooting\fs20\par
+\fs24 5\fs20 . \fs24 Main Config file "m2_res.ini"\fs20\par
+\fs24 6\fs20 . \fs24 Map Edges\par
+7. Thanks\par
+8. Contributors\fs20\par
+\par
+\par
+\ul\b\i\fs24 1.Mapper2 High Resolution Patch Contents\par
+\ulnone\b0\i0\fs20\par
+"Mapper2_High_Resolution_Patch_v3.0.2.exe" self extractor contents\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 m2_res_patcher.exe\cell Patches "mapper2.exe" to load "m2_res.dll".\cf0\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 m2_res.dll\cell\pard\intbl\nowidctlpar\tx431\tx1584 Modifies "mapper2.exe" for higher resolutions.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar m2_res.ini\cell Configuration file for the Hi-res Patch.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar f2_res.dat\cell Fallout2 data file containing Hi-res Patch art and map edge data for all original Fallout2 maps.\cell\row\pard\nowidctlpar\cf0\par
+\cf2\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar m2_res_README.rtf\cell This Read Me\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar m2_res_change.log\cell Details changes made to the patch from previous versions\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar Extras (folder)\cell Map edge data for some of the major Fallout2 Mods.\par
+'ScrnSet.msg'  - An example MSG file containing text for the Screen Settings Window.\cell\row\pard\nowidctlpar\par
+\cf0\par
+\ul\b\i\fs24 2.Un-installation of older versions of this patch\par
+\ulnone\b0\i0\fs20\par
+Although not absolutely necessary, the \cf2 "m2_res" folder \cf0 should be deleted from your Mapper2 installation folder.  If present, the "\cf2 m2_res_README.rtf" and "m2_res_change.log" can also be deleted.\cf0\par
+\par
+\par
+\ul\b\i\fs24 3. Installation\par
+\par
+\pard\nowidctlpar\fi-360\li360\ulnone\i0\fs20 Step 1.\tab\i Extract to the Mapper\i0\par
+\pard\nowidctlpar\li360\b0 Double-click the "Mapper2_High_Resolution_Patch_v3.0.2.exe". Click the [Browse] button and find your Mapper2 installation folder (usually "C:\\Program Files\\BlackIsle\\Fallout 2 Mapper\\"). Click [Extract], the extraction window will disappear once complete.\par
+\ul\i\fs18 Note\ulnone : If you have installed a previous version of this patch, you may be asked to overwrite some of the files listed above. Answer YES to overwrite files.\ul\par
+\ulnone\par
+\pard\nowidctlpar\fi-360\li360\b\i0\fs20 Step 2.\tab\i Patch "mapper2.exe" to load "m2_res.dll"\i0\par
+\i       \ul\b0\fs18 Note:\ulnone  If you have installed a previous version of this patch, you can skip this step and proceed to Step 3.\b\fs20\par
+\pard\nowidctlpar\li360\b0\i0 Once extraction is finished, open your Mapper2 installation folder and Double-Click the "m2_res_patcher.exe".  A Message-box will appear asking if you want to patch the "mapper2.exe". Click the [OK] button to continue. You should then see the message "mapper2.exe was patched successfully".\par
+If you ever want to remove this patch, you can do so by running "m2_res_patcher.exe" again and following the prompts.\par
+\pard\nowidctlpar\par
+\pard\nowidctlpar\fi-360\li360\b Step 3.\tab\i Set the screen resolution in-game\par
+\pard\nowidctlpar\li360\b0\i0 Start the Mapper. From the top menu select [Settings], Click the [Screen Settings] button to open the Screen Settings Window. Select your resolution from the list provided, you may also want to adjust the output colours to 16 or 32 bit to overcome palette issues with current versions of the Windows Operating System. When your finished click the [Done] button. You will then be given the option to restart the Mapper to apply the new settings. Click [Yes] to restart the game.\par
+\par
+\pard\nowidctlpar\fi-360\li360\b Other \i Options\b0\i0\par
+\pard\nowidctlpar\li360 You can manually set an unlisted resolution by clicking the small windows labelled 'Width' and 'Height'.\par
+You can cycle through the Iface-bar Side Art options by clicking the example image provided.\par
+\pard\nowidctlpar\par
+\b\i\par
+\ul\fs24 4. Troubleshooting\par
+\par
+\pard\nowidctlpar\sl240\slmult1\i0\fs20 The Mapper is not starting after setting the resolution via the in-game menu.\ulnone\b0\par
+\pard\nowidctlpar Open the "m2_res.ini" found in your Mapper Install folder and return SCR_WIDTH, SCR_HEIGHT and COLOUR_BITS to their default values:\par
+SCR_WIDTH=640\par
+SCR_HEIGHT=480\par
+COLOUR_BITS=8\par
+Re-start the game and try a different resolution.\par
+\par
+\ul\b The 'Screen Settings' window does not open (accessed via from the top menu bar).\ulnone\b0\par
+~Make sure the 'f2_res.dat' data file is in your Mapper2 installation folder. Re-install the patch if it is not. Alternatively you can adjust the path for the 'f2_res.dat' in the 'm2_res.ini' config file.\par
+\par
+\par
+\ul\b The 'Screen Settings' window does not appear on the top menu bar.\ulnone\b0\par
+~Re-run the "m2_res_patcher.exe" as in Step 2 of the Installation section above. If the Hi-res patch is installed correctly you should receive this message "Patch is Already INSTALLED! Do you wish to UNINSTALL this Patch?". Click the 'Cancel' button if the patch is already installed otherwise follow the instructions in Step 2 of the Installation section.\par
+\par
+~If you are using an older version of Windows (pre XP), you may need to find the run-time components for Visual C++ 6.0. These can be downloaded from Microsoft, just search for "Vcredist.exe" in your favourite search-engine.\par
+\ul\i\fs18 Note\ulnone : This problem should only affect older versions of Windows. WindowsXP and Vista should already have the necessary \i0\fs20 components \i\fs18 installed.\i0\fs20\par
+\par
+\ul\b Original scroll blockers won\rquote t work with the Hi-Res Patch installed.\ulnone\i\par
+\b0\i0 The original scroll blockers are disabled in the Hi-res patches. Check the "Map Edges" section of this read-me for details. To setup and test the original scroll blockers, Click the top menu, Click [Settings] then Click [Scroll Blocker Mode]. Click [Yes] to enable the original scroll blockers at 640x480 resolution and reboot. Hi-res mapping can be re-enabled via the same method.\par
+\par
+\par
+\ul\b\i\fs24 5. Main Config file "m2_res.ini"\par
+\par
+\ulnone\b0\i0\fs20 This is where your current screen resolution and other settings are stored.\par
+The "m2_res.ini" file is divided into seven sections MAIN, HI_RES_PANEL, MOVIES, MAPS, IFACE, STATIC_SCREENS and OTHER_SETTINGS.\par
+\par
+\par
+\ul\b\i MAIN\ulnone\b0\i0\par
+\par
+\b Screen Dimensions (SCR_WIDTH = & SCR_HEIGHT =)\par
+\b0 Set your custom resolution here.\b\par
+\b0\par
+\b Number of colours (COLOUR_BITS = 8)\b0\par
+Can be set to 8 for 8bit colour (default), 16 for 16bit colour or 32 for 32bit colour output.\par
+\b\par
+Hi-res Dat file path (f2_res_dat = f2_res.dat)\b0\par
+Sets the location of the Dat file which holds graphic and text resources for the Screen Settings Window as well as map edge data for all original Fallout2 maps.\par
+\b\par
+Hi-res Dat patch folder path (f2_res_patches=data\\)\b0\par
+Sets the location of the patch folder for the Hi-res Dat file.\par
+\b\par
+\par
+\ul\i HI_RES_PANEL\ulnone\b0\i0\par
+\par
+\b Display List Descending/Ascending (DISPLAY_LIST_DESCENDING = 1)\b0\par
+Here you can set the order of the resolution list in the Screen Settings Window. Descending order by default.\par
+\par
+\par
+\ul\b\i MOVIES\ulnone\b0\i0\par
+\par
+\b Movie Size (MOVIE_SIZE = 1)\b0\par
+Here you can set how the movies are displayed.\par
+If set to 0, Movie will display at its original size.\par
+If set to 1, Movie will stretch to fit the screen while maintaining its aspect ratio.\par
+If set to 2, Movie will stretch to fill the screen.\par
+\par
+\par
+\ul\b\i MAPS\par
+\ulnone\b0\i0\par
+\b Ignore Map Edges (IGNORE_MAP_EDGES = 0)\par
+\b0 Set to 0 (Off by default). If set to 1(On) this setting ignores the map edges preventing you scrolling outside the playable area of a map. \par
+\par
+\b Ignore Player Scroll Limits (IGNORE_PLAYER_SCROLL_LIMITS= 0)\par
+\b0 Set to 0 (Off by default). If set to 1(On) this setting ignores the scroll limits from the player set below by the variables SCROLL_DIST_X and SCROLL_DIST_Y.\par
+\par
+\b Player Scroll Distance (SCROLL_DIST_X & SCROLL_DIST_Y)\b0\par
+By default the scroll distance from the player is set to the\i  \ul screen edge + 1 tile\ulnone  \i0 in both directions. Setting a distance less than the screen edge can cause problems.\par
+\par
+\b Scroll Blocker Mode(USE_ORIGINAL_SCROLL_BLOCKERS=0)\b0\par
+Set to 0 (Off by default). If set to 1(On) this setting enables the original scroll blockers and sets the resolution to 640x480. \par
+\b\par
+Current Map List Number (CURRENT_MAP_NUM=0)\b0\par
+Used internally by the Mapper. Holds the list number of the last opened map. \par
+\par
+\par
+\ul\b\i IFACE\par
+\ulnone\b0\i0\par
+\b Height of the Viewable Map Area (IFACE_BAR_MODE = 0)\b0\par
+By default the Viewable Map Area will sit above the Interface-Bar. Setting to 1 will lower the bottom of the Viewable Area to the bottom of the screen. Side bar graphics will be disabled in this mode.\par
+\par
+\b Iface Side-Bar Graphics Art (IFACE_BAR_SIDE_ART = 2)\par
+\b0 Sets which optional art is used to fill the spaces either side of the Iface-bar.\par
+Options are:\par
+Set to 2 (default) for the Leather Pipboy Belt art created by me.\par
+Set to 1 for the Corroded Metal art created by Simon Rawlins(Pixote).\b\par
+\b0 Set to 0 for no side-bar art (Black).\b\par
+\b0\par
+\b Iface Side-Bar Graphics Orientation(IFACE_BAR_SIDE_ORI = 2)\b0\par
+If set to 2 the Iface-bar side graphics extend from the Iface-Bar and are cut off where they meet the Screen edges.\par
+If set to 1 the Iface-bar side graphics extend from the Screen edges and are cut off where they meet the Iface-Bar.\par
+\par
+\par
+\ul\b\i STATIC_SCREENS\ulnone\b0\i0\par
+\b\par
+END_SLIDE_SIZE=1\par
+HELP_SCRN_SIZE=1\b0\par
+Set how various static screen are displayed.\b\par
+\b0 If set to 0, Screen image will display at its original size.\par
+If set to 1, Screen image will stretch to fit the screen while maintaining its aspect ratio.\par
+If set to 2, Screen image will stretch to fill the screen.\par
+\par
+\par
+\ul\b\i OTHER_SETTINGS\ulnone\b0\i0\par
+\par
+\b Dialog Screen Background (DIALOG_SCRN_BACKGROUND = 0)\par
+\b0 When set to 1 this setting hides the Map and Iface-bar while viewing the Dialog Screen.\par
+\b\par
+Increase the maximum number of scripts (INCREASE_SCRIPT_LIMIT = 0)\par
+\b0 When set to 1 this setting increases the maximum number of scripts from 1450 to 10000. This should be used with Timeslips sfall mod which has a matching fix for Fallout2.\par
+\par
+\par
+\ul\b\i\fs24 6. Map edges\par
+\ulnone\b0\i0\fs20\par
+The original scroll blockers were never designed to work at higher resolutions. So my solution in the end was to disable the original blockers and replace them with my own which I refer to here as \b\i map edges\b0\i0 . Map edge data files for all original Fallout2 maps have been packaged with-in the "f2_res.dat" file for easy installation. I've also included map edge data for Killap's Restoration Project V2.1.2b and MIB88's Mega Mod V2.43. New map edge data files can be created with the BIS Mapper using the Mapper2 Hi-res Patch (Version 3.0+). Map edge files are attributed with the extension ".edg" and are located in the same folder as the maps which use them. This will usually be in the Fallout2 install folder under "data\\maps".\par
+\par
+\b Map edge file details\par
+\b0 As of version 3.0 of the Hi-res Patch, map edge data is stored in a binary file the internal structure is as follows:\par
+\par
+Te first 8 bytes contain a simple header.\par
+Size in Bytes\tab\tab Value\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell File Identifier in ASCII Text  = "EDGE"\cf0\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 Edge File Version Number = 1\cell\row\pard\nowidctlpar\cf0\par
+This is followed by a series data blocks containing the map edge data.\par
+Size in Bytes\tab\tab Value\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell Level 0-2\cf0\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Left edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Top edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Right edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Bottom edge.\cell\row\pard\nowidctlpar\cf0\par
+Each level can have multiple edge data blocks, with all map levels having at least one.\par
+\par
+\b Edge file version 2\par
+\b0 The first block for each level of a version 2 edge file contains additional info for angled edge clipping. Angled clipping does not effect scroll blocking and is used primarily to clean up the fringes of original fallout maps. This block is structured as followed:\par
+Size in Bytes\tab\tab Value\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell Level 0-2\cf0\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar\cf2 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 0-99 - x tile coordinate for the Left \ul\b Angled\ulnone\b0  edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 0-99 - y tile coordinate for the Top \ul\b Angled\ulnone\b0  edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 0-99 - x tile coordinate for the Right \ul\b Angled\ulnone\b0  edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 0-99 - y tile coordinate for the Bottom \ul\b Angled\ulnone\b0  edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 Angled Flags 1 byte for each edge. Equals 0 for lower object clipping or 1 for all object clipping. \cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Left edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Top edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Right edge.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx9468\pard\intbl\nowidctlpar 0x4\cell\pard\intbl\nowidctlpar\tx431\tx1584 A map hex tile position lying on the Bottom edge.\cell\row\pard\nowidctlpar\cf0 Any subsequent edge blocks for each level will equal the original layout.\par
+\ul\i\fs18\par
+Note:\ulnone  Version 2 edge format will only be enabled if  angled edges are set in the angled edges setup window. Otherwise the edge file format will default to version 1.\i0\fs20\par
+\par
+\par
+\ul\b\i\fs24 7. Thanks\par
+\par
+\ulnone\b0\i0\fs20 First I'd like to thank all the good people at "No Mutants Allowed" \i{\field{\*\fldinst{HYPERLINK "http://www.nma-fallout.com/"}}{\fldrslt{\ul\cf1 http://www.nma-fallout.com/}}}\i0\f0\fs20  for hosting this patch, and for keeping the mutants at bay for all these years.\par
+\i\par
+And of course to everyone in the forums who provided support and constructive criticism - Thanks :) \ul\par
+\par
+\par
+\b\fs24 8. Contributors\par
+\ulnone\b0\i0\fs20\par
+\b Simon Rawlins\b0 (Pixote).\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li720 Created the Metal looking side-bar art.\par
+{\pntext\f1\'B7\tab}Compiled together many of the custom map-edge data files.\par
+\pard\nowidctlpar\b Helios\b0  (NMA forum member)\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li720 Fixed a problem when using the Hi-res Patch with the Mr.Fixit mod (regarding the maximum Y position).\par
+\pard\nowidctlpar\b Weak-ling\b0  (NMA forum member)\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li720 Discovered a fix to display the General NPC Picture in the Dialog Panel.\par
+\pard\nowidctlpar\b Nirran\b0  (NMA forum member) {\field{\*\fldinst{HYPERLINK "http://www.nirran.com/"}}{\fldrslt{\ul\cf1 http://www.nirran.com/}}}\f0\fs20\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li720 Compiled the original custom map-edge data for the MegaMod v2.42\par
+\pard\nowidctlpar\b Timeslip\b0  \i{\field{\*\fldinst{HYPERLINK "http://timeslip.users.sourceforge.net/"}}{\fldrslt{\ul\cf1 http://timeslip.users.sourceforge.net/}}}\i0\f0\fs20 .\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li720 Created the fix to increase the script limit from 1450 to 10000. \par
+\pard\nowidctlpar\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+}
+ 
