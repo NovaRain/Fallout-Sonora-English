@@ -1,0 +1,3 @@
+1: Solo hay una sola incognita: lo que paso contigo.
+2: Tras adoptar la vida monastica dentro de los muros de la Iglesia del Fuego Santo, te conviertes en un paria en tu propio hogar y optas por vagar por el desierto,
+3: predicando la Palabra del Atomo entre las tribus salvajes.

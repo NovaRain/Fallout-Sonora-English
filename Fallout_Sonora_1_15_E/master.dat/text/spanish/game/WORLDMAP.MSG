@@ -1,0 +1,629 @@
+#
+# 
+#
+# Etiquetas de texto y mensajes usados para ciudad y mapa del mundo
+#
+# ?
+
+#Villa
+{200}{}{Area Residencial}
+{201}{}{Plaza de la Sombra}
+{202}{}{Sotano de la Villa}
+{203}{}{Plantacion de Elote}
+{204}{}{Ruinas Antiguas}
+{205}{}{Cripta del Fundador}
+#
+# Flagstaff
+{210}{}{Colonia}
+{211}{}{Guarnicion}
+{212}{}{Mina de uranio}
+{213}{}{Area Abandonada}
+{214}{}{Mina}
+{215}{}{Granja de Randy}
+#
+# GarageCity
+{220}{}{Distrito Comercial}
+{221}{}{Chozas}
+{222}{}{Fabrica Abandonada}
+{223}{}{Ruta 66}
+{224}{}{Campamento de los Pastores}
+{225}{}{Mojave Waterworks}
+{226}{}{Barranco Clacks}
+#
+# SanBrahmin
+{230}{}{Campamento Misionario}
+{231}{}{Pueblo}
+{232}{}{Corrales}
+{233}{}{Ciudad Enterrada}
+{234}{}{Oasis}
+#
+# Two-Sun
+{240}{}{Asentamiento}
+{241}{}{Taller}
+{242}{}{Almacen}
+{243}{}{Centro de Control}
+{244}{}{Sitio de la Emboscada}
+{245}{}{Ciudad Vieja}
+#
+# Puerto Penasco
+{250}{}{Calle Principal}
+{251}{}{Puerto}
+{252}{}{Base de la Hermandad}
+#
+#Rangers
+{260}{}{Camino a la Presa}
+{261}{}{Presa}
+{262}{}{Acueducto}
+{263}{}{Estacion de Radio}
+{264}{}{Cruce}
+{265}{}{Repetidor}
+{266}{}{Giers Wash}
+{267}{}{Ciudadela}
+#
+#Phoenix
+{270}{}{Puerta de la Ciudad}
+{271}{}{Centro}
+{272}{}{Barrios bajos}
+{273}{}{Central Electrica}
+{274}{}{Plaza del Atomo}
+{275}{}{Catedral}
+{276}{}{Refugio 25}
+{277}{}{Ruinas de Fenix}
+{278}{}{Alcantarillas}
+{279}{}{Almacen de Nuka-Cola}
+#
+# Oil Platform (El Faro Pier)
+{280}{}{Pueblo Pesquero}
+{281}{}{Plataforma petrolifera}
+{282}{}{Plataforma petrolifera}
+{283}{}{Plataforma petrolifera}
+{284}{}{Laguna Negra}
+#
+#CasaGrande
+{290}{}{Bomba de Agua}
+{291}{}{Mansion}
+{292}{}{Cementerio}
+{293}{}{Ruinas de la Escuela}
+{294}{}{Bar Abandonado}
+{295}{}{Estacion de tren}
+#
+# Hermosillo
+{300}{}{Rancho Dominguez}
+{301}{}{Guarnicion}
+{302}{}{Fuerte}
+#
+# San Felipe ( Old Lighthouse )
+{310}{}{Asentamiento del Faro}
+{311}{}{Fondeport}
+{312}{}{Cerro Picacho del Diablo}
+#
+# Inferno
+{320}{}{Atasco de Trafico}
+{321}{}{Residencias}
+{322}{}{Supermercado}
+{323}{}{Estacion de Policía}
+{324}{}{Iglesia Misteriosa}
+{325}{}{Interestatal}
+#
+# Casa Nueva a
+{330}{}{Asentamiento}
+{331}{}{Plantacion de Agave}
+{332}{}{Invernaderos}
+{333}{}{Invernaderos}
+{334}{}{Planta de Concreto}
+#
+#! Empty slot
+{340}{}{Desierto}
+#
+#DeadMotel
+{350}{}{Motel Viejo}
+#
+# Dayglow DLC
+{360}{}{Ruinas de Tijuana}
+{361}{}{Campamento de San Isidro}
+{362}{}{Presa Bonita}
+{363}{}{Campamento del Pueblo Viejo}
+{364}{}{Ruinas de San Isidro}
+{365}{}{Ruinas de Chula Vista}
+{366}{}{Ruinas de National City}
+{367}{}{Corazon de San Diego}
+{368}{}{Muelles}
+{369}{}{Refugio 24}
+{370}{}{Base Naval EE.UU}
+#
+#! Empty slot
+{370}{}{Desierto}
+#
+# SantaAna
+{380}{}{Plaza Zaragoza}
+{381}{}{Monumento Antiguo}
+{382}{}{Cementerio Antiguo}
+#
+#! Empty slot
+{390}{}{Desierto}
+#
+# Jackals
+{400}{}{Madriguera Chacal}
+#
+# Motorcycle without energy
+{410}{}{Motocicleta sin combustible}
+#
+# Destroyed Arroyo ( do not use!)
+{420}{}{Desierto}
+#
+# Vault 27
+{430}{}{Entrada del Refugio}
+{431}{}{Interior del Refugio}
+#
+# Brotherhood Camp
+{440}{}{Campamento en el Desierto}
+{441}{}{Campamento en Caborca}
+{442}{}{Campamento en las Montañas}
+#
+# Raiders
+{450}{}{Base de los Escudos Azules}
+#
+# Random Encounter Desierto ( Wasteland )
+{460}{}{Desierto}
+{461}{}{Desierto}
+{462}{}{Desierto}
+{463}{}{Desierto}
+{464}{}{Desierto}
+#
+# Random Encounter Mountain
+{470}{}{Acantilado}
+{471}{}{Acantilado}
+{472}{}{Acantilado}
+{473}{}{Acantilado}
+{474}{}{Acantilado}
+{475}{}{Acantilado}
+{476}{}{Bosque}
+{477}{}{Bosque}
+{478}{}{Acantilado}
+#
+# Random Encounter City ( Ruinas )
+{480}{}{Ruinas}
+{481}{}{Ruinas}
+{482}{}{Ruinas}
+{483}{}{Ruinas}
+{484}{}{Ruinas}
+{485}{}{Carretera}
+{486}{}{Carretera}
+{487}{}{Carretera}
+{488}{}{Carretera}
+{489}{}{Carretera}
+#
+# Random Encounter Litoral ( Litoral )
+{490}{}{Litoral}
+{491}{}{Litoral}
+{492}{}{Litoral}
+{493}{}{Litoral}
+#
+# Explosion crater in Puerto
+{500}{}{Centro de la Explosión}
+#
+# Special Encounter- Gold
+{510}{}{Yermo Sonorense}
+#
+# Special Encounter- Henry Bemis
+{520}{}{Yermo Sonorense}
+#
+# Special Encounter- Roadside Cafe
+{530}{}{Yermo Sonorense}
+#
+# Special Encounter- Bomber
+{540}{}{Yermo Sonorense}
+#
+# Special Encounter- Petro-Chico Truck
+{550}{}{Yermo Sonorense}
+#
+# Special Encounter- Scream of Silence
+{560}{}{Yermo Sonorense}
+#
+# Special Encounter- Night movie screening
+{570}{}{Yermo Sonorense}
+#
+# Special Encounter- Padre
+{580}{}{Yermo Sonorense}
+#
+# Special Encounter- Baron of Arizona
+{590}{}{Yermo Sonorense}
+#
+# Special Encounter- Snowfall
+{600}{}{Yermo Sonorense}
+#
+# Special Encounter- Lost Sanctuary ( Van Buren )
+{610}{}{Yermo Sonorense}
+#
+# Special Encounter- Mobile fortress of the Master's army
+{620}{}{Yermo Sonorense}
+#
+# Special Encounter- Rail Nomads
+{630}{}{Yermo Sonorense}
+#
+#! Empty slot
+{640}{}{Yermo Sonorense}
+#
+#! Empty slot
+{650}{}{Yermo Sonorense}
+#
+# Irradiated Village ( Quartzsite )
+{660}{}{Ruinas de Quartzsite}
+#
+#ShadowWorlds
+{670}{}{Desierto}
+{671}{}{Desierto}
+{672}{}{Interestatal}
+{673}{}{Suburbio en Fenix}
+{674}{}{Desierto}
+{675}{}{Desierto}
+{676}{}{Desierto}
+{677}{}{Desierto}
+{678}{}{Desierto}
+{679}{}{Desierto}
+#
+# Camp Winon
+{680}{}{Campamento en las Montañas}
+
+
+################################################## #####
+#
+# Miscellaneous
+#
+################################################## #####
+
+# Signature when hovering over the GG marker ( does not work , a rudiment of Fallout 1):
+{1000}{}{Desierto}
+{1001}{}{Montes}
+{1002}{}{Ciudad}
+{1003}{}{Costa}
+
+# Signature of a location not yet explored :
+{1004}{}{Desconocido}
+
+# Miscellaneous :
+{1500}{}{Has ganado 10.000 puntos de experiencia.}
+{1501}{}{Ruinas}
+{1502}{}{La motocicleta ya no tiene combustible.}
+{1503}{}{Es una motocicleta. No parece que que pueda ponerse en marcha.}
+
+
+################################################## #####
+#
+# Description of encounters on the world map
+#
+################################################## #####
+
+{2998}{}{Encuentras:}
+{2999}{}{¿Deseas tropezarte con este encuentro?:}
+
+# Encounter Table 0-- TEST_D
+{3000}{}{Red Ryder.}
+{3001}{}{Un derrumbe}
+{3002}{}{Niebla radiactiva}
+{3003}{}{Una tormenta de polvo}
+{3004}{}{Deshidratacion}
+{3005}{}{Algunas hormigas gigantes.}
+{3006}{}{Un grupo de hormigas gigantes.}
+{3007}{}{Un enjambre de mantis.}
+{3008}{}{Una manada de ratas.}
+{3009}{}{Una manada de ratas cerdo.}
+{3010}{}{Una manada de ratas topo.}
+{3011}{}{Una manada de coyotes.}
+{3012}{}{Una manada de perros.}
+{3013}{}{Una manada de lobos.}
+{3014}{}{Una manada de escorpiones.}
+{3015}{}{Una manada de escorpiones.}
+{3016}{}{Algunos brahmanes salvajes.}
+{3017}{}{Algunos monstruos.}
+{3018}{}{Un robot.}
+{3019}{}{Algunos ciempies gigantes.}
+{3020}{}{Oro.}
+{3021}{}{Henry Bemis.}
+{3022}{}{Una cafeteria.}
+{3023}{}{Un bombardero estrellado.}
+{3024}{}{Un camion de Petro-Chico.}
+{3025}{}{El Grito del Silencio.}
+{3026}{}{Noche de peliculas.}
+{3027}{}{Una nevada.}
+{3028}{}{El Santuario Perdido.}
+{3029}{}{Una fortaleza movil.}
+{3030}{}{Legend City.}
+
+# Encounter Table 1-- VILL_D
+{3050}{}{Algunas hormigas gigantes.}
+{3051}{}{Una manada de coyotes.}
+{3052}{}{Una manada de ratas cerdo.}
+{3053}{}{Una manada de escorpiones.}
+{3054}{}{Una banda de Chacales.}
+{3055}{}{Una banda de Nevada.}
+{3056}{}{Oro.}
+{3057}{}{Henry Bemis.}
+{3058}{}{Una cafeteria.}
+{3059}{}{Un bombardero estrellado.}
+{3060}{}{Un camion de Petro-Chico}
+{3061}{}{El Grito del Silencio.}
+{3062}{}{Noche de peliculas.}
+{3063}{}{Una nevada.}
+{3064}{}{El Santuario Perdido.}
+{3065}{}{Una fortaleza movil.}
+{3066}{}{Legend City.}
+
+# Encounter Table 2-- FLAG_D
+{3100}{}{Red Ryder.}
+{3101}{}{Una manada de ratas cerdo.}
+{3102}{}{Una manada de lobos.}
+{3103}{}{Un rebaño de brahmanes.}
+{3104}{}{Un grupo de salvajes.}
+{3105}{}{Un escuadron de Montaña Blanca.}
+{3106}{}{Un cazador.}
+{3107}{}{Oro.}
+{3108}{}{Henry Bemis.}
+{3109}{}{Una cafeteria.}
+{3110}{}{Un bombardero estrellado.}
+{3111}{}{Un camion de Petro-Chico}
+{3112}{}{El Grito del Silencio.}
+{3113}{}{Noche de peliculas.}
+{3114}{}{El Padre volador.}
+{3115}{}{Una nevada.}
+{3116}{}{El Santuario Perdido.}
+{3117}{}{Una fortaleza movil.}
+{3118}{}{Legend City.}
+
+# Encounter Table 3-- FLAG_M
+{3150}{}{Red Ryder.}
+{3151}{}{Un derrumbe}
+{3152}{}{Una manada de ratas topo.}
+{3153}{}{Una manada de lobos.}
+{3154}{}{Un cadaver devorado.}
+{3155}{}{Un cazador.}
+{3156}{}{Un grupo de salvajes.}
+{3157}{}{Oro.}
+{3158}{}{Henry Bemis.}
+{3159}{}{Una cafeteria.}
+{3160}{}{Un bombardero estrellado.}
+{3161}{}{Un camion de Petro-Chico}
+{3162}{}{El Grito del Silencio.}
+{3163}{}{Noche de peliculas.}
+{3164}{}{El Santuario Perdido.}
+{3165}{}{Legend City.}
+
+# Encounter Table 4-- FLAG_R
+{3200}{}{Red Ryder.}
+{3201}{}{Una manada de ratas cerdo.}
+{3202}{}{Una banda de forajidos.}
+{3203}{}{Una banda de forajidos.}
+{3204}{}{Un criminal convicto.}
+{3205}{}{Una caravana.}
+{3206}{}{Un grupo de colonizadores.}
+{3207}{}{Una manada de perros.}
+
+# Encounter Table 5-- RNGR_D
+{3250}{}{Red Ryder.}
+{3251}{}{Una tormenta de polvo}
+{3252}{}{Una manada de coyotes.}
+{3253}{}{Algunos escorpiones.}
+{3254}{}{Una banda de saqueadores.}
+{3255}{}{Un granjero.}
+{3256}{}{Algunos rangers.}
+{3257}{}{Algunos rangers persiguiendo a unos ladrones.}
+{3258}{}{Algunos ciempies gigantes.}
+{3259}{}{Oro.}
+{3260}{}{Henry Bemis.}
+{3261}{}{Una cafeteria.}
+{3262}{}{Un bombardero estrellado.}
+{3263}{}{Un camion de Petro-Chico}
+{3264}{}{El Grito del Silencio.}
+{3265}{}{Noche de peliculas.}
+{3266}{}{Una nevada.}
+{3267}{}{El Santuario Perdido.}
+{3268}{}{Una fortaleza movil.}
+{3269}{}{Legend City.}
+{3270}{}{Un granjero en bancarrota.}
+{3271}{}{Un terrible monstruo, La Fantasma.}
+{3272}{}{Deshidratacion}
+
+# Encounter Table 6-- DSRT_A
+{3300}{}{Una tormenta de polvo}
+{3301}{}{Deshidratacion}
+{3302}{}{Una manada de escorpiones.}
+{3303}{}{Un escorpión legendario.}
+{3304}{}{Algunos ciempies gigantes.}
+{3305}{}{Oro.}
+{3306}{}{Henry Bemis.}
+{3307}{}{Una cafeteria.}
+{3308}{}{Un bombardero estrellado.}
+{3309}{}{Un camion de Petro-Chico}
+{3310}{}{El Grito del Silencio.}
+{3311}{}{Una Noche de peliculas.}
+{3312}{}{Una nevada.}
+{3313}{}{El Santuario Perdido.}
+{3314}{}{Una fortaleza movil.}
+{3315}{}{Legend City.}
+
+# Encounter Table 7-- DSRT_B
+{3350}{}{Una tormenta de polvo}
+{3351}{}{Deshidratacion}
+{3352}{}{Una manada de escorpiones.}
+{3353}{}{Algunos ciempies gigantes.}
+{3354}{}{Un enjambre de mantis.}
+{3355}{}{Oro.}
+{3356}{}{Henry Bemis.}
+{3357}{}{Una cafeteria.}
+{3358}{}{Un bombardero estrellado.}
+{3359}{}{Un camion de Petro-Chico}
+{3360}{}{El Grito del Silencio.}
+{3361}{}{Noche de peliculas.}
+{3362}{}{Un robot timido.}
+{3363}{}{Una nevada.}
+{3364}{}{El Santuario Perdido.}
+{3365}{}{Una fortaleza movil.}
+{3366}{}{Legend City.}
+{3367}{}{Un vehículo accidentado.}
+
+# Encounter Table 8-- MEXI_D
+{3400}{}{Red Ryder.}
+{3401}{}{Una manada de escorpiones.}
+{3402}{}{Un enjambre de mantis.}
+{3403}{}{Algunos ciempies gigantes.}
+{3404}{}{Una patrulla del ejercito Mexicano.}
+{3405}{}{Un grupo de inmigrantes.}
+{3406}{}{El cuerpo de un inmigrante en medio del desierto.}
+{3407}{}{Alejo contra los Mexicanos.}
+{3408}{}{Oro.}
+{3409}{}{Henry Bemis.}
+{3410}{}{Una cafeteria.}
+{3411}{}{Un bombardero estrellado.}
+{3412}{}{Un camion de Petro-Chico}
+{3413}{}{El Grito del Silencio.}
+{3414}{}{Noche de peliculas.}
+{3415}{}{El Padre volador.}
+{3416}{}{Una nevada.}
+{3417}{}{Una fortaleza movil.}
+{3418}{}{Legend City.}
+{3419}{}{Un mexicano y un ciempiés.}
+
+# Encounter Table 9-- MEXI_M
+{3450}{}{Red Ryder.}
+{3451}{}{Un derrumbe}
+{3452}{}{Una manada de ratas topo.}
+{3453}{}{Algunos ciempies gigantes.}
+{3454}{}{Una patrulla del ejercito Mexicano.}
+{3455}{}{Un grupo de inmigrantes.}
+{3456}{}{Oro.}
+{3457}{}{Henry Bemis.}
+{3458}{}{Una cafeteria.}
+{3459}{}{Un bombardero estrellado.}
+{3460}{}{Un camion de Petro-Chico}
+{3461}{}{El Grito del Silencio.}
+{3462}{}{Noche de peliculas.}
+{3463}{}{El Padre volador.}
+{3464}{}{Legend City.}
+{3465}{}{Un brahman carnivoro.}
+
+# Encounter Table 10-- CALF_D
+{3500}{}{Red Ryder.}
+{3501}{}{Niebla radiactiva}
+{3502}{}{Una manada de ratas.}
+{3503}{}{Una manada de escorpiones.}
+{3504}{}{Varios chatarreros.}
+{3505}{}{Un viajero y su perro.}
+{3506}{}{Oro.}
+{3507}{}{Henry Bemis.}
+{3508}{}{Una cafeteria.}
+{3509}{}{Un bombardero estrellado.}
+{3510}{}{Un camion de Petro-Chico}
+{3511}{}{El Grito del Silencio.}
+{3512}{}{Noche de peliculas.}
+{3513}{}{Una nevada.}
+{3514}{}{El Santuario Perdido.}
+{3515}{}{Una fortaleza movil.}
+{3516}{}{Legend City.}
+
+# Encounter Table 11-- PHNX_D
+{3550}{}{Red Ryder.}
+{3551}{}{Una manada de ratas.}
+{3552}{}{Una manada de perros.}
+{3553}{}{Un escuadron de la banda Los Panchos.}
+{3554}{}{Un escuadron de la banda Los Panchos.}
+{3555}{}{Un escuadron de la banda Los Panchos.}
+{3556}{}{Algunos saqueadores.}
+{3557}{}{Algunos saqueadores.}
+{3558}{}{Un grupo de civiles.}
+{3559}{}{Un psicopata.}
+{3560}{}{Algunos mafiosos recaudando una deuda.}
+{3561}{}{Una nevada.}
+{3562}{}{El Santuario Perdido.}
+{3563}{}{Legend City.}
+
+# Encounter Table 12-- PHNX_M
+{3600}{}{Niebla radiactiva}
+{3601}{}{Un grupo de hormigas gigantes.}
+{3602}{}{El cadaver de un merodeador.}
+{3603}{}{Un chatarrero solitario.}
+{3604}{}{Un robot enojado.}
+
+# Encounter Table 13-- ROAD_D
+{3650}{}{Red Ryder.}
+{3651}{}{Un cuerpo junto a la carretera.}
+{3652}{}{Una manada de ratas.}
+{3653}{}{Una manada de escorpiones.}
+{3654}{}{Un grupo de saqueadores.}
+{3655}{}{Un grupo de saqueadores.}
+{3656}{}{Algunos guerreros de la carretera.}
+{3657}{}{Una caravana.}
+{3658}{}{Una carreta saqueada.}
+{3659}{}{Unos bandidos contra unos cazarrecompensas.}
+{3660}{}{El Santuario Perdido.}
+{3661}{}{Legend City.}
+
+# Encounter Table 14-- TUSN_D
+{3700}{}{Red Ryder.}
+{3701}{}{Una manada de ratas.}
+{3702}{}{Una manada de escorpiones.}
+{3703}{}{Un grupo de saqueadores.}
+{3704}{}{Un grupo de saqueadores.}
+{3705}{}{Un robot explorador.}
+{3706}{}{El cadaver de un esclavo fugitivo.}
+{3707}{}{Un cíborg.}
+
+# Encounter Table 15-- TUSN_M
+{3750}{}{Un derrumbe}
+{3751}{}{Una manada de ratas topo.}
+{3752}{}{Una manada de lobos.}
+{3753}{}{Algunos hombres repartiendose un terreno.}
+{3754}{}{Un anciano.}
+{3755}{}{Un canibal en su caceria.}
+{3756}{}{Oro.}
+{3757}{}{Henry Bemis.}
+{3758}{}{Una cafeteria.}
+{3759}{}{Un bombardero estrellado.}
+{3760}{}{Un camion de Petro-Chico}
+{3761}{}{El Grito del Silencio.}
+{3762}{}{Noche de peliculas.}
+{3763}{}{El Santuario Perdido.}
+{3764}{}{Legend City.}
+
+# Encounter Table 16-- INFN_D
+{3800}{}{Niebla radiactiva}
+{3801}{}{Un grupo de hormigas gigantes.}
+{3802}{}{Un montón de chatarreros.}
+{3803}{}{Un montón de segadores.}
+{3804}{}{Un agente de la USP.}
+{3805}{}{Harvey.}
+
+# Encounter Table 17-- PORT_D
+{3850}{}{Red Ryder.}
+{3851}{}{Deshidratacion}
+{3852}{}{Algunas hormigas gigantes.}
+{3853}{}{Un enjambre de mantis.}
+{3854}{}{Una manada de escorpiones.}
+{3855}{}{Una patrulla de la Hermandad.}
+
+# Encounter Table 18-- ISLD_D
+{3900}{}{Unas hormigas gigantes explorando la costa.}
+{3901}{}{Un monstruo.}
+{3902}{}{Un cadaver en la costa.}
+{3903}{}{Un pescador.}
+{3904}{}{El cuerpo de un explorador.}
+{3905}{}{Unos saqueadores y un escriba.}
+
+# Encounter Table 19-- ISLD_M
+{3950}{}{Un derrumbe}
+{3951}{}{Niebla radiactiva}
+{3952}{}{Un grupo de hormigas gigantes.}
+{3953}{}{Algunos monstruos.}
+{3954}{}{Un robot del ejercito.}
+{3955}{}{Unos peregrinos.}
+{3956}{}{Oro.}
+{3957}{}{Henry Bemis.}
+{3958}{}{Una cafeteria.}
+{3959}{}{Un bombardero estrellado.}
+{3960}{}{Un camion de Petro-Chico}
+{3961}{}{El Grito del Silencio.}
+{3962}{}{Una Noche de peliculas.}
+{3963}{}{El Padre volador.}
+{3964}{}{Legend City.}
+
+# Encounter Table 20-- OCEAN_O
+{4000}{}{Niebla radiactiva}
