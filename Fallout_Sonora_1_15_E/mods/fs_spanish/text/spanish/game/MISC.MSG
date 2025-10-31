@@ -1,0 +1,104 @@
+#---------------------------------------------------------------- -
+# Interface options
+#---------------------------------------------------------------- -
+{0}{}{¿Estás seguro de que quieres salir?}
+{1}{}{Versión demo}
+{2}{}{Se usará el Personaje por defecto.}
+{3}{}{Captura guardada.}
+{4}{}{Cargado rápido cargado con éxito.}
+{5}{}{Guardado rápido guardado con éxito.}
+{6}{}{Límite de tiempo de la demo excedido.}
+{7}{}{¡El Pipboy no está disponible en combate!}
+{8}{}{Error guardando la captura.}
+{9}{}{INTRO}
+{10}{}{NUEVO JUEGO}
+{11}{}{CARGAR}
+{12}{}{OPCIONES}
+{13}{}{CREDITOS}
+{14}{}{SALIR}
+{15}{}{Ptos. Acción}
+{16}{}{Ptos. Salud}
+{17}{}{El sensor de movimiento no está instalado.}
+{18}{}{El sensor de movimiento no tiene cargas.}
+{20}{}{Nevada Band, 2020-2024}
+
+{30}{}{¿Quieres continuar jugando?}
+{50}{}{Fallout 2 necesita el CD!}
+{100}{}{¡Error guardando archivo configuración!}
+{101}{}{Preferencias no guardadas.}
+
+#---------------------------------------------------------------- -
+# Some radiation messages used in critter.c
+#---------------------------------------------------------------- -
+{1000}{}{Te sientes mareado.}
+{1001}{}{Te sientes muy mareado, y tras vomitar levemente, ligeramente fatigado.}
+{1002}{}{Estás muy fatigado, no paras de vomitar, y tu tiempo de recuperación está afectado.}
+{1003}{}{Sufres una violenta hemorragia. Estás muy enfermo, y tu pelo se está cayendo.}
+{1004}{}{Sufres una hemorragia violenta y continuada. Tus vómitos son de color rojo debido a la sangre. Se te cae la piel.}
+{1005}{}{Te sangran los intestinos y tienes una severa diarrea. Te sientes hinchado y notas una intensa agonía.}
+{1006}{}{Has muerto por envenenamiento por radiación.}
+{1007}{}{Has recibido una gran cantidad de radiación.}
+{1008}{}{El contador Geiger está sonando.}
+{1009}{}{El contador Geiger suena salvajemente.}
+#
+# Message used in actions.c
+#
+{2000}{}{No puedes llegar allí.}
+{2001}{}{La puerta está atascada.}
+#
+# poison messages from critter.c
+#
+{3000}{}{¡Te has envenenado!}
+{3001}{}{Recibes daño por el veneno.}
+{3002}{}{Te sientes un poco mejor.}
+{3003}{}{Te sientes mejor.}
+#
+# from queue.c
+#
+{4000}{}{Debido a tu torpe manejo, el explosivo detona prematuramente.}
+#
+# from combatai.c
+#
+{5000}{}{usa}
+{5001}{}{Se queda sin munición para la}
+{5002}{}{recarga la}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{¿Sobre qué quieres preguntarme?}
+{7000}{}{¡No llevas el PipBoy!}
+{8000}{}{Llevas demasiado peso.}  # Carrying too much weight
+{8001}{}{%s está sobrecargado.}
+{8500}{}{Ganas %d puntos de experiencia por el uso con éxito de Supervivencia.}
+
+#---------------------------------------------------------------- -
+# Replies over your teammates' heads when they gain a new level
+#---------------------------------------------------------------- -
+
+{9000}{}{%s ha ganado nuevas habilidades.} # Party Member has gained experience/level
+
+{9010}{}{¡Caray! De repente he sentido un subidón de experiencia.} # pMMyron_PID
+{9011}{}{¡Sube de nivel, nena! ¡Sube!}
+{9012}{}{Siento una gran perturbación en la Fuerza. Como si todas mis habilidades hubieran ganado puntos porcentuales.}
+{9013}{}{Me siento más duro, más fuerte. Más listo.}
+
+{9020}{}{¡Quiero saber más!}
+{9021}{}{¡Se me ocurrió una gran teoría!}
+{9022}{}{Todo lo ingenioso es simple.}
+
+{9030}{}{Mi entrenamiento no fue en vano.}
+{9031}{}{¿Me subirán de rango luego de viajar tanto?}
+{9032}{}{Me he hecho más fuerte. La Orden debería darnos más misiones así.}
+
+{9040}{}{Sabes, me estoy volviendo mejor en esto.}
+{9041}{}{Creo que me gané la lotería.}
+{9042}{}{Estoy listo para una aventura GRANDE.}
+
+{9050}{}{Ah, si mis hermanos y hermanas pudieran ver esto...}
+{9051}{}{Ahora lo entiendo, el conocimiento es insignificante si la práctica.}
+{9052}{}{Debo agradecerte nuestro viaje.}
+
+{9100}{}{¡Tiemblen, ratas! ¡Vengo por sus cabezas!}
+{9101}{}{¡No es ninguna sorpresa que haya sobrevivido a ese sótano!}
+{9102}{}{¡La vida es buena!}
+{9103}{}{¡Tendré al mundo entero a mis pies!}

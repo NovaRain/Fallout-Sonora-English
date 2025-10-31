@@ -1,0 +1,2 @@
+1: La mina de uranio cierra despues de que el sur dejara de comprar el producto.
+2: El resto de la ciudad se encoge.

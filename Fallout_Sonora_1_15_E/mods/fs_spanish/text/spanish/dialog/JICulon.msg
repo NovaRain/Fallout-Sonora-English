@@ -1,0 +1,1 @@
+{100}{}{Tras desmontar el colgante, recibiste 6 cartuchos del calibre .308 y 8 cartuchos del calibre .44}

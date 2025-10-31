@@ -1,0 +1,22 @@
+YCBossA.msg is missing messages: 1306, 1283
+YCBossB.msg is missing messages: 1352
+YCCafeA.msg is missing messages: 1302, 1297, 1305
+YCCafeB.msg is missing messages: 1232
+YCCnvBos.msg is missing messages: 1245, 1231
+YCCrvMtn.msg is missing messages: 1205, 1209, 1207
+YCCrvRun.msg is missing messages: 1226
+YCDeSant.msg is missing messages: 1248, 1273, 1356
+YCDnvnA.msg is missing messages: 1102
+YCFungs.msg is missing messages: 1200
+YCGhlMat.msg is missing messages: 1200, 1240
+YCGopStp.msg is missing messages: 1228, 1207
+YCHsptlA.msg is missing messages: 1103
+YCHsptlB.msg is missing messages: 1208
+YCIsdCrh.msg is missing messages: 1205
+YCIsdMtB.msg is missing messages: 1216
+YCLiveB.msg is missing messages: 1233
+YCNslBos.msg is missing messages: 1219
+YCNslMtn.msg is missing messages: 1203
+YCPirTlk.msg is missing messages: 1227, 1200, 1203
+YCTalius.msg is missing messages: 1396
+YSPoster.msg is missing messages: 1107

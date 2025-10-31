@@ -1,0 +1,247 @@
+#------------------------------------------------
+# Perk names
+#------------------------------------------------
+
+{101}{}{Consciencia}
+{102}{}{Bono ataque melee}
+{103}{}{Bono daño cuerpo a cuerpo}
+{104}{}{Bono de movimiento}
+{105}{}{Bono de daño a distancia}
+{106}{}{Bono de cadencia tiro}
+{107}{}{Reacción temprana}
+{108}{}{Curación rápida}
+{109}{}{Más críticos}
+{110}{}{Visión nocturna}
+{111}{}{Animal amigo} # changed
+{112}{}{Resistencia a radiación}
+{113}{}{Dureza}
+{114}{}{Mulo}
+{115}{}{Tirador}
+{116}{}{Carrera silenciosa}
+{117}{}{Supervivencialista}
+{118}{}{Maestro del trueque}
+{119}{}{Educado}
+{120}{}{Sanador}
+{121}{}{Buscador de fortuna} # changed
+{122}{}{Mejores críticos}
+{123}{}{Empatía}
+{124}{}{Asesino}
+{125}{}{Francotirador}
+{126}{}{Muerte silenciosa}
+{127}{}{Hombre de acción}
+{128}{}{!Reserve}
+{129}{}{Vitalidad}
+{130}{}{Esquivador}
+{131}{}{Comeserpientes}
+{132}{}{Manitas} # changed
+{133}{}{Médico}
+{134}{}{Maestro ladrón}
+{135}{}{Orador}
+{136}{}{Lanzamiento largo}
+{137}{}{Motociclista} # changed
+{138}{}{Cleptómano}
+{139}{}{Fantasma}
+{140}{}{Héroe Olvidado}
+{141}{}{! Reserve}
+{142}{}{Viajero Eterno} # changed
+{143}{}{Rehabilitación}
+{144}{}{Pionero}
+{145}{}{Empezando a Mutar}
+{146}{}{Rastreador}
+{147}{}{Forastero misterioso}
+{148}{}{Intuición de Viajero} # changed
+{149}{}{Bolsillos rápidos}
+{150}{}{Charlatán}
+{151}{}{Aprendizaje rápido}
+{152}{}{¡Destacar!}
+{153}{}{¡Muta!}
+{154}{}{Adicto a la Nuka-Cola}
+{155}{}{Adicto a los esteroides}
+{156}{}{Adicto a los mentats}
+{157}{}{Adicto al psico}
+{158}{}{Adicto al radaway}
+{159}{}{! Arma de gran distancia}
+{160}{}{! Precisión de arma}
+{161}{}{! Penetración de arma}
+{162}{}{! Retroceso de arma}
+{163}{}{! Servoarmadura}
+{164}{}{! Armadura de combate}
+{165}{}{! Mira telescópica de arma}
+{166}{}{! Recarga Rápida de arma}
+{167}{}{! Visión Nocturna de arma}
+{168}{}{! Arma lanzallamas}
+{169}{}{! Armadura avanzada I}
+{170}{}{! Armadura avanzada II}
+{171}{}{Adicto al Jet}
+{172}{}{! Reserve}
+{173}{}{! Armadura Carisma}
+{174}{}{! Reserve}
+{175}{}{Guerrero Veterano}
+{176}{}{! Do not use}
+{177}{}{! Do not use}
+{178}{}{Apariencia Mutante}
+{179}{}{Fisiología Mutante}
+{180}{}{Subidón de adrenalina}
+{181}{}{Lecciones del Yermo} # changed
+{182}{}{Lógica Matemática} # changed
+{183}{}{Experto en demoliciones}
+{184}{}{Jugador}
+{185}{}{Ganar Fuerza}
+{186}{}{Ganar Percepción}
+{187}{}{Ganar Resistencia}
+{188}{}{Ganar Carisma}
+{189}{}{Ganar Inteligencia}
+{190}{}{Ganar Agilidad}
+{191}{}{Ganar Suerte}
+{192}{}{Inofensivo}
+{193}{}{Aquí y ahora}
+{194}{}{Bloqueo Melee} # changed
+{195}{}{Experto Sonorense}
+{196}{}{Karma resplandeciente}*** what to do...
+{197}{}{Paso ligero}
+{198}{}{Anatomía vital}
+{199}{}{Intimidación} # changed
+{200}{}{Negociador}
+{201}{}{Sherpa} # keeping as probably a reverse translation issue, but used sonora description
+{202}{}{Pirómano}
+{203}{}{Recuperación rápida}
+{204}{}{Vendedor}
+{205}{}{Muro de piedra}
+{206}{}{Ladrón}
+{207}{}{Manejo de armas}
+{208}{}{Medicina Antigua}
+{209}{}{Alcohol +P.S.}
+{210}{}{Alcohol +P.S. II}
+{211}{}{Alcohol -P.S.}
+{212}{}{Alcohol -P.S. II}
+{213}{}{Purificación} # changed
+{214}{}{Purificación II} # changed
+{215}{}{Radiación -P.S} # changed
+{216}{}{Radiación -P.S II} # changed
+{217}{}{!Reserve}
+{218}{}{! Weapon - knockout}
+{219}{}{! Do not use}
+
+#------------------------------------------------
+# Descriptions of perks
+#------------------------------------------------
+
+{1101}{}{Con Consciencia, recibirás información detallada sobre cada criatura que examines. Verás sus puntos de salud (PS) exactos e información sobre el arma que portan.}
+{1102}{}{Has aprendido las artes orientales secretas, o simplemente es que golpeas más rápido. En cualquier caso, tus ataques desarmados te cuestan 1 punto de acción (PA) menos.}
+{1103}{}{Tu experiencia en combate sin armas te da la ventaja a la hora de hacer daño. Causas +2 puntos de daño sin armas y con armas cuerpo a cuerpo. por cada nivel de este extra.}
+{1104}{}{Por cada nivel de bono en Movimiento, ganas 2 puntos de acción que sólo pueden ser usados para moverse. En otras palabras, puedes moverte 2 cuadrículas en cada turno sin gastar PA.}
+{1105}{}{Tu entrenamiento en armas de fuego y otras armas a distancia te ha hecho más mortífero en el combate a distancia. Por cada nivel de este extra, haces 2 puntos de daño más con armas a distancia.}
+{1106}{}{Este extra te permite apretar el gatillo más rápido sin perder precisión al disparar. Cada ataque a distancia cuesta 1 punto de acción menos.}
+{1107}{}{Eres capaz de moverte antes que tus enemigos en combate, dado que tu capacidad de reacción aumenta en 2 por cada nivel de este extra.}
+{1108}{}{Con cada nivel de este extra, recibes un bono +2 a tu tasa de curación, que se añade a tu tasa de curación normal, con lo que te curarás más rápido.}
+{1109}{}{Eres más proclive a causar críticos en combate si tienes este extra. Cada nivel de Más críticos te da un 5% adicional de posibilidad de causar un crítico.}
+{1110}{}{Con Visión nocturna puedes ver mejor en la oscuridad. Esto reducirá el nivel general de oscuridad en un 20%.}
+{1111}{}{Eres capaz de calmar a un animal salvaje temporalmente al alimentarlo. Cada nivel de este extra hará el proceso más rápido.}
+{1112}{}{Eres mejor a la hora de evitar la radiación y sus efectos nocivos. Cada nivel de este extra mejora tu resistencia a la radiación en un 15%.}
+{1113}{}{Cuando eres duro, recibes menos daño. Cada nivel de este extra añade un 10% a tu resistencia al daño.}
+{1114}{}{Puedes llevar 50 libras adicionales de peso por cada nivel de este extra.}
+{1115}{}{Tienes talento para disparar a gran distancia. Por cada nivel de este extra, recibes un bono de +2 a la percepción a la hora de determinar los modificadores de tiro a distancia. ¡Ahora es más fácil que nunca matar desde lejos!}
+{1116}{}{Con este extra, ahora tienes la habilidad de correr y permanecer en sigilo a la vez.}
+{1117}{}{Eres un maestro de la vida en la naturaleza. Este extra te confiere la habilidad de sobrevivir en entornos hostiles. Recibes un bono de +25% a Supervivencia.}
+{1118}{}{Te has hecho un maestro en comprar cosas más baratas de lo normal. Con este extra, recibes un descuento del 25% a la hora de comprar objetos de una tienda o de otro comerciante.}
+{1119}{}{Cada nivel de Educado te da 2 puntos más de habilidad cada vez que subes de nivel. Este extra funciona mejor si se elige al principio de tu aventura.}
+{1120}{}{La curación te será más sencilla. Cada nivel de este extra cura de 4 a 10 puntos de salud (PS) adicionales cuando uses las habilidades de primeros auxilios o de doctor.}
+{1121}{}{Tienes talento a la hora de encontrar riquezas. Hallarás botín más valioso en mayores cantidades, y los alijos se marcarán en el minimapa. Además, los comerciantes tendrán un 10% más de chapas para trueques.}
+{1122}{}{Los críticos que causas en combate son devastadores. Ganas un 20% de bono por daño en críticos, lo que te asegura que harás más daño. Esto no afecta a la posibilidad de hacer daño crítico.}
+{1123}{}{Has estudiado a los demás seres humanos, dándote la capacidad de percibir su reacción emocional hacia ti. Verás el nivel de reacción de la persona con la que estés hablando en medio de una conversación profunda.}
+{1124}{}{¡Anda suelto un asesino! En combate cuerpo a cuerpo todos tus golpes serán considerados críticos, causando caos y destrucción.}
+{1125}{}{Te has vuelto un maestro a la hora de usar las armas de fuego para repartir dolor. Con este extra, cualquier tiro con éxito será aumentado a critico si pasas una tirada de Suerte.}
+{1126}{}{Cuando estés en sigilo, si golpeas por la espalda, causarás el doble de daño en combate cuerpo a cuerpo. Muerte silenciosa es esa clase de extra.}
+{1127}{}{Cada nivel de Hombre de acción te da 1 punto de acción para gastar en un turno. Puedes usar este punto para lo que quieras.}
+{1128}{}{( Steadfast Mind in F1)}
+{1129}{}{Con cada nivel de este extra, ganas 4 puntos de salud (PS) adicionales cada vez que subes de nivel. Estos se añaden a los puntos que ya ganas en cada nivel por tu resistencia.}
+{1130}{}{Eres menos proclive a ser herido en combate si tienes este extra. Ganas un bono de +5 a tu clase de armadura, que se añade al bono por llevar armadura.}
+{1131}{}{¡Hmmm! ¡Sabe a pollo! Por cada nivel de este extra, ganas un 25%  de resistencia al veneno.}
+{1132}{}{Este extra te da un bono único del 10% a tus habilidades de Ciencia y Reparar.}
+{1133}{}{El extra Médico te da un bono único de 10% a tus habilidades Primeros auxilios y Doctor. Las habilidades de curación son algo bueno.}
+{1134}{}{Un maestro ladrón es muy eficiente robando y forzando cerraduras. Ganas un bono único del 15% a Ganzúa y Robar. Roba a los ricos y... quédatelo para ti.}
+{1135}{}{Ser un orador te confiere un bono único de un 20% a Conversación.}
+{1136}{}{Cada nivel de Lanzamiento largo te da un bono de +2 a Fuerza (hasta un máximo de 10) a la hora de determinar el alcance con armas arrojadizas. Este extra no puede exceder del alcance máximo de un arma.}
+{1137}{}{Has aprendido lo suficiente acerca de los mecanismos y técnicas de conducción de una motocicleta para subirte a una y conducir como si nada. Sólo falta encontrar una motocicleta que funcione.}
+{1138}{}{Eres mucho más aficionado a robar que un ladrón normal. Puedes robar a cualquiera porque, con este extra, ignoras los modificadores de tamaño y dirección a la hora de robar a una persona.}
+{1139}{}{Cuando el sol se oculta o estás en una zona poco iluminada, puedes moverte como un fantasma gracias a este extra. Tu habilidad de Sigilo aumenta un 20% en la oscuridad.}
+{1140}{}{El Yermo tiene una memoria a corto plazo; tus hazañas, hayan sido nobles o malvadas, se han esfumado. Tu karma y tus títulos han desaparecido por completo.}
+{1141}{}{( Flea dealer in F1)}
+{1142}{}{Gracias a esta habilidad, podrás seguir con tu aventura después de completar tu misión principal.}
+{1143}{}{Has pasado por un tratamiento contra la drogadicción. Con este extra, reduces la probabilidad de volverte adicto a las drogas por un 50%, y la abstinencia durará menos de lo normal.}
+{1144}{}{El pionero es capaz de encontrar la ruta más corta. Con este extra, tu tiempo de viaje en el mapa del mundo se reduce un 25% por cada nivel.}
+{1145}{}{Fuiste expuesto ante una radiación intensa y un virus misterioso. Esto llevará a cambios irreversibles en tu cuerpo, te tranformarás en... otra cosa.}
+{1146}{}{Has mejorado tu capacidad de ver lugares a la distancia, lo que incrementa tu visión en el Mapamundi a 1 casilla más en cada dirección. También eres más proclive a toparte con encuentros especiales.}
+{1147}{}{Con este extra, ganas la atención de un Forastero Misterioso, que aparecerá para ayudarte de vez en cuando. Si tu aliado muere en combate, no esperes un sustituto.}
+{1148}{}{Has viajado lo suficiente como para desarrollar una intuición única. Esta habilidad incrementa tu Supervivencia en 15% y reduce a la mitad la cantidad de radiación que absorbes en áreas radioactivas.}
+{1149}{}{Has aprendido a empaquetar tus cosas mejor. Acceder a tu inventario sólo te costará 2 puntos de acción (PA) en combate en vez de 4.}
+{1150}{}{Has aprendido a aumentar tus opciones de diálogo aunque no entiendas de qué estás hablando. Cada nivel de este extra aumenta tu inteligencia en 1 punto, hasta 10, sólo en diálogos.}
+{1151}{}{Con este extra te convertirás realmente en un rápido aprendiz, porque cada nivel te dará un bono de un 5% más de puntos de experiencia. Es mejor escoger este extra cuanto antes.}
+{1152}{}{Tus habilidades han mejorado hasta el punto de que puedes elegir una nueva habilidad destacada. Las habilidades destacadas aumentan el doble de rápido que las normales.}
+{1153}{}{¡La radiación del Yermo te ha transformado! Uno de tus rasgos ha mutado en algo nuevo...}
+{1154}{}{La Nuka-Cola te "enganchó". Debes beberla para evitar la abstinencia.}
+{1155}{}{Los Esteroides te "engancharon". Debes usarlos para evitar la abstinencia.}
+{1156}{}{Los Mentats te "engancharon". Debes usarlos para evitar la abstinencia.}
+{1157}{}{El Psico te "enganchó". Debes usarlo para evitar la abstinencia.}
+{1158}{}{El Rad-Away te "enganchó" Debes usarlo para evitar la abstinencia.}
+{1159}{}{Es más difícil acertar entre más cerca estés.}
+{1160}{}{Precisión (+20% probabilidad de acertar).}
+{1161}{}{Penetración incrementada a las armaduras (+80% penetración a armaduras ).}
+{1162}{}{Retroceso al golpear ( más probabilidad que si no tuviera el extra - 1 casilla por cada 5 puntos de daño ).}
+{1163}{}{Servoarmadura (+3 Strength, +30 Radiation Resistance ).}
+{1164}{}{Armadura de combate (+20 Radiation Resistance ).}
+{1165}{}{Mira ( Es más difícil acertar entre más cerca estés. ).}
+{1166}{}{Recarga rápida ( sólo se usa 1 AP al recargar).}
+{1167}{}{Visión nocturna ( no afecta la iluminación al acertar ).}
+{1168}{}{Lanzallamas ( reduce el umbral para la animación de combustión en la víctima ).}
+{1169}{}{Servoarmadura mejorada I (+4 Fuerza, +60 Resistencia Radiación ).}
+{1170}{}{Servoarmadura mejorada II (+4 Fuerza, +75 Resistencia Radiación ).}
+{1171}{}{Todo se mueve tan despacio... necesitas un nuevo chute de Jet, ¡AHORA!}
+{1172}{}{( Tragic addiction in F2)}
+{1173}{}{Armadura carismática (+2 Carisma).}
+{1174}{}{( Gekko skinning in F2)}
+{1175}{}{Después de tantas peleas y entrenamiento, tu cuerpo se ha endurecido. Recibes una resistencia del +5 ante el daño normal y de explosión.}
+{1176}{}{( Subcutaneous Armor II in F2)}
+{1177}{}{( Phoenix Armor I in F2)} #Phoenix Armor
+{1178}{}{Haz terminado de mutar. Tu Carisma ha bajado al mínimo.}
+{1179}{}{Haz terminado de mutar. Obtienes un bonus de +10 a la Resistencia contra armas de energía (láser, plasma y fuego) y venenos, junto a una limpieza gradual de la radiación en tu cuerpo.}
+{1180}{}{Con este extra, ganas +1 a tu Fuerza cuando tus Puntos de Salud descienden por debajo de la mitad.}  # Adrenaline Rush
+{1181}{}{Haz visto muchas cosas en tus viajes, pero no lo has procesado todo. Esto resulta en que casi cada habilidad ha mejorado, pero sólo en un 2%.}
+{1182}{}{La matemática y los datos precisos son tu pasión. Con este extra, eres capaz de ver qué condiciones ayudarán a resolver un problema en particular.}
+{1183}{}{Eres un experto en el refinado arte del manejo de explosivos. Siempre explotan cuando deben, causando un daño extra.}  # Demolition Expert
+{1184}{}{Puedes apostar con los mejores. Ganas un 20% a tu habilidad de Apostar.}  # Gambler
+{1185}{}{Con este extra ganas +1 a tu Fuerza.}     # Gain Strength
+{1186}{}{Con este extra ganas +1 a tu Percepción.}   # Gain Perception
+{1187}{}{Con este extra ganas +1 a tu Resistencia.}    # Gain Endurance
+{1188}{}{Con este extra ganas +1 a tu Carisma.}     # Gain Charisma
+{1189}{}{Con este extra ganas +1 a tu Inteligencia.} # Gain Intelligence
+{1190}{}{Con este extra ganas +1 a tu Agilidad.}      # Gain Agility
+{1191}{}{Con este extra ganas +1 a tu Suerte.}         # Gain Luck
+{1192}{}{Tu aspecto inocente hace que robar a la gente sea algo más sencillo. Ganas un bono de un 20% más en Robar}  # Harmless
+{1193}{}{Con este extra ganas automáticamente un nivel de experiencia.}  # Here and Now
+{1194}{}{Si tu ranura de inventario está vacía al final de tu turno, tu Clase de Armadura se incrementa por un 1/12 de tu habilidad Desarmado y +2 (en vez de +1) por cada punto de acción no utilizado.}
+{1195}{}{Has estudiado la geografía del desierto Sonorense a fondo. Con este extra, serás capaz de ver el mapa sin neblina, revelando cada localización que haya.}
+{1196}{}{Tu karma resplandece el doble. Sea bueno o malo, tu karma se dobla para cualquier clase de reacción o modificadores.}  # Karma Beacon
+{1197}{}{Eres ágil, cuidadoso y tienes suerte. Este extra reduce a la mitad las posibilidades de activar una trampa.}  # Light Step
+{1198}{}{Tienes un mejor entendimiento de las criaturas vivas y de sus puntos fuertes y débiles. Ganas un bono único de +10% a Doctor, y causas +5 de daño por cada ataque a las criaturas vivas.}  # Living Anatomy
+{1199}{}{Durante el combate, puedes intimidar a tu oponente para que no ataquen. Entre más alto tu Carisma, más probable que funcione. Pero esto no funcionará con los enemigos más fuertes.}
+{1200}{}{Eres un negociador muy habilidoso. No sólo puedes hacer trueques como el mejor, sino que puedes convencer a cualquiera de casi cualquier cosa. Con este extra ganas un 10% en Trueque y Conversación.}  # Negotiator
+{1201}{}{Eres muy eficiente a la hora de ordenar tu inventario. Esto hace mucho más fácil llevar ese peso extra que siempre has necesitado. (+50 al peso máximo).}
+{1202}{}{Haces daño extra con lanzallamas, y los enemigos siempre morirán de la forma más horrible y dolorosa posible.}  # Pyromaniac
+{1203}{}{Te recuperas rápido cuando te derriban.}  # Quick Recovery
+{1204}{}{Eres un gran vendedor. Con este extra ganas un 20% en Trueque.}  # Salesman
+{1205}{}{Eres mucho menos proclive a ser derribado en combate.}  # Stonewall
+{1206}{}{La sangre de un ladrón corre por tus venas. Con este extra, ganas un bono único a Sigilo, Ganzúa, Robar y Trampas. Un ladrón versátil es un ladrón vivo.}  # Thief
+{1207}{}{Puedes llevar armas mucho más grandes de lo que normalmente podrías. Ganas un +3 a Fuerza a la hora de las restricciones para llevar armas.}  # Weapon Handling
+{1208}{}{Has amaestrado varias técnicas médicas de la preguerra que fueron preservadas y heredadas por los Seguidores del Apocalipsis. Esto incrementa tu habilidad de Doctor en un 10%.}
+{1209}{}{Tus puntos de salud han aumentado un poco por tu reincidente alcoholismo.}  # Alcohol Enhanced hit points
+{1210}{}{Tus puntos de salud han aumentado un poco más por reincidente alcoholismo.}  # Alcohol Enhanced hit points II
+{1211}{}{Tus puntos de salud se han reducido un poco por tu reincidente alcoholismo.}  # Alcohol Lowered hit points
+{1212}{}{Tus puntos de salud se han reducido un poco más por tu reincidente alcoholismo.}  # Alcohol Lowered hit points II
+{1213}{}{Has cursado una mejora de salud y recuperación con técnicas médicas de la preguerra. Como resultado, tus Puntos de Salud máximos han incrementado en 2 puntos.}
+{1214}{}{Has cursado una mejora de salud y recuperación con técnicas médicas de la preguerra. Como resultado, tus Puntos de Salud máximos han incrementado en 4 puntos.}
+{1215}{}{Tus puntos de salud se han reducido en 2 debido a los efectos dañinos de la radiación en tu cuerpo. Esto es permanente.}
+{1216}{}{Tus puntos de salud se han reducido en 4 debido a los efectos dañinos de la radiación en tu cuerpo. Esto es permanente.}
+{1217}{}{( Excrement Extraction Expert F2) Ability increases your Speech skill by 5%.}
+{1218}{}{Puedes noquear más fácil .}
+{1219}{}{( Corrupted in F2)}

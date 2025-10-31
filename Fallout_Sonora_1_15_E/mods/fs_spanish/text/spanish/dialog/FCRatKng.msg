@@ -1,0 +1,1 @@
+{102}{}{Ya no eres tan fuerte. ¿¡Verdad, mutante asqueroso!?}

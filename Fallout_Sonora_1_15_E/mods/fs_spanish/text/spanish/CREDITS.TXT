@@ -1,0 +1,133 @@
+#FALLOUT: SONORA
+
+@ Este juego está basado en Fallout 2,
+@ mod hecho en 2020-2021
+
+
+#- PROYECTO CREADO POR -
+
+
+Alexander "BLACK DESIGNER" Poshelyuzhin
+@Idea del proyecto, diseño, programación, guion,
+@modelado 3D, sprites del entorno,
+@texto del juego, localizaciones, vídeos del juego
+
+
+Alexander "Red888guns" Berezin
+@modelado 3D, sprites del entorno,
+@inventario, criaturas nuevas y cabezas parlantes,
+@vídeo de la explosión de la nave en la versión 1.10
+
+
+Osman "Wolfram" Adzhiusmanov
+@Creación del vídeo de la introducción
+
+
+Grigory Sokolov
+@Creación del vídeo de la explosión en Puerto antes de la 1.10,
+@Consultor de vídeos
+
+
+Denis "MASTER" Voloshin
+@control de calidad, testeo, discusión acerca de escenarios
+
+
+Dmitry Kuznetsov
+@testeo en la versión 0.29
+
+
+"Foxx"
+@instalador, adaptación de HRP y sfall
+
+
+Lexx
+@información adicional para NMLTHR.
+
+
+Enrique Barredo
+@Consultor y traductor al español de Nevada Band
+@(es decir, del proyecto original, algo distinto de la traducción que estás leyendo)
+
+
+David Ageev
+@edición de textos del juego (Ciudad Garaje, Rangers,
+@San Brahmán, objetos típicos, encuentros)
+
+
+Ilya Nizovskikh
+@edición de textos del juego (Flagstaff, Tusán, Casa Nueva)
+
+
+Alexander "Vault_boy" Chernenko
+@edición de textos del juego
+@(Chacales, Fénix, Motel Viejo, Infierno, Pip-Boy)
+
+
+Tainted Acolyte
+@edición de textos del juego (Casa Grande, Escudos Azules)
+
+
+Elena Skryvaeva
+@edición de textos del juego (errores de género y puntuación)
+
+
+Dmitry "Jimmy J." Chepusov
+@voz rusa para la introducción y finales originales
+
+
+Alexey "NOBODYS NAIL MACHINE" Trofimov
+@compositor
+
+
+@En la introducción y créditos finales
+@está presente la canción "La Cucaracha"
+@interpretada por Louis Armstrong
+
+#- CONTRIBUCIONES A LA EXPANSION SIYANIE DNYA -
+
+Alexander Berezin (gráficos)
+Alexey Trofimov (música)
+Akop Abraamyan (testeo)
+Tainted Acolyte (edición de textos)
+Alexander Poshelyuzhin (otras contribuciones)
+
+#- AGRADECIMIENTOS ESPECIALES A -
+
+@Participantes de nuestro foro y grupo de VKontakte
+@Gracias por su apoyo moral, críticas
+@y sugerencias
+
+
+Hakob "Vaulter" Abrahamyan
+@por nuestro grupo de VKontakte
+
+Egor "Vault 13" Ostapenko
+@por el foro y apoyo informativo
+
+WWW.FALLOUT-NEVADA.UCOZ.RU
+@sitio oficial
+
+ALPOSH(a)MAIL.RU
+@conexión con Nevada Band
+
+
+@Usados en la creación del proyecto
+@Programas de modding de Fallout 2:
+
+BIS mapper
+Fallout 2 DAT explorer versión 1.43
+sFall ScriptEditor versión 4.1.5.0
+Frame Animator ver 2.51 por Jochua
+AVI to MVE converter por ABel
+@y otros
+
+
+#- TODOS LOS DERECHOS RESERVADOS POR LEY.
+
+@La copia, duplicación y reproducción
+@de este programa y de cualquiera de sus partes con fines comerciales
+@sin permiso expreso de los titulares de los derechos de autor
+@es una violación de la ley de derechos de autor.
+
+Los derechos de la marca @Fallout pertenecen a
+Bethesda Softworks LLC

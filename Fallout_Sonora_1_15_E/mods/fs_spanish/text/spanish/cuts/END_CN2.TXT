@@ -1,0 +1,3 @@
+1: Un incendio erradica los focos de la infeccion en los invernaderos de Casa Nueva.
+2: Pero con ello, la ciudad pierde los valiosos datos que guardaba el laboratorio.
+3: Esto provoca un descenso significativo del rendimiento de las cosechas en las plantaciones locales.
