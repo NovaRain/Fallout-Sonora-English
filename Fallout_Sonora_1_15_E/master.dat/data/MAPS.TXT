@@ -28,8 +28,9 @@
 ; random_start_point_0=elev:0, tile_num:17692
 ; random_start_point_1=elev:0, tile_num:22105
 ; random_start_point_2=elev:0, tile_num:20510
-; -- (DOES NOT WORK!) Entry points to the map. Relevant for random encounters.
+; -- Entry points to the map. Relevant for random encounters.
 ; If there are none, entry occurs at the point specified in the map file.
+; (ONLY WORKS with position=wedge!)
 ;
 ;================================================================================
 
@@ -42,6 +43,14 @@ ambient_sfx=gntlwin1:30, gntlwind:30, gustwin1:20, gustwind:20
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:21112
+random_start_point_1=elev:0, tile_num:17901
+random_start_point_2=elev:0, tile_num:12904
+random_start_point_3=elev:0, tile_num:19489
+random_start_point_4=elev:0, tile_num:21698
+random_start_point_5=elev:0, tile_num:22333
+random_start_point_6=elev:0, tile_num:15868
+random_start_point_7=elev:0, tile_num:25501
 automap=no
 
 [Map 001]
@@ -52,6 +61,14 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, rattle1:10, ratt
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19289
+random_start_point_1=elev:0, tile_num:21900
+random_start_point_2=elev:0, tile_num:18705
+random_start_point_3=elev:0, tile_num:22924
+random_start_point_4=elev:0, tile_num:12703
+random_start_point_5=elev:0, tile_num:16474
+random_start_point_6=elev:0, tile_num:26301
+random_start_point_7=elev:0, tile_num:21735
 automap=no
 
 [Map 002]
@@ -62,6 +79,15 @@ ambient_sfx=gntlwin1:20, gntlwind:20, rattle1:20, rattle:20, vulture1:10, vultur
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22109
+random_start_point_1=elev:0, tile_num:21696
+random_start_point_2=elev:0, tile_num:18906
+random_start_point_3=elev:0, tile_num:14097
+random_start_point_4=elev:0, tile_num:18290
+random_start_point_5=elev:0, tile_num:25508
+random_start_point_6=elev:0, tile_num:17073
+random_start_point_7=elev:0, tile_num:23327
+random_start_point_8=elev:0, tile_num:16314
 automap=no
 
 [Map 003]
@@ -72,6 +98,9 @@ ambient_sfx=gntlwin1:20, gntlwind:20, rattle1:20, rattle:20, vulture1:10, vultur
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:21895
+random_start_point_1=elev:0, tile_num:21313
+random_start_point_2=elev:0, tile_num:18101
 automap=no
 
 [Map 004]
@@ -82,6 +111,11 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vul
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:20112
+random_start_point_1=elev:0, tile_num:20076
+random_start_point_2=elev:0, tile_num:19286
+random_start_point_3=elev:0, tile_num:20130
+random_start_point_4=elev:0, tile_num:22498
 automap=no
 
 [Map 005]
@@ -92,6 +126,10 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vul
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22499
+random_start_point_1=elev:0, tile_num:17899
+random_start_point_2=elev:0, tile_num:13899
+random_start_point_3=elev:0, tile_num:26699
 automap=no
 
 [Map 006]
@@ -102,6 +140,11 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vul
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:20112
+random_start_point_1=elev:0, tile_num:20076
+random_start_point_2=elev:0, tile_num:19286
+random_start_point_3=elev:0, tile_num:20130
+random_start_point_4=elev:0, tile_num:22498
 automap=no
 
 [Map 007]
@@ -112,6 +155,10 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:20, gustwind:20, vulture1:10, vul
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22499
+random_start_point_1=elev:0, tile_num:17899
+random_start_point_2=elev:0, tile_num:13899
+random_start_point_3=elev:0, tile_num:26699
 automap=no
 
 [Map 008]
@@ -122,6 +169,13 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:24921
+random_start_point_1=elev:0, tile_num:20514
+random_start_point_2=elev:0, tile_num:17121
+random_start_point_3=elev:0, tile_num:15087
+random_start_point_4=elev:0, tile_num:20274
+random_start_point_5=elev:0, tile_num:24088
+random_start_point_6=elev:0, tile_num:19488
 automap=no
 
 [Map 009]
@@ -132,6 +186,13 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:13498
+random_start_point_1=elev:0, tile_num:19887
+random_start_point_2=elev:0, tile_num:17899
+random_start_point_3=elev:0, tile_num:26297
+random_start_point_4=elev:0, tile_num:20112
+random_start_point_5=elev:0, tile_num:22499
+random_start_point_6=elev:0, tile_num:22940
 automap=no
 
 [Map 010]
@@ -142,6 +203,13 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:17500
+random_start_point_1=elev:0, tile_num:15669
+random_start_point_2=elev:0, tile_num:20311
+random_start_point_3=elev:0, tile_num:19525
+random_start_point_4=elev:0, tile_num:19488
+random_start_point_5=elev:0, tile_num:26901
+random_start_point_6=elev:0, tile_num:22501
 automap=no
 
 [Map 011]
@@ -152,6 +220,12 @@ ambient_sfx=gntlwin1:20, gntlwind:20, gustwin1:30, gustwind:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:24116
+random_start_point_1=elev:0, tile_num:15868
+random_start_point_2=elev:0, tile_num:19115
+random_start_point_3=elev:0, tile_num:22889
+random_start_point_4=elev:0, tile_num:14714
+random_start_point_5=elev:0, tile_num:19495
 automap=no
 
 [Map 012]
@@ -162,6 +236,11 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19490
+random_start_point_1=elev:0, tile_num:19306
+random_start_point_2=elev:0, tile_num:19680
+random_start_point_3=elev:0, tile_num:21708
+random_start_point_4=elev:0, tile_num:21288
 automap=no
 
 [Map 013]
@@ -172,6 +251,9 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19909
+random_start_point_1=elev:0, tile_num:19487
+random_start_point_2=elev:0, tile_num:21089
 automap=no
 
 [Map 014]
@@ -182,6 +264,10 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19509
+random_start_point_1=elev:0, tile_num:22108
+random_start_point_2=elev:0, tile_num:19493
+random_start_point_3=elev:0, tile_num:21486
 automap=no
 
 [Map 015]
@@ -192,6 +278,9 @@ ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19910
+random_start_point_1=elev:0, tile_num:19288
+random_start_point_2=elev:0, tile_num:22096
 automap=no
 
 [Map 016]
@@ -202,6 +291,9 @@ ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19910
+random_start_point_1=elev:0, tile_num:19288
+random_start_point_2=elev:0, tile_num:22096
 automap=no
 
 [Map 017]
@@ -212,6 +304,9 @@ ambient_sfx=bats1:20, bats:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19910
+random_start_point_1=elev:0, tile_num:19288
+random_start_point_2=elev:0, tile_num:22096
 automap=no
 
 [Map 018]
@@ -222,6 +317,11 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22699
+random_start_point_1=elev:0, tile_num:26100
+random_start_point_2=elev:0, tile_num:19288
+random_start_point_3=elev:0, tile_num:13499
+random_start_point_4=elev:0, tile_num:17902
 automap=no
 
 [Map 019]
@@ -232,6 +332,12 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:15663
+random_start_point_1=elev:0, tile_num:22305
+random_start_point_2=elev:0, tile_num:17898
+random_start_point_3=elev:0, tile_num:24293
+random_start_point_4=elev:0, tile_num:19287
+random_start_point_5=elev:0, tile_num:14705
 automap=no
 
 [Map 020]
@@ -242,6 +348,11 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22499
+random_start_point_1=elev:0, tile_num:14700
+random_start_point_2=elev:0, tile_num:18102
+random_start_point_3=elev:0, tile_num:15686
+random_start_point_4=elev:0, tile_num:26499
 automap=no
 
 ;---------------- Villa:
@@ -462,7 +573,6 @@ map_name=RRadio
 music=fs_rngr
 ambient_sfx=gntlwin1:50, gntlwind:50
 saved=Yes
-can_rest_here=No,No,No
 automap=yes
 
 [Map 045]
@@ -1039,7 +1149,7 @@ automap=no
 [Map 104]
 lookup_name=Special Baron Encounter
 map_name=rndBaron
-music=f1_dsrt
+music=fs_diego
 ambient_sfx=blank:100
 saved=Yes
 dead_bodies_age=No
@@ -1411,6 +1521,11 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:19490
+random_start_point_1=elev:0, tile_num:19306
+random_start_point_2=elev:0, tile_num:19680
+random_start_point_3=elev:0, tile_num:21708
+random_start_point_4=elev:0, tile_num:21288
 automap=no
 
 [Map 143]
@@ -1421,6 +1536,13 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:21093
+random_start_point_1=elev:0, tile_num:21678
+random_start_point_2=elev:0, tile_num:21114
+random_start_point_3=elev:0, tile_num:17277
+random_start_point_4=elev:0, tile_num:18308
+random_start_point_5=elev:0, tile_num:21537
+random_start_point_6=elev:0, tile_num:17496
 automap=no
 
 [Map 144]
@@ -1431,6 +1553,15 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:21511
+random_start_point_1=elev:0, tile_num:18100
+random_start_point_2=elev:0, tile_num:14707
+random_start_point_3=elev:0, tile_num:22499
+random_start_point_4=elev:0, tile_num:25495
+random_start_point_5=elev:0, tile_num:16671
+random_start_point_6=elev:0, tile_num:19689
+random_start_point_7=elev:0, tile_num:23531
+random_start_point_8=elev:0, tile_num:19323
 automap=no
 
 [Map 145]
@@ -1441,6 +1572,9 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22099
+random_start_point_1=elev:0, tile_num:17902
+random_start_point_2=elev:0, tile_num:16478
 automap=no
 
 [Map 146]
@@ -1451,6 +1585,11 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:22499
+random_start_point_1=elev:0, tile_num:17899
+random_start_point_2=elev:0, tile_num:13899
+random_start_point_3=elev:0, tile_num:26699
+random_start_point_4=elev:0, tile_num:20084
 automap=no
 
 [Map 147]
@@ -1461,6 +1600,15 @@ ambient_sfx=animal1:20, animal:20, pebble1:30, pebble:30
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:27110
+random_start_point_1=elev:0, tile_num:22508
+random_start_point_2=elev:0, tile_num:15474
+random_start_point_3=elev:0, tile_num:20892
+random_start_point_4=elev:0, tile_num:16301
+random_start_point_5=elev:0, tile_num:18905
+random_start_point_6=elev:0, tile_num:23728
+random_start_point_7=elev:0, tile_num:22081
+random_start_point_8=elev:0, tile_num:21137
 automap=no
 
 [Map 148]
@@ -1471,6 +1619,15 @@ ambient_sfx=blank:100
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No
+random_start_point_0=elev:0, tile_num:15264
+random_start_point_1=elev:0, tile_num:20111
+random_start_point_2=elev:0, tile_num:16518
+random_start_point_3=elev:0, tile_num:19489
+random_start_point_4=elev:0, tile_num:23718
+random_start_point_5=elev:0, tile_num:22697
+random_start_point_6=elev:0, tile_num:19931
+random_start_point_7=elev:0, tile_num:14882
+random_start_point_8=elev:0, tile_num:19675
 automap=no
 
 [Map 149]
