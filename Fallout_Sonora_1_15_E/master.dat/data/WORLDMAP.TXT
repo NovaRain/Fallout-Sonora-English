@@ -78,7 +78,7 @@ map_04=Road Encounter 5
 ;    	on Player(<characteristic/property/skill/other>), Enctr(Num_Critters),
 ;    	Time, Global(<global variable number>), Rand(chance%)
 ; position=#		enemy placement relative to the player:
-;	huddle		- all around (huddled in a compact crowd)
+;	huddle		- in a circle (huddled in a compact crowd)
 ;	surrounding	- surrounding the player from all sides
 ;	straight_line	- in a straight line
 ;	double_line	- in a double line
@@ -281,29 +281,29 @@ type_00=pid:16777281, Item:148(wielded), Item:132, Item:(1-2)7, Item:(4-12)41, S
 position=wedge, spacing:2
 
 [Encounter: CALF_Maxx]
-type_00=pid:16777275, Item:164(wielded), Item:(2-3)108, Item:(1-2)11, Item:(12-16)41, Script:647 ; traveler from California with a dog
+type_00=pid:16777275, Item:164(wielded), Item:(2-3)108, Item:(1-2)11, Item:(12-16)41, Script:647 ; California traveler with a dog
 type_01=pid:16777233, Item:(1-2)11 ; dog
 position=surrounding, spacing:5, distance:10
 
 [Encounter: PNX_LosPanchos_A]
-type_00=pid:16777283, Item:158(wielded), Item:(1-2)10, Item:40, Script:397, If(Global(246) == 0) ; Ataman (calm) - Combat rifle
-type_01=pid:16777281, Item:138(wielded), Item:40, Script:396 ; Bandit - Air lance
+type_00=pid:16777283, Item:158(wielded), Item:(1-2)10, Item:40, Script:397, If(Global(246) == 0) ; Ataman (calm) - Combat Rifle
+type_01=pid:16777281, Item:138(wielded), Item:40, Script:396 ; Bandit - Air Lance
 type_02=pid:16777281, Item:161(wielded), Item:(2-3)9, Item:133, Script:396 ; Bandit - Assault Rifle and Knife
-type_03=pid:16777282, Item:154(wielded), Item:(2-3)5, Item:133, Script:396 ; Bandit Wmn - 10mm PP and Knife
+type_03=pid:16777282, Item:154(wielded), Item:(2-3)5, Item:133, Script:396 ; Female Bandit - 10mm SMG and Knife
 position=wedge, spacing:2
 
 [Encounter: PNX_LosPanchos_B]
-type_00=pid:16777281, Item:142(wielded), Item:(16-24)2, Item:40, Script:398, If(Global(247) == 0) ; Ataman (crazy) - Go-kart
+type_00=pid:16777281, Item:142(wielded), Item:(16-24)2, Item:40, Script:398, If(Global(247) == 0) ; Ataman (crazy) - Chase
 type_01=pid:16777277, Item:129(wielded), Item:40, Script:396 ; Bandit - Pneumatic Fist
 type_02=pid:16777277, Item:165(wielded), Item:(2-3)11, Item:133, Script:396 ; Bandit - Combat Shotgun and Knife
-type_03=pid:16777280, Item:154(wielded), Item:(2-3)5, Item:133, Script:396 ; Bandit Wmn - 10mm PP and Knife
+type_03=pid:16777280, Item:154(wielded), Item:(2-3)5, Item:133, Script:396 ; Female Bandit - 10mm SMG and Knife
 position=wedge, spacing:2
 
 [Encounter: PNX_LosPanchos_C]
-type_00=pid:16777284, Item:169(wielded), Item:(16-24)2, Item:40, Script:399, If(Global(248) == 0) ; Ataman (female) - Laser Pistol
+type_00=pid:16777284, Item:169(wielded), Item:(16-24)2, Item:40, Script:399, If(Global(248) == 0) ; Female Ataman - Laser Pistol
 type_01=pid:16777281, Item:138(wielded), Item:40, Script:396 ; Bandit - Air Lance
 type_02=pid:16777281, Item:161(wielded), Item:(1-2)9, Item:133, Script:396 ; Bandit - Assault Rifle and Knife
-type_03=pid:16777282, Item:154(wielded), Item:(1-2)5, Item:133, Script:396 ; Bandit Wmn - 10mm PP and Knife
+type_03=pid:16777282, Item:154(wielded), Item:(1-2)5, Item:133, Script:396 ; Female Bandit - 10mm SMG and Knife
 position=wedge, spacing:2
 
 [Encounter: PNX_GangstersBody]
@@ -324,11 +324,11 @@ type_03=Dead, pid:16777262, Script:635 ; child F
 position=wedge, spacing:2
 
 [Encounter: PHNX_CrazyHandy]
-type_00=pid:16777249, Item:(2-4)64, Item:(2-4)106, Script:643 ; feral servant robot
+type_00=pid:16777249, Item:(2-4)64, Item:(2-4)106, Script:643 ; Feral robot servant
 position=wedge, spacing:2
 
 [Encounter: PHNX_CapsAttak]
-type_00=pid:16777271, Item:126(wielded), Item:(15-25)41, Script:635 ;Man in Green Shirt
+type_00=pid:16777271, Item:126(wielded), Item:(15-25)41, Script:635 ; Man in a green shirt
 type_01=ratio:100%, pid:41 ;
 type_02=ratio:100%, pid:41 ;
 type_03=ratio:100%, pid:41 ;
@@ -363,10 +363,10 @@ type_00=pid:16777255, Item:149(wielded), Item:59, Item:7, Script:45 ; US Border 
 position=wedge, spacing:2
 
 [Encounter: INFR_Harvey]
-type_00=pid:16777332, Item:162(wielded), Script:771 ; super mutant
-type_01=Dead, pid:16777258, Item:107 ; glowing ghoul ripper
-type_02=Dead, pid:16777257, Item:(1-4)41 ; green ripper ghoul
-type_03=Dead, pid:16777257, Item:(1-4)41 ; green ripper ghoul
+type_00=pid:16777332, Item:162(wielded), Script:771 ; Super Mutant
+type_01=Dead, pid:16777258, Item:107 ; Glowing Ghoul Ripper
+type_02=Dead, pid:16777257, Item:(1-4)41 ; Green Ghoul Ripper
+type_03=Dead, pid:16777257, Item:(1-4)41; Green Ghoul Ripper
 position=wedge, spacing:2
 
 [Encounter: MEXI_Patrul]
@@ -382,13 +382,13 @@ type_00=pid:16777321, Item:134(wielded), Script:636 ; Alejo
 position=huddle, spacing:3, distance:10
 
 [Encounter: PORT_Patrul]
-type_00=pid:16777295, Item:162(wielded), Item:133, Item:(2-4)9, Item:40, Script:629 ; patrol leader in power armor
-type_01=pid:16777294, Item:161(wielded), Item:133, Item:(2-3)9, Script:629 ; private in combat armor
-type_02=pid:16777294, Item:165(wielded), Item:133, Item:(2-6)11, Script:629 ; private in combat armor
+type_00=pid:16777295, Item:162(wielded), Item:133, Item:9, Item:40, Script:629 ; patrol leader in power armor
+type_01=pid:16777294, Item:161(wielded), Item:133, Item:9, Script:629 ; private in combat armor
+type_02=pid:16777294, Item:165(wielded), Item:133, Item:11, Script:629 ; private in combat armor
 position=wedge, spacing:2
 
 [Encounter: PORT_ScribeHelp]
-type_00=pid:16777291, Item:169(wielded), Item:40, Item:75, Script:775 ; scribe-hostage
+type_00=pid:16777291, Item:169(wielded), Item:40, Item:75, Script:775 ; scribe hostage
 position=surrounding, spacing:2, distance:8
 
 [Encounter: PORT_ScribeHelpBand]
@@ -1242,7 +1242,7 @@ encounter_difficulty=0
 [Tile 7]
 art_idx=346
 encounter_difficulty=0
-;x_offset_yoffset=map type, chance in morning, chance in afternoon, chance in evening, encounter name
+;x_offset_yoffset=map type, chance in the morning, chance in the afternoon, chance in the evening, encounter name
 0_0=Mountain,No_Fill,Uncommon,Uncommon,Uncommon,FLAG_M
 0_1=Mountain,No_Fill,Uncommon,Uncommon,Uncommon,FLAG_M
 0_2=Mountain,No_Fill,Uncommon,Uncommon,Uncommon,FLAG_M
