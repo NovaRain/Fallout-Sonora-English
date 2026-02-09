@@ -33,29 +33,33 @@ Important! Saves from previous versions of 1.16 will sometimes not work correctl
 - Flagstaff: Added explanatory lines to the Mine Administrator and Faber regarding Willa's mission to destroy the mine.
 - Flagstaff: Partially rewritten the dialogue with the girl in the bar to make it feel complete.
 - Flagstaff: Partially rewritten and reorganized the dialogue with Ranger Keruk to make it clearer and less garbled.
-- Flagstaff: You can now hand over the Ranger to Faber without killing him. - Flagstaff: Hugo and Sancho now automatically disappear from the map when the player leaves the mine without a final dialogue with them.
-- Flagstaff: The museum sign has been redesigned to be more in line with Art Deco.
+- Flagstaff: You can now hand over the Ranger to Faber without killing him.
+- Flagstaff: Hugo and Sancho now automatically disappear from the map when the player leaves the mine without a final dialogue with them.
+- Flagstaff: The museum sign has been redesigned to be more in line with art decoration.
 - Flagstaff: The melee weapon the warden in the bar now has is based on the player's level (before the first conversation).
 - Rangers: You can now sleep at the radio station.
 - Rangers: The base price of the ferry handle has been increased from 10 to 20.
 - Rangers: Minor dialogue adjustments to Rufus.
 - Rangers, Quartermaster: Now trades from the first conversation + removed questions about himself + added leather armor to the inventory.
-- *Quartzsite: The chest with the holodisk in the village elder's hut has been moved to a more prominent location. - *San Brahmin: Ranger Oscar now uses a more powerful Pro file for the veteran ranger.
+- *Quartzsite: The chest with the holodisk in the village elder's hut has been moved to a more prominent location.
+- *San Brahmin: Ranger Oscar now uses a more powerful pro file for the veteran ranger.
 - San Brahmin: Geronimo's dialogue has been slightly adjusted and lines have been added for late-game scenarios.
 - San Brahmin: Increased damage dealt by cave-ins in the Buried City + added another such cave-in + adjusted the interaction phrases for cave-ins + added red stripes to cave-ins for greater visibility.
 - *San Brahmin: Dry sewer has been added as a bonus for the "Scavenger's Sense" perk.
 - Phoenix: The weapons dealer can now upgrade the laser pistol.
 - Phoenix: Larry's persuasion requirements have been increased.
-- *Phoenix: The medic from the safehouse has been moved to the first floor of the cathedral. - *Phoenix, Nuclear Power Plant: Rat soup has been moved to a more visible location. + A console for opening the sewer door from the inside has been added to the basement. + Lighting fixtures have been added to the basement. + The transition between the sewers and the Nuclear Power Plant basement has been adjusted. + The sewer dweller in the Nuclear Power Plant quest has been moved closer to the transition to the Nuclear Power Plant basement.
+- *Phoenix: The medic from the safehouse has been moved to the first floor of the cathedral.
+- *Phoenix, Nuclear Power Plant: Rat soup has been moved to a more visible location. + A console for opening the sewer door from the inside has been added to the basement. + Lighting fixtures have been added to the basement. + The transition between the sewers and the Nuclear Power Plant basement has been adjusted. + The sewer dweller in the Nuclear Power Plant quest has been moved closer to the transition to the Nuclear Power Plant basement.
 - Phoenix: All companions forcibly disconnected during the battle now occupy designated spectator seats to make them easier to find after the battle.
 - Phoenix: The casino administrator's dialogue referring to Don Diego for special work has been blocked.
 - Vault 25: The console for the test subject force fields can now be opened with a yellow access card in addition to a red one.
 - Vault 25: Laser traps in the hallway now automatically deactivate after a peaceful dialogue with the vault overseer until they are reactivated.
 - *Vault 25: Columns have been added to the hallway near the overseer's station.
 - *Vault 25: One fusion core has been removed from the crate in the nuclear warehouse (from 3 to 2).
-- *Motel: A more powerful Pro file has been used for the mutant brothers.
+- *Motel: A more powerful pro file has been used for the mutant brothers.
 - *Motel: The +9 reaction bonus and +2 AP bonus for the mutant mothers have been removed, but 15 HP have been added.
-- Vault 27: Microfusion batteries now spawn one fusion core at the overseer's station. - *Vault 27, Arthur Carrington: Arthur reacts to the destruction of the cathedral immediately upon returning to Phoenix + now leaves the party in Phoenix for 24 hours (previously 24 hours) + improved dialogue in many places + partially recalculated character skills and stats at all levels.
+- Vault 27: Microfusion batteries now spawn one fusion core at the overseer's station.
+- *Vault 27, Arthur Carrington: Arthur reacts to the destruction of the cathedral immediately upon returning to Phoenix + now leaves the party in Phoenix for 24 hours (previously 24 hours) + improved dialogue in many places + partially recalculated character skills and stats at all levels.
 - *Vault 27: Ghost armor and reaction times have been slightly increased + the Overseer's ghost's armor and HP have been increased.
 - Casa Grande: Many dialogues in the location have been improved and partially rewritten, especially at the water station.
 - *Casa Grande, Find the Tinsmith quest: additional quest prompts have been added for the mayor, his daughter, and Old Man Gallegas + an info trigger has been added to the moonshiner's hut.
@@ -71,18 +75,21 @@ Important! Saves from previous versions of 1.16 will sometimes not work correctl
 - **Casa Nueva: The marriage pendant for the missing person quest has been implemented + dialogue with the quest giver has been improved.
 - Puerto: Improvements to various location texts (Maura, Dixon, Latham, the janitor, Dixon's computer entries).
 - Puerto: Convincing Maura of the Order's mistakes now requires three arguments instead of one.
-- *Puerto: In the quartermaster's 3-tier trade system, the second tier (merchant goods) and the third tier (for Order members) have been combined into one. - *Platform, boat: completely rewritten and reorganized script + rewritten game text (AFBoat.msg) + you can now travel by boat between known locations on the coast + weight limit removed + energy is no longer consumed with each swim (but the first refueling with a core block is still required).
+- *Puerto: In the quartermaster's 3-tier trade system, the second tier (merchant goods) and the third tier (for Order members) have been combined into one.
+- *Platform, boat: completely rewritten and reorganized script + rewritten game text (AFBoat.msg) + you can now travel by boat between known locations on the coast + weight limit removed + energy is no longer consumed with each swim (but the first refueling with a core block is still required).
 - *Hermosillo: Pancho's partner's skills and stats have been partially recalculated at all development levels.
 - **The San Felipe location has been completed and added to the game. The quest in Puerto Peñasco leading to this location has been completed accordingly.
 - All three Sonora Express offices (Flagstaff, Phoenix, Two Sun) now offer the option to purchase storage slots for your belongings. These slots have a maximum capacity of 999.
-- A pushing option has been added to standard caravan guards on the world map (including the San Brahmin caravan escort quest). - World Map: Reduced the frequency of random encounters.
+- A pushing option has been added to standard caravan guards on the world map (including the San Brahmin caravan escort quest).
+- World Map: Reduced the frequency of random encounters.
 - World Map: Implemented random NPC placements on random encounter maps.
 - World Map: Added a new random encounter, "Townspeople Sharing Bottle Caps" (occurs near Phoenix, only once per game).
 - World Map: Added a new random encounter, "Lost Super Mutants" (occurs rarely on the Peninsula).
 - World Map: Added a new random encounter with Desperados bandits (occurs occasionally in the southern desert near Hermosillo).
 - World Map: Restructured and partially rewritten Paul's dialogue on the mobile platform.
 - World Map, encounter "Bandits Torturing a Scribe": The encounter has been technically restructured to work more correctly + NPC loot has been adjusted.
-- *World Map, encounter "Legend City": A destroyed version of the slot machines has been depicted. - *World Map, Slave Convoy encounter: top border of the map lowered + monk is now armed with a laser pistol + main cargo sprite reduced in size.
+- *World Map, encounter "Legend City": A destroyed version of the slot machines has been depicted.
+- *World Map, Slave Convoy encounter: top border of the map lowered + monk is now armed with a laser pistol + main cargo sprite reduced in size.
 
 - **Dayglow: The rally point for going to Dayglow has been moved from Inferno to a separate marker on the world map.
 - **Dayglow: The ZTInfo info trigger script has been split into two separate files - one for the main game (ZTInfo) and one for Daylight Shining (YTInfo). The ZTInfo script has been removed from the DLC resources. Several other files have been removed after a minor archive optimization.
@@ -113,12 +120,14 @@ Important! Saves from previous versions of 1.16 will sometimes not work correctl
 - Rad Ants now irradiate when they attack.
 - *Centipedes' HP and AC have been increased.
 - **The "Death Machine" title now requires 250 deaths (up from 20), the "Great Hunter" title requires 1000 deaths (up from 50), and the "Monster Slayer" title requires 50 deaths (up from 15).
-- The NMLABB sprite now has a new SMG animation. - Added companion reactions to grave digging.
+- The NMLABB sprite now has a new SMG animation.
+- Added companion reactions to grave digging.
 - **The original mechanic for accruing experience for killing NPCs has been restored (i.e., experience is pre-recorded in the .pro file, rather than calculated by script). Experience values are calculated using a formula based on HP, damage resistance, and the enemy's threat coefficient.
 - Increased the regeneration amount for ghouls (from 1/5 to 1/10 of maximum health).
 - The "Negotiations failed" phrase in the log has been removed (it is no longer displayed when exiting dialogue for combat).
 - Trap adjustments (traps, mines, laser): with the "Lightfoot" perk, traps now ignore not only the main character but also their companions.
-- The "Lightfoot" perk now not only reduces damage from toxic puddles, but eliminates it entirely. - Unified healing script for all medics in the game (Flagstaff, Vault 25, Puerto, Casa Nueva, Two Sun): a unified script-macro system has been introduced + healing for all medics has been broken down into separate services + prices and discounts have been revised + voice lines have been rewritten and clarified.
+- The "Light Step" perk now not only reduces damage from toxic puddles, but eliminates it entirely.
+- Unified healing script for all medics in the game (Flagstaff, Vault 25, Puerto, Casa Nueva, Two Sun): a unified script-macro system has been introduced + healing for all medics has been broken down into separate services + prices and discounts have been revised + voice lines have been rewritten and clarified.
 - Various text fixes by Roman Kozlov (typos, gender-specific voice lines).
 - Numerous minor improvements to text, scripts, and maps throughout the game.
 - All scripts have been recompiled.
