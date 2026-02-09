@@ -190,156 +190,159 @@
 
 ### Chemistry Kit
 
-{430}{}{Here's your chemistry kit.}  
+{430}{}{Here's your chemistry kit.}
 {431}{}{Thank God! I was worried the ghouls had torn it apart. Let's see... Yes, this has what I need. First, we need to run some tests. Place the kit on that lab table over there...}
-{432}{}{[More]}  
-{433}{}{...So... hmm... give me that test tube over there... Look, it's turning green. Now, we just need to conduct clinical trials. Fortunately, we have prototypes.}  
-{434}{}{You want to use those reavers? Looks like we have no other choice.}  
-{435}{}{You're a real badass, Diana. I'm starting to like you.}  
-{436}{}{Hmm... how interesting. Notice how the test subjects have become calmer. Now, I'll examine their blood cells under a microscope... So... Hey, we did it! I think this is exactly what Levi wanted.}  
-{437}{}{Good news. I'll talk to Levi.}  
-{438}{}{I already have your things.}  
-{439}{}{No need to kill anyone. I can't test the mutagen on the dead. }  
+{432}{}{[More]}
+{433}{}{...So... hmm... give me that test tube over there... Look, it's turning green. Now, we just need to conduct clinical trials. Fortunately, we have prototypes.}
+{434}{}{You want to use those reavers? Looks like we have no other choice.}
+{435}{}{You're a real badass, Diana. I'm starting to like you.}
+{436}{}{Hmm... how interesting. Notice how the test subjects have become calmer. Now, I'll examine their blood cells under a microscope... So... Hey, we did it! I think this is exactly what Levi wanted.}
+{437}{}{Good news. I'll talk to Levi.}
+{438}{}{I already have your things.}
+{439}{}{No need to kill anyone. I can't test the mutagen on the dead. }
 
 ### Leaving the Area
 
-{450}{}{Get ready. We're leaving.}  
-{451}{}{Are you sure this is the right move? I don't want to get caught in the crossfire again.}  
-{1451}{}{Are you sure this is the right move? I don't want to get caught in the crossfire again.}  
-{452}{}{You're right. We need to scout the situation first. I'll be back soon.}  
-{453}{}{Levi is dead. I doubt the other mutants will be as happy with us.}  
-{454}{}{Levi is dead? How sad... Well, the temple is really unsafe now. I doubt I'll be of any use here.}  
-{455}{}{That's it. We need to get out of here as soon as possible.}  
-{456}{}{Actually, I'm not sure that's accurate. Wait while I check.}  
-{457}{}{This is dangerous. But every hour it gets worse. We must hurry if we want to survive. Let's go.}  
-{458}{}{I really hope you know what you're doing.}  
-{459}{}{Trust me. I'll lead you out of this hell.}  
-{460}{}{Hmm. Your words make me think. Wait a little. I'm going to scout around.}  
-{461}{}{Levi gave us freedom. We can leave.}  
-{462}{}{Thank God! I believed Levi was a good man and would keep his word.}  
-{463}{}{Then pack your things. It's time.}  
-{464}{}{We'll have to wait a little longer. I need to get ready for the trip.}  
+{450}{}{Get ready. We're leaving.}
+{451}{}{Are you sure this is the right move? I don't want to get caught in the crossfire again.}
+{1451}{}{Are you sure this is the right move? I don't want to get caught in the crossfire again.}
+{452}{}{You're right. We need to scout the situation first. I'll be back soon.}
+{453}{}{Levi is dead. I doubt the other mutants will be as happy with us.}
+{454}{}{Levi is dead? How sad... Well, the temple is really unsafe now. I doubt I'll be of any use here.}
+{455}{}{That's it. We need to get out of here as soon as possible.}
+{456}{}{Actually, I'm not sure that's accurate. Wait while I check.}
+{457}{}{This is dangerous. But every hour it gets worse. We must hurry if we want to survive. Let's go.}
+{458}{}{I really hope you know what you're doing.}
+{459}{}{Trust me. I'll lead you out of this hell.}
+{460}{}{Hmm. Your words make me think. Wait a little. I'm going to scout around.}
+{461}{}{Levi gave us freedom. We can leave.}
+{462}{}{Thank God! I believed Levi was a good man and would keep his word.}
+{463}{}{Then pack your things. It's time.}
+{464}{}{We'll have to wait a little longer. I need to get ready for the trip.}
 
 ### The Consignment
 
-{500}{}{Where are we heading, captain?}  
-{501}{}{Just follow me.}  
-{502}{}{Where do you want to go?}  
-{503}{}{To the city of Casa Nueva.}  
-{504}{}{Why?}  
-{505}{}{My brothers and sisters have an outpost there. I have to help them at the local school.}  
-{506}{}{Can you show this place on the map?}  
-{507}{}{Of course. Open your map... Oh, you have a Pip-Boy. What a surprise. Relic, you say? Okay... yes. It's here in the Sonoran Desert, in the southeast.}  
-{508}{}{I see. Let's go then.}  
-{509}{}{But why do you need to go there?}  
+{500}{}{Where are we heading, captain?}
+{1500}{}{Where are we heading, captain?}
+{501}{}{Just follow me.}
+{502}{}{Where do you want to go?}
+{503}{}{To the city of Casa Nueva.}
+{504}{}{Why?}
+{505}{}{My brothers and sisters have an outpost there. I have to help them at the local school.}
+{506}{}{Can you show this place on the map?}
+{507}{}{Of course. Open your map... Oh, you have a Pip-Boy. What a surprise. Relic, you say? Okay... yes. It's here in the Sonoran Desert, in the southeast.}
+{508}{}{I see. Let's go then.}
+{509}{}{But why do you need to go there?}
 
 ### Parting Ways
 
-{510}{}{Diana, we must part ways.}  
-{511}{}{So soon? Eh, I've never been lucky in long-term relationships.}  
-{512}{}{It can't be helped. Return my things and go wherever you want.}  
-{513}{}{You're right. We better stick together.}  
-{514}{}{Stop dawdling. It's time for us to go.}  
-{515}{}{As you say, captain.}  
-{516}{}{Let's go.}  
-{517}{}{I need to leave you for a while. Stay here for now.}  
-{518}{}{You're not going to leave me, are you, my love? Okay, have it your way.}  
-{519}{}{Just wait here.}  
-{520}{}{Sorry, I now realize that I need you. Will you come with me?}  
-{521}{}{About weapons. It's better to hide them.}  
-{522}{}{Oh, now you're worried about someone getting hurt. How nice of you.}  
-{523}{}{Can we avoid sarcasm?}  
-{524}{}{No, stupid, I want to protect myself.}  
-{525}{}{Take off this armor.}  
-{526}{}{You're not going to strip me naked, are you? Although, sometimes I'd like to feel that free.}  
-{527}{}{Um, that's not exactly what I mean.}  
-{528}{}{Have you come back for me? This is so romantic.}  
-{1528}{}{You came back for me? This is so romantic.}  
+{510}{}{Diana, we must part ways.}
+{511}{}{So soon? Eh, I've never been lucky in long-term relationships.}
+{512}{}{It can't be helped. Return my things and go wherever you want.}
+{513}{}{You're right. We better stick together.}
+{514}{}{Stop dawdling. It's time for us to go.}
+{515}{}{As you say, my captain.}
+{1515}{}{As you say, captain.}
+{516}{}{Let's go.}
+{517}{}{I need to leave you for a while. Stay here for now.}
+{518}{}{You're not going to leave me, are you, my love? Okay, have it your way.}
+{1518}{}{You're not going to leave me, are you? Okay, have it your way.}
+{519}{}{Just wait here.}
+{520}{}{Sorry, I now realize that I need you. Will you come with me?}
+{521}{}{About weapons. It's better to hide them.}
+{522}{}{Oh, now you're worried about someone getting hurt. How nice of you.}
+{523}{}{Can we avoid sarcasm?}
+{524}{}{No, stupid, I want to protect myself.}
+{525}{}{Take off this armor.}
+{526}{}{You're not going to strip me naked, are you? Although, sometimes I'd like to feel that free.}
+{527}{}{Um, that's not exactly what I mean.}
+{528}{}{Have you come back for me? This is so romantic.}
+{1528}{}{You came back for me? This is so romantic.}
 
 ### Medical Help
 
-{530}{}{I was hit. Do something!}  
-{531}{}{Sorry, but you'll have to be patient. Your wounds are not serious enough to waste our last medicine.}  
-{532}{}{So this is how the Followers treat patients? I'll keep this in mind for the future.}  
-{533}{}{Yes, you're right. It's worth saving medications for emergencies.}  
-{534}{}{Your wounds are not fatal, but your injuries will greatly hinder your journey. We'll have to consider surgery. True, I have little practice...}  
-{535}{}{Do something already!}  
-{536}{}{I trust you, Doc.}  
-{537}{}{Oh my god, you're covered in blood! This is no good. Lie down, I'll have to use the last of our medicine on you...}  
-{1537}{}{Oh my god, you're covered in blood! This is no good. Lie down, I'll have to use the last of our medicine on you...}  
-{538}{}{Don't let me sleep, Doc...}  
-{539}{}{We'll have to be patient. You didn't care about others' wounds, did you? Feel what it's like. Maybe this will teach you kindness.}  
-{540}{}{That's it, then? Leaving me because of my bad reputation? Okay, I'll remember that, bitch.}  
-{541}{}{Okay. But if I die, it will be on your conscience.}  
-{542}{}{Look, I don't want to offend anyone, but your loud company will slow us down. And I need to get to Casa Nueva as quickly as possible.}  
-{543}{}{Then you can do without my help. Bye.}  
-{544}{}{I'll talk to them. Wait a bit.}  
+{530}{}{I was hit. Do something!}
+{531}{}{Sorry, but you'll have to be patient. Your wounds are not serious enough to waste our last medicine.}
+{532}{}{So this is how the Followers treat patients? I'll keep this in mind for the future.}
+{533}{}{Yes, you're right. It's worth saving medications for emergencies.}
+{534}{}{Your wounds are not fatal, but your injuries will greatly hinder your journey. We'll have to consider surgery. True, I have little practice...}
+{535}{}{Do something already!}
+{536}{}{I trust you, Doc.}
+{537}{}{Oh my god, you're covered in blood! This is no good. Lie down, I'll have to use the last of our medicine on you...}
+{1537}{}{Oh my god, you're covered in blood! This is no good. Lie down, I'll have to use the last of our medicine on you...}
+{538}{}{Don't let me sleep, Doc...}
+{539}{}{We'll have to be patient. You didn't care about others' wounds, did you? Feel what it's like. Maybe this will teach you kindness.}
+{540}{}{That's it, then? Leaving me because of my bad reputation? Okay, I'll remember that, bitch.}
+{541}{}{Okay. But if I die, it will be on your conscience.}
+{542}{}{Look, I don't want to offend anyone, but your loud company will slow us down. And I need to get to Casa Nueva as quickly as possible.}
+{543}{}{Then you can do without my help. Bye.}
+{544}{}{I'll talk to them. Wait a bit.}
 
 ### Conversations
 
-{550}{}{Let's talk.}  
-{551}{}{What do you want to know?}  
-{552}{}{Never mind, forget it.}  
+{550}{}{Let's talk.}
+{551}{}{What do you want to know?}
+{552}{}{Never mind, forget it.}
 
 ### Pip-Boy
 
-{560}{}{Why are you so excited about my Pip-Boy?}  
-{561}{}{Well, it's old technology. Computer like that were distributed to residents of special bomb shelters. Vaults. I didn't expect to find this thing far from major cities.}  
-{562}{}{Yes, this is a device from Vault 27. Only ghosts live there now.}  
-{563}{}{Ha ha, good joke.} 
-{564}{}{Let's continue on our way.}  
-{565}{}{Wait. You mean his home vault is somewhere in Arizona?}  
-{566}{}{Show me the markings on the back... Okay. Yes, it's from Vault 27. I don't know for sure, but I think it's probably located somewhere near Phoenix.}  
+{560}{}{Why are you so excited about my Pip-Boy?}
+{561}{}{Well, it's old technology. Computer like that were distributed to residents of special bomb shelters. Vaults. I didn't expect to find this thing far from major cities.}
+{562}{}{Yes, this is a device from Vault 27. Only ghosts live there now.}
+{563}{}{Ha ha, good joke.}
+{564}{}{Let's continue on our way.}
+{565}{}{Wait. You mean his home vault is somewhere in Arizona?}
+{566}{}{Show me the markings on the back... Okay. Yes, it's from Vault 27. I don't know for sure, but I think it's probably located somewhere near Phoenix.}
 {567}{}{Thanks, Diana. This is valuable information.}
 
 ### Weapons
 
-{570}{}{What weapon are you best with?}  
-{571}{}{I'd rather avoid fights altogether, if that's an option.}  
-{572}{}{Do you even know why a gun needs a trigger?}  
-{573}{}{Oh my god... Well, I'm good with laser and plasma weapons, but terrible with firearms and hand-to-hand combat. Is that okay with you?}  
-{574}{}{That's enough.}  
-{575}{}{Traveling with you is like having a cactus for a companion. All clear now.}  
+{570}{}{What weapon are you best with?}
+{571}{}{I'd rather avoid fights altogether, if that's an option.}
+{572}{}{Do you even know why a gun needs a trigger?}
+{573}{}{Oh my god... Well, I'm good with laser and plasma weapons, but terrible with firearms and hand-to-hand combat. Is that okay with you?}
+{574}{}{That's enough.}
+{575}{}{Traveling with you is like having a cactus for a companion. All clear now.}
 
 ### Opinions on the Place
 
-{580}{}{What do you think of this place?}  
-{581}{}{I see.}  
-{582}{}{Nothing special. Just the usual landscape for this season.}  
-{583}{}{This must be the city we're supposed to reach. Let's ask the locals about the Followers.}  
-{584}{}{Big city. Almost like the Hub. Let's go shopping?}  
-{585}{}{Big city, but this area looks inhospitable. Stay on your guard and don't let the locals fool you.}  
-{586}{}{Big church? It reminds me of something. Listen, I don't feel comfortable here. Let's leave quickly.}  
-{587}{}{Wow, they've done well in this vault. The equipment is in excellent condition. Amazing. Oh, if only my brothers and sisters could see this, how many people we could help!}  
-{588}{}{Are you kidding me? Just let me wipe the rat droppings off my cloak and I'll try to answer you...}  
-{589}{}{The town looks depressing. Places like this often hide terrible secrets.}  
-{590}{}{Incredible! These people have even learned microchipping. I really need to talk to their scientists... though I doubt they'll speak with me.}  
-{591}{}{We need to get out of here as soon as possible.}  
-{592}{}{Brotherhood of Steel outpost. This is where my convoy was headed. Shall we go to the quartermaster to replenish supplies?}  
-{593}{}{Before the War, this was the large border city of Mexicali. The Reds destroyed it when they bombed the local factories. There were a lot of them here.}  
-{594}{}{Finally, we found something alive in this desert! But it looks like we're not welcome here.}  
-{595}{}{I don't feel good about this place.}  
-{596}{}{Don't you think we've strayed too far from our intended goal? Remember, I need to get to Casa Nueva.}  
-{597}{}{What's your mission?}  
+{580}{}{What do you think of this place?}
+{581}{}{I see.}
+{582}{}{Nothing special. Just the usual landscape for this season.}
+{583}{}{This must be the city we're supposed to reach. Let's ask the locals about the Followers.}
+{584}{}{Big city. Almost like the Hub. Let's go shopping?}
+{585}{}{Big city, but this area looks inhospitable. Stay on your guard and don't let the locals fool you.}
+{586}{}{Big church? It reminds me of something. Listen, I don't feel comfortable here. Let's leave quickly.}
+{587}{}{Wow, they've done well in this vault. The equipment is in excellent condition. Amazing. Oh, if only my brothers and sisters could see this, how many people we could help!}
+{588}{}{Are you kidding me? Just let me wipe the rat droppings off my cloak and I'll try to answer you...}
+{589}{}{The town looks depressing. Places like this often hide terrible secrets.}
+{590}{}{Incredible! These people have even learned microchipping. I really need to talk to their scientists... though I doubt they'll speak with me.}
+{591}{}{We need to get out of here as soon as possible.}
+{592}{}{Brotherhood of Steel outpost. This is where my convoy was headed. Shall we go to the quartermaster to replenish supplies?}
+{593}{}{Before the War, this was the large border city of Mexicali. The Reds destroyed it when they bombed the local factories. There were a lot of them here.}
+{594}{}{Finally, we found something alive in this desert! But it looks like we're not welcome here.}
+{595}{}{I don't feel good about this place.}
+{596}{}{Don't you think we've strayed too far from our intended goal? Remember, I need to get to Casa Nueva.}
+{597}{}{What's your mission?}
 
 ### Coming to Casa Nueva
 
-{600}{}{We're here. Is it time to say goodbye?}  
-{601}{}{Yes. Now this is my new home. An amazing place - so much greenery surrounded by endless desert. Imagine what it took to make all this. I'm eager to find out how they did it.}  
-{602}{}{A new chapter of your life begins.}  
-{603}{}{Thank you. You've saved not only me, but also the people who live here. Together, we'll try to make Casa Nueva an oasis where people can live in peace and harmony.}  
-{604}{}{Yes, please. I knew right away this was the right thing to do.}  
-{605}{}{I'll tell my brothers about you. Thanks again.}  
-{606}{}{Goodbye, Diana.}  
-{607}{}{So, are you going to let me go with nothing?}  
-{608}{}{Sorry, I don't have much to offer. I'll try to get you some locally produced medicines and food for the road. Thanks again.}  
-{609}{}{Well, at least it's something. Goodbye, Diana.}  
+{600}{}{We're here. Is it time to say goodbye?}
+{601}{}{Yes. Now this is my new home. An amazing place - so much greenery surrounded by endless desert. Imagine what it took to make all this. I'm eager to find out how they did it.}
+{602}{}{A new chapter of your life begins.}
+{603}{}{Thank you. You've saved not only me, but also the people who live here. Together, we'll try to make Casa Nueva an oasis where people can live in peace and harmony.}
+{604}{}{Yes, please. I knew right away this was the right thing to do.}
+{605}{}{I'll tell my brothers about you. Thanks again.}
+{606}{}{Goodbye, Diana.}
+{607}{}{So, are you going to let me go with nothing?}
+{608}{}{Sorry, I don't have much to offer. I'll try to get you some locally produced medicines and food for the road. Thanks again.}
+{609}{}{Well, at least it's something. Goodbye, Diana.}
 
 ### Greetings and Farewells
 
-{610}{}{Good to see you.}  
-{611}{}{Hello. Hm, is it just me, or do the locals really avoid you?}  
-{612}{}{I didn't know. Turns out you're considered a hero here.}  
-{1612}{}{I didn't know. Turns out you're considered a hero here.}  
-{613}{}{Just saying hello. We need to run now.}  
+{610}{}{Good to see you.}
+{611}{}{Hello. Hm, is it just me, or do the locals really avoid you?}
+{612}{}{I didn't know. Turns out you're considered a hero here.}
+{1612}{}{I didn't know. Turns out you're considered a hero here.}
+{613}{}{Just saying hello. We need to run now.}
 {614}{}{Good God, what's going on here? The locals seem to have gone crazy. Looks like I'll have a lot of work to do here.}

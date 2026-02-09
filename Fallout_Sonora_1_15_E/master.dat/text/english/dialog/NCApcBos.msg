@@ -17,12 +17,15 @@
 
 #Medicine
 {220}{}{I need healing.}
-{221}{}{Strange. I don't see how I can help you. Many would envy your health.}
-{222}{}{What a joy, Doctor! Somehow I feel better already.}
-{223}{}{Oh, well... I can heal you. But, the treatment is very expensive. We'll have to spend at least }
-{224}{}{ caps on your course. Can you offer that many in compensation?}
-{225}{}{Yes. Exactly as many as needed.}
-{226}{}{I don't have that many caps.}
+{221}{}{Oh, I'm sorry... I can cure you. But the medicine doesn't come free.}
+{222}{}{I don't have anything valuable.}
+{223}{}{[Heal wounds for }
+{224}{}{ caps]}
+{225}{}{[Heal injuries for }
+{226}{}{[Remove all radiation for }
+{227}{}{[Remove all poisons for }
+{228}{}{Don't you have anything to pay with? You look like wealthy enough.}
+{229}{}{Sorry, I never meant to cheat you...}
 
 {230}{}{Wait a minute, are you alright? You don't look well.}
 {231}{}{Doctor, I'm hurting... I gotta shake this addiction!}
@@ -41,6 +44,10 @@
 {243}{}{Take a bath? Wow!}
 {244}{}{Acquired the Rehabilitation Perk.}
 {245}{}{After a week of treatment and training, you have overcome your addiction and are stronger against future relapses.}
+{246}{}{I don't really need any treatment.}
+{247}{}{Does it hurt now?}
+{248}{}{I'm fine, Doc.}
+{249}{}{Yeah, thanks, but there's one more thing.}
 
 #Dialogue
 {250}{}{You mentioned pre-war medicine and experiments?}
@@ -114,7 +121,7 @@
 {352}{}{I understand. You don't trust us and don't want to take risks. But now it doesn't matter who's to blame; it's more important to solve the problem. Think of the heroic service you'll render to the town. You will be remembered for generations. If you change your mind, come back.}
 {353}{}{Bye.}
 {354}{}{I can't figure out how to properly use this poison.}
-{355}{}{Go to the agave plantations and dump it into the water tank. It will spread the insecticide via the irrigation pipes to all the infected crops.}#modified to make sense of in game actions - cambragol
+{355}{}{Go to the agave plantations and dump it into the water tank. It will spread the insecticide via the irrigation pipes to all the infected crops.} # modified to make sense of in game actions - cambragol
 {356}{}{Okay.}
 {357}{}{Well, that's another matter.}
 
@@ -132,10 +139,10 @@
 {370}{}{What are you going to do?}
 {371}{}{First, I'll make an insecticide to stop the infection's spread. It won't take long; the reagents from the lab are well preserved. Please wait in the corridor for a couple of hours.}
 {372}{}{Okay...}
-{373}{}{Ready! It's a mixture of fungicide for fungal spores and insecticide for parasitic vectors. Add it to the water supply at the agave plantations while we deal with the cleanup at the greenhouses.}#added to make sense of ingame actions - cambragol
+{373}{}{Ready! It's a mixture of fungicide for fungal spores and insecticide for parasitic vectors. Add it to the water supply at the agave plantations while we deal with the cleanup at the greenhouses.} # added to make sense of ingame actions - cambragol
 {374}{}{Okay.}
-{375}{}{I dumped the poison into the water tank on the plantations. I didn't see any immediate effect though...}#modified to make sense of in game actions - cambragol
-{1375}{}{I added the poison to the water supply on the plantations. I didn't see any immediate effect though...}#modified to make sense of in game actions - cambragol
+{375}{}{I dumped the poison into the water tank on the plantations. I didn't see any immediate effect though...} # modified to make sense of in game actions - cambragol
+{1375}{}{I added the poison to the water supply on the plantations. I didn't see any immediate effect though...} # modified to make sense of in game actions - cambragol
 {376}{}{It will take time of course. Well, performance must be in your genes. Your pest control work sets an example for the rest of the Followers. Someday we'll send a report to the Boneyard detailing this story.}
 {377}{}{Sorry, four-eyes. But I was risking it for the promised caps, not for the sake of science.}
 {1377}{}{Sorry, four-eyes. But I was risking it for the promised caps, not for the sake of science.}
@@ -220,6 +227,7 @@
 {453}{}{How did your founders live there then?}
 {454}{}{Vaults were built to survive tough times after a nuclear attack. According to legend, the founders left the Vault to help the world be reborn. This sacrifice is appreciated by all Followers.}
 {455}{}{I was there. The place is truly cursed. Everything useful has been scavenged long ago.}
+{1455}{}{I was there. The place is truly cursed. Everything useful has been scavenged long ago.}
 {456}{}{Not surprising. I heard about the Great Exodus of ghouls south to the Glow. It looks like they found a suitable place for themselves. Let that radioactive land be lenient towards them.}
 {457}{}{Yeah, something like that. Shall we talk about something else?}
 {458}{}{I have a relic from that vault. Look, this is a copy of the overseer's diaries.}
