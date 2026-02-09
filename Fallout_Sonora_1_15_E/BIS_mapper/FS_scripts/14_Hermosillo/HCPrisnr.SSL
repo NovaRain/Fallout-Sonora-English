@@ -98,9 +98,6 @@ procedure map_enter_p_proc begin
        //set_local_var(LVAR_Home_Tile, 0);
        set_start_home
        set_obj_visibility(self_obj, 0);
-       if (global_var(GVAR_HERMO_STATUS_PARTY) > 0) then begin
-       rm_timer_event(self_obj);
-       end
        add_timer_event(self_obj,3,3);
    end
 end
@@ -124,7 +121,12 @@ procedure timed_event_p_proc begin
    // Таймер за номером 1 зарезервирован под перемещение персонажа по локации
    // Таймер за номером 2 зарезервирован под всплывающие реплики
    if (fixed_param == 1) then begin
+       if (global_var(GVAR_HERMO_STATUS_PARTY) > 0) then begin
+       add_timer_event(self_obj, 20, 1);
+       end
+       else begin
        timer_move_to_home
+       end
    end
    if (fixed_param == 2) then begin
        //timer_float_reply(110,119)
@@ -298,6 +300,11 @@ procedure NodePartyNon2 begin
    rm_timer_event(self_obj);
    party_remove(self_obj);
    set_local_var(LVAR_Home_Tile, self_tile);
+   set_local_var(LVAR_Home_Rotat,self_cur_rot);
+   if ((map_var(MVAR_PNX_RING_START) == 1) and (cur_map_index == MAP_PHOENIX_BNDCS)) then begin
+   set_local_var(LVAR_Home_Tile, 19692);
+   set_local_var(LVAR_Home_Rotat,3);
+   end
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,NUM_TEAM);
 end
 
@@ -352,9 +359,9 @@ end
 
 procedure NodeSndDialog begin
    Reply(220)
-/*
-After being expelled from the BS - a more detailed and honest story about who he is and why he got involved in dangerous spy games.
-*/
+   /*
+   After being expelled from the BS - a more detailed and honest story about who he is and why he got involved in dangerous spy games.
+   */
 
    if (getQuest(GVAR_HERMO_QST_PARTY) == qZero) then begin
       if ((cur_map_index != MAP_HERMO_CASA) and (cur_map_index != MAP_HERMO_FUERTE)) then begin
@@ -424,7 +431,7 @@ end
 
 procedure NodeAnswer104 begin
    setBonusReaction(10)
-   Reply(311)
+   zReply(311)
    NAnswer(312,1,Node999)
 end
 
@@ -457,6 +464,10 @@ end
 procedure NodeAnswer200 begin
    if ((cur_map_index == MAP_HERMO_RANCHO) or (cur_map_index == MAP_HERMO_CASA) or (cur_map_index == MAP_HERMO_FUERTE)) then begin
    Reply(253)
+   end
+
+   else if ((cur_map_index == MAP_VILLA_CAVE) or (cur_map_index == MAP_VILLA_CRYPT) or (cur_map_index == MAP_VILLA_GARD) or (cur_map_index == MAP_VILLA_HOME) or (cur_map_index == MAP_VILLA_PLAZA) or (cur_map_index == MAP_VILLA_RUINS)) then begin
+   Reply(267)
    end
 
    else if ((cur_map_index == MAP_PHOENIX_SIGN) or (cur_map_index == MAP_PHOENIX_CENTER)) then begin
@@ -550,7 +561,7 @@ procedure NodeStopDialog104 begin
    if (local_var(LVAR_Villa_Visit) == 0) then begin
    set_local_var(LVAR_Villa_Visit,1);
    end
-   Reply(340)
+   zReply(340)
    NAnswer(341,1,NodePartyAdd)
 end
 
