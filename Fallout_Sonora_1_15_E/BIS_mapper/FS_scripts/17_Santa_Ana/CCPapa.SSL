@@ -233,7 +233,7 @@ procedure NodeSndDialog begin
    zReply(221)
    end
    else begin
-   Reply(220)
+   zReply(220)
    end
    if (getQuest(GVAR_SANTAANA_QST_FIESTA) == qStart) then begin
    NAnswer(230,3,NodeAnswer101)
@@ -470,7 +470,7 @@ procedure NodeEndDialog begin
    zReply(221)
    end
    else begin
-   Reply(220)
+   zReply(220)
    end
 
    if (global_var(GVAR_SANTAANA_STATUS_PAPA) == 0) then begin
@@ -525,7 +525,7 @@ end
 
 procedure NodeEndDialog204 begin
    bitDialogExp(bit_4,100)
-   Reply(301)
+   zReply(301)
    NAnswer(302,1,Node999)
    NAnswer(303,1,Node999)
 end
