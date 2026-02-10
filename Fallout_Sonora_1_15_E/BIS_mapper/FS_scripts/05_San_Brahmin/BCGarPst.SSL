@@ -146,8 +146,8 @@ end
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
    setBonusReaction(-90)
-   //set_REP(-7) - репутация уже меняется на карте Гаража!
-   Reply(200)
+   //set_REP(-7) - репутация меняется на карте Гаража!
+   zReply(200)
    // skill check was backwards - cambragol
    NAnswerSkill(209,3,NodeFstDialog101,SKILL_CONVERSANT,50,205,NodeFstDialog102)
    NAnswer(201,1,NodeFstDialog100)
@@ -155,7 +155,7 @@ end
 
 procedure NodeFstDialog100 begin
    setBonusReaction(25)
-   //set_REP(2) - репутация уже меняется на карте Гаража!
+   //set_REP(2) - репутация меняется на карте Гаража!
    Reply(202)
    NAnswer(203,1,Node999)
    BAnswer(204,1,Node999)
