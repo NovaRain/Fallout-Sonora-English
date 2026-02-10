@@ -96,7 +96,12 @@ procedure timed_event_p_proc begin
    // Таймер за номером 1 рарезервирован под перемещение персонажа по локации
    // Таймер за номером 2 рарезервирован под всплывающие реплики
    if (fixed_param == 1) then begin
+       if (global_var(GVAR_VILLA_STATUS_RAIDER_PARTY) >= 100) then begin
+       add_timer_event(self_obj, 20, 1);
+       end
+       else begin
        timer_move_to_home
+       end
    end
    if (fixed_param == 2) then begin
        //timer_float_reply(110,119)
@@ -430,6 +435,11 @@ end
 procedure NodePartyDel2 begin
    set_global_var(GVAR_VILLA_STATUS_RAIDER_PARTY, 10);
    set_local_var(LVAR_Home_Tile, self_tile);
+   set_local_var(LVAR_Home_Rotat,self_cur_rot);
+   if ((map_var(MVAR_PNX_RING_START) == 1) and (cur_map_index == MAP_PHOENIX_BNDCS)) then begin
+   set_local_var(LVAR_Home_Tile, 20092);
+   set_local_var(LVAR_Home_Rotat, 3);
+   end
    set_local_var(LVAR_Flags,0);
    off_enemy_dude;
    rm_timer_event(self_obj);
