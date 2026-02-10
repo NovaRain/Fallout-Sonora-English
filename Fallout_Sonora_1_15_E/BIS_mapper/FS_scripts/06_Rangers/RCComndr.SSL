@@ -413,7 +413,7 @@ procedure NodeAcv2 begin
    BAnswer(395,0,Node999)
 end
 
-//--- ������� �������
+//--- РЯДОВЫЕ ВОПРОСЫ
 
 procedure NodeAnswer begin
    Reply(214)
@@ -487,7 +487,7 @@ procedure NodeBezh2 begin
 end
 
 procedure NodeBezh3 begin
-   Reply(255)
+   zReply(255)
    NAnswer(256,0,NodeBezh4)
 end
 
@@ -499,8 +499,8 @@ end
 
 procedure NodeBezh5 begin
    bitDialogExp(bit_8,20)
-   item_add(dude_obj,PID_AMMO_308,4)
-   item_add(dude_obj,PID_AMMO_44_MAGNUM,6)
+   item_add(dude_obj,PID_AMMO_308,1)
+   item_add(dude_obj,PID_AMMO_44_MAGNUM,1)
    Reply(260)
    NAnswer(261,0,Node999)
 end
