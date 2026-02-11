@@ -323,6 +323,9 @@ procedure NodeSndDialog begin
       if (global_var(GVAR_OIL_STATUS_GHOUL) != 0) then begin
       GAnswer(324,1,NodeQst301)
       end
+      else begin
+      NAnswer(339,3,NodeQst300)
+      end
    end
    if (getQuest(GVAR_OIL_PLATFORM_QST_C) == qZero) then begin
       if (getQuest(GVAR_OIL_PLATFORM_QST_A) > qZero) then begin
