@@ -1,4 +1,4 @@
-﻿#include "..\headers\define.h"
+#include "..\headers\define.h"
 //--------------------- ТОРГОВЕЦ БАРАХЛОМ
 
 #define NAME                            SCRIPT_PCBrtrB
