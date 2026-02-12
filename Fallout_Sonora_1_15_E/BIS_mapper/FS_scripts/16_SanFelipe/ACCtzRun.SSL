@@ -170,7 +170,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    dialog_proc(0,0,NodeStartDialog,-1,-1)
 end
 
@@ -257,7 +257,7 @@ procedure NodeFstDialog106 begin
    end
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (gvar_bit(GVAR_SANFELIPE_BITS,bit_1) != 0) then begin

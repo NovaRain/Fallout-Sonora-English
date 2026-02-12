@@ -76,7 +76,7 @@
 {258}{}{It will be done, General!}
 {259}{}{}
 
-{260}{}{So, we meet at last, you damn bastard. I knew you'd crawl in here sooner or later. Arizona's been itching for your head.}  
+{260}{}{So, we meet at last, you goddamn savage. I knew you'd crawl in here sooner or later. Arizona's been itching for your head.}  
 {1260}{}{So we meet, you dirty little bitch. I knew you'd crawl in here sooner or later. Arizona's been itching for your head.}  
 {261}{}{So we meet, you goddamn savage. I knew this day would come. All of Arizona's buzzing about you, like a pack of hungry flies.}  
 {1261}{}{So we meet, you dirty little bitch. I knew this day would come. All of Arizona's buzzing about you, like a pack of hungry flies.}  

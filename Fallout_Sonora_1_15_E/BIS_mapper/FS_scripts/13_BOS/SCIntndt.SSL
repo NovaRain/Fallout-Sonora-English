@@ -106,14 +106,14 @@ procedure map_enter_p_proc begin
        set_start_home
        if (map_first_run) then begin
        incBarterMod(50);
-       check_restock_item(PID_TOOL_RADIO, 1, 1, 100) // 1 шт на всю игру!
+       check_restock_item(PID_TOOL_RADIO, 1, 1, 100) // 1 piece for the whole game!
        end
        set_BarterBoxProc(BARTER_TIME) // !duplicate in NodeStartDialog
    end
 end
 
 procedure setBarterA begin
-   //Зеленый уровень товара - для простых гражданских
+   //Green level of goods - for ordinary civilians
    check_restock_item(PID_ARMOR_COMBAT, 1, 1, 100)
    check_restock_item(PID_TOOL_PLASTIC_EXPLOSIVES, 2, 3, 100)
    check_restock_item(PID_TOOL_FLARE, 4, 8, 100)
@@ -153,7 +153,7 @@ procedure setBarterA begin
 end
 
 procedure setBarterB begin
-   //Синий уровень товара -  для членов БС и торговцев
+   //Blue level of goods - for BS members and traders
    check_restock_item(PID_ARMOR_COMBAT_BOS, 1, 1, 100)
    check_restock_item(PID_TOOL_STEALTH_BOY, 1, 1, 100)
    check_restock_item(PID_W_GRENADE_PULSE, 2, 4, 100)
@@ -169,7 +169,7 @@ procedure setBarterB begin
    check_restock_item(PID_W_MINIGUN, 1, 1, 100)
    check_restock_item(PID_W_PLASMA_RIFLE, 1, 1, 100)
    check_restock_item(PID_AMMO_10_MM_NSP, 3, 4, 100)
-   //! гатлинг-лазер?
+   //! Gatling laser?
 
    set_BarterDopusk;
 end
@@ -247,7 +247,7 @@ procedure talk_p_proc begin
    floater(self_obj,103,COLOR_MSG_NORMAL);
    end
    else begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
 
    fracReaction(GVAR_TITUL_ARIZONA_RANGER,-40) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_PHENIX_CULT,20) // Поправка к отношению за принадлежность к фракциям
@@ -276,7 +276,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    incBarterMod(100);
@@ -305,7 +305,7 @@ procedure NodeFstDialog4 begin
    call NodeSndDialog;
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (global_var(GVAR_TITUL_BOS) > 0) then begin
@@ -333,7 +333,7 @@ procedure NodeSndDialog begin
       end
    end
 
-   //--- Расспросы
+   //--- QUESTIONS
    if (global_var(GVAR_TITUL_BOS) == 0) then begin
    NAnswer(212,3,NodeAnswer)
    end
@@ -374,7 +374,7 @@ procedure NodeSndDialog begin
    NAnswer(211,1,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer begin
    Reply(213)
@@ -491,7 +491,7 @@ procedure NodeBarter201 begin
    end
    NAnswerSkill(262,3,NodeBarter204,SKILL_BARTER,100,259,NodeBarter203)
    NAnswerRep(268,3,NodeBarter206,15,255,NodeBarter202)
-   //? Заплатить 1000 крышек, доказывая свою платежеспособность
+   //? Pay 1000 caps, proving your solvency
 
    NAnswer(258,1,NodeSndDialog)
 end

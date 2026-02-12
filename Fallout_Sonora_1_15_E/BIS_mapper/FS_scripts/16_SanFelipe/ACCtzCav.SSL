@@ -180,7 +180,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(1) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
 
    if (cur_map_index == MAP_SAN_FELIPE_CITY) then begin
       if (global_var(GVAR_SANFELIPE_STATUS_BOSS)>=0) then begin
@@ -236,7 +236,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 // Spanish and English entry point
 procedure NodeFstDialog begin
@@ -338,7 +338,7 @@ procedure NodeEndDialog2 begin
    call Node999;
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 // Spanish and English
 procedure NodeSndDialog begin

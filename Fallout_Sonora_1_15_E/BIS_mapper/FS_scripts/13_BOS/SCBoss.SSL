@@ -202,7 +202,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
 
    fracReaction(GVAR_TITUL_ARIZONA_RANGER,-40) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_PHENIX_CULT,20) // Поправка к отношению за принадлежность к фракциям
@@ -253,7 +253,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- СТОП-ДИАЛОГ
+//--- STOP DIALOGUE
 
 procedure NodeStopDialog begin
    setBonusReaction(-10)
@@ -298,7 +298,7 @@ procedure NodeHeadTest3 begin
    call NodeHeadTest;
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    if ((getQuest(GVAR_PHENIX_CULT_DESTROY) >= qEnd) or (getQuest(GVAR_PHENIX_PARTY_QST_B) >= qEnd)) then begin
@@ -554,7 +554,7 @@ procedure NodeFstDialog312 begin
    NAnswer(292,0,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (global_var(GVAR_TITUL_REBIRTH)>0) then begin
@@ -572,7 +572,7 @@ procedure NodeSndDialog begin
       Reply(300)
    end
 
-   //--- Расспросы
+   //--- Questions
    NAnswerReaction(354,4,NodeAnswer100,50,350,NodeAnswer101)
 
    /*
@@ -752,7 +752,7 @@ procedure NodeTitul8 begin
    NAnswer(431,4,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer100 begin
    Reply(355)
