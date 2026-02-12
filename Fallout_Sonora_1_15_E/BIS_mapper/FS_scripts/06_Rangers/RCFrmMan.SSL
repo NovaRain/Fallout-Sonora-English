@@ -194,7 +194,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -224,7 +224,7 @@ procedure NodeFstDialog4 begin
    BAnswer(229,1,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(random(220,221))
@@ -269,7 +269,7 @@ procedure NodeSndDialog2 begin
    NAnswer(202,1,Node999)
 end
 
-//--- ВОПРОСЫ О РАНЧО
+//--- QUESTIONS ABOUT THE FARM
 // added a bit check here so that line 231 is not repeated endlessly, but rather only once - cambragol
 procedure NodeAnswer100 begin
    if (bitDialog(bit_2) != 0) then begin
@@ -446,7 +446,7 @@ procedure NodeAnswer154 begin
    NAnswer(289,1,Node999)
 end
 
-//--- ВОПРОСЫ О РЕЙНДЖЕРАХ
+//--- QUESTIONS ABOUT RANGERS
 
 procedure NodeAnswer200 begin
    if (global_var(GVAR_TITUL_ARIZONA_RANGER) >0) then begin

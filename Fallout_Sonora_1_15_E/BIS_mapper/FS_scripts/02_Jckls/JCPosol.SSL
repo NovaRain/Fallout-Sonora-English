@@ -155,7 +155,7 @@ procedure NodeFstDialog begin
    NAnswer(201,1,NodeSndDialog100)
 end
 
-//----- ПОВТОРНЫЙ ДИАЛОГ
+//----- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(202)

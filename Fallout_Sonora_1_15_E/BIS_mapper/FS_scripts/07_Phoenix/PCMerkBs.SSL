@@ -231,7 +231,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    fracReaction(GVAR_TITUL_BOS,20) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_BOS_TRAITOR,-20) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_ARIZONA_RANGER,-40) // Поправка к отношению за принадлежность к фракциям
@@ -296,7 +296,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- СТОП-ДИАЛОГ
+//--- STOP DIALOGUE
 
 procedure NodeStopDialog100 begin
    bitDialogExp(bit_3,0)
@@ -475,7 +475,7 @@ procedure NodeStopDialog703 begin
    BAnswer(299,1,Node999)
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -636,7 +636,7 @@ procedure NodeDudeSlave5 begin
    zBAnswer(322,1,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer begin
    bitDialogExp(bit_13,0)

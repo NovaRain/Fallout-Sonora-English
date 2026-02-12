@@ -219,7 +219,7 @@ procedure NodeFstDialog3 begin
    NAnswer(205,1,Node999)
 end
 
-//----- ПОВТОРНЫЙ ДИАЛОГ
+//----- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (global_var(GVAR_FLAGSTAFF_RAT_KING_LIFE) == 0) then begin

@@ -23,7 +23,6 @@
 {218}{}{«Leave us be!»}
 {219}{}{«We have nothing to steal.»}
 
-
 {310}{}{You're not going to attack us, right?}
 {311}{}{We just want to live in peace.}
 {312}{}{We're looking for a new home, a fresh start.}

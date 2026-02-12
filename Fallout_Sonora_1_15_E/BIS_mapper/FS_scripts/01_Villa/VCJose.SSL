@@ -226,7 +226,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,100)
@@ -351,7 +351,7 @@ procedure NodeFstDialog011 begin
    call Node999;
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (getReaction >=0) then begin
@@ -448,7 +448,7 @@ procedure NodeGame3 begin
    call Node999;
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer begin
    Reply(254)
@@ -595,7 +595,7 @@ procedure NodeAnswer205 begin
    call Node999;
 end
 
-//--- ЗАДАНИЯ
+//--- TASKS
 
 procedure NodeQuest begin
    setQuest(GVAR_VILLA_MARAUDERS,qStart);

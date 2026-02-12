@@ -146,7 +146,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,50)
@@ -155,7 +155,7 @@ procedure NodeFstDialog begin
    NAnswer(202,1,NodeSndDialog)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    // reaction to armor had the wrong dialogue value. - cambragol

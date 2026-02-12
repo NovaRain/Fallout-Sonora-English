@@ -156,7 +156,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -165,7 +165,7 @@ procedure NodeFstDialog begin
    NAnswer(202,-3,NodeSndDialog)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if (bitDialog(bit_2) == 0) then begin
@@ -279,7 +279,7 @@ procedure NodeQuartz107 begin
    NAnswer(283,-3,Node999)
 end
 
-//--- ВОПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer100 begin
    Reply(221)

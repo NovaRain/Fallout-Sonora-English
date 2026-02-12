@@ -241,7 +241,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -345,7 +345,7 @@ procedure NodeStopDialog101 begin
    BAnswer(324,1,NodeStartDialog)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(210)
@@ -376,7 +376,7 @@ procedure NodeSndDialog begin
       end
    end
 
-   //--- Расспросы
+   //--- QUESTIONS
 
    if (getQuest(GVAR_GARAGE_QST_BAR) == qEnd) then begin
    GAnswer(367,1,NodeAnswer302)
@@ -402,7 +402,7 @@ procedure NodeSndDialog begin
    end
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer100 begin
    if (bitDialog(bit_5) == 0) then begin

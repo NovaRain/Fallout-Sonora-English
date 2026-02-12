@@ -224,7 +224,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
 
    fracReaction(GVAR_TITUL_ARIZONA_RANGER,20) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_PHENIX_CULT,40) // Поправка к отношению за принадлежность к фракциям
@@ -283,7 +283,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -291,7 +291,7 @@ procedure NodeFstDialog begin
    NAnswer(201,1,NodeStartDialog)
 end
 
-//--- СТОП-ДИАЛОГ
+//--- STOP DIALOGUE
 
 procedure NodeStopDialog100 begin
    bitDialogZero(bit_3)
@@ -348,12 +348,12 @@ procedure NodeStopDialog205 begin
    BAnswer(217,1,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(210)
 
-   //--- Расспросы
+   //--- QUESTIONS
    NAnswer(220,1,NodeAnswer100)
 
    //--- Раскрытие товара
@@ -447,7 +447,7 @@ procedure NodeQstCult6 begin
    call Node999;
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer100 begin
    Reply(221)

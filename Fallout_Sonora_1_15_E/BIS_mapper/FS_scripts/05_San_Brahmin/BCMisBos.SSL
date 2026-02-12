@@ -168,7 +168,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    if (getQuest(GVAR_BRAHMIN_QST_COMMANDER) >= qEnd) then begin
    floater(self_obj,103,COLOR_MSG_GREEN);
    end
@@ -207,7 +207,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -299,7 +299,7 @@ procedure NodeFstDialog109 begin
    BAnswer(229,1,NodeQst100)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(250)
@@ -363,7 +363,7 @@ procedure NodeSndDialog begin
    NAnswer(251,1,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer100 begin
    bitDialogExp(bit_2,0)

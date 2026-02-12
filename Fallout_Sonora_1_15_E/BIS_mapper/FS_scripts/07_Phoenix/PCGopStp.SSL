@@ -183,7 +183,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(-1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(-1) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    if (bitDialog(bit_1) != 0) then begin
    floater(self_obj,224,COLOR_MSG_RED);
    end
@@ -216,7 +216,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeManyMove begin
    manyAmnt := item_amnt(dude_obj,PID_BOOTLE_CAPS);
@@ -387,7 +387,7 @@ procedure NodeDialog303 begin
    BAnswer(242,1,Node998)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(224)

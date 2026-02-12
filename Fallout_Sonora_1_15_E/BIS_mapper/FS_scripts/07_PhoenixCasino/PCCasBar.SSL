@@ -167,7 +167,7 @@ procedure talk_p_proc begin
    floater(self_obj,104,COLOR_MSG_NORMAL);
    end
    else begin
-   setReaction(0) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(0) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    fracReaction(GVAR_TITUL_PHENIX_CASINO,50) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_ARENA_MASTER,15) // Поправка к отношению за принадлежность к фракциям
    set_BarterBoxProc(BARTER_TIME) // !duplicate in map_enter_p_proc
@@ -200,7 +200,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -236,12 +236,12 @@ procedure NodeFstDialog5 begin
    NAnswer(219,1,NodeStartDialog)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(210)
 
-   //--- Расспросы
+   //--- QUESTIONS
    NAnswer(280,3,NodeAnswer300)
    if (global_var(GVAR_PHENIX_STATUS_DIEGO) <= 0) then begin
    NAnswer(230,3,NodeAnswer102)
@@ -287,7 +287,7 @@ procedure NodeSndDialog2 begin
    BAnswer(214,1,NodeStartDialog)
 end
 
-//--- РАССПРОСЫ ПРО КАЗИНО
+//--- QUESTIONS ABOUT THE CASINO
 
 procedure NodeAnswer100 begin
    Reply(221)
