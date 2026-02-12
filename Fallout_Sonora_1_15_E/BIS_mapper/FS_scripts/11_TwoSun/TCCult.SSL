@@ -217,7 +217,7 @@ procedure NodeSndDialog404 begin
    NAnswer(321,1,Node999)
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    Reply(200)
@@ -244,7 +244,7 @@ procedure NodeFstDialog4 begin
    BAnswer(209,1,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(210)

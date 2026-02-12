@@ -191,7 +191,7 @@ end
 
 procedure talk_p_proc begin
    if (map_var(MVAR_ROADWAR_DOPUSK) >= 0) then begin
-   setReaction(-1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(-1) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    fracReaction(GVAR_TITUL_WARRIOR_ROAD,90) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_DUDE_IS_SLAVE,10) // Поправка к отношению за принадлежность к фракциям
    fracReaction(GVAR_TITUL_ARENA_MASTER,10) // Поправка к отношению за принадлежность к фракциям
@@ -234,7 +234,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 /*
 {200}{}{Обычно чужаки избегают нас. Так зачем ты здесь?}
@@ -445,7 +445,7 @@ procedure NodeFstDialog407 begin
    NAnswer(294,1,NodeFstDialog203)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(300)
@@ -509,7 +509,7 @@ procedure NodeSndDialog begin
    NAnswer(301,1,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer begin
    Reply(313)

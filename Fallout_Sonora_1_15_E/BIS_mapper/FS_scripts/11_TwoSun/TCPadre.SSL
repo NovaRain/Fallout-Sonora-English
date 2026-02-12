@@ -182,7 +182,7 @@ procedure NodeStopDialog begin
    NAnswer(310,0,Node999)
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    setQuest(GVAR_TWOSUN_QST_PADRE,qEnd);
@@ -236,7 +236,7 @@ procedure NodeFstDialog7 begin
    BAnswer(215,0,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(mstr(220)+dude_name+mstr(221))

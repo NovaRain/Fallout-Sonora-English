@@ -155,7 +155,7 @@ procedure destroy_p_proc begin
 end
 
 procedure talk_p_proc begin
-   setReaction(1) // Отношение к ГГ (1 - персонаж положительный, -1 отрицательный, 0 нейтральный)
+   setReaction(1) // Attitude towards the main character (1 - positive character, -1 negative, 0 neutral)
    fracReaction(GVAR_TITUL_WARRIOR_ROAD,-55) // Поправка к отношению за принадлежность к фракциям
    dialog_proc(0,0,NodeStartDialog,-1,-1)
 end
@@ -215,7 +215,7 @@ procedure NeedFoodDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    if DudeTraitHas(TRAIT_espanol) then begin
@@ -285,7 +285,7 @@ procedure NodeFstDialog107 begin
    //call NodeSndDialog;
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    //(Arena title, high strength, melee skill, power armor) You thugs don't value peace and quiet at all. What do you want, hombre-martillo?

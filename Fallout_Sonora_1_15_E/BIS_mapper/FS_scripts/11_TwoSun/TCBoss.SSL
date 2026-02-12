@@ -205,7 +205,7 @@ procedure NodeStartDialog begin
    end
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -265,12 +265,12 @@ procedure NodeFstDialog6 begin
    NAnswer(215,1,Node998)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    Reply(220)
 
-   //--- Расспросы
+   //--- QUESTIONS
    NAnswer(211,1,NodeAnswer)
    if (map_var(MVAR_TWOSUN_AgentKnow) == 1) then begin
    NAnswer(233,1,NodeAnswer101)
@@ -565,7 +565,7 @@ procedure NodeCody5 begin
    BAnswer(361,1,Node999)
 end
 
-//--- РАССПРОСЫ
+//--- QUESTIONS
 
 procedure NodeAnswer begin
    Reply(230)
