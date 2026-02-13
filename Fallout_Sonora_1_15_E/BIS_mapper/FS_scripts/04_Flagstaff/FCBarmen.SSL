@@ -188,8 +188,8 @@ procedure description_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   // Таймер за номером 1 рарезервирован под перемещение персонажа по локации
-   // Таймер за номером 2 рарезервирован под всплывающие реплики
+   // Timer number 1 is reserved for character movement around the location
+   // Timer number 2 is reserved for pop-up dialogue
    if (fixed_param == 1) then begin
        if (game_time_hour <= 0600) then begin
        timer_move_to_tile(0,11308,5)
@@ -300,7 +300,7 @@ end
 
 procedure critter_p_proc begin
    set_using_stop // привязка хозяина и объекта (удалить, если не нужно)
-   set_critter_options(1,0) //условие нападения (0 личная вражда, 1 вражда клановая, 2 всегда), разворот к ГГ
+   set_critter_options(1,0) //attack condition (0 personal feud, 1 clan feud, 2 always), turn to GG
 end
 
 procedure use_skill_on_p_proc begin
@@ -317,7 +317,7 @@ procedure use_obj_on_p_proc begin
 end
 
 procedure combat_p_proc begin
-   effectAttak(0,0,0,0,0) //отравление min, облучение min, травма ног %, травма рук %, травма глаз %
+   effectAttak(0,0,0,0,0) //poisoning min, radiation min, leg injury %, arm injury %, eye injury %
 end
 
 procedure damage_p_proc begin
@@ -415,7 +415,7 @@ procedure NodeSndDialog begin
    end
    end
 
-   //--- Квесты бара
+   //--- Bar Quests
    if (getQuest(GVAR_FLAGSTAFF_BARMEN_DOLG) == qZero) then begin
       if (getQuest(GVAR_FLAGSTAFF_BARMEN_DINNER) >= qEnd) then begin
       NAnswer(310,0,NodeQst101)
@@ -544,6 +544,7 @@ procedure NodeGame104 begin
 end
 
 procedure NodeGame105 begin
+   // improved handling of game quest - cambragol
    if (getQuest(GVAR_FLAGSTAFF_QST_GAME) == qZero) then begin
       Reply(368)
       setQuest(GVAR_FLAGSTAFF_QST_GAME,qEnd);
@@ -930,7 +931,7 @@ procedure NodeBarterTeam501 begin
    NAnswer(286,0,Node999)
 end
 
-//--- КВЕСТЫ БАРА
+//--- BAR QUESTS
 
 procedure NodeQst101 begin
    Reply(311)
