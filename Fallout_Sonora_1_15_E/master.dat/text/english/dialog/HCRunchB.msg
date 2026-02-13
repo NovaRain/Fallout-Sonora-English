@@ -15,6 +15,7 @@
 {112}{}{Get out, you damn gringo!}
 {1112}{}{Get out, you damn gringa!}
 {113}{}{Vete, dirty... gringo!}
+{1113}{}{Vete, dirty... gringa!}
 {114}{}{I'm too busy. Habla con mi... husband.}
 {115}{}{I'm too busy to talk. Speak with... mi... husband.}
 {116}{}{You better leave. No nos gusta... strangers making preguntas.}
