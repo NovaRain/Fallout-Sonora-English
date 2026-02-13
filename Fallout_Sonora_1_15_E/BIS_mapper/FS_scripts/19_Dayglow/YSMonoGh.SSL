@@ -77,8 +77,8 @@ procedure description_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   // Таймер за номером 1 зарезервирован под перемещение персонажа по локации
-   // Таймер за номером 2 зарезервирован под всплывающие реплики
+   // Timer number 1 is reserved for character movement around the location
+   // Timer number 2 is reserved for pop-up dialogue
    if (fixed_param == 1) then begin
        if (getQuest(GVAR_DAYGLOW_STATUS_MONORAIL) >= (qEnd+1)) then begin
        set_local_var(LVAR_Home_Rotat, random(0,5));
@@ -193,7 +193,7 @@ procedure NodeEndDialog3 begin
    call Node999;
 end
 
-//--- ПЕРВЫЙ ДИАЛОГ
+//--- FIRST DIALOGUE
 
 procedure NodeFstDialog begin
    bitDialogExp(bit_1,0)
@@ -252,7 +252,7 @@ procedure NodeFstDialog9 begin
    NAnswer(217,1,Node999)
 end
 
-//--- ПОВТОРНЫЙ ДИАЛОГ
+//--- REPEAT DIALOGUE
 
 procedure NodeSndDialog begin
    if ((getReaction<0) or town_rep_is_antipaty) then begin
