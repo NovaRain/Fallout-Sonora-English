@@ -1,6 +1,8 @@
 #ifndef CRITTERS_H
 #define CRITTERS_H
 
+#include ".\sfall\lib.math.h"
+
 // -----------------------------------------------------------------------
 // map_enter_p_proc
 // -----------------------------------------------------------------------
@@ -55,7 +57,7 @@
                                              move_obj_inven_to_obj(self_obj,selfBarterBoxObj); \
                                              end
 
-#define set_BarterBoxLvar(time)              if (local_var(LVAR_Barter_Timer) < game_time) then begin \
+#define set_BarterBoxLvar(time)              if (unsigned_int_compare(local_var(LVAR_Barter_Timer), game_time) < 0) then begin \
                                                   call setBarterA;                             \
                                                   if (get_BarterDopusk != 0) then begin        \
                                                   call setBarterB;                             \
