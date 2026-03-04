@@ -244,35 +244,35 @@
 {12201}{}{A terrifying monster, the worst nightmare you could imagine.}
 {12300}{}{Señor Handy}
 {12301}{}{You see a robot of the Señor Handy series.}
-{12400}{}{Jack}
+{12400}{}{Pancho}
 {12401}{}{}
 {12500}{}{Eugene}
 {12501}{}{}
 {12600}{}{Diana}
 {12601}{}{}
-{12700}{}{Diana}
+{12700}{}{Diana - Stage 1}
 {12701}{}{}
-{12800}{}{Diana}
+{12800}{}{Diana - Stage 2}
 {12801}{}{}
-{12900}{}{Diana}
+{12900}{}{Diana - Stage 3}
 {12901}{}{}
-{13000}{}{Arthur}
+{13000}{}{Arthur - Stage 1}
 {13001}{}{}
-{13100}{}{Arthur}
+{13100}{}{Arthur - Stage 2}
 {13101}{}{}
-{13200}{}{Arthur}
+{13200}{}{Arthur - Stage 3}
 {13201}{}{}
-{13300}{}{Barkley}
+{13300}{}{Barkley - Stage 1}
 {13301}{}{}
-{13400}{}{Barkley}
+{13400}{}{Barkley - Stage 2}
 {13401}{}{}
-{13500}{}{Barkley}
+{13500}{}{Barkley - Stage 3}
 {13501}{}{}
-{13600}{}{Jack}
+{13600}{}{Pancho - Stage 1}
 {13601}{}{}
-{13700}{}{Jack}
+{13700}{}{Pancho - Stage 2}
 {13701}{}{}
-{13800}{}{Jack}
+{13800}{}{Pancho - Stage 3}
 {13801}{}{}
 {13900}{}{Sancho}
 {13901}{}{}
@@ -306,11 +306,11 @@
 {15301}{}{}
 {15400}{}{Mercenary}
 {15401}{}{}
-{15500}{}{Mercenary}
+{15500}{}{Mercenary - Stage 1}
 {15501}{}{}
-{15600}{}{Mercenary}
+{15600}{}{Mercenary - Stage 2}
 {15601}{}{}
-{15700}{}{Mercenary}
+{15700}{}{Mercenary - Stage 3}
 {15701}{}{}
 {15800}{}{}
 {15801}{}{}
