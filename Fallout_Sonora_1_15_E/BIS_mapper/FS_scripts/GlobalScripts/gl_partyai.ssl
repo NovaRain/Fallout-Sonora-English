@@ -1,0 +1,50 @@
+// Fix for party member AI packets if the player has already triggered the issue
+
+#include "..\headers\define.h"
+
+procedure start;
+procedure map_enter_p_proc;
+
+#define get_ai(cr)      has_trait(TRAIT_OBJECT, cr, OBJECT_AI_PACKET)
+#define set_ai(cr, ai)  critter_add_trait(cr, TRAIT_OBJECT, OBJECT_AI_PACKET, ai)
+
+procedure start begin
+   if game_loaded then begin
+      call map_enter_p_proc;
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable aiPacket;
+
+   if (party_size > 0) then begin
+      if (partyPidBnd != 0) then begin
+         aiPacket := get_ai(partyPidBnd);
+         if (aiPacket != AI_PARTY_MERCVILLA) then set_ai(partyPidBnd, AI_PARTY_MERCVILLA);
+      end
+      if (partyPidSnc != 0) then begin
+         aiPacket := get_ai(partyPidSnc);
+         if (aiPacket != AI_PARTY_ARTUR) then set_ai(partyPidSnc, AI_PARTY_ARTUR);
+      end
+      if (partyPidBos != 0) then begin
+         aiPacket := get_ai(partyPidBos);
+         if (aiPacket != AI_PARTY_PALADIN) then set_ai(partyPidBos, AI_PARTY_PALADIN);
+      end
+      if (partyPidApc != 0) then begin
+         aiPacket := get_ai(partyPidApc);
+         if (aiPacket != AI_PARTY_DIANA) then set_ai(partyPidApc, AI_PARTY_DIANA);
+      end
+      if (partyPidHrm != 0) then begin
+         aiPacket := get_ai(partyPidHrm);
+         if (aiPacket != AI_PARTY_PANCHO) then set_ai(partyPidHrm, AI_PARTY_PANCHO);
+      end
+      if (partyPidMtn != 0) then begin
+         aiPacket := get_ai(partyPidMtn);
+         if (aiPacket != AI_PARTY_GOMER) then set_ai(partyPidMtn, AI_PARTY_GOMER);
+      end
+      //if (partyPidAss != 0) then begin
+      //   aiPacket := get_ai(partyPidAss);
+      //   if (aiPacket != AI_PARTY_ASSISTENT) then set_ai(partyPidAss, AI_PARTY_ASSISTENT);
+      //end
+   end
+end
