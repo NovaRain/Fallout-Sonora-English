@@ -42,7 +42,7 @@
 {142}{}{Carnivorous Plant}
 {143}{}{Deathclaw}
 {144}{}{Robot}
-{145}{}{Ghoul}#Crazed Local
+{145}{}{Ghoul} # Crazed Local
 {146}{}{Mysterious Stranger}
 {147}{}{Lab}
 {148}{}{Granny Adonisia}
@@ -100,7 +100,7 @@
 {200}{}{Radio Station}
 {201}{}{Prisoner}
 {202}{}{Worker}
-{203}{}{Mercenary}
+{203}{}{Bar Patron}
 {204}{}{Colonist}
 {205}{}{Servant}
 {206}{}{Escaped Prisoner}
