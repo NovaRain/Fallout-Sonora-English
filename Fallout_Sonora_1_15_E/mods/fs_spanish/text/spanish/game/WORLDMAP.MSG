@@ -95,13 +95,14 @@
 # San Felipe (Old Lighthouse)
 {310}{}{Asentamiento del Faro}
 {311}{}{Fondeport}
-{312}{}{Cerro Picacho del Diablo}
+{312}{}{Gruta}
+{313}{}{Cerro Picacho del Diablo}
 #
 # Inferno
 {320}{}{Atasco de Trafico}
 {321}{}{Residencias}
 {322}{}{Supermercado}
-{323}{}{Estacion de Policía}
+{323}{}{Estacion de Policia}
 {324}{}{Iglesia Misteriosa}
 {325}{}{Interestatal}
 #
@@ -128,8 +129,7 @@
 {366}{}{Ruinas de National City}
 {367}{}{Corazon de San Diego}
 {368}{}{Muelles}
-{369}{}{Refugio 24}
-{370}{}{Base Naval EE.UU}
+{369}{}{Base Naval EE.UU}
 #
 # ! Empty slot
 {370}{}{Desierto}
@@ -158,7 +158,7 @@
 # Brotherhood Camp
 {440}{}{Campamento en el Desierto}
 {441}{}{Campamento en Caborca}
-{442}{}{Campamento en las Montañas}
+{442}{}{Campamento en los Montes}
 #
 # Raiders
 {450}{}{Base de los Escudos Azules}
@@ -200,7 +200,7 @@
 {493}{}{Litoral}
 #
 # Explosion crater in Puerto
-{500}{}{Centro de la Explosión}
+{500}{}{Centro de la Explosion}
 #
 # Special Encounter - Gold
 {510}{}{Yermo Sonorense}
@@ -226,8 +226,9 @@
 # Special Encounter - Padre
 {580}{}{Yermo Sonorense}
 #
-# Special Encounter - Baron of Arizona
+# DLC - Gathering Point in Dayglow
 {590}{}{Yermo Sonorense}
+{591}{}{Refugio 24}
 #
 # Special Encounter - Snowfall
 {600}{}{Yermo Sonorense}
@@ -263,7 +264,7 @@
 {679}{}{Desierto}
 #
 # Camp Winon
-{680}{}{Campamento en las Montañas}
+{680}{}{Campamento en los Montes}
 
 
 #######################################################
@@ -298,7 +299,7 @@
 #######################################################
 
 {2998}{}{Encuentras:}
-{2999}{}{¿Deseas tropezarte con este encuentro?:}
+{2999}{}{Deseas tropezarte con este encuentro:}
 
 # Encounter Table 0 -- TEST_D
 {3000}{}{Red Ryder.}
@@ -356,9 +357,9 @@
 {3100}{}{Red Ryder.}
 {3101}{}{Una manada de ratas cerdo.}
 {3102}{}{Una manada de lobos.}
-{3103}{}{Un rebaño de brahmanes.}
+{3103}{}{Un grupo de brahmanes.}
 {3104}{}{Un grupo de salvajes.}
-{3105}{}{Un escuadron de Montaña Blanca.}
+{3105}{}{Un escuadron del Monte Blanco.}
 {3106}{}{Un cazador.}
 {3107}{}{Oro.}
 {3108}{}{Henry Bemis.}
@@ -400,6 +401,7 @@
 {3205}{}{Una caravana.}
 {3206}{}{Un grupo de colonizadores.}
 {3207}{}{Una manada de perros.}
+{3208}{}{La banda de Trayvon.}
 
 # Encounter Table 5 -- RNGR_D
 {3250}{}{Red Ryder.}
@@ -430,7 +432,7 @@
 {3300}{}{Una tormenta de polvo}
 {3301}{}{Deshidratacion}
 {3302}{}{Una manada de escorpiones.}
-{3303}{}{Un escorpión legendario.}
+{3303}{}{Un escorpion legendario.}
 {3304}{}{Algunos ciempies gigantes.}
 {3305}{}{Oro.}
 {3306}{}{Henry Bemis.}
@@ -462,7 +464,7 @@
 {3364}{}{El Santuario Perdido.}
 {3365}{}{Una fortaleza movil.}
 {3366}{}{Legend City.}
-{3367}{}{Un vehículo accidentado.}
+{3367}{}{Un vehiculo accidentado.}
 
 # Encounter Table 8 -- MEXI_D
 {3400}{}{Red Ryder.}
@@ -484,7 +486,8 @@
 {3416}{}{Una nevada.}
 {3417}{}{Una fortaleza movil.}
 {3418}{}{Legend City.}
-{3419}{}{Un mexicano y un ciempiés.}
+{3419}{}{Un mexicano y un ciempies.}
+{3420}{}{Un mexicano y un ciempies.}
 
 # Encounter Table 9 -- MEXI_M
 {3450}{}{Red Ryder.}
@@ -568,7 +571,7 @@
 {3704}{}{Un grupo de saqueadores.}
 {3705}{}{Un robot explorador.}
 {3706}{}{El cadaver de un esclavo fugitivo.}
-{3707}{}{Un cíborg.}
+{3707}{}{Un ciborg.}
 
 # Encounter Table 15 -- TUSN_M
 {3750}{}{Un derrumbe}
@@ -590,8 +593,8 @@
 # Encounter Table 16 -- INFN_D
 {3800}{}{Niebla radiactiva}
 {3801}{}{Un grupo de hormigas gigantes.}
-{3802}{}{Un montón de chatarreros.}
-{3803}{}{Un montón de segadores.}
+{3802}{}{Un monton de chatarreros.}
+{3803}{}{Un monton de segadores.}
 {3804}{}{Un agente de la USP.}
 {3805}{}{Harvey.}
 
@@ -627,6 +630,7 @@
 {3962}{}{Una Noche de peliculas.}
 {3963}{}{El Padre volador.}
 {3964}{}{Legend City.}
+{3965}{}{Supermutantes perdidos.}
 
 # Encounter Table 20 -- OCEAN_O
 {4000}{}{Niebla radiactiva}

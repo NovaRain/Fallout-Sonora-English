@@ -1,3 +1,0 @@
-quests.msg is missing messages: 311, 1206, 1205, 907, 1207, 909, 908, 1204
-scrname.msg is missing messages: 1100
-WORLDMAP.MSG is missing messages: 3208, 591, 3420, 313, 3965
