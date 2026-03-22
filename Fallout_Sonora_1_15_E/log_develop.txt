@@ -9,10 +9,21 @@
 
 [Changes marked with an asterisk may not apply to saves from previous versions.]
 
+Version 1.16.2e (February 24, 2026) ------------------------------------------------
+
+- Garage City: Removed an unnecessary line from the gate guard when asking about weapons.
+- Updated the code for the "Intimidation" perk.
+- Rewrote the Deathclaw lure mechanic from MVAR (map-specific) to GVAR (universal).
+
+Version 1.16.1e (February 14, 2026) ------------------------------------------------
+
+Many small fixes to script merge between Nevada Band's 1.16 release and the 1.15+E English release - thanks NovaRain
+small fixes to accompanying message files - thanks NovaRain
+
 Version 1.16e (February 8, 2026) ------------------------------------------------
 
 Important! For version 1.16, you must update both the main game and the DLC if you choose to install it.
-Important! Saves from previous versions of 1.16 will sometimes not work correctly - you must start a new game! Changes that affect previous saves are marked with a double snowflake **.
+Important! Saves from previous versions of 1.16 will sometimes not work correctly - you must start a new game! Changes that affect previous saves are marked with a double asterisk **.
 
 - Villa: Some of Villa's dialogue has been improved.
 - *Villa: Iguana traps have been added to the Ancient Ruins map (from 1 to 3).
@@ -101,7 +112,7 @@ Important! Saves from previous versions of 1.16 will sometimes not work correctl
 - Dayglow: Resting at the Old Town Hotel restores more health.
 - Dayglow: Torpedoes on the island can now be activated by both skills and explosives.
 - *Dayglow: Nearby pipes can now be used to pump out the lower floor of the shelter, not just the computer.
-- Dayglow: The sound level of music tracks (fs_daygl and fs_diego) has been reduced by several dB.
+- Dayglow: The volume of music tracks (fs_daygl and fs_diego) has been lowered by a few dB to balance with other tracks in the game.
 - *Dayglow: The gate from the Old Town to the north (to the road junction) can no longer be opened until the corresponding quest is received.
 - *Dayglow: Minor adjustments to howitzer voice lines and scripts have been made to improve player comprehension.
 - *Dayglow: Missing markers have been added to the transition grids and monorail elevators.
@@ -123,7 +134,7 @@ Important! Saves from previous versions of 1.16 will sometimes not work correctl
 - The NMLABB sprite now has a new SMG animation.
 - Added companion reactions to grave digging.
 - **The original mechanic for accruing experience for killing NPCs has been restored (i.e., experience is pre-recorded in the .pro file, rather than calculated by script). Experience values are calculated using a formula based on HP, damage resistance, and the enemy's threat coefficient.
-- Increased the regeneration amount for ghouls (from 1/5 to 1/10 of maximum health).
+- Increased the regeneration amount for ghouls (randomly from 1/5 to 1/10 of maximum health).
 - The "Negotiations failed" phrase in the log has been removed (it is no longer displayed when exiting dialogue for combat).
 - Trap adjustments (traps, mines, laser): with the "Lightfoot" perk, traps now ignore not only the main character but also their companions.
 - The "Light Step" perk now not only reduces damage from toxic puddles, but eliminates it entirely.
