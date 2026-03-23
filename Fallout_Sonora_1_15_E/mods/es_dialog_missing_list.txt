@@ -1,8 +1,6 @@
-FCKidPap.msg is missing messages: 227, 228
-GCBarmen.msg is missing messages: 375
 RCAcvBnd.msg is missing messages: 1208
 RCFlick.msg is missing messages: 1266
 RCFrmBnd.msg is missing messages: 1217
-RCRanger.msg is missing messages: 1179, 1158, 1151, 1187, 1170, 1183, 1184, 1172, 1173, 1180, 1155, 1174, 1188, 1175, 1181, 1159, 1160, 1157, 1176, 1171, 1154, 1152, 1186, 1177, 1150, 1153, 1156, 1185, 1189, 1178, 1182, 1161
+RCRanger.msg is missing messages: 1189, 1154, 1180, 1172, 1187, 1158, 1175, 1177, 1186, 1181, 1174, 1151, 1160, 1179, 1171, 1156, 1161, 1183, 1152, 1178, 1185, 1157, 1176, 1184, 1150, 1155, 1188, 1159, 1182, 1170, 1153, 1173
 SCPatrul.msg is missing messages: 1208
 YCGopStp.msg is missing messages: 1228

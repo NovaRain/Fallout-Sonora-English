@@ -1,20 +1,52 @@
 // Fix for party member AI packets if the player has already triggered the issue
 
+#pragma sce
+
 #include "..\headers\define.h"
+#include "..\headers\sfall\sfall.h"
 
 procedure start;
-procedure map_enter_p_proc;
+procedure gamemodechange_handler;
+procedure party_ai_fix;
+procedure party_ai_fix_who(variable pid, variable packet);
+
+variable partyTalkPtr;
 
 #define get_ai(cr)      has_trait(TRAIT_OBJECT, cr, OBJECT_AI_PACKET)
 #define set_ai(cr, ai)  critter_add_trait(cr, TRAIT_OBJECT, OBJECT_AI_PACKET, ai)
 
 procedure start begin
    if game_loaded then begin
-      call map_enter_p_proc;
+      write_int(0x428389, 0x90909090); // disable disposition switching
+      call party_ai_fix;
+      register_hook_proc(HOOK_GAMEMODECHANGE, gamemodechange_handler);
    end
 end
 
-procedure map_enter_p_proc begin
+procedure gamemodechange_handler begin
+   variable
+      prevMode := get_sfall_arg_at(1),
+      gameMode := get_game_mode,
+      partyPid, aiPacket;
+
+   if ((gameMode bwand DIALOG) and not(prevMode bwand DIALOG)) then begin
+      if (party_member_obj(obj_pid(dialog_obj)) != 0) then begin
+         partyTalkPtr := dialog_obj;
+         partyPid := obj_pid(dialog_obj);
+         aiPacket := get_ai(dialog_obj);
+         call party_ai_fix_who(partyPid, aiPacket);
+      end
+   end else if (not(gameMode bwand DIALOG) and (prevMode bwand DIALOG)) then begin
+      if (partyTalkPtr) then begin
+         partyPid := obj_pid(partyTalkPtr);
+         aiPacket := get_ai(partyTalkPtr);
+         call party_ai_fix_who(partyPid, aiPacket);
+         partyTalkPtr := 0;
+      end
+   end
+end
+
+procedure party_ai_fix begin
    variable aiPacket;
 
    if (party_size > 0) then begin
@@ -48,3 +80,24 @@ procedure map_enter_p_proc begin
       //end
    end
 end
+
+procedure party_ai_fix_who(variable pid, variable packet) begin
+   if (partyTalkPtr == 0) then return;
+
+   if (pid == PID_PARTY_MERCVILLA and packet != AI_PARTY_MERCVILLA) then begin
+      set_ai(partyTalkPtr, AI_PARTY_MERCVILLA);
+   end else if (pid == PID_PARTY_ARTUR and packet != AI_PARTY_ARTUR) then begin
+      set_ai(partyTalkPtr, AI_PARTY_ARTUR);
+   end else if (pid == PID_PARTY_PALADIN_BIRKLY and packet != AI_PARTY_PALADIN) then begin
+      set_ai(partyTalkPtr, AI_PARTY_PALADIN);
+   end else if (pid == PID_PARTY_DIANA and packet != AI_PARTY_DIANA) then begin
+      set_ai(partyTalkPtr, AI_PARTY_DIANA);
+   end else if (pid == PID_PARTY_PANCHO and packet != AI_PARTY_PANCHO) then begin
+      set_ai(partyTalkPtr, AI_PARTY_PANCHO);
+   end else if (pid == PID_PARTY_GOMER and packet != AI_PARTY_GOMER) then begin
+      set_ai(partyTalkPtr, AI_PARTY_GOMER);
+   end /*else if (pid == PID_PARTY_EL_ASSISTENTE and packet != AI_PARTY_ASSISTENT) then begin
+      set_ai(partyTalkPtr, AI_PARTY_ASSISTENT);
+   end*/
+end
+
