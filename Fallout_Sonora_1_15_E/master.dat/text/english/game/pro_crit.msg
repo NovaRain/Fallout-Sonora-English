@@ -284,7 +284,7 @@
 {14201}{}{A man with a dark skin tone. He hides his head under a wide-brimmed hat.}
 {14300}{}{Ghoul}
 {14301}{}{A disfigured person affected by a virus and radiation.}
-{14400}{}{Bunch}
+{14400}{}{Gomer}
 {14401}{}{}
 {14500}{}{Fernando}
 {14501}{}{}
