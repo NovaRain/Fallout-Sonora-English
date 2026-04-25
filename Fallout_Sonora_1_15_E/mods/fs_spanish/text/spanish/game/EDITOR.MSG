@@ -17,7 +17,7 @@
 {116}{}{ PUNTOS PJ.}
 {117}{}{HABILIDADES}
 {118}{}{¡Debes usar todos los puntos de personaje} # 1
-{119}{}{antes de empezar el juego!}         # 2
+{119}{}{antes de empezar el juego!}                # 2
 #
 {120}{}{Puntos de personaje}
 {121}{}{Cantidad de puntos de personaje que se pueden añadir a los atributos básicos.}
@@ -33,23 +33,23 @@
 {131}{}{Usa puntos de habilidad para incrementar el nivel de una habilidad. Cuanto más mejores en una habilidad, más puntos cuesta incrementarla. Dominar una habilidad puede llevar mucho tiempo y esfuerzo.}
 #
 {132}{}{Al máximo nivel.}        # 1
-{133}{}{Imposible aumentarlo.}  # 2
+{133}{}{Imposible aumentarlo.}   # 2
 {134}{}{Al mínimo nivel.}        # 1
-{135}{}{Imposible reducirlo.}  # 2
+{135}{}{Imposible reducirlo.}    # 2
 {136}{}{¡No hay puntos disponibles!}
 {137}{}{Base:}
 {138}{}{HAB. DEST.}
 {139}{}{RASGOS OPCIONALES}
-{140}{}{¡Ya tienes el máximo de tres} # 1
-{141}{}{habilidades destacadas!}               # 2
-{142}{}{¡Debes seleccionar todas las habilidades}  # 1
-{143}{}{destacadas antes de empezar el juego!}       # 2
+{140}{}{¡Ya tienes el máximo de tres}             # 1
+{141}{}{habilidades destacadas!}                  # 2
+{142}{}{¡Debes seleccionar todas las habilidades} # 1
+{143}{}{destacadas antes de empezar el juego!}    # 2
 {144}{}{Habilidades destacadas}
 {145}{}{Habilidades destacadas son habilidades en las que tu personaje se especializa. Cada Habilidad destacada gana un 20% y aumenta el doble de rápido. Debes elegir 3 de ellas.}
 {146}{}{Rasgos opcionales}
 {147}{}{Los rasgos opcionales describen a tu personaje con más detalle. Todos los rasgos tienen efectos positivos y negativos. Debes elegir dos.}
 {148}{}{¡Ya tienes el máximos de} # 1
-{149}{}{dos rasgos!}                     # 2
+{149}{}{dos rasgos!}              # 2
 {150}{}{Habilidades}
 {151}{}{Las habilidades son conocimiento aprendido. Se incrementan por la experiencia o por eventos especiales durante el curso del juego. Cuanto más alto sea el nivel, mejor eres en esa habilidad.}
 #
@@ -60,9 +60,9 @@
 {156}{}{RASGOS}
 #
 {157}{}{¡Todas las estadísticas deben estar entre 1 y 10} # 1
-{158}{}{antes de comenzar el juego!}          # 2
-{160}{}{Atención: No has cambiado el nombre de tu} # 1
-{161}{}{personaje. ¿Quieres usarlo de todos modos?}        # 2
+{158}{}{antes de comenzar el juego!}                      # 2
+{160}{}{Atención: No has cambiado el nombre de tu}  # 1
+{161}{}{personaje. ¿Quieres usarlo de todos modos?} # 2
 
 {175}{}{Next Lvl:}
 
@@ -70,14 +70,14 @@
 # Explanations of basic parameters
 #--------------------------------------------
 
-{200}{}{Pésimo}  # Terrible
-{201}{}{Malo}    # Bad
-{202}{}{Pobre}   # Poor
-{203}{}{Justo}   # Fair
-{204}{}{Sfcnte}   # Average
-{205}{}{Bueno}   # Good
+{200}{}{Pésimo} # Terrible
+{201}{}{Malo}   # Bad
+{202}{}{Pobre}  # Poor
+{203}{}{Justo}  # Fair
+{204}{}{Sfcnte} # Average
+{205}{}{Bueno}  # Good
 {206}{}{M.buen} # Very Good
-{207}{}{Genial}  # Great
+{207}{}{Genial} # Great
 {208}{}{Exclnt} # Excellent
 {209}{}{Heróic} # Heroic
 
@@ -149,8 +149,8 @@
 {602}{}{IMPRIMIR}
 {603}{}{BORRAR}
 {604}{}{HECHO}
-{605}{}{¿Estás seguro que quieres borrar}      # line 1
-{606}{}{el personaje actual?}                 # line 2
+{605}{}{¿Estás seguro que quieres borrar}    # line 1
+{606}{}{el personaje actual?}                   # line 2
 {607}{}{ fue guardado con éxito.}
 {608}{}{ fue cargado con éxito.}
 {609}{}{ya existe.}
@@ -172,13 +172,13 @@
 {622}{}{hours} # Title line 3
 # -
 # -
-#     Strength: 00        Hit Points: 000/000          Sequence: 00}
-#    Perception: 00       Armor Class: 000          Healing Rate: 00}
-#     Endurance: 00     Action Points: 000       Critical Chance: 000%}
-#     Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
-# Intelligence: 00       Damage Res.: 000%}
-#      Agility: 00    Radiation Res.: 000%}
-#          Luck: 00       Poison Res.: 000%}
+#              Strength: 00        Hit Points: 000/000          Sequence: 00
+#            Perception: 00       Armor Class: 000          Healing Rate: 00
+#             Endurance: 00     Action Points: 000       Critical Chance: 000%
+#              Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.
+#          Intelligence: 00       Damage Res.: 000%
+#               Agility: 00    Radiation Res.: 000%
+#                  Luck: 00       Poison Res.: 000%
 #
 {623}{}{ ::: Statistics :::}
 {624}{}{       Strength:}
@@ -207,14 +207,14 @@
 {641}{}{       Poison Res.:}
 # -
 # -
-# Name: 01234567890        Age: 00         Gender: Female}
+#         Name: 01234567890        Age: 00         Gender: Female
 {642}{}{  Name:}
 {643}{}{Age:}
 {644}{}{               Gender:}
 {645}{}{Male}
 {646}{}{Female}
 #-
-# Level: 00                 Exp: 000,000    Next Level: 000,000}
+#         Level: 00                 Exp: 000,000    Next Level: 000,000
 {647}{}{ Level:}
 {648}{}{                Exp:}
 {649}{}{Next Level:}
