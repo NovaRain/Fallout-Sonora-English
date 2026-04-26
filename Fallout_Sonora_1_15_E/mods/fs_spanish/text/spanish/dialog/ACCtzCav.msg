@@ -70,7 +70,7 @@
 {250}{}{«Eso es todo lo que quería saber.»}
 {251}{}{«Andaba caminando en la costa, cuando un monstruo saltó de un bote antiguo. Y creo que me desmayé y desperté acá adentro. Parece que los monstruos me arrastraron aquí... Dios, ¡incluso también habían cadáveres de algunas personas!»}
 
-// added for Espanol Trait handling - cambragol
+# added for Espanol Trait handling - cambragol
 
 {314}{}{Em... Sí, nos vemos en la aldea.}
 

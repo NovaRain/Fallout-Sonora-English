@@ -92,18 +92,6 @@
 {266}{}{Ah.}
 {267}{}{En ese caso, hagamos un trato...}
 
-
-{264}{}{¿Qué es ese dispositivo?}
-{265}{}{¿Te refieres al contador geiger? (lo sostiene y escanea tu cuerpo) ¡Ay, señor, debería comprar esta cosa! Muestra sus niveles radioactivos. Hay muchos chatarreros a los que le encantaría algo así, pero es demasiado caro para ellos.}
-{1265}{}{¿Te refieres al contador geiger? (lo sostiene y escanea tu cuerpo) ¡Ay, señorita, debería comprar esta cosa! Muestra sus niveles radioactivos. Hay muchos chatarreros a los que le encantaría algo así, pero es demasiado caro para ellos.}
-{266}{}{Me lo pensaré.}
-{267}{}{Estoy buscando partes para arreglar mi radio, necesito un amplificador.}
-{268}{}{¿Una radio, en serio? Debes tener en mente unos planes serios. Aunque no hay mucha gente que use radios hoy en día, además de los Rangers... ¿Te enviaron ellos?}
-{269}{}{No sé de qué hablas. ¿Tienes un amplificador o no?}
-{270}{}{¡Cálmate, compadre! Sí, tengo un par de módulos amplificadores por aquí. Puede que te funcionen o puede que no.}
-{1270}{}{Cálmese, señora! Sí, tengo un par de módulos amplificadores por aquí. Puede que te funcionen o puede que no.}
-{271}{}{Entonces déjame echarles un vistazo.}
-
 {276}{}{Había una máquina acuñadora de chapas en el remolque de Todd. La he destruido.}  
 {277}{}{Bien hecho, compadre. Estas son las chapas que te prometí. Pero, que esto sea un secreto, ¿bien? No quiero que linchen a alguien a causa de esto.}  
 {1277}{}{Bien hecho, señorita. Estas son las chapas que te prometí. Pero, que esto sea un secreto, ¿bien? No quiero que linchen a alguien a causa de esto.}  
@@ -186,7 +174,6 @@
 {357}{}{ chapas.}
 {358}{}{Aquí tienes las chapas.}
 {359}{}{Tal vez en otro momento.}
-
 
 {360}{}{Quiero mejorar algunas bengalas.}
 {361}{}{Quiero mejorar las bengalas todavía más.}

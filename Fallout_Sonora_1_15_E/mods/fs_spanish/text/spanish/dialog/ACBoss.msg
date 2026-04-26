@@ -168,7 +168,7 @@
 {427}{}{¡Jajaja! Te debemos una grande... ¡Gracias!}
 {428}{}{«No hay de qué.»}
 
-// extra lines for non-spanish added by Cambragol
+# extra lines for non-spanish added by Cambragol
 {590}{}{Estuve buscando agua...}
 {598}{}{[Mentir] No pude encontrar agua.}
 

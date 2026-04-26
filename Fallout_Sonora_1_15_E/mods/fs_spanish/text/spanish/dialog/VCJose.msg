@@ -59,7 +59,6 @@
 {236}{}{Gia-shias.}
 {237}{}{Okeei.}
 
-
 {240}{}{¡Gracias al cielo, has vuelto! ¡Y trajiste a los demás!}
 {1240}{}{¡Gracias al cielo, has vuelto! ¡Y trajiste a los demás!}
 {241}{}{Sí, no fue nada fácil. Hay un mundo entero allá afuera, ¿sabes? Nadie me habló de él.}
@@ -120,7 +119,6 @@
 {288}{}{Te lo agradezco, José. Me las arreglaré, de alguna manera.}
 {289}{}{¿Tienes algún problema, normalucho? No necesito tus condolencias, así que cállate.}
 {290}{}{Ah, so así que la Abuela Adonisia te ha estado contando cuentos de terror, ¿verdad? Jeje. Olvídalo, ahí abajo solo hay ratas y harina podrida.}
-{290}{}{¿De qué hablas? Ahí guardamos el grano. Ah, ya sé, la abuela Adonisia te llenó la cabeza con cuentos viejos, ¿cierto? Jaja, olvídalo, ahí no hay nada.}
 {291}{}{¿Y cómo me explicas este mono y esta computadora en mi muñeca?}
 {292}{}{¿Eh? ¿Las encontraste debajo del ayuntamiento, no? Pues, pregúntale a tu viejo. José no sabe nada.}
 {1292}{}{¿Eh? ¿Las encontraste debajo del ayuntamiento, no? Pues, pregúntale a tu viejo. José no sabe nada.}

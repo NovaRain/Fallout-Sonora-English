@@ -124,7 +124,6 @@
 {348}{}{Esto es una idiotez, voy a decirle todo esto a Aaron.}
 {349}{}{En ese caso, no me dejas opción. Que el Fuego Santo nos perdone...}
 {350}{}{Eh...}
-{350}{}{Eh...}
 {351}{}{Bien, estoy contigo. Será interesante saber la otra versión de este conflicto.}
 {1351}{}{Bien, estoy contigo. Será interesante saber la otra versión de este conflicto.}
 {352}{}{Que así sea. Debes hallar el cuartel general de los rebeldes bajo Union Station. El alcantarillado es la única forma de llegar allí, diles que te he enviado yo, mientras lo consigues, intentaré avisarles de tu llegada. Te deseo suerte.}
