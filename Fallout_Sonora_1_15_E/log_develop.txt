@@ -9,6 +9,11 @@
 
 [Changes marked with an asterisk may not apply to saves from previous versions.]
 
+Version 1.16.3e (May 11, 2026) ------------------------------------------------
+- Garage City: Pete can now properly upgrade modified flare rounds.
+- Phoenix: Fixed the skill increment calculation for improving tagged Big Guns and Energy Weapons skills at the weapons dealer.
+- Fix for Spanish language bugs preventing 'New Character' screen
+
 Version 1.16.2e (February 24, 2026) ------------------------------------------------
 
 - Garage City: Removed an unnecessary line from the gate guard when asking about weapons.

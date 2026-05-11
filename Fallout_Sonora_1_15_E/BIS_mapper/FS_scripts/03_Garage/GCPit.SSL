@@ -878,7 +878,7 @@ end
 
 //---
 
-#define NodeAmmoAmnt(msg,amnt,node)      if ((item_amnt(dude_obj,PID_AMMO_SIGNAL_A) >=amnt) and (item_amnt(dude_obj,PID_BOOTLE_CAPS)>=(upCoast*amnt))) then begin \
+#define NodeAmmoAmnt(msg,amnt,node)      if ((item_amnt(dude_obj,up_pid_a) >=amnt) and (item_amnt(dude_obj,PID_BOOTLE_CAPS)>=(upCoast*amnt))) then begin \
                                          NAnswer(msg,0,node) \
                                          end \
 
@@ -909,8 +909,8 @@ end
 procedure NodeRepairSignalAmmoB begin
    upCoast := 2;
    up_amnt := 1;
-   up_pid_a := PID_AMMO_SIGNAL_A;
-   up_pid_b := PID_AMMO_SIGNAL_B;
+   up_pid_a := PID_AMMO_SIGNAL_B;
+   up_pid_b := PID_AMMO_SIGNAL_C;
    call NodeRepairSignalAmmo;
 end
 
