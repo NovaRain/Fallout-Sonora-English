@@ -1,1 +1,0 @@
-{102}{}{So, you mutant freak, not so tough now, are ya?!}
