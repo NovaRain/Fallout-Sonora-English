@@ -1,0 +1,17 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookTrap
+
+#define BOOK_TYPE2
+#define BOOK_PID                        PID_BOOK_TRAP
+#define SKILL_1                         SKILL_SNEAK
+#define POINT_1                         (2)
+#define SKILL_2                         SKILL_TRAPS
+#define POINT_2                         (4)
+#define READ_MSG                        (702)
+
+//---------------------
+
+#include ".\TempBook.h"

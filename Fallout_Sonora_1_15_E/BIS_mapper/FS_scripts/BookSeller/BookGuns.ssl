@@ -1,0 +1,17 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookGuns
+
+#define BOOK_TYPE2
+#define BOOK_PID                        PID_BOOK_GUNS
+#define SKILL_1                         SKILL_SMALL_GUNS
+#define POINT_1                         (4)
+#define SKILL_2                         SKILL_BIG_GUNS
+#define POINT_2                         (4)
+#define READ_MSG                        (706)
+
+//---------------------
+
+#include ".\TempBook.h"

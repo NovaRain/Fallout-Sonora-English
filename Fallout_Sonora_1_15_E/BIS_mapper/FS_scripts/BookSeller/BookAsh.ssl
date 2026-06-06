@@ -1,0 +1,292 @@
+#include "..\headers\define.h"
+#include "..\headers\sfall\sfall.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookAsh
+#define TOWN_REP_VAR                    GVAR_TOWN_REP_PHOENIX
+
+#define NUM_TEAM                        TEAM_GHOUL_WILD
+#define NUM_AI                          AI_GUARDS
+#define KILL_SLAVA                      SLAVA_KILL_GOOD
+#define KILL_TOWN_REP                   REP_KILL_GOOD
+#define KILL_FRAC_REP                   FRAC_NON
+
+#define FLAG_STEAL                      60
+#define FLAG_ALCOHOL                    1
+#define FLAG_FOOD                       0
+
+//---------------------
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure critter_p_proc;
+procedure timed_event_p_proc;
+procedure damage_p_proc;
+procedure pickup_p_proc;
+procedure use_obj_on_p_proc;
+procedure use_skill_on_p_proc;
+procedure destroy_p_proc;
+procedure talk_p_proc;
+procedure get_barter_inven;
+procedure put_barter_inven;
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node997;
+procedure Node998;
+procedure Node999;
+
+//---------------------
+
+#define LVAR_Name_Known                 (0)
+#define LVAR_Unused                     (1)
+#define LVAR_Talked                     (2)
+#define LVAR_Inven_Init                 (3)
+
+export variable book_ash;
+
+import variable book_dog;
+
+//---------------------
+
+variable tmp_merch_box;
+//variable merch_slot_1;
+//variable merch_slot_1_flags;
+variable merch_slot_2;
+variable merch_slot_2_flags;
+//variable merch_slot_armor;
+//variable merch_slot_armor_flags;
+
+procedure start begin
+   if (is_loading_game == false) then begin
+      if (local_var(LVAR_Inven_Init) == 0) then begin
+         //add_obj_to_inven(self_obj, create_object_sid(PID_BOOK_SCUT, 0, 0, -1));
+         //add_obj_to_inven(self_obj, create_object_sid(PID_BOOK_UNAR, 0, 0, -1));
+         add_obj_to_inven(self_obj, create_object_sid(PID_W_KNUCKLES_SHOCKER, 0, 0, -1)); // was PID_W_POWER_FIST
+         wield_obj_critter(self_obj, obj_carrying_pid_obj(self_obj, PID_W_KNUCKLES_SHOCKER)); // was PID_W_POWER_FIST
+         set_local_var(LVAR_Inven_Init, 1);
+         add_timer_event(self_obj, random(30, 120), 2);
+      end
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,NUM_TEAM);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,NUM_AI);
+      book_ash := self_obj;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Name_Known) == 0) then begin
+      display_ash_mstr(100);
+   end else begin
+      display_ash_mstr(103);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_ash_mstr(102);
+end
+
+procedure map_enter_p_proc begin
+   rm_fixed_timer_event(self_obj, 2); // flush
+   add_timer_event(self_obj, random(30, 120), 2);
+   book_ash := self_obj;
+end
+
+procedure map_update_p_proc begin
+   book_ash := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (book_ash_attack == 1) then begin
+      if (book_dog_dead == false) then begin
+         floater(self_obj, 998, COLOR_MSG_RED);
+      end
+      attack(dude_obj);
+   end
+
+   if (anim_busy(self_obj) == false) then begin
+      if ((tile_distance_objs(self_obj, dude_obj) < 4) and self_can_see_dude) then begin
+         animate_rotation(rotation_to_tile(tile_num(self_obj), tile_num(dude_obj)));
+      end else begin
+         anim(self_obj, ANIMATE_ROTATION, 2);
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 2) then begin
+      timer_float_reply(500, 506)
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_book_ash_attack;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_book_ash_attack;
+      if (book_dog_dead == false) then begin
+         floater(self_obj, 998, COLOR_MSG_RED);
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   UsedItemToCrit_Proc
+end
+
+procedure use_skill_on_p_proc begin
+   skillUseSteal
+   skillUseFAid
+end
+
+procedure destroy_p_proc begin
+   //move_obj_inven_to_obj(self_obj, tile_contains_pid_obj(20715, 0, 287));
+   set_book_ash_dead;
+   kill_critter_reput
+end
+
+procedure talk_p_proc begin
+   animate_rotation(rotation_to_tile(tile_num(self_obj), tile_num(dude_obj)));
+   //move_obj_inven_to_obj(tile_contains_pid_obj(20715, 0, 287), self_obj);
+   call get_barter_inven;
+   start_gdialog(37, self_obj, 4, -1, -1);
+   gsay_start;
+   if ((obj_item_subtype(inven_hand_R(dude_obj)) == item_type_weapon) or (obj_item_subtype(inven_hand_L(dude_obj)) == item_type_weapon)) then begin
+      call Node000;
+   end else begin
+      call Node001;
+   end
+   gsay_end;
+   end_dialogue;
+   //move_obj_inven_to_obj(self_obj, tile_contains_pid_obj(20715, 0, 287));
+   call put_barter_inven;
+end
+
+procedure get_barter_inven begin
+   variable merch_box := tile_contains_pid_obj(20715, 0, 287);
+   if (merch_box != 0) then begin
+      //merch_slot_1 := critter_inven_obj2(self_obj, INVEN_TYPE_LEFT_HAND);
+      merch_slot_2 := critter_inven_obj2(self_obj, INVEN_TYPE_RIGHT_HAND);
+      //merch_slot_armor := critter_inven_obj(self_obj, INVEN_TYPE_WORN);
+      //if (merch_slot_1 != 0) then begin
+      //   merch_slot_1_flags := get_flags(merch_slot_1);
+      //   set_unique_id(merch_slot_1);
+      //end
+      if (merch_slot_2 != 0) then begin
+         merch_slot_2_flags := get_flags(merch_slot_2);
+         set_unique_id(merch_slot_2);
+      end
+      //if (merch_slot_armor != 0) then begin
+      //   merch_slot_armor_flags := get_flags(merch_slot_armor);
+      //   set_unique_id(merch_slot_armor);
+      //end
+      tmp_merch_box := create_object_sid(224, 0, 0, -1); // wooden box
+      move_obj_inven_to_obj(self_obj, tmp_merch_box);
+      /* This is just for the visuals in dialog interface */
+      if (merch_slot_2 != 0) then begin
+         wield_obj(merch_slot_2);
+      end
+      /* Move the barter inventory to merchant */
+      move_obj_inven_to_obj(merch_box, self_obj);
+   end
+end
+
+procedure put_barter_inven begin
+   variable merch_box := tile_contains_pid_obj(20715, 0, 287);
+   if (merch_box != 0) then begin
+      /* Move the barter inventory back into the trade box */
+      move_obj_inven_to_obj(self_obj, merch_box);
+      /* Now give his inventory back and get rid of the temp box */
+      move_obj_inven_to_obj(tmp_merch_box, self_obj);
+      /* Wield all items as before */
+      //if (merch_slot_1 != 0) then begin
+      //   set_flags(merch_slot_1, merch_slot_1_flags);
+      //   unset_unique_id(merch_slot_1);
+      //end
+      if (merch_slot_2 != 0) then begin
+         set_flags(merch_slot_2, merch_slot_2_flags);
+         unset_unique_id(merch_slot_2);
+      end
+      //if (merch_slot_armor != 0) then begin
+      //   set_flags(merch_slot_armor, merch_slot_armor_flags);
+      //   unset_unique_id(merch_slot_armor);
+      //end
+      destroy_object(tmp_merch_box);
+   end
+end
+
+procedure Node000 begin
+   Reply(200)
+
+   NAnswer(201, 1, Node997)
+   NAnswer(202, 1, Node998)
+   NAnswer(203, 1, Node999)
+end
+
+procedure Node001 begin
+   if (local_var(LVAR_Talked) == 0) then begin
+      Reply(300)
+      set_local_var(LVAR_Name_Known, 1);
+      set_local_var(LVAR_Talked, 1);
+   end else begin
+      Reply(301)
+   end
+   NAnswer(302, 1, Node002)
+   NAnswer(304, 1, Node003)
+   if (book_dog_dead == false) then begin
+      NAnswer(305, 1, Node004)
+   end
+   BAnswer(303, 1, Node998)
+   NAnswer(203, 1, Node999)
+end
+
+procedure Node002 begin
+   gSay_Message(NAME, 400 + random(1, 7), HEAD_REACTION_NEUTRAL);
+   goBarter(80);
+   Reply(400)
+   NAnswer(204, 1, Node001)
+   NAnswer(203, 1, Node999)
+end
+
+procedure Node003 begin
+   if (dude_is_male) then begin
+      Reply(306)
+   end else begin
+      Reply(3006)
+   end
+   NAnswer(302, 1, Node002)
+   BAnswer(202, 1, Node998)
+   NAnswer(203, 1, Node999)
+end
+
+procedure Node004 begin
+   Reply(307)
+   NAnswer(302, 1, Node002)
+   NAnswer(203, 1, Node999)
+end
+
+procedure Node997 begin
+   inven_unwield(dude_obj);
+   call Node001;
+end
+
+procedure Node998 begin
+   set_book_ash_attack;
+   if (book_dog_dead == false) then begin
+      floater(self_obj, 998, COLOR_MSG_RED);
+   end
+end
+
+procedure Node999 begin
+end

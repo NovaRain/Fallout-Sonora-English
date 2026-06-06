@@ -1,0 +1,15 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookScut
+
+#define BOOK_TYPE1
+#define BOOK_PID                        PID_BOOK_SCUT
+#define SKILL_1                         SKILL_SCOUT
+#define POINT_1                         (4)
+#define READ_MSG                        (709)
+
+//---------------------
+
+#include ".\TempBook.h"

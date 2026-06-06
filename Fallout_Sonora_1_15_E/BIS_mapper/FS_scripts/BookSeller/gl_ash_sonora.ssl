@@ -1,0 +1,61 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure box_stock_init(variable box);
+
+
+procedure start begin
+   if (game_loaded) then begin
+      set_global_script_type(0);
+      call map_enter_p_proc;
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable ashley, ashdog, box;
+
+   if ((cur_map_index == MAP_PHOENIX_CENTER) and (book_ash_spawned == 0)) then begin
+      if (tile_contains_obj_pid(20715, 0, 287) == false) then begin // fail-safe for duplication
+         // locker
+         box := create_object_sid(287, 20715, 0, SCRIPT_BookBox);
+         call box_stock_init(box);
+         create_object_sid(PID_HEX_BLOCKING, 20715, 0, -1);
+         create_object_sid(PID_HEX_BLOCKING, 20514, 0, -1);
+         create_object_sid(PID_HEX_BLOCKING, 20516, 0, -1);
+         // Ashley
+         ashley := create_object_sid(PID_ASHLEY, 0, 0, SCRIPT_BookAsh);
+         critter_attempt_placement(ashley, 20515, 0);
+         anim(ashley, ANIMATE_ROTATION, 2);
+         // Ashley's Dog
+         ashdog := create_object_sid(PID_ASHLEY_DOG, 0, 0, SCRIPT_BookDog);
+         critter_attempt_placement(ashdog, 20316, 0);
+         anim(ashdog, ANIMATE_ROTATION, 2);
+      end
+      set_book_ash_spawned;
+   end
+end
+
+// basically the same as restocking procedure in BookBox.ssl
+procedure box_stock_init(variable box) begin
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_TRAP, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_SCIE, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_ENER, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_BART, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_GUNS, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_MEDI, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_REPR, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_SCUT, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_UNAR, 1)
+   if (random(1, 100) <= 75) then item_add(box, PID_BOOK_LOCK, 1)
+   item_add(box, PID_BOOK_OLD, random(1, 4))
+   item_caps_adjust(box, random(300, 500));
+
+   set_self(box);
+   set_self(box);
+   set_local_var(0, (14 * ONE_GAME_DAY) + game_time); // LVAR_Restock_Time
+   set_self(0);
+
+   obj_lock(box);
+end

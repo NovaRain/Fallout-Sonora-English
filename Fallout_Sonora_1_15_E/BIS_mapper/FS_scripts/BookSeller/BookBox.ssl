@@ -1,0 +1,109 @@
+#include "..\headers\define.h"
+#include "..\headers\sfall\lib.math.h"
+#include ".\BookAsh.h"
+#define NAME                            SCRIPT_BookBox
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure unlock_box;
+
+#define LVAR_Restock_Time               (0)
+//#define LVAR_Restock_Time_Fix           (1)
+
+import variable book_ash;
+import variable book_dog;
+
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_ash_mstr(800);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_ash_mstr(801);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      //if ((game_time < 0) and (local_var(LVAR_Restock_Time_Fix) == 0) ) then begin
+      //   set_local_var(LVAR_Restock_Time, game_time - 1);
+      //   set_local_var(LVAR_Restock_Time_Fix, 1);
+      //end
+      //if (local_var(LVAR_Restock_Time) < game_time) then begin
+      if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
+         check_restock_item(PID_BOOK_TRAP, 1, 1, 75)
+         check_restock_item(PID_BOOK_SCIE, 1, 1, 75)
+         check_restock_item(PID_BOOK_ENER, 1, 1, 75)
+         check_restock_item(PID_BOOK_BART, 1, 1, 75)
+         check_restock_item(PID_BOOK_GUNS, 1, 1, 75)
+         check_restock_item(PID_BOOK_MEDI, 1, 1, 75)
+         check_restock_item(PID_BOOK_REPR, 1, 1, 75)
+         check_restock_item(PID_BOOK_SCUT, 1, 1, 75)
+         check_restock_item(PID_BOOK_UNAR, 1, 1, 75)
+         check_restock_item(PID_BOOK_LOCK, 1, 1, 75)
+         check_restock_item(PID_BOOK_OLD, 1, 4, 80)
+         check_restock_many(300, 500)
+
+         set_local_var(LVAR_Restock_Time, (14 * ONE_GAME_DAY) + game_time);
+      end
+      if (book_ash_dead == false) then begin
+         if (obj_is_open(self_obj)) then obj_close(self_obj);
+         obj_lock(self_obj);
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if ((action_being_used == SKILL_STEAL) and obj_is_locked(self_obj)) then begin
+      if (book_ash_dead == false) then begin
+         float_msg(book_ash, ash_mstr(804), 4); // blue
+      end
+      display_ash_mstr(802);
+   end
+   if ((action_being_used == SKILL_SCIENCE) and obj_is_locked(self_obj)) then begin
+      script_overrides;
+      display_ash_mstr(801);
+      display_ash_mstr(802);
+   end
+   if ((action_being_used == SKILL_LOCKPICK) and obj_is_locked(self_obj)) then begin
+      if (has_skill(dude_obj, SKILL_LOCKPICK) >= (140 - (dude_luck * random(0, 4)))) then begin
+         call unlock_box;
+      end else begin
+         if (book_ash_dead == false) then begin
+            float_msg(book_ash, ash_mstr(803), 4); // blue
+         end
+         display_ash_mstr(802);
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         call unlock_box;
+      end
+   end
+end
+
+procedure unlock_box begin
+   if (book_ash_dead == false) then begin
+      if ((obj_can_see_obj(book_ash, dude_obj) == true) or (obj_can_hear_obj(book_ash, dude_obj) == true))
+         and (visible(book_ash) == true) then
+      begin
+         set_book_ash_attack;
+         if (book_dog_dead == false) then begin
+            float_msg(book_ash, ash_mstr(998), COLOR_MSG_RED);
+         end
+      end
+   end
+   obj_unlock(self_obj);
+   display_ash_mstr(805);
+end

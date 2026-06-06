@@ -1,0 +1,70 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookDog
+#define NUM_TEAM                        TEAM_GHOUL_WILD
+#define NUM_AI                          AI_DOG
+
+//---------------------
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure damage_p_proc;
+procedure destroy_p_proc;
+
+export variable book_dog;
+
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,NUM_TEAM);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,NUM_AI);
+   book_dog := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   book_dog := self_obj;
+end
+
+procedure map_update_p_proc begin
+   book_dog := self_obj;
+
+   if (book_ash_dead == true) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(101);
+end
+
+procedure talk_p_proc begin
+   floater(self_obj, 102, COLOR_MSG_RED);
+end
+
+procedure critter_p_proc begin
+   if (book_ash_attack == true) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_book_ash_attack;
+   end
+end
+
+procedure destroy_p_proc begin
+   set_book_dog_dead;
+end

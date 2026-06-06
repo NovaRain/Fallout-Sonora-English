@@ -1,0 +1,17 @@
+#include "..\headers\define.h"
+#include ".\BookAsh.h"
+//---------------------
+
+#define NAME                            SCRIPT_BookBart
+
+#define BOOK_TYPE2
+#define BOOK_PID                        PID_BOOK_BART
+#define SKILL_1                         SKILL_CONVERSANT
+#define POINT_1                         (2)
+#define SKILL_2                         SKILL_BARTER
+#define POINT_2                         (4)
+#define READ_MSG                        (705)
+
+//---------------------
+
+#include ".\TempBook.h"
