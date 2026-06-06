@@ -9,6 +9,11 @@
 
 [Changes marked with an asterisk may not apply to saves from previous versions.]
 
+Version 1.16.4e (June 6, 2026) ------------------------------------------------
+
+- Fixed the subtitle text color for the intro video with the announcer (credits.mve).
+- Added Foxx's Bookseller mod as an optional component, disabled by default.
+
 Version 1.16.3e (May 11, 2026) ------------------------------------------------
 - Garage City: Pete can now properly upgrade modified flare rounds.
 - Phoenix: Fixed the skill increment calculation for improving tagged Big Guns and Energy Weapons skills at the weapons dealer.
