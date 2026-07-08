@@ -139,6 +139,7 @@ procedure setBarterA begin
 
         check_restock_item(PID_AMMO_TANK, 6, 10, 100)
            check_restock_item(PID_AMMO_22_LR, 16, 20, 100) // в пачке 5 патронов
+           check_restock_item(PID_AMMO_50_AE, 5, 5, 100)
         check_restock_item(PID_W_SMG_22, 1, 1, 100)
            check_restock_item(PID_AMMO_44_MAGNUM, 4, 5, 100)
         check_restock_item(PID_W_REVOLVER_OLD, 1, 1, 100)
@@ -162,7 +163,8 @@ end
 procedure setBarterB begin
         check_restock_item(PID_W_KNUCKLES_PNEUMATIC, 1, 1, 100)
         check_restock_item(PID_W_GRENADE_PLASMA, 4, 4, 100)
-           check_restock_item(PID_AMMO_50_AE, 4, 4, 100)
+           check_restock_item(PID_AMMO_40_MM, 5, 10, 100)
+        check_restock_item(PID_W_LAUNCHER, 1, 1, 100)
         check_restock_item(PID_W_PISTOL_50, 1, 1, 100)
            check_restock_item(PID_AMMO_SHOTGUN_SHELLS_BULLET, 3, 4, 100)
         check_restock_item(PID_W_SHOTGUN_COMBAT, 1, 1, 100)
