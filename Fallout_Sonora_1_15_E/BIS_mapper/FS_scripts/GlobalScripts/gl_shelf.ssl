@@ -39,6 +39,10 @@ procedure InventoryMove_handler begin
       reg_anim_clear(dude_obj);
       scenery_hex := tile_num_in_direction(tile_num(item), 5, 2);
       scenery_ptr := tile_contains_pid_obj(scenery_hex, dude_elevation, pid - 1); // actual bookshelf PID
-      if (scenery_ptr > 0) then call_offset_v2(0x412134, dude_obj, scenery_ptr); // action_get_an_object
+      if (scenery_ptr > 0) then begin
+         set_self(dude_obj);
+         pickup_obj(scenery_ptr);
+         set_self(0);
+      end
    end
 end
